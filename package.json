@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/inun2802/comic-discovery-api/issues"
   },
-  "homepage": "https://github.com/inun2802/comic-discovery-api#readme"
+  "homepage": "https://github.com/inun2802/comic-discovery-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
