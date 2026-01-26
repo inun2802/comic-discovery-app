@@ -1,0 +1,20 @@
+{
+  "name": "comic-discovery-api",
+  "version": "1.0.0",
+  "description": "A library of comic books from Marvel, DC, Image, and Dark Horse. Used for the sole purpose of allowing new and existing comic book related nerds to delve into the characters, stories, and overall universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inun2802/comic-discovery-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inun2802/comic-discovery-api/issues"
+  },
+  "homepage": "https://github.com/inun2802/comic-discovery-api#readme"
+}
