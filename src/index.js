@@ -1,5 +1,6 @@
 import express from "express";
 import { prisma } from "./prisma.js";
+import charactersRoutes from "./routes/characters.routes.js";
 
 const app = express();
 app.use(express.json());
@@ -15,92 +16,13 @@ app.get("/health", (req, res) => {
   res.status(200).json({ ok: true, message: "Comic Discovery API is running" });
 });
 
-app.get("/api/characters", async (req, res, next) => {
-  try {
-    const characters = await prisma.character.findMany();
-    res.json(characters);
-  } catch (err) {
-    next(err);
-  }
-});
-
-app.get("/api/characters/:id", async (req, res) => {
-  try {
-    const character = await prisma.character.findUnique({
-      where: { id: req.params.id },
-      include: {
-        publisher: true,
-        jumpingOff: {
-          orderBy: { order: "asc" },
-        },
-        issueLinks: {
-          include: {
-            issue: {
-              include: {
-                series: true,
-              },
-            },
-          },
-        },
-      },
-    });
-
-    if (!character) {
-      return res.status(404).json({ error: "Character not found" });
-    }
-
-    res.json(character);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-app.get("/api/characters/:id/jumping-points", async (req, res) => {
-  try {
-    const points = await prisma.jumpingOffPoint.findMany({
-      where: {
-        characterId: req.params.id,
-      },
-      orderBy: {
-        order: "asc",
-      },
-    });
-
-    res.json(points);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-app.get("/api/characters/:id/issues", async (req, res) => {
-  try {
-    const links = await prisma.issueCharacter.findMany({
-      where: {
-        characterId: req.params.id,
-      },
-      include: {
-        issue: {
-          include: {
-            series: true,
-          },
-        },
-      },
-    });
-
-    res.json(links);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: error.message });
-  }
-});
+// Character routes
+app.use("/api/characters", charactersRoutes);
 
 app.get("/api/seed-more", async (req, res) => {
   try {
     const now = new Date();
 
-    // 1. Series
     const series = await prisma.series.upsert({
       where: {
         publisherId_title: {
@@ -119,7 +41,6 @@ app.get("/api/seed-more", async (req, res) => {
       },
     });
 
-    // 2. Issue
     const issue = await prisma.issue.create({
       data: {
         id: "asm-1",
@@ -131,7 +52,6 @@ app.get("/api/seed-more", async (req, res) => {
       },
     });
 
-    // 3. Link character to issue
     await prisma.issueCharacter.create({
       data: {
         issueId: issue.id,
@@ -140,7 +60,6 @@ app.get("/api/seed-more", async (req, res) => {
       },
     });
 
-    // 4. Jumping Off Point
     const jumping = await prisma.jumpingOffPoint.create({
       data: {
         id: "spiderman-jop-1",
@@ -235,33 +154,6 @@ app.post("/api/publishers", async (req, res) => {
     });
 
     res.status(201).json(publisher);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: error.message });
-  }
-});
-
-app.post("/api/characters", async (req, res) => {
-  try {
-    const { id, name, description, publisherId } = req.body;
-
-    if (!id || !name || !publisherId) {
-      return res.status(400).json({
-        error: "id, name, and publisherId are required",
-      });
-    }
-
-    const character = await prisma.character.create({
-      data: {
-        id,
-        name,
-        description: description || null,
-        publisherId,
-        updatedAt: new Date(),
-      },
-    });
-
-    res.status(201).json(character);
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: error.message });
