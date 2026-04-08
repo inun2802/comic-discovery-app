@@ -1,6 +1,6 @@
 # Comic Discovery API
 
-A library of comic books from Marvel, DC, Image, and Dark Horse. Used for the sole purpose of allowing new and existing comic book related nerds to delve into the characters, stories, and overall universe of their respective characters.
+A library of comic books from Marvel, DC, Image, and Dark Horse. Used for the sole purpose of allowing new and existing comic book related nerds to delve into the characters, stories, and overall universe.
 
 The first version of this project includes:
 
