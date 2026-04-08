@@ -87,6 +87,10 @@ async function main() {
         issueNumber: issue.issueNumber ?? null,
         title: issue.title ?? null,
         releaseDate: issue.releaseDate ? new Date(issue.releaseDate) : null,
+        universe: issue.universe ?? "main",
+        isFirstAppearance: issue.isFirstAppearance ?? false,
+        isMajorCrossover: issue.isMajorCrossover ?? false,
+        isKeyIssue: issue.isKeyIssue ?? false,
         updatedAt: now,
       },
       create: {
@@ -95,6 +99,10 @@ async function main() {
         issueNumber: issue.issueNumber ?? null,
         title: issue.title ?? null,
         releaseDate: issue.releaseDate ? new Date(issue.releaseDate) : null,
+        universe: issue.universe ?? "main",
+        isFirstAppearance: issue.isFirstAppearance ?? false,
+        isMajorCrossover: issue.isMajorCrossover ?? false,
+        isKeyIssue: issue.isKeyIssue ?? false,
         updatedAt: now,
       },
     });

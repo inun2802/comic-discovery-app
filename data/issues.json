@@ -4,27 +4,43 @@
         "seriesId": "asm",
         "issueNumber": "1",
         "title": "Spider-Man / Spider-Man Vs. the Chameleon",
-        "releaseDate": "1963-03-01"
+        "releaseDate": "1963-03-01",
+        "universe": "main",
+        "isFirstAppearance": true,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
     },
     {
         "id": "batman-year-one-1",
         "seriesId": "batman-year-one",
         "issueNumber": "1",
         "title": "Batman: Year One Part 1",
-        "releaseDate": "1987-02-01"
+        "releaseDate": "1987-02-01",
+        "universe": "main",
+        "isFirstAppearance": false,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
     },
     {
         "id": "invincible-1",
         "seriesId": "invincible-series",
         "issueNumber": "1",
         "title": "Invincible #1",
-        "releaseDate": "2003-01-22"
+        "releaseDate": "2003-01-22",
+        "universe": "main",
+        "isFirstAppearance": true,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
     },
     {
         "id": "hellboy-1",
         "seriesId": "hellboy-series",
         "issueNumber": "1",
         "title": "Hellboy: Seed of Destruction #1",
-        "releaseDate": "1994-03-01"
+        "releaseDate": "1994-03-01",
+        "universe": "main",
+        "isFirstAppearance": true,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
     }
 ]

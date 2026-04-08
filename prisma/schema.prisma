@@ -52,6 +52,13 @@ model Issue {
   issueNumber     String?
   title           String?
   releaseDate     DateTime?
+  
+  universe          String? // "main", "ultimate", "absolute"
+  isFirstAppearance Boolean        @default(false)
+  isMajorCrossover  Boolean        @default(false)
+  isKeyIssue        Boolean        @default(false)
+
+
   createdAt       DateTime         @default(now())
   updatedAt       DateTime         @updatedAt
 
@@ -64,7 +71,7 @@ model Issue {
 model IssueCharacter {
   issueId     String
   characterId String
-  role        String?
+  role        String?   // "main", "supporting", "villian"
 
   issue       Issue     @relation(fields: [issueId], references: [id])
   character   Character @relation(fields: [characterId], references: [id])
