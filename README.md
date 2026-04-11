@@ -5,10 +5,11 @@ A library of comic books from Marvel, DC, Image, and Dark Horse. Used for the so
 The first version of this project includes:
 
 - List comic book characters from Marvel, DC, Image, and Dark Horse
+- Provide their comic book issues dating back to their original appearance
 - Provide curated "jumping-off points" for characters
 - Show different depictions/iterations of a character (by era or creator)
 - Present connected story arcs and crossovers as ordered reading lists
-- Highlight alternate universes (Elseworlds, Ultimate, Absolute, What If)
+- Highlight alternate universes (Ultimate, Absolute, What If, Elseworlds)
 
 # Planned Tech Stack 
 
