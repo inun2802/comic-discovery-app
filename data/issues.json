@@ -1,12 +1,23 @@
 [
     {
+        "id": "asm-0",
+        "seriesId": "amf",
+        "issueNumber": "15",
+        "title": "Amazing Fantasy: Introducing Spider-Man",
+        "releaseDate": "1962-06-01",
+        "universe": "main",
+        "isFirstAppearance": true,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
         "id": "asm-1",
         "seriesId": "asm",
         "issueNumber": "1",
         "title": "Spider-Man / Spider-Man Vs. the Chameleon",
         "releaseDate": "1963-03-01",
         "universe": "main",
-        "isFirstAppearance": true,
+        "isFirstAppearance": false,
         "isMajorCrossover": false,
         "isKeyIssue": true
     },

@@ -2,9 +2,58 @@
     {
         "id": "spiderman",
         "name": "Spider-Man",
-        "description": "Your Friendly neighborhood Spider-Man",
+        "description": "Peter Parker, Your Friendly neighborhood Spider-Man",
         "publisherId": "marvel"
     },
+    {
+        "id": "mary-jane-watson",
+        "name": "Mary Jane Watson",
+        "description": "Spider-Man/Peter Parker's long-time love interest",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gwen-stacy",
+        "name": "Gwen Stacy",
+        "description": "The late love interest of Spider-Man/Peter Parker",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "harry-osborn",
+        "name": "Harry Osborn",
+        "description": "Peter Parker's best friend",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "aunt-may",
+        "name": "Aunt May",
+        "description": "Peter Parker's loving aunt",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "uncle-ben",
+        "name": "Uncle Ben",
+        "description": "Peter Parker's late uncle",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "j-j-jameson",
+        "name": "J. Jonah Jameson",
+        "description": "The editor-in-chief of the Daily Bugle",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "norman-osborn",
+        "name": "Norman Osborn",
+        "description": "The Green Goblin, one of Spider-Man's greatest foes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-cat",
+        "name": "Black Cat",
+        "description": "The Black Cat, one of Spider-Man's most puzzling love interests",
+        "publisherId": "marvel"
+    },
+
     {
         "id": "batman",
         "name": "Batman",
