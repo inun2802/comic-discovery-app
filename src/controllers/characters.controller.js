@@ -285,6 +285,14 @@ export async function getCharacterReadingOrder(req, res) {
         issue: {
           include: {
             series: true,
+            characterLinks: {
+              where: {
+                isFirstAppearance: true,
+              },
+              include: {
+                character: true,
+              },
+            },
           },
         },
       },
@@ -296,7 +304,6 @@ export async function getCharacterReadingOrder(req, res) {
     });
 
     const issues = links.map((link) => link.issue);
-
     res.json(issues);
   } catch (error) {
     console.error(error);

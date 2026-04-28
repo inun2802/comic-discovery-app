@@ -691,9 +691,13 @@ function renderCharCard(ch) {
 
 function renderIssueBadges(issue) {
   let b = '';
-  if (issue.isFirstAppearance) b += `<span class="badge badge-first">First appearance</span>`;
-  if (issue.isKeyIssue)        b += `<span class="badge badge-key">Key issue</span>`;
-  if (issue.isMajorCrossover)  b += `<span class="badge badge-cross">Crossover</span>`;
+  const firstAppearances = (issue.characterLinks || []).filter(l => l.isFirstAppearance);
+  if (firstAppearances.length) {
+    const names = firstAppearances.map(l => l.character.name).join(', ');
+    b += `<span class="badge badge-first">First appearance: ${names}</span>`;
+  }
+  if (issue.isKeyIssue)       b += `<span class="badge badge-key">Key issue</span>`;
+  if (issue.isMajorCrossover) b += `<span class="badge badge-cross">Crossover</span>`;
   return b ? `<div class="issue-badges">${b}</div>` : '';
 }
 
