@@ -48,6 +48,12 @@
         "publisherId": "marvel"
     },
     {
+        "id": "crusher-hogan",
+        "name": "Crusher Hogan",
+        "description": "The wrestler that",
+        "publisherId": "marvel"
+    },
+    {
         "id": "j-j-jameson",
         "name": "J. Jonah Jameson",
         "description": "The editor-in-chief of the Daily Bugle",
