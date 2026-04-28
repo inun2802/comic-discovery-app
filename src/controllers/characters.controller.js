@@ -176,9 +176,7 @@ export async function getCharacterFirstAppearances(req, res) {
     const links = await prisma.issueCharacter.findMany({
       where: {
         characterId: req.params.id,
-        issue: {
-          isFirstAppearance: true,
-        },
+        isFirstAppearance: true,
       },
       include: {
         issue: {

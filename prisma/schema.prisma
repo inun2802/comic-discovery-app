@@ -75,6 +75,7 @@ model IssueCharacter {
 
   issue       Issue     @relation(fields: [issueId], references: [id])
   character   Character @relation(fields: [characterId], references: [id])
+  isFirstAppearance Boolean        @default(false)
 
   @@id([issueId, characterId])
 }
