@@ -4,8 +4,10 @@ import charactersRoutes from "./routes/characters.routes.js";
 import publishersRoutes from "./routes/publishers.routes.js";
 import issuesRoutes from "./routes/issues.routes.js";
 import seriesRoutes from "./routes/series.routes.js";
+import cors from "cors";
 
 const app = express();
+app.use(cors());
 app.use(express.json());
 const PORT = process.env.PORT || 3000;
 
