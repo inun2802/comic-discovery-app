@@ -24,3 +24,13 @@ export async function createPublisher(req, res) {
     res.status(500).json({ error: error.message });
   }
 }
+
+export async function getAllPublishers(req, res) {
+  try {
+    const publishers = await prisma.publisher.findMany();
+    res.json(publishers);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: error.message });
+  }
+}

@@ -1,8 +1,9 @@
 import express from "express";
-import { createPublisher } from "../controllers/publishers.controller.js";
+import { getAllPublishers, createPublisher } from "../controllers/publishers.controller.js";
 
 const router = express.Router();
 
+router.get("/", getAllPublishers);
 router.post("/", createPublisher);
 
 export default router;

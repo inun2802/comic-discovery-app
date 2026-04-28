@@ -2,7 +2,11 @@ import { prisma } from "../prisma.js";
 
 export async function getAllCharacters(req, res) {
   try {
-    const characters = await prisma.character.findMany();
+    const characters = await prisma.character.findMany({
+      include: {
+        publisher: true,
+      },
+    });
     res.json(characters);
   } catch (error) {
     console.error(error);
