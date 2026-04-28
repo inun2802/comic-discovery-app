@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ComicDisc — Comic Discovery</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --ink: #111010;
+    --ink-muted: #5a5856;
+    --ink-faint: #9c9894;
+    --paper: #faf9f7;
+    --paper-warm: #f3f1ec;
+    --paper-mid: #e8e5de;
+    --rule: #dedad2;
+    --accent: #2d1f7a;
+    --accent-light: #eeecfb;
+    --accent-text: #1a1250;
+    --success: #0f6e56;
+    --success-light: #e1f5ee;
+    --danger: #993c1d;
+    --danger-light: #faece7;
+    --info: #185fa5;
+    --info-light: #e6f1fb;
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-body: 'DM Sans', system-ui, sans-serif;
+    --font-mono: 'DM Mono', monospace;
+    --r-sm: 6px;
+    --r-md: 10px;
+    --r-lg: 14px;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: var(--font-body);
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── NAV ── */
+  .nav {
+    position: sticky; top: 0; z-index: 200;
+    background: var(--paper);
+    border-bottom: 1px solid var(--rule);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 2rem;
+    height: 56px;
+  }
+  .nav-logo {
+    font-family: var(--font-display);
+    font-size: 20px; font-weight: 700;
+    color: var(--ink); text-decoration: none;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .nav-logo span { color: var(--accent); }
+  .nav-links {
+    display: flex; gap: 0; list-style: none;
+  }
+  .nav-links a {
+    display: block; padding: 8px 14px;
+    font-size: 13px; color: var(--ink-muted);
+    text-decoration: none; border-radius: var(--r-sm);
+    transition: color 0.15s, background 0.15s;
+  }
+  .nav-links a:hover, .nav-links a.active {
+    color: var(--ink);
+    background: var(--paper-warm);
+  }
+  .nav-links a.active { color: var(--accent); font-weight: 500; }
+
+  /* ── VIEWS ── */
+  .view { display: none; }
+  .view.active { display: block; }
+
+  /* ── HERO ── */
+  .hero {
+    padding: 5rem 2rem 4rem;
+    border-bottom: 1px solid var(--rule);
+    position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      repeating-linear-gradient(
+        90deg,
+        transparent,
+        transparent 79px,
+        var(--rule) 79px,
+        var(--rule) 80px
+      ),
+      repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 79px,
+        var(--paper-mid) 79px,
+        var(--paper-mid) 80px
+      );
+    opacity: 0.35;
+    pointer-events: none;
+  }
+  .hero-inner { position: relative; max-width: 800px; }
+  .hero-kicker {
+    display: inline-block;
+    font-size: 11px; font-weight: 500;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 1rem;
+    border: 1px solid var(--accent-light);
+    background: var(--accent-light);
+    padding: 3px 10px; border-radius: 999px;
+  }
+  .hero-headline {
+    font-family: var(--font-display);
+    font-size: clamp(2.6rem, 6vw, 4.2rem);
+    font-weight: 700;
+    line-height: 1.06;
+    color: var(--ink);
+    margin-bottom: 1.25rem;
+  }
+  .hero-headline em {
+    font-style: italic; color: var(--accent);
+  }
+  .hero-sub {
+    font-size: 16px; color: var(--ink-muted);
+    max-width: 480px; margin-bottom: 2.5rem;
+    font-weight: 300;
+  }
+  .hero-cta {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+  }
+
+  /* ── BUTTONS ── */
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 9px 20px; font-size: 14px;
+    font-family: var(--font-body); font-weight: 500;
+    border-radius: var(--r-md); cursor: pointer;
+    transition: all 0.15s; text-decoration: none;
+    border: 1px solid transparent;
+  }
+  .btn-primary { background: var(--accent); color: white; }
+  .btn-primary:hover { background: var(--accent-text); }
+  .btn-outline {
+    background: transparent; color: var(--ink-muted);
+    border-color: var(--rule);
+  }
+  .btn-outline:hover { color: var(--ink); border-color: var(--ink-faint); background: var(--paper-warm); }
+
+  /* ── SEARCH ── */
+  .search-wrap {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper-warm);
+  }
+  .search-row { display: flex; gap: 8px; max-width: 540px; }
+  .search-input {
+    flex: 1; padding: 9px 14px;
+    border: 1px solid var(--rule);
+    border-radius: var(--r-md);
+    background: var(--paper);
+    color: var(--ink); font-size: 14px;
+    font-family: var(--font-body);
+    transition: border-color 0.15s;
+  }
+  .search-input:focus { outline: none; border-color: var(--accent); }
+  .search-input::placeholder { color: var(--ink-faint); }
+
+  /* ── STATS ── */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-bottom: 1px solid var(--rule);
+  }
+  .stat-cell {
+    padding: 1.25rem 2rem;
+    border-right: 1px solid var(--rule);
+  }
+  .stat-cell:last-child { border-right: none; }
+  .stat-num {
+    font-family: var(--font-display);
+    font-size: 2rem; font-weight: 700;
+    color: var(--ink); line-height: 1;
+  }
+  .stat-label {
+    font-size: 12px; color: var(--ink-faint);
+    text-transform: uppercase; letter-spacing: 0.08em;
+    margin-top: 4px;
+  }
+
+  /* ── SECTION ── */
+  .section { padding: 2.5rem 2rem; }
+  .section-header {
+    display: flex; align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+  }
+  .section-title {
+    font-size: 13px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--ink-muted);
+  }
+  .section-more {
+    font-size: 13px; color: var(--accent);
+    text-decoration: none;
+  }
+  .section-more:hover { text-decoration: underline; }
+  .section + .section { border-top: 1px solid var(--rule); }
+
+  /* ── CHARACTER CARDS ── */
+  .chars-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 10px;
+  }
+  .char-card {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-lg);
+    padding: 1.25rem;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+    text-decoration: none; color: inherit;
+  }
+  .char-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(45,31,122,0.08);
+  }
+  .char-avatar {
+    width: 42px; height: 42px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 500;
+    margin-bottom: 0.75rem;
+    flex-shrink: 0;
+  }
+  .char-name { font-size: 14px; font-weight: 500; margin-bottom: 2px; }
+  .char-publisher { font-size: 12px; color: var(--ink-faint); }
+  .char-pill {
+    display: inline-block; margin-top: 10px;
+    font-size: 10px; font-weight: 500;
+    padding: 2px 8px; border-radius: 999px;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+
+  /* ── ISSUE ROWS ── */
+  .issue-list { display: flex; flex-direction: column; gap: 6px; }
+  .issue-row {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-md);
+    padding: 0.9rem 1.25rem;
+    display: flex; align-items: center; gap: 1rem;
+    cursor: default;
+    transition: border-color 0.15s;
+  }
+  .issue-row:hover { border-color: var(--rule); }
+  .issue-meta {
+    font-size: 11px; color: var(--ink-faint);
+    font-family: var(--font-mono);
+    min-width: 80px; flex-shrink: 0;
+  }
+  .issue-body { flex: 1; min-width: 0; }
+  .issue-title { font-size: 14px; font-weight: 500; }
+  .issue-series { font-size: 12px; color: var(--ink-muted); margin-top: 1px; }
+  .issue-badges { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; }
+  .badge {
+    display: inline-block; font-size: 10px;
+    padding: 2px 7px; border-radius: 4px;
+    font-weight: 500; letter-spacing: 0.02em;
+  }
+  .badge-key   { background: var(--accent-light); color: var(--accent-text); }
+  .badge-first { background: var(--success-light); color: var(--success); }
+  .badge-cross { background: var(--danger-light); color: var(--danger); }
+
+  /* ── CHAR DETAIL ── */
+  .char-detail-header {
+    display: flex; align-items: flex-start; gap: 20px;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 2rem;
+  }
+  .char-detail-avatar {
+    width: 64px; height: 64px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--font-display);
+    font-size: 22px; font-weight: 700; flex-shrink: 0;
+  }
+  .char-detail-name {
+    font-family: var(--font-display);
+    font-size: 2rem; font-weight: 700; line-height: 1.1;
+  }
+  .char-detail-sub { font-size: 14px; color: var(--ink-muted); margin-top: 4px; }
+
+  /* ── TABS ── */
+  .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--rule); margin-bottom: 1.5rem; }
+  .tab {
+    padding: 8px 16px; font-size: 13px; font-weight: 400;
+    color: var(--ink-muted);
+    background: none; border: none; border-bottom: 2px solid transparent;
+    cursor: pointer; font-family: var(--font-body);
+    transition: all 0.15s; margin-bottom: -1px;
+  }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 500; }
+  .tab:hover:not(.active) { color: var(--ink); }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* ── READING ORDER ── */
+  .ro-list { display: flex; flex-direction: column; }
+  .ro-item {
+    display: flex; gap: 1.5rem; align-items: flex-start;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .ro-item:last-child { border-bottom: none; }
+  .ro-n {
+    font-family: var(--font-display);
+    font-size: 2rem; font-weight: 700; color: var(--rule);
+    min-width: 2.5rem; line-height: 1.1; flex-shrink: 0;
+    padding-top: 2px;
+  }
+  .ro-info { flex: 1; }
+  .ro-title { font-size: 14px; font-weight: 500; }
+  .ro-sub { font-size: 12px; color: var(--ink-muted); margin-top: 2px; }
+  .ro-role {
+    font-size: 10px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 2px 8px; border-radius: 999px; flex-shrink: 0;
+    margin-top: 4px;
+  }
+  .role-main    { background: var(--accent-light); color: var(--accent-text); }
+  .role-villain { background: var(--danger-light); color: var(--danger); }
+  .role-supporting { background: var(--success-light); color: var(--success); }
+  .role-guest   { background: var(--paper-warm); color: var(--ink-muted); border: 1px solid var(--rule); }
+
+  /* ── JUMPING OFF ── */
+  .jp-card {
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    border-radius: var(--r-md);
+    padding: 1rem 1.25rem;
+    margin-bottom: 8px;
+  }
+  .jp-tier {
+    font-size: 10px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--accent); margin-bottom: 4px;
+  }
+  .jp-title { font-size: 14px; font-weight: 500; }
+  .jp-blurb { font-size: 13px; color: var(--ink-muted); margin-top: 4px; }
+
+  /* ── SUPPORTING CAST ── */
+  .cast-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 8px;
+  }
+  .cast-card {
+    background: var(--paper-warm);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-md);
+    padding: 0.75rem 1rem;
+    display: flex; align-items: center; gap: 10px;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  .cast-card:hover { border-color: var(--accent); }
+  .cast-avatar {
+    width: 32px; height: 32px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; font-weight: 500; flex-shrink: 0;
+  }
+  .cast-name { font-size: 13px; font-weight: 500; }
+
+  /* ── API PAGE ── */
+  .api-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  @media (max-width: 640px) { .api-grid { grid-template-columns: 1fr; } }
+  .api-card {
+    background: var(--paper-warm);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-lg);
+    padding: 1.25rem;
+  }
+  .api-card-title { font-size: 13px; font-weight: 500; margin-bottom: 12px; }
+  .api-endpoint {
+    font-family: var(--font-mono); font-size: 12px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-sm);
+    padding: 6px 10px;
+    margin-bottom: 4px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .api-method {
+    font-size: 10px; font-weight: 500;
+    padding: 2px 5px; border-radius: 3px;
+    background: var(--success-light); color: var(--success);
+    flex-shrink: 0;
+  }
+
+  /* ── LOADING / ERROR ── */
+  .loading {
+    padding: 3rem; text-align: center;
+    color: var(--ink-faint); font-size: 14px;
+  }
+  .error-banner {
+    background: var(--danger-light); color: var(--danger);
+    border: 1px solid #f0997b; border-radius: var(--r-md);
+    padding: 1rem 1.25rem; margin-bottom: 1rem;
+    font-size: 14px;
+  }
+  .back-link {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 13px; color: var(--ink-muted);
+    cursor: pointer; margin-bottom: 1.5rem;
+    background: none; border: none; font-family: var(--font-body);
+    padding: 0;
+  }
+  .back-link:hover { color: var(--accent); }
+
+  /* ── READING GUIDE PAGE ── */
+  .rg-char-block { margin-bottom: 2.5rem; }
+  .rg-char-header {
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 1rem;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--rule);
+    padding: 1.5rem 2rem;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .footer-brand {
+    font-family: var(--font-display);
+    font-size: 15px; font-weight: 700; color: var(--ink);
+  }
+  .footer-brand span { color: var(--accent); }
+  .footer-meta { font-size: 12px; color: var(--ink-faint); }
+
+  /* ── UTILITIES ── */
+  .empty { color: var(--ink-faint); font-size: 14px; padding: 2rem 0; }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a class="nav-logo" href="#" onclick="showView('home')">Comic<span>Disc</span></a>
+  <ul class="nav-links">
+    <li><a href="#" id="nav-browse" onclick="showView('browse')">Browse</a></li>
+    <li><a href="#" id="nav-guides" onclick="showView('guides')">Reading Guides</a></li>
+    <li><a href="#" id="nav-api"    onclick="showView('apiref')">API</a></li>
+  </ul>
+</nav>
+
+<!-- ─── HOME ─── -->
+<div class="view active" id="view-home">
+  <div class="hero">
+    <div class="hero-inner">
+      <span class="hero-kicker">Comic Discovery</span>
+      <h1 class="hero-headline">Know exactly <em>what</em><br>to read next.</h1>
+      <p class="hero-sub">A structured, searchable library turning comic book history into a curated reading experience — built for fans, not archivists.</p>
+      <div class="hero-cta">
+        <button class="btn btn-primary" onclick="showView('browse')">Browse characters</button>
+        <button class="btn btn-outline" onclick="showView('guides')">Reading guides</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="search-wrap">
+    <div class="search-row">
+      <input class="search-input" id="home-search" type="text" placeholder="Search characters…" onkeydown="if(event.key==='Enter')doSearch('home-search')">
+      <button class="btn btn-primary" onclick="doSearch('home-search')">Search</button>
+    </div>
+  </div>
+
+  <div class="stats-row" id="stats-row">
+    <div class="stat-cell"><div class="stat-num" id="stat-chars">—</div><div class="stat-label">Characters</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-publishers">—</div><div class="stat-label">Publishers</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-series">—</div><div class="stat-label">Series</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-issues">—</div><div class="stat-label">Issues</div></div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">Featured characters</span>
+      <a class="section-more" href="#" onclick="showView('browse')">See all →</a>
+    </div>
+    <div class="chars-grid" id="home-chars"><div class="loading">Loading…</div></div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">Recent key issues</span>
+    </div>
+    <div class="issue-list" id="home-issues"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+
+<!-- ─── BROWSE ─── -->
+<div class="view" id="view-browse">
+  <div class="search-wrap">
+    <div class="search-row">
+      <input class="search-input" id="browse-search" type="text" placeholder="Filter characters…" oninput="filterChars(this.value)">
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">All characters</span>
+    </div>
+    <div class="chars-grid" id="browse-chars"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+
+<!-- ─── CHARACTER DETAIL ─── -->
+<div class="view" id="view-character">
+  <div class="section">
+    <button class="back-link" onclick="goBack()">← Back</button>
+    <div id="char-detail-content"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+
+<!-- ─── READING GUIDES ─── -->
+<div class="view" id="view-guides">
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">Reading guides</span>
+    </div>
+    <p style="font-size:14px;color:var(--ink-muted);margin-bottom:2rem;max-width:520px">Curated jumping-off points for every character in the library — from absolute beginners to essential runs.</p>
+    <div id="guides-content"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+
+<!-- ─── API REFERENCE ─── -->
+<div class="view" id="view-apiref">
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">API reference</span>
+    </div>
+    <p style="font-size:14px;color:var(--ink-muted);margin-bottom:2rem;max-width:540px">
+      The Comic Discovery API runs on <code style="font-family:var(--font-mono);font-size:13px;background:var(--paper-warm);padding:1px 6px;border-radius:4px">localhost:3000</code>.
+      Built with Node.js, Express, PostgreSQL, and Prisma ORM.
+    </p>
+    <div class="api-grid">
+      <div class="api-card">
+        <div class="api-card-title">Characters</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/issues</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/key-issues</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/first-appearances</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/major-crossovers</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/supporting-cast</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/reading-order</div>
+        <div class="api-endpoint"><span class="api-method">GET</span>/api/characters/:id/jumping-points</div>
+      </div>
+      <div>
+        <div class="api-card" style="margin-bottom:12px">
+          <div class="api-card-title">Series</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/series</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/series/:id/issues</div>
+        </div>
+        <div class="api-card" style="margin-bottom:12px">
+          <div class="api-card-title">Publishers</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/publishers</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/publishers/:id</div>
+        </div>
+        <div class="api-card">
+          <div class="api-card-title">Data model</div>
+          <p style="font-size:13px;color:var(--ink-muted);line-height:1.6">
+            Characters connect <em>through</em> issues via <code style="font-family:var(--font-mono);font-size:12px">IssueCharacter</code>.
+            Each link carries a <strong>role</strong>: <code style="font-family:var(--font-mono);font-size:12px">main</code>,
+            <code style="font-family:var(--font-mono);font-size:12px">supporting</code>,
+            <code style="font-family:var(--font-mono);font-size:12px">villain</code>, or
+            <code style="font-family:var(--font-mono);font-size:12px">guest</code>.
+            Issues carry <code style="font-family:var(--font-mono);font-size:12px">isKeyIssue</code>,
+            <code style="font-family:var(--font-mono);font-size:12px">isFirstAppearance</code>,
+            <code style="font-family:var(--font-mono);font-size:12px">isMajorCrossover</code>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <span class="footer-brand">Comic<span>Disc</span></span>
+  <span class="footer-meta">Node.js · PostgreSQL · Prisma · Express</span>
+</footer>
+
+<script>
+// ── CONFIG ──────────────────────────────────────────────
+const API = 'http://localhost:3000';
+
+// ── STATE ───────────────────────────────────────────────
+let allCharacters = [];
+let allIssues     = [];
+let previousView  = 'home';
+
+// ── COLOR MAP ───────────────────────────────────────────
+const PUB_COLORS = {
+  marvel:    { bg: '#eeecfb', text: '#2d1f7a' },
+  dc:        { bg: '#e6f1fb', text: '#185fa5' },
+  image:     { bg: '#e1f5ee', text: '#0f6e56' },
+  darkhorse: { bg: '#faece7', text: '#993c1d' },
+  default:   { bg: '#f3f1ec', text: '#5a5856' },
+};
+function pubColor(publisherId) {
+  return PUB_COLORS[(publisherId||'').toLowerCase()] || PUB_COLORS.default;
+}
+function initials(name) {
+  return (name||'').split(' ').filter(Boolean).map(w => w[0].toUpperCase()).slice(0,2).join('');
+}
+
+// ── FETCH HELPERS ───────────────────────────────────────
+async function api(path) {
+  const r = await fetch(API + path);
+  if (!r.ok) throw new Error(`${r.status} ${r.statusText}`);
+  return r.json();
+}
+
+function errBanner(msg) {
+  return `<div class="error-banner">
+    Could not load data from <code>${API}</code> — make sure your API is running.<br>
+    <small>${msg}</small>
+  </div>`;
+}
+
+// ── VIEW ROUTER ─────────────────────────────────────────
+function showView(name, pushState = true) {
+  if (pushState && currentView() !== name) previousView = currentView();
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.querySelectorAll('.nav-links a').forEach(a => a.classList.remove('active'));
+  const el = document.getElementById('view-' + name);
+  if (el) el.classList.add('active');
+  const nav = document.getElementById('nav-' + name);
+  if (nav) nav.classList.add('active');
+  window.scrollTo(0, 0);
+}
+function currentView() {
+  const a = document.querySelector('.view.active');
+  return a ? a.id.replace('view-', '') : 'home';
+}
+function goBack() { showView(previousView); }
+
+// ── SEARCH ──────────────────────────────────────────────
+function doSearch(inputId) {
+  const q = document.getElementById(inputId).value.toLowerCase().trim();
+  if (!q) return;
+  const match = allCharacters.find(c =>
+    c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q)
+  );
+  if (match) {
+    openCharacter(match.id);
+  } else {
+    showView('browse');
+    filterChars(q);
+    document.getElementById('browse-search').value = q;
+  }
+}
+
+function filterChars(q) {
+  const filtered = q
+    ? allCharacters.filter(c => c.name.toLowerCase().includes(q.toLowerCase()))
+    : allCharacters;
+  document.getElementById('browse-chars').innerHTML = filtered.length
+    ? filtered.map(renderCharCard).join('')
+    : `<p class="empty">No characters match "${q}".</p>`;
+}
+
+// ── RENDER HELPERS ───────────────────────────────────────
+function renderCharCard(ch) {
+  const pub = ch.publisher || {};
+  const c = pubColor(pub.id || ch.publisherId);
+  return `<div class="char-card" onclick="openCharacter('${ch.id}')">
+    <div class="char-avatar" style="background:${c.bg};color:${c.text}">${initials(ch.name)}</div>
+    <div class="char-name">${ch.name}</div>
+    <div class="char-publisher">${pub.name || ch.publisherId || ''}</div>
+    <span class="char-pill" style="background:${c.bg};color:${c.text}">${(pub.name||ch.publisherId||'').toUpperCase()}</span>
+  </div>`;
+}
+
+function renderIssueBadges(issue) {
+  let b = '';
+  if (issue.isFirstAppearance) b += `<span class="badge badge-first">First appearance</span>`;
+  if (issue.isKeyIssue)        b += `<span class="badge badge-key">Key issue</span>`;
+  if (issue.isMajorCrossover)  b += `<span class="badge badge-cross">Crossover</span>`;
+  return b ? `<div class="issue-badges">${b}</div>` : '';
+}
+
+function renderIssueRow(issue) {
+  const series = issue.series || {};
+  const date = issue.releaseDate ? new Date(issue.releaseDate).getFullYear() : '';
+  return `<div class="issue-row">
+    <div class="issue-meta">#${issue.issueNumber||'?'} · ${date}</div>
+    <div class="issue-body">
+      <div class="issue-title">${issue.title || 'Untitled'}</div>
+      <div class="issue-series">${series.title || ''}</div>
+      ${renderIssueBadges(issue)}
+    </div>
+  </div>`;
+}
+
+// ── LOAD HOME ────────────────────────────────────────────
+async function loadHome() {
+  try {
+    const [chars, publishers, series, issues] = await Promise.all([
+      api('/api/characters'),
+      api('/api/publishers'),
+      api('/api/series'),
+      api('/api/issues'),
+    ]);
+
+    allCharacters = chars;
+    allIssues     = issues;
+
+    document.getElementById('stat-chars').textContent      = chars.length;
+    document.getElementById('stat-publishers').textContent = publishers.length;
+    document.getElementById('stat-series').textContent     = series.length;
+    document.getElementById('stat-issues').textContent     = issues.length;
+
+    const featured = chars.slice(0, 4);
+    document.getElementById('home-chars').innerHTML = featured.map(renderCharCard).join('');
+    document.getElementById('browse-chars').innerHTML = chars.map(renderCharCard).join('');
+
+    const keyIssues = issues.filter(i => i.isKeyIssue).slice(0, 5);
+    document.getElementById('home-issues').innerHTML = keyIssues.length
+      ? keyIssues.map(renderIssueRow).join('')
+      : '<p class="empty">No issues found.</p>';
+
+    loadGuides(chars);
+
+  } catch (e) {
+    const err = errBanner(e.message);
+    document.getElementById('home-chars').innerHTML  = err;
+    document.getElementById('home-issues').innerHTML = '';
+  }
+}
+
+// ── LOAD GUIDES ──────────────────────────────────────────
+async function loadGuides(chars) {
+  const container = document.getElementById('guides-content');
+  const blocks = [];
+
+  for (const ch of chars) {
+    try {
+      const points = await api(`/api/characters/${ch.id}/jumping-points`);
+      if (!points.length) continue;
+      const pub = ch.publisher || {};
+      const c = pubColor(pub.id || ch.publisherId);
+      blocks.push(`
+        <div class="rg-char-block">
+          <div class="rg-char-header">
+            <div class="char-avatar" style="background:${c.bg};color:${c.text};width:36px;height:36px;font-size:12px">${initials(ch.name)}</div>
+            <span style="font-size:16px;font-weight:500">${ch.name}</span>
+            <span style="font-size:12px;color:var(--ink-faint)">${pub.name||ch.publisherId||''}</span>
+          </div>
+          ${points.map(jp => `
+            <div class="jp-card">
+              <div class="jp-tier">${jp.tier || 'Recommended'}</div>
+              <div class="jp-title">${jp.title}</div>
+              ${jp.blurb ? `<div class="jp-blurb">${jp.blurb}</div>` : ''}
+            </div>
+          `).join('')}
+        </div>
+      `);
+    } catch (_) {}
+  }
+
+  container.innerHTML = blocks.length
+    ? blocks.join('')
+    : '<p class="empty">No reading guides found. Add jumping-off points via the API.</p>';
+}
+
+// ── OPEN CHARACTER ────────────────────────────────────────
+async function openCharacter(id) {
+  showView('character');
+  const container = document.getElementById('char-detail-content');
+  container.innerHTML = '<div class="loading">Loading…</div>';
+
+  try {
+    const [char, readingOrder, jumpingPoints, supportingCast, issues] = await Promise.all([
+      api(`/api/characters/${id}`),
+      api(`/api/characters/${id}/reading-order`).catch(() => []),
+      api(`/api/characters/${id}/jumping-points`).catch(() => []),
+      api(`/api/characters/${id}/supporting-cast`).catch(() => []),
+      api(`/api/characters/${id}/issues`).catch(() => []),
+    ]);
+
+    const pub = char.publisher || {};
+    const c = pubColor(pub.id || char.publisherId);
+
+    const roHTML = readingOrder.length
+      ? `<div class="ro-list">${readingOrder.map((iss, i) => {
+          const date = iss.releaseDate ? new Date(iss.releaseDate).getFullYear() : '';
+          const series = iss.series || {};
+          return `<div class="ro-item">
+            <div class="ro-n">${String(i+1).padStart(2,'0')}</div>
+            <div class="ro-info">
+              <div class="ro-title">${iss.title || 'Untitled'}</div>
+              <div class="ro-sub">${series.title||''} #${iss.issueNumber||'?'} · ${date}</div>
+              ${renderIssueBadges(iss)}
+            </div>
+          </div>`;
+        }).join('')}</div>`
+      : `<p class="empty">No reading order data yet. Add key issues with this character via the import script.</p>`;
+
+    const allIssuesHTML = issues.length
+      ? `<div class="issue-list">${issues.map(l => renderIssueRow(l.issue || l)).join('')}</div>`
+      : `<p class="empty">No issues linked yet.</p>`;
+
+    const jpHTML = jumpingPoints.length
+      ? jumpingPoints.map(jp => `
+          <div class="jp-card">
+            <div class="jp-tier">${jp.tier || 'Recommended'}</div>
+            <div class="jp-title">${jp.title}</div>
+            ${jp.blurb ? `<div class="jp-blurb">${jp.blurb}</div>` : ''}
+          </div>
+        `).join('')
+      : `<p class="empty">No jumping-off points yet.</p>`;
+
+    const castHTML = supportingCast.length
+      ? `<div class="cast-grid">${supportingCast.map(sc => {
+          const sc_c = pubColor(sc.publisherId);
+          return `<div class="cast-card" onclick="openCharacter('${sc.id}')">
+            <div class="cast-avatar" style="background:${sc_c.bg};color:${sc_c.text}">${initials(sc.name)}</div>
+            <span class="cast-name">${sc.name}</span>
+          </div>`;
+        }).join('')}</div>`
+      : `<p class="empty">No supporting cast data yet.</p>`;
+
+    const tabs = [
+      { id: 'ro',     label: 'Reading order', content: roHTML },
+      { id: 'issues', label: 'All issues',    content: allIssuesHTML },
+      ...(jumpingPoints.length ? [{ id: 'start', label: 'Where to start', content: jpHTML }] : []),
+      ...(supportingCast.length ? [{ id: 'cast', label: 'Supporting cast', content: castHTML }] : []),
+    ];
+
+    container.innerHTML = `
+      <div class="char-detail-header">
+        <div class="char-detail-avatar" style="background:${c.bg};color:${c.text}">${initials(char.name)}</div>
+        <div>
+          <div class="char-detail-name">${char.name}</div>
+          <div class="char-detail-sub">${pub.name || char.publisherId || ''} · ${char.description || ''}</div>
+        </div>
+      </div>
+
+      <div class="tabs" id="tabs-${id}">
+        ${tabs.map((t, i) => `<button class="tab ${i===0?'active':''}" onclick="switchTab('${id}','${t.id}',this)">${t.label}</button>`).join('')}
+      </div>
+
+      ${tabs.map((t, i) => `<div class="tab-panel ${i===0?'active':''}" id="tp-${id}-${t.id}">${t.content}</div>`).join('')}
+    `;
+
+  } catch (e) {
+    container.innerHTML = errBanner(e.message);
+  }
+}
+
+function switchTab(charId, tabId, btn) {
+  document.querySelectorAll(`#tabs-${charId} .tab`).forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll(`[id^="tp-${charId}-"]`).forEach(p => p.classList.remove('active'));
+  const panel = document.getElementById(`tp-${charId}-${tabId}`);
+  if (panel) panel.classList.add('active');
+}
+
+// ── BOOT ────────────────────────────────────────────────
+loadHome();
+</script>
+</body>
+</html>
