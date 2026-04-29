@@ -446,6 +446,7 @@
   }
   .footer-brand span { color: var(--accent); }
   .footer-meta { font-size: 12px; color: var(--ink-faint); }
+  .fa-tooltip.show { display:block !important; }
 
   /* ── UTILITIES ── */
   .empty { color: var(--ink-faint); font-size: 14px; padding: 2rem 0; }
@@ -819,7 +820,20 @@ async function openCharacter(id) {
               ${iss.isKeyIssue ? `<span class="badge badge-key">Key issue</span>` : ''}
               ${iss.isMajorCrossover ? `<span class="badge badge-cross">Crossover</span>` : ''}
             </div>
-            ${firstAppNames ? `<div style="font-size:11px;color:var(--success);font-weight:500;text-align:right;min-width:140px;flex-shrink:0">1st: ${firstAppNames}</div>` : ''}
+            ${firstAppNames ? `
+              <div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
+                <div 
+                  onclick="this.nextElementSibling.classList.toggle('show')"
+                  style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;">
+                </div>
+                <div class="fa-tooltip" style="
+                  display:none;position:absolute;right:0;top:16px;
+                  background:var(--ink);color:white;
+                  font-size:11px;padding:6px 10px;border-radius:var(--r-md);
+                  white-space:nowrap;z-index:10;font-weight:500;">
+                  1st: ${firstAppNames}
+                </div>
+              </div>` : ''}
           </div>`;
         }).join('')}</div>`
       : `<p class="empty">No reading order data yet. Add key issues with this character via the import script.</p>`;
@@ -883,6 +897,12 @@ function switchTab(charId, tabId, btn) {
   const panel = document.getElementById(`tp-${charId}-${tabId}`);
   if (panel) panel.classList.add('active');
 }
+
+document.addEventListener('click', e => {
+  if (!e.target.closest('.fa-dot-wrap')) {
+    document.querySelectorAll('.fa-tooltip').forEach(t => t.classList.remove('show'));
+  }
+});
 
 // ── BOOT ────────────────────────────────────────────────
 loadHome();
