@@ -11,20 +11,39 @@
     { "issueId": "asm-1",            "characterId": "j-j-jameson",     "role": "supporting",       "isFirstAppearance": true },
     { "issueId": "asm-1",            "characterId": "john-jameson",    "role": "supporting",       "isFirstAppearance": true },
     { "issueId": "asm-1",            "characterId": "aunt-may",        "role": "supporting" },
+    { "issueId": "asm-1",            "characterId": "liz-allen",       "role": "supporting"},
     { "issueId": "asm-1",            "characterId": "burglar",         "role": "villain"},
     { "issueId": "asm-1",            "characterId": "chameleon",       "role": "villain",          "isFirstAppearance": true },
+    { "issueId": "asm-1",            "characterId": "mister-fantastic","role": "supporting"},
+    { "issueId": "asm-1",            "characterId": "invisible-woman", "role": "supporting"},
+    { "issueId": "asm-1",            "characterId": "human-torch",     "role": "supporting"},
+    { "issueId": "asm-1",            "characterId": "thing",           "role": "supporting"},
 
     { "issueId": "asm-2",            "characterId": "spiderman",       "role": "main" },
     { "issueId": "asm-2",            "characterId": "j-j-jameson",     "role": "supporting" },
     { "issueId": "asm-2",            "characterId": "vulture",         "role": "villain",          "isFirstAppearance": true },
     { "issueId": "asm-2",            "characterId": "tinkerer",        "role": "villain",          "isFirstAppearance": true },
+    { "issueId": "asm-2",            "characterId": "aunt-may",        "role": "supporting"},
+    { "issueId": "asm-2",            "characterId": "flash-thompson",  "role": "supporting"},
+    { "issueId": "asm-2",            "characterId": "liz-allen",       "role": "supporting"},
 
 
     { "issueId": "asm-3",            "characterId": "spiderman",       "role": "main" },
     { "issueId": "asm-3",            "characterId": "j-j-jameson",     "role": "supporting" },
     { "issueId": "asm-3",            "characterId": "doc-ock",         "role": "villain" },
+    { "issueId": "asm-3",            "characterId": "aunt-may",        "role": "supporting"},
+    { "issueId": "asm-3",            "characterId": "flash-thompson",  "role": "supporting"},
+    { "issueId": "asm-3",            "characterId": "liz-allen",       "role": "supporting"},
+    { "issueId": "asm-1",            "characterId": "human-torch",     "role": "supporting"},
 
     { "issueId": "asm-4",            "characterId": "spiderman",       "role": "main" },
+    { "issueId": "asm-4",            "characterId": "sandman",         "role": "villain",          "isFirstAppearance": true },
+    { "issueId": "asm-4",            "characterId": "j-j-jameson",     "role": "supporting" },
+    { "issueId": "asm-4",            "characterId": "betty-brant",     "role": "supporting",       "isFirstAppearance": true },
+    { "issueId": "asm-4",            "characterId": "aunt-may",        "role": "supporting"},
+    { "issueId": "asm-4",            "characterId": "flash-thompson",  "role": "supporting"},
+    { "issueId": "asm-4",            "characterId": "liz-allen",       "role": "supporting"},
+    
 
     { "issueId": "asm-6",            "characterId": "spiderman",       "role": "main" },
 

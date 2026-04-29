@@ -60,6 +60,12 @@
         "publisherId": "marvel"
     },
     {
+        "id": "betty-brant",
+        "name": "Betty Brant",
+        "description": "J. Jonah Jameson's secretary and occasional love interest of Peter Parker",
+        "publisherId": "marvel"
+    },
+    {
         "id": "john-jameson",
         "name": "John Jameson",
         "description": "World renowned astronaut and son of J. Jonah Jameson. Later becomes Man Wolf",
