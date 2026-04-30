@@ -919,6 +919,58 @@ async function openCharacter(id) {
   }
 }
 
+// ── OPEN TEAM ────────────────────────────────────────
+async function openTeam(id) {
+  showView('team');
+  const container = document.getElementById('team-detail-content');
+  container.innerHTML = '<div class="loading">Loading…</div>';
+
+  try {
+    const team = await api(`/api/teams/${id}`);
+    const pub = team.publisher || {};
+    const c = pubColor(pub.id || team.publisherId);
+    const members = team.members || [];
+    const issues = team.issueLinks || [];
+
+    const membersHTML = members.length
+      ? `<div class="cast-grid">${members.map(m => {
+          const mc = pubColor(m.character.publisherId);
+          return `<div class="cast-card" onclick="openCharacter('${m.character.id}')">
+            <div class="cast-avatar" style="background:${mc.bg};color:${mc.text}">${initials(m.character.name)}</div>
+            <span class="cast-name">${m.character.name}</span>
+          </div>`;
+        }).join('')}</div>`
+      : '<p class="empty">No members yet.</p>';
+
+    const issuesHTML = issues.length
+      ? `<div class="issue-list">${issues.map(l => renderIssueRow(l.issue)).join('')}</div>`
+      : '<p class="empty">No issues linked yet.</p>';
+
+    container.innerHTML = `
+      <div class="char-detail-header">
+        <div class="char-detail-avatar" style="background:${c.bg};color:${c.text};font-size:14px">
+          ${team.name.split(' ').map(w => w[0]).join('').slice(0,3)}
+        </div>
+        <div>
+          <div class="char-detail-name">${team.name}</div>
+          <div class="char-detail-sub">${pub.name || ''} · ${team.description || ''}</div>
+        </div>
+      </div>
+
+      <div class="tabs">
+        <button class="tab active" onclick="switchTab('team','members',this)">Members</button>
+        <button class="tab" onclick="switchTab('team','issues',this)">Issues</button>
+      </div>
+
+      <div class="tab-panel active" id="tp-team-members">${membersHTML}</div>
+      <div class="tab-panel" id="tp-team-issues">${issuesHTML}</div>
+    `;
+
+  } catch (e) {
+    container.innerHTML = errBanner(e.message);
+  }
+}
+
 function switchTab(charId, tabId, btn) {
   document.querySelectorAll(`#tabs-${charId} .tab`).forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
