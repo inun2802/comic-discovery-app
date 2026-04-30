@@ -1,6 +1,6 @@
 [
-    { "teamId": "fantastic-four", "characterId": "mr-fantastic" },
+    { "teamId": "fantastic-four", "characterId": "mister-fantastic" },
     { "teamId": "fantastic-four", "characterId": "invisible-woman" },
     { "teamId": "fantastic-four", "characterId": "human-torch" },
-    { "teamId": "fantastic-four", "characterId": "the-thing" }
+    { "teamId": "fantastic-four", "characterId": "thing" }
 ]
