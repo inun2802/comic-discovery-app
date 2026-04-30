@@ -516,6 +516,12 @@
   </div>
   <div class="section">
     <div class="section-header">
+      <span class="section-title">Teams</span>
+    </div>
+    <div class="chars-grid" id="browse-teams"><div class="loading">Loading…</div></div>
+  </div>
+  <div class="section">
+    <div class="section-header">
       <span class="section-title">All characters</span>
     </div>
     <div class="chars-grid" id="browse-chars"><div class="loading">Loading…</div></div>
@@ -527,6 +533,12 @@
   <div class="section">
     <button class="back-link" onclick="goBack()">← Back</button>
     <div id="char-detail-content"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+<div class="view" id="view-team">
+  <div class="section">
+    <button class="back-link" onclick="goBack()">← Back</button>
+    <div id="team-detail-content"><div class="loading">Loading…</div></div>
   </div>
 </div>
 
@@ -690,6 +702,19 @@ function renderCharCard(ch) {
   </div>`;
 }
 
+function renderTeamCard(team) {
+  const pub = team.publisher || {};
+  const c = pubColor(pub.id || team.publisherId);
+  return `<div class="char-card" onclick="openTeam('${team.id}')">
+    <div class="char-avatar" style="background:${c.bg};color:${c.text};font-size:11px">
+      ${team.name.split(' ').map(w => w[0]).join('').slice(0,3)}
+    </div>
+    <div class="char-name">${team.name}</div>
+    <div class="char-publisher">${pub.name || ''}</div>
+    <span class="char-pill" style="background:${c.bg};color:${c.text}">TEAM</span>
+  </div>`;
+}
+
 function renderIssueBadges(issue) {
   let b = '';
   const firstAppearances = (issue.characterLinks || []).filter(l => l.isFirstAppearance);
@@ -736,6 +761,10 @@ async function loadHome() {
     const featured = chars.slice(0, 4);
     document.getElementById('home-chars').innerHTML = featured.map(renderCharCard).join('');
     document.getElementById('browse-chars').innerHTML = chars.map(renderCharCard).join('');
+    const teams = await api('/api/teams');
+    document.getElementById('browse-teams').innerHTML = teams.length
+      ? teams.map(renderTeamCard).join('')
+      : '<p class="empty">No teams yet.</p>';
 
     const keyIssues = issues.filter(i => i.isKeyIssue).slice(0, 5);
     document.getElementById('home-issues').innerHTML = keyIssues.length
