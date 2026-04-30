@@ -34,7 +34,7 @@
     { "issueId": "asm-3",            "characterId": "aunt-may",        "role": "supporting"},
     { "issueId": "asm-3",            "characterId": "flash-thompson",  "role": "supporting"},
     { "issueId": "asm-3",            "characterId": "liz-allen",       "role": "supporting"},
-    { "issueId": "asm-1",            "characterId": "human-torch",     "role": "supporting"},
+    { "issueId": "asm-3",            "characterId": "human-torch",     "role": "supporting"},
 
     { "issueId": "asm-4",            "characterId": "spiderman",       "role": "main" },
     { "issueId": "asm-4",            "characterId": "sandman",         "role": "villain",          "isFirstAppearance": true },

@@ -100,7 +100,13 @@
         "name": "Tinkerer",
         "description": "Phineas Mason, A brilliant inventor who creates gadgets for supervillains",
         "publisherId": "marvel"
-    }, 
+    },
+    {
+        "id": "sandman",
+        "name": "Sandman",
+        "description": "Flint Marko, a criminal who gained the ability to transform into sand",
+        "publisherId": "marvel"
+    },
     {
         "id": "burglar",
         "name": "Burglar",
@@ -113,11 +119,6 @@
         "description": "The Black Cat, one of Spider-Man's most puzzling love interests",
         "publisherId": "marvel"
     },
-
-
-
-
-
 
     {
         "id": "mister-fantastic",
