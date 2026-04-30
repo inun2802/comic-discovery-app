@@ -77,6 +77,11 @@ export async function getCharacterIssues(req, res) {
           },
         },
       },
+      orderBy: {
+        issue: {
+          releaseDate: "asc",
+        },
+      },
     });
 
     res.json(links);
