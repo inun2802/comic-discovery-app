@@ -1,0 +1,58 @@
+[
+    {
+        "id": "spiderman-jp-1",
+        "characterId": "spiderman",
+        "title": "Amazing Fantasy #15 + Amazing Spider-Man #1-33 (Stan Lee & Steve Ditko Run)",
+        "blurb": "The definitive origin. Start here. Peter becomes Spider-Man, meets his first rogues gallery, and learns the ropes of being a hero. The foundation of everything that follows.",
+        "tier": "Essential",
+        "order": 1
+    },
+    {
+        "id": "spiderman-jp-2",
+        "characterId": "spiderman",
+        "title": "Amazing Spider-Man #39-122 (Stan Lee & John Romita Sr. Run)",
+        "blurb": "The Romita era. Essential storytelling. Eventually bleeds into the Gerry Conway Run.",
+        "tier": "Essential",
+        "order": 2
+    },
+    {
+        "id": "spiderman-jp-3",
+        "characterId": "spiderman",
+        "title": "Amazing Spider-Man #252-300 (Black Suit & Venom Run)",
+        "blurb": "The alien symbiote saga through to Venom's full debut in #300. (Technically you need to read Secret Wars #8 to get the full story)",
+        "tier": "Essential",
+        "order": 3
+    },
+    {
+        "id": "spiderman-jp-4",
+        "characterId": "spiderman",
+        "title": "Kraven's Last Hunt (ASM #293-294, Spectacular #131-132, Web #31-32)",
+        "blurb": "Widely considered the best Spider-Man story ever written. A dark, psychological tale that explores the depths of Peter Parker's character. A must-read for any Spider-Man fan.",
+        "tier": "Essential",
+        "order": 4
+    },
+    {
+        "id": "spiderman-jp-5",
+        "characterId": "spiderman",
+        "title": "Amazing Spider-Man by J. Michael Straczynski (Vol. 2, #30-58)",
+        "blurb": "The best modern Spider-Man run. Reinvents the character without betraying him. (Isaiah's Personal Favorite)",
+        "tier": "Modern Classic",
+        "order": 5
+    },
+    {
+        "id": "spiderman-jp-6",
+        "characterId": "spiderman",
+        "title": "Ultimate Spider-Man #1-160 (Brian Michael Bendis)",
+        "blurb": "A complete, self-contained retelling of Spider-Man for modern readers. The ultimate starting point for new readers",
+        "tier": "New Reader Friendly",
+        "order": 6
+    },
+    {
+        "id": "spiderman-jp-7",
+        "characterId": "spiderman",
+        "title": "Superior Spider-Man #1-31 (Dan Slott)",
+        "blurb": "What if Doctor Octopus was Spider-Man? An interesting take on our Friendly Neighborhood Web-Slinger. Read after ASM #700.",
+        "tier": "Modern Classic",
+        "order": 7
+    }
+]
