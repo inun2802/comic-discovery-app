@@ -488,7 +488,6 @@
     { "issueId": "asm-94", "characterId": "gwen-stacy",    "role": "supporting" },
 
     { "issueId": "asm-95", "characterId": "spiderman",     "role": "main" },
-    { "issueId": "asm-95", "characterId": "terrorist",     "role": "villain" },
     { "issueId": "asm-95", "characterId": "gwen-stacy",    "role": "supporting" },
 
     { "issueId": "asm-96", "characterId": "spiderman",     "role": "main" },

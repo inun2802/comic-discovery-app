@@ -138,16 +138,21 @@ async function main() {
   }
 
   for (const link of issueCharacters) {
-    await prisma.issueCharacter.upsert({
-      where: { issueId_characterId: { issueId: link.issueId, characterId: link.characterId } },
-      update: { role: link.role ?? null, isFirstAppearance: link.isFirstAppearance ?? false },
-      create: {
-        issueId: link.issueId,
-        characterId: link.characterId,
-        role: link.role ?? null,
-        isFirstAppearance: link.isFirstAppearance ?? false,
-      },
-    });
+    try {
+      await prisma.issueCharacter.upsert({
+        where: { issueId_characterId: { issueId: link.issueId, characterId: link.characterId } },
+        update: { role: link.role ?? null, isFirstAppearance: link.isFirstAppearance ?? false },
+        create: {
+          issueId: link.issueId,
+          characterId: link.characterId,
+          role: link.role ?? null,
+          isFirstAppearance: link.isFirstAppearance ?? false,
+        },
+      });
+  } catch (e) {
+      console.error(`Failed on issueId: ${link.issueId}, characterId: ${link.characterId}`);
+      throw e;
+    }  
   }
 
   // ── TEAMS ──
