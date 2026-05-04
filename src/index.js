@@ -5,6 +5,7 @@ import publishersRoutes from "./routes/publishers.routes.js";
 import issuesRoutes from "./routes/issues.routes.js";
 import seriesRoutes from "./routes/series.routes.js";
 import teamsRoutes from "./routes/teams.routes.js";
+import storyArcsRoutes from "./routes/storyArcs.routes.js";
 import cors from "cors";
 
 const app = express();
@@ -28,6 +29,7 @@ app.use("/api/publishers", publishersRoutes);
 app.use("/api/issues", issuesRoutes);
 app.use("/api/series", seriesRoutes);
 app.use("/api/teams", teamsRoutes);
+app.use("/api/story-arcs", storyArcsRoutes);
 
 app.listen(PORT, () => {
   console.log(`API listening on http://localhost:${PORT}`);
