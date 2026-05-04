@@ -517,23 +517,16 @@
 
   <div class="section">
     <div class="section-header">
-      <span class="section-title">Teams</span>
-    </div>
-    <div class="chars-grid" id="browse-teams"><div class="loading">Loading…</div></div>
-  </div>
-
-  <div class="section">
-    <div class="section-header">
-      <span class="section-title">Story Arcs</span>
-    </div>
-    <div class="chars-grid" id="browse-arcs"><div class="loading">Loading…</div></div>
-  </div>
-
-  <div class="section">
-    <div class="section-header">
       <span class="section-title">All characters</span>
     </div>
     <div class="chars-grid" id="browse-chars"><div class="loading">Loading…</div></div>
+  </div>
+
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title">Teams</span>
+    </div>
+    <div class="chars-grid" id="browse-teams"><div class="loading">Loading…</div></div>
   </div>
 </div>
 
@@ -793,10 +786,6 @@ async function loadHome() {
     document.getElementById('browse-teams').innerHTML = teams.length
       ? teams.map(renderTeamCard).join('')
       : '<p class="empty">No teams yet.</p>';
-    const arcs = await api('/api/story-arcs');
-      document.getElementById('browse-arcs').innerHTML = arcs.length
-        ? arcs.map(renderArcCard).join('')
-        : '<p class="empty">No story arcs yet.</p>';
     const keyIssues = issues.filter(i => i.isKeyIssue).slice(0, 5);
     document.getElementById('home-issues').innerHTML = keyIssues.length
       ? keyIssues.map(renderIssueRow).join('')
@@ -853,25 +842,24 @@ async function openCharacter(id) {
   container.innerHTML = '<div class="loading">Loading…</div>';
 
   try {
-    const [char, readingOrder, jumpingPoints, supportingCast, issues] = await Promise.all([
+    const [char, jumpingPoints, supportingCast, issues] = await Promise.all([
       api(`/api/characters/${id}`),
-      api(`/api/characters/${id}/reading-order`).catch(() => []),
       api(`/api/characters/${id}/jumping-points`).catch(() => []),
       api(`/api/characters/${id}/supporting-cast`).catch(() => []),
       api(`/api/characters/${id}/issues`).catch(() => []),
+      api(`/api/characters/${id}/story-arcs`).catch(() => []),
     ]);
 
     const pub = char.publisher || {};
     const c = pubColor(pub.id || char.publisherId);
 
-    const roHTML = readingOrder.length
-      ? `<div class="ro-list">${readingOrder.map((iss, i) => {
-          const date = iss.releaseDate ? new Date(iss.releaseDate).getFullYear() : '';
+    const allIssuesHTML = issues.length
+      ? `<div class="ro-list">${issues.map((l, i) => {
+          const iss = l.issue || l;
           const series = iss.series || {};
-
-          const firstApps = (iss.characterLinks || []).filter(l => l.isFirstAppearance);
-          const firstAppNames = firstApps.map(l => l.character.name).join(', ');
-
+          const date = iss.releaseDate ? new Date(iss.releaseDate).getFullYear() : '';
+          const firstApps = (iss.characterLinks || []).filter(lk => lk.isFirstAppearance);
+          const firstAppNames = firstApps.map(lk => lk.character.name).join(', ');
           return `<div class="ro-item">
             <div class="ro-n">${String(i+1).padStart(2,'0')}</div>
             <div class="ro-info">
@@ -882,26 +870,15 @@ async function openCharacter(id) {
             </div>
             ${firstAppNames ? `
               <div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
-                <div 
-                  onclick="this.nextElementSibling.classList.toggle('show')"
-                  style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;">
-                </div>
-                <div class="fa-tooltip" style="
-                  display:none;position:absolute;right:0;top:16px;
-                  background:var(--ink);color:white;
-                  font-size:11px;padding:6px 10px;border-radius:var(--r-md);
-                  white-space:nowrap;z-index:10;font-weight:500;">
+                <div onclick="this.nextElementSibling.classList.toggle('show')"
+                  style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;"></div>
+                <div class="fa-tooltip" style="display:none;position:absolute;right:0;top:16px;background:var(--ink);color:white;font-size:11px;padding:6px 10px;border-radius:var(--r-md);white-space:nowrap;z-index:10;font-weight:500;">
                   1st: ${firstAppNames}
                 </div>
               </div>` : ''}
           </div>`;
         }).join('')}</div>`
-      : `<p class="empty">No reading order data yet. Add key issues with this character via the import script.</p>`;
-
-    const allIssuesHTML = issues.length
-      ? `<div class="issue-list">${issues.map(l => renderIssueRow(l.issue || l)).join('')}</div>`
-      : `<p class="empty">No issues linked yet.</p>`;
-
+      : '<p class="empty">No issues linked yet.</p>';
     const jpHTML = jumpingPoints.length
       ? jumpingPoints.map(jp => `
           <div class="jp-card">
@@ -921,13 +898,22 @@ async function openCharacter(id) {
           </div>`;
         }).join('')}</div>`
       : `<p class="empty">No supporting cast data yet.</p>`;
+    
+    const arcsHTML = storyArcs.length
+    ? storyArcs.map(arc => `
+        <div class="jp-card" onclick="openArc('${arc.id}')" style="cursor:pointer">
+          <div class="jp-tier">Story Arc</div>
+          <div class="jp-title">${arc.title}</div>
+          ${arc.description ? `<div class="jp-blurb">${arc.description}</div>` : ''}
+        </div>`).join('')
+    : '<p class="empty">No story arcs linked yet.</p>';
 
     const tabs = [
-      { id: 'ro',     label: 'Reading order', content: roHTML },
-      { id: 'issues', label: 'All issues',    content: allIssuesHTML },
       ...(jumpingPoints.length ? [{ id: 'start', label: 'Where to start', content: jpHTML }] : []),
+      { id: 'issues', label: 'Issues',    content: allIssuesHTML },
+      ...(storyArcs.length ? [{ id: 'arcs', label: 'Story arcs', content: arcsHTML }] : []),
       ...(supportingCast.length ? [{ id: 'cast', label: 'Supporting cast', content: castHTML }] : []),
-    ];
+      ];
 
     container.innerHTML = `
       <div class="char-detail-header">

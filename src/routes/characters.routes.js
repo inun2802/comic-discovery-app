@@ -9,7 +9,7 @@ import {
     getCharacterFirstAppearances,
     getCharacterMajorCrossovers,
     getCharacterSupportingCast,
-    getCharacterReadingOrder,
+    getCharacterStoryArcs,
     createCharacter,
 } from "../controllers/characters.controller.js";
 
@@ -24,7 +24,7 @@ router.get("/:id/key-issues", getCharacterKeyIssues);
 router.get("/:id/first-appearances", getCharacterFirstAppearances);
 router.get("/:id/major-crossovers", getCharacterMajorCrossovers);
 router.get("/:id/supporting-cast", getCharacterSupportingCast);
-router.get("/:id/reading-order", getCharacterReadingOrder);
+router.get("/:id/story-arcs", getCharacterStoryArcs);
 router.post("/", createCharacter);
 
 

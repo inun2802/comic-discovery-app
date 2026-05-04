@@ -74,6 +74,10 @@ export async function getCharacterIssues(req, res) {
         issue: {
           include: {
             series: true,
+            characterLinks: {
+              where: { isFirstAppearance: true },
+              include: { character: true },
+            },
           },
         },
       },
@@ -277,39 +281,34 @@ export async function getCharacterSupportingCast(req, res) {
   }
 }
 
-export async function getCharacterReadingOrder(req, res) {
+export async function getCharacterStoryArcs(req, res) {
   try {
     const links = await prisma.issueCharacter.findMany({
-      where: {
-        characterId: req.params.id,
-        issue: {
-          isKeyIssue: true,
-        },
-      },
+      where: { characterId: req.params.id },
       include: {
         issue: {
           include: {
-            series: true,
-            characterLinks: {
-              where: {
-                isFirstAppearance: true,
-              },
+            storyArcLinks: {
               include: {
-                character: true,
+                storyArc: true,
               },
             },
           },
         },
       },
-      orderBy: {
-        issue: {
-          releaseDate: "asc",
-        },
-      },
     });
 
-    const issues = links.map((link) => link.issue);
-    res.json(issues);
+    const arcMap = new Map();
+    for (const link of links) {
+      const arcLinks = link.issue?.storyArcLinks || [];
+      for (const arcLink of arcLinks) {
+        if (!arcMap.has(arcLink.storyArc.id)) {
+          arcMap.set(arcLink.storyArc.id, arcLink.storyArc);
+        }
+      }
+    }
+
+    res.json(Array.from(arcMap.values()));
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: error.message });
