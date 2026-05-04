@@ -2,9 +2,44 @@
     { 
         "creatorId": "stan-lee",       
         "role": "writer",   
+        "seriesId": "amf", 
+        "fromIssue": "15",  
+        "toIssue": "15" 
+    },
+    { 
+        "creatorId": "steve-ditko",    
+        "role": "penciler", 
+        "seriesId": "amf", 
+        "fromIssue": "15",  
+        "toIssue": "15" 
+    },
+    { 
+        "creatorId": "steve-ditko",    
+        "role": "inker",    
+        "seriesId": "amf", 
+        "fromIssue": "15",  
+        "toIssue": "15" 
+    },
+    { 
+        "creatorId": "stan-lee",       
+        "role": "writer",   
         "seriesId": "asm", 
         "fromIssue": "1",   
         "toIssue": "110" 
+    },
+    { 
+        "creatorId": "steve-ditko",    
+        "role": "penciler", 
+        "seriesId": "asm", 
+        "fromIssue": "1",   
+        "toIssue": "38" 
+    },
+    { 
+        "creatorId": "john-romita-sr", 
+        "role": "penciler", 
+        "seriesId": "asm", 
+        "fromIssue": "39",  
+        "toIssue": "88" 
     },
     { 
         "creatorId": "gerry-conway",   
@@ -34,20 +69,6 @@
         "fromIssue": "101", 
         "toIssue": "110" 
     },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "1",   
-        "toIssue": "38" 
-    },
-    { 
-        "creatorId": "john-romita-sr", 
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "39",  
-        "toIssue": "88" }
-        ,
     { 
         "creatorId": "gil-kane",       
         "role": "penciler", 
@@ -96,25 +117,5 @@
         "seriesId": "asm", 
         "fromIssue": "119", 
         "toIssue": "155" 
-    },
-    { 
-        "creatorId": "stan-lee",       
-        "role": "writer",   
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" 
-    },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "penciler", 
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" }
-        ,
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "inker",    
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" }
+    }
 ]
