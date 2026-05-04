@@ -83,11 +83,11 @@
         "id": "asm-8",
         "seriesId": "asm",
         "issueNumber": "8",
-        "title": "Face-to-Face with... the Lizard! / The Terrible Threat of the Living Brain",
+        "title": "The Terrible Threat of the Living Brain / Spider-Man Tackles the Torch",
         "releaseDate": "1963-10-01",
         "universe": "main",
-        "isMajorCrossover": false,
-        "isKeyIssue": true
+        "isMajorCrossover": true,
+        "isKeyIssue": false
     },
     {
         "id": "asm-9",

@@ -1,0 +1,78 @@
+[
+    { 
+        "id": "master-planner-saga",      
+        "title": "The Master Planner Saga",           
+        "description": "Spider-Man battles the Master Planner (Doctor Octopus in disguise) while Aunt May's life hangs in the balance. Culminates in the legendary ASM #33.", 
+        "publisherId": "marvel" 
+    },
+    { 
+        "id": "goblin-identity",          
+        "title": "The Goblin's Identity Revealed",    
+        "description": "The Green Goblin discovers Spider-Man's secret identity and Peter learns who the Goblin truly is.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "drug-issues",              
+        "title": "The Drug Issues",                   
+        "description": "Stan Lee tackled drug addiction without Comics Code Authority approval. Harry Osborn overdoses on pills.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "six-armed-saga",           
+        "title": "The Six-Armed Saga",                
+        "description": "Spider-Man takes a serum to remove his powers but grows four extra arms. Leads to the introduction of Morbius.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "kingpin-tablet-saga",      
+        "title": "The Kingpin Tablet Saga",           
+        "description": "The Kingpin steals a mysterious ancient tablet and Spider-Man must retrieve it across multiple battles.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "doc-ock-nullifier",        
+        "title": "The Nullifier Saga",                
+        "description": "Doctor Octopus steals the Nullifier device and uses it to cause Spider-Man to lose his memory.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "hammerhead-doc-ock",       
+        "title": "The Hammerhead/Doc Ock Gang War",   
+        "description": "Doctor Octopus and Hammerhead battle for control of the criminal underworld while Aunt May is caught in the middle.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "spider-hulk",              
+        "title": "Spider-Man vs. the Hulk",           
+        "description": "Spider-Man travels to Canada and ends up in a two-part battle with the incredible Hulk.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "night-gwen-stacy-died",    
+        "title": "The Night Gwen Stacy Died",         
+        "description": "One of the most pivotal moments in Spider-Man history. The Green Goblin kills Gwen Stacy. Norman Osborn then dies.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "harry-goblin",             
+        "title": "Harry Osborn as the Green Goblin",  
+        "description": "Harry Osborn discovers Peter is Spider-Man and becomes the second Green Goblin.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "clone-saga-original",      
+        "title": "The Original Clone Saga",           
+        "description": "The Jackal clones Spider-Man and both the clone and the original must face off. Leads to the first appearance of the Spider-Clone (Ben Reilly).", 
+        "publisherId": "marvel" },
+    { 
+        "id": "punisher-first",           
+        "title": "Punisher & Jackal",                 
+        "description": "First appearances of both the Punisher and the Jackal in the same issue.", 
+        "publisherId": "marvel" },
+    { 
+        "id": "kingpin-rise",             
+        "title": "The Rise of the Kingpin",           
+        "description": "The Kingpin's debut and rise to power as New York's greatest crime lord beginning with Spider-Man No More.", 
+        "publisherId": "marvel" },
+    { 
+       "id":"prowler-debut",              
+       "title":"The Prowler",                        
+       "description":"First appearance and origin of the Prowler, Hobie Brown.", 
+       "publisherId":"marvel" },
+    { 
+       "id":"gwen-stacy-clone",           
+       "title":"The Gwen Stacy Clone Saga",          
+       "description":"A mysterious woman appearing to be Gwen Stacy appears, revealed to be a clone created by the Jackal.",
+       "publisherId":"marvel" }
+]

@@ -1,0 +1,252 @@
+[
+    { 
+        "storyArcId": "master-planner-saga",   
+        "issueId": "asm-31", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "master-planner-saga",   
+        "issueId": "asm-32", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "master-planner-saga",   
+        "issueId": "asm-33", 
+        "order": 3 
+    },
+
+    { 
+        "storyArcId": "goblin-identity",       
+        "issueId": "asm-39", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "goblin-identity",       
+        "issueId": "asm-40", 
+        "order": 2 
+    },
+
+    { 
+        "storyArcId": "drug-issues",           
+        "issueId": "asm-96", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "drug-issues",           
+        "issueId": "asm-97", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "drug-issues",           
+        "issueId": "asm-98", 
+        "order": 3 
+    },
+
+    { 
+        "storyArcId": "six-armed-saga",        
+        "issueId": "asm-100", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "six-armed-saga",        
+        "issueId": "asm-101", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "six-armed-saga",        
+        "issueId": "asm-102", 
+        "order": 3 
+    },
+
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-68", 
+        "order": 1
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-69", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-70", 
+        "order": 3 
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-72", 
+        "order": 4 
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-73", 
+        "order": 5 
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-74", 
+        "order": 6 
+    },
+    { 
+        "storyArcId": "kingpin-tablet-saga",   
+        "issueId": "asm-75", 
+        "order": 7 
+    },
+    { 
+        "storyArcId": "doc-ock-nullifier",     
+        "issueId": "asm-53", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "doc-ock-nullifier",     
+        "issueId": "asm-54", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "doc-ock-nullifier",     
+        "issueId": "asm-55", 
+        "order": 3 
+    },
+    { 
+        "storyArcId": "doc-ock-nullifier",     
+        "issueId": "asm-56", 
+        "order": 4 
+    },
+    { 
+        "storyArcId": "hammerhead-doc-ock",    
+        "issueId": "asm-112", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "hammerhead-doc-ock",    
+        "issueId": "asm-113", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "hammerhead-doc-ock",    
+        "issueId": "asm-114", 
+        "order": 3 
+    },
+    { 
+        "storyArcId": "hammerhead-doc-ock",    
+        "issueId": "asm-115", 
+        "order": 4 
+    },
+    { 
+        "storyArcId": "spider-hulk",           
+        "issueId": "asm-119", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "spider-hulk",           
+        "issueId": "asm-120", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "night-gwen-stacy-died", 
+        "issueId": "asm-121", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "night-gwen-stacy-died", 
+        "issueId": "asm-122", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "harry-goblin",          
+        "issueId": "asm-136", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "harry-goblin",          
+        "issueId": "asm-137", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-144", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-145", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-146", 
+        "order": 3 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-147", 
+        "order": 4 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-148", 
+        "order": 5 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-149", 
+        "order": 6 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-150", 
+        "order": 7 
+    },
+    { 
+        "storyArcId": "clone-saga-original",   
+        "issueId": "asm-151", 
+        "order": 8 
+    },
+
+    { 
+        "storyArcId": "punisher-first",        
+        "issueId": "asm-129", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "kingpin-rise",          
+        "issueId": "asm-50",  
+        "order": 1 
+    },
+    { 
+        "storyArcId": "kingpin-rise",          
+        "issueId": "asm-51",  
+        "order": 2 
+    },
+    { 
+        "storyArcId": "kingpin-rise",          
+        "issueId": "asm-52",  
+        "order": 3 
+    },
+    { 
+        "storyArcId": "prowler-debut",         
+        "issueId": "asm-78",  
+        "order": 1 
+    },
+    { 
+        "storyArcId": "prowler-debut",         
+        "issueId": "asm-79",  
+        "order": 2 
+    },
+    { 
+        "storyArcId": "gwen-stacy-clone",      
+        "issueId": "asm-144", 
+        "order": 1 
+    },
+    { 
+        "storyArcId": "gwen-stacy-clone",      
+        "issueId": "asm-145", 
+        "order": 2 
+    },
+    { 
+        "storyArcId": "gwen-stacy-clone",      
+        "issueId": "asm-146", 
+        "order": 3 
+    }
+]
