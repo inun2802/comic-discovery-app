@@ -64,5 +64,29 @@
         "title": "The Death of Captain Stacy",           
         "description": "The tragic death of Captain Stacy and its impact on the Spider-Man universe.", 
         "publisherId": "marvel" 
+    },
+    {
+        "id": "hammerhead-ghost",
+        "title": "The Ghost of Hammerhead",
+        "description": "Doctor Octopus is haunted by the apparent ghost of Hammerhead while Spider-Man is caught in the middle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "third-goblin",
+        "title": "The Third Green Goblin",
+        "description": "Bart Hamilton, Harry Osborn's psychiatrist, becomes the third Green Goblin and faces Spider-Man across a multi-issue arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-cat-debut",
+        "title": "The Black Cat Strikes",
+        "description": "First appearances of the Black Cat, Felicia Hardy, who becomes one of Spider-Man's most complex love interests.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "death-of-burglar",
+        "title": "Death of the Burglar",
+        "description": "Spider-Man finally confronts the burglar responsible for Uncle Ben's death in the landmark 200th issue.",
+        "publisherId": "marvel"
     }
 ]

@@ -174,6 +174,42 @@
         "publisherId": "marvel"
     },
     {
+        "id": "nightcrawler",
+        "name": "Nightcrawler",
+        "description": "Kurt Wagner, a blue-skinned mutant X-Man with teleportation abilities",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "jigsaw",
+        "name": "Jigsaw",
+        "description": "Billy Russo, a hitman whose face was disfigured by the Punisher",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "bart-hamilton",
+        "name": "Bart Hamilton",
+        "description": "Harry Osborn's psychiatrist who became the third Green Goblin",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "rocket-racer",
+        "name": "Rocket Racer",
+        "description": "Robert Farrell, a young man who uses a rocket-powered skateboard to commit crimes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "mirage",
+        "name": "Mirage",
+        "description": "Desmond Charne, a villain who uses holographic technology to create illusions",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ned-leeds",
+        "name": "Ned Leeds",
+        "description": "Daily Bugle reporter and husband of Betty Brant, later revealed to be the Hobgoblin",
+        "publisherId": "marvel"
+    },
+    {
         "id": "ringmaster",
         "name": "Ringmaster",
         "description": "Maynard Tiboldt, leader of the Circus of Crime",

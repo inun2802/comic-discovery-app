@@ -879,8 +879,136 @@
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
-
-    
+    {
+        "id": "asm-156",
+        "seriesId": "asm",
+        "issueNumber": "156",
+        "title": "On a Clear Day You Can See...the Mirage!",
+        "releaseDate": "1976-03-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-157",
+        "seriesId": "asm",
+        "issueNumber": "157",
+        "title": "The Ghost that Haunted Octopus!",
+        "releaseDate": "1976-04-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-158",
+        "seriesId": "asm",
+        "issueNumber": "158",
+        "title": "Hammerhead is Out!",
+        "releaseDate": "1976-05-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-159",
+        "seriesId": "asm",
+        "issueNumber": "159",
+        "title": "Arm-In-Arm-In-Arm-In-Arm-In-Arm-In-Arm with Doctor Octopus",
+        "releaseDate": "1976-06-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-161",
+        "seriesId": "asm",
+        "issueNumber": "161",
+        "title": "...And the Nightcrawler Came Prowling, Prowling...",
+        "releaseDate": "1976-08-01",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-162",
+        "seriesId": "asm",
+        "issueNumber": "162",
+        "title": "Let the Punisher Fit the Crime!",
+        "releaseDate": "1976-09-01",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-176",
+        "seriesId": "asm",
+        "issueNumber": "176",
+        "title": "He Who Laughs Last...!",
+        "releaseDate": "1977-11-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-177",
+        "seriesId": "asm",
+        "issueNumber": "177",
+        "title": "Goblin in the Middle",
+        "releaseDate": "1977-12-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-178",
+        "seriesId": "asm",
+        "issueNumber": "178",
+        "title": "Green Grows the Goblin",
+        "releaseDate": "1978-01-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-179",
+        "seriesId": "asm",
+        "issueNumber": "179",
+        "title": "The Goblin's Always Greener...!",
+        "releaseDate": "1978-02-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-180",
+        "seriesId": "asm",
+        "issueNumber": "180",
+        "title": "Who Was that Goblin I Saw You With?",
+        "releaseDate": "1978-03-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-182",
+        "seriesId": "asm",
+        "issueNumber": "182",
+        "title": "The Rocket Racer's Back in Town!",
+        "releaseDate": "1978-05-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-183",
+        "seriesId": "asm",
+        "issueNumber": "183",
+        "title": "...And Where the Big Wheel Stops, Nobody Knows!",
+        "releaseDate": "1978-06-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
     {
         "id": "asm-194",
         "seriesId": "asm",
@@ -891,6 +1019,38 @@
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
+    {
+        "id": "asm-195",
+        "seriesId": "asm",
+        "issueNumber": "195",
+        "title": "Nine Lives Has the Black Cat!",
+        "releaseDate": "1979-06-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-196",
+        "seriesId": "asm",
+        "issueNumber": "196",
+        "title": "Requiem!",
+        "releaseDate": "1979-07-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-200",
+        "seriesId": "asm",
+        "issueNumber": "200",
+        "title": "The Spider and the Burglar...A Sequel",
+        "releaseDate": "1979-11-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+
+    
     {
         "id": "asm-238",
         "seriesId": "asm",

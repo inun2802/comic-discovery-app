@@ -200,5 +200,60 @@
         "storyArcId": "spiderman-no-more",          
         "issueId": "asm-52",  
         "order": 3 
+    },
+    {
+        "storyArcId": "hammerhead-ghost",
+        "issueId": "asm-157",
+        "order": 1
+    },
+    {
+        "storyArcId": "hammerhead-ghost",
+        "issueId": "asm-158",
+        "order": 2
+    },
+    {
+        "storyArcId": "hammerhead-ghost",
+        "issueId": "asm-159",
+        "order": 3
+    },
+    {
+        "storyArcId": "third-goblin",
+        "issueId": "asm-176",
+        "order": 1
+    },
+    {
+        "storyArcId": "third-goblin",
+        "issueId": "asm-177",
+        "order": 2
+    },
+    {
+        "storyArcId": "third-goblin",
+        "issueId": "asm-178",
+        "order": 3
+    },
+    {
+        "storyArcId": "third-goblin",
+        "issueId": "asm-179",
+        "order": 4
+    },
+    {
+        "storyArcId": "third-goblin",
+        "issueId": "asm-180",
+        "order": 5
+    },
+    {
+        "storyArcId": "black-cat-debut",
+        "issueId": "asm-194",
+        "order": 1
+    },
+    {
+        "storyArcId": "black-cat-debut",
+        "issueId": "asm-195",
+        "order": 2
+    },
+    {
+        "storyArcId": "death-of-burglar",
+        "issueId": "asm-200",
+        "order": 1
     }
 ]
