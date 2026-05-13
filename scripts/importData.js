@@ -232,11 +232,20 @@ async function main() {
   }
 
   for (const link of storyArcIssues) {
-    await prisma.storyArcIssue.upsert({
-      where: { storyArcId_issueId: { storyArcId: link.storyArcId, issueId: link.issueId } },
-      update: { order: link.order ?? 0 },
-      create: { storyArcId: link.storyArcId, issueId: link.issueId, order: link.order ?? 0 },
-    });
+    try {
+      await prisma.storyArcIssue.upsert({
+        where: { storyArcId_issueId: { storyArcId: link.storyArcId, issueId: link.issueId } },
+        update: { order: link.order },
+        create: {
+          storyArcId: link.storyArcId,
+          issueId: link.issueId,
+          order: link.order,
+        },
+      });
+    } catch (e) {
+      console.error(`Failed on storyArcId: ${link.storyArcId}, issueId: ${link.issueId}`);
+      throw e;
+    }
   }
 
   // ── CREATORS ──

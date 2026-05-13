@@ -1711,10 +1711,20 @@
         "isKeyIssue": true
     },
     {
+        "id": "asm-398",
+        "seriesId": "asm",
+        "issueNumber": "398",
+        "title": "Tentacles!",
+        "releaseDate": "1994-12-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
         "id": "asm-400",
         "seriesId": "asm",
         "issueNumber": "400",
-        "title": "A Death in the Family!",
+        "title": "The Gift",
         "releaseDate": "1995-02-14",
         "universe": "main",
         "isMajorCrossover": false,
