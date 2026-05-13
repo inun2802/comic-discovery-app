@@ -504,6 +504,42 @@
         "publisherId": "marvel"
     },
     {
+        "id": "carnage",
+        "name": "Carnage",
+        "description": "Cletus Kasady bonded with the offspring of the Venom symbiote, becoming Carnage, one of Spider-Man's most dangerous foes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "cletus-kasady",
+        "name": "Cletus Kasady",
+        "description": "A homicidal serial killer who becomes Carnage after bonding with the Venom symbiote's offspring",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ben-reilly",
+        "name": "Ben Reilly",
+        "description": "The Scarlet Spider and clone of Peter Parker, later takes on the mantle of Spider-Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "shriek",
+        "name": "Shriek",
+        "description": "Sandra Deel, a villain with sonic powers and Carnage's love interest",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "stunner",
+        "name": "Stunner",
+        "description": "Angelina Brancale, a woman who projects a superhumanly powerful holographic form through Doctor Octopus's technology",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-man-2099",
+        "name": "Spider-Man 2099",
+        "description": "Miguel O'Hara, a geneticist from the year 2099 who becomes Spider-Man of the future",
+        "publisherId": "marvel"
+    },
+    {
         "id": "mister-fantastic",
         "name": "Mister Fantastic",
         "description": "Reed Richards, The leader of the Fantastic Four",

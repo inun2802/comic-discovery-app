@@ -168,16 +168,71 @@
         "publisherId": "marvel"
     },
     {
+        "id": "peter-proposes",
+        "title": "Peter Parker Proposes",
+        "description": "Peter Parker finally proposes to Mary Jane Watson and she says yes.",
+        "publisherId": "marvel"
+    },
+    {
         "id": "venom-origin",
         "title": "The Birth of Venom",
         "description": "Eddie Brock bonds with the alien symbiote to become Venom, culminating in the landmark ASM #300.",
         "publisherId": "marvel"
     },
     {
-        "id": "peter-proposes",
-        "title": "Peter Parker Proposes",
-        "description": "Peter Parker finally proposes to Mary Jane Watson and she says yes.",
+        "id": "venom-returns-315",
+        "title": "The Return of Venom",
+        "description": "Venom returns to terrorize Spider-Man and Mary Jane in a brutal three-part story.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "assassin-nation-plot",
+        "title": "The Assassin Nation Plot",
+        "description": "Spider-Man teams with Silver Sable and the Wild Pack to stop an international assassination conspiracy.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "return-sinister-six",
+        "title": "Return of the Sinister Six",
+        "description": "Doctor Octopus reassembles the Sinister Six for a devastating assault on Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "venom-lives",
+        "title": "Venom Lives!",
+        "description": "Venom escapes from prison and leaves part of the symbiote behind with Cletus Kasady, setting up the birth of Carnage.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "carnage-debut",
+        "title": "Carnage",
+        "description": "The first full appearance of Carnage. Cletus Kasady bonds with the Venom symbiote offspring to become one of Spider-Man's most dangerous foes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "maximum-carnage",
+        "title": "Maximum Carnage",
+        "description": "Carnage leads a gang of villains on a murderous rampage through New York. Spider-Man and Venom must reluctantly team up.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "web-of-death",
+        "title": "Web of Death",
+        "description": "Doctor Octopus discovers Spider-Man's secret identity and infects him with a fatal virus. Mary Jane is pregnant.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "clone-saga-394",
+        "title": "The Clone Saga",
+        "description": "The return of the Spider-Clone sets off the Clone Saga. Ben Reilly and Peter Parker must determine who is the real Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "death-of-aunt-may",
+        "title": "The Death of Aunt May",
+        "description": "In the landmark 400th issue, Aunt May tells Peter she knows he is Spider-Man before passing away peacefully.",
         "publisherId": "marvel"
     }
+
 
 ]

@@ -1373,7 +1373,7 @@
         "id": "asm-299",
         "seriesId": "asm",
         "issueNumber": "299",
-        "title": "Survival of the Fittest!",
+        "title": "Survival of the Hittest!",
         "releaseDate": "1987-12-08",
         "universe": "main",
         "isMajorCrossover": false,
@@ -1390,14 +1390,212 @@
         "isKeyIssue": true
     },
 
-
-    
+    {
+        "id": "asm-301",
+        "seriesId": "asm",
+        "issueNumber": "301",
+        "title": "The Sable Gauntlet!",
+        "releaseDate": "1988-02-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-312",
+        "seriesId": "asm",
+        "issueNumber": "312",
+        "title": "The Goblin War!",
+        "releaseDate": "1988-10-11",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-315",
+        "seriesId": "asm",
+        "issueNumber": "315",
+        "title": "A Matter of Life and Debt!",
+        "releaseDate": "1989-01-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-316",
+        "seriesId": "asm",
+        "issueNumber": "316",
+        "title": "Dead Meat!",
+        "releaseDate": "1989-02-14",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-317",
+        "seriesId": "asm",
+        "issueNumber": "317",
+        "title": "The Sand and the Fury!",
+        "releaseDate": "1989-03-14",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-320",
+        "seriesId": "asm",
+        "issueNumber": "320",
+        "title": "License Invoked!",
+        "releaseDate": "1989-05-23",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-321",
+        "seriesId": "asm",
+        "issueNumber": "321",
+        "title": "Under War!",
+        "releaseDate": "1989-06-06",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-322",
+        "seriesId": "asm",
+        "issueNumber": "322",
+        "title": "Ceremony!",
+        "releaseDate": "1989-06-20",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-323",
+        "seriesId": "asm",
+        "issueNumber": "323",
+        "title": "Assault Rivals!",
+        "releaseDate": "1989-07-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-325",
+        "seriesId": "asm",
+        "issueNumber": "325",
+        "title": "Finale in Red!",
+        "releaseDate": "1989-08-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-334",
+        "seriesId": "asm",
+        "issueNumber": "334",
+        "title": "Secrets, Puzzles, and Little Fears...!",
+        "releaseDate": "1990-05-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-335",
+        "seriesId": "asm",
+        "issueNumber": "335",
+        "title": "Shocks!",
+        "releaseDate": "1990-05-22",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-336",
+        "seriesId": "asm",
+        "issueNumber": "336",
+        "title": "The Wagers of Sin!",
+        "releaseDate": "1990-06-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-337",
+        "seriesId": "asm",
+        "issueNumber": "337",
+        "title": "Rites and Wrongs!",
+        "releaseDate": "1990-06-26",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-338",
+        "seriesId": "asm",
+        "issueNumber": "338",
+        "title": "Death from Above!",
+        "releaseDate": "1990-07-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-339",
+        "seriesId": "asm",
+        "issueNumber": "339",
+        "title": "The Killing Cure!",
+        "releaseDate": "1990-07-24",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
     {
         "id": "asm-344",
         "seriesId": "asm",
         "issueNumber": "344",
-        "title": "Round Robin: The Sidekick's Revenge! (First Cletus Kasady)",
-        "releaseDate": "1991-02-01",
+        "title": "Hearts and Powers!",
+        "releaseDate": "1990-12-11",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-345",
+        "seriesId": "asm",
+        "issueNumber": "345",
+        "title": "Gun from the Heart!",
+        "releaseDate": "1991-01-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-346",
+        "seriesId": "asm",
+        "issueNumber": "346",
+        "title": "Elliptical Pursuit!",
+        "releaseDate": "1991-02-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-347",
+        "seriesId": "asm",
+        "issueNumber": "347",
+        "title": "The Boneyard Hop!",
+        "releaseDate": "1991-03-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-360",
+        "seriesId": "asm",
+        "issueNumber": "360",
+        "title": "Death Toy!",
+        "releaseDate": "1992-01-14",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1406,8 +1604,108 @@
         "id": "asm-361",
         "seriesId": "asm",
         "issueNumber": "361",
-        "title": "Carnage Part One (First full Carnage appearance)",
-        "releaseDate": "1992-04-01",
+        "title": "Carnage, Part One: Savage Genesis!",
+        "releaseDate": "1992-02-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-362",
+        "seriesId": "asm",
+        "issueNumber": "362",
+        "title": "Carnage, Part Two: Savage Alliance!",
+        "releaseDate": "1992-03-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-363",
+        "seriesId": "asm",
+        "issueNumber": "363",
+        "title": "Carnage, Conclusion: Savage Grace!",
+        "releaseDate": "1992-04-14",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-365",
+        "seriesId": "asm",
+        "issueNumber": "365",
+        "title": "Fathers and Sins!",
+        "releaseDate": "1992-06-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-375",
+        "seriesId": "asm",
+        "issueNumber": "375",
+        "title": "The Bride of Venom!",
+        "releaseDate": "1993-01-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-378",
+        "seriesId": "asm",
+        "issueNumber": "378",
+        "title": "Demons on Broadway!",
+        "releaseDate": "1993-04-13",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-379",
+        "seriesId": "asm",
+        "issueNumber": "379",
+        "title": "The Gathering Storm!",
+        "releaseDate": "1993-05-11",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-380",
+        "seriesId": "asm",
+        "issueNumber": "380",
+        "title": "Soldiers of Hope!",
+        "releaseDate": "1993-06-08",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-388",
+        "seriesId": "asm",
+        "issueNumber": "388",
+        "title": "The Sadness of Truth!",
+        "releaseDate": "1994-02-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-394",
+        "seriesId": "asm",
+        "issueNumber": "394",
+        "title": "Power and Responsibility - Part Two: Breakdown",
+        "releaseDate": "1994-08-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-397",
+        "seriesId": "asm",
+        "issueNumber": "397",
+        "title": "Tentacles!",
+        "releaseDate": "1994-11-08",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1416,12 +1714,33 @@
         "id": "asm-400",
         "seriesId": "asm",
         "issueNumber": "400",
-        "title": "The Gift (Death of Aunt May)",
-        "releaseDate": "1995-04-01",
+        "title": "A Death in the Family!",
+        "releaseDate": "1995-02-14",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
+    {
+        "id": "asm-418",
+        "seriesId": "asm",
+        "issueNumber": "418",
+        "title": "Torment!",
+        "releaseDate": "1996-10-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-441",
+        "seriesId": "asm",
+        "issueNumber": "441",
+        "title": "The Final Chapter Part 1 of 4: And Who Shall Claim A Kingly Crown!",
+        "releaseDate": "1998-09-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+
     {
         "id": "asm-vol2-30",
         "seriesId": "asm-vol2",

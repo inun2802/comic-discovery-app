@@ -390,5 +390,150 @@
         "storyArcId": "venom-origin",
         "issueId": "asm-300",
         "order": 3
+    },
+    {
+        "storyArcId": "venom-returns-315",
+        "issueId": "asm-315",
+        "order": 1
+    },
+    {
+        "storyArcId": "venom-returns-315",
+        "issueId": "asm-316",
+        "order": 2
+    },
+    {
+        "storyArcId": "venom-returns-315",
+        "issueId": "asm-317",
+        "order": 3
+    },
+    {
+        "storyArcId": "assassin-nation-plot",
+        "issueId": "asm-320",
+        "order": 1
+    },
+    {
+        "storyArcId": "assassin-nation-plot",
+        "issueId": "asm-321",
+        "order": 2
+    },
+    {
+        "storyArcId": "assassin-nation-plot",
+        "issueId": "asm-322",
+        "order": 3
+    },
+    {
+        "storyArcId": "assassin-nation-plot",
+        "issueId": "asm-323",
+        "order": 4
+    },
+    {
+        "storyArcId": "assassin-nation-plot",
+        "issueId": "asm-325",
+        "order": 5
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-334",
+        "order": 1
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-335",
+        "order": 2
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-336",
+        "order": 3
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-337",
+        "order": 4
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-338",
+        "order": 5
+    },
+    {
+        "storyArcId": "return-sinister-six",
+        "issueId": "asm-339",
+        "order": 6
+    },
+    {
+        "storyArcId": "venom-lives",
+        "issueId": "asm-344",
+        "order": 1
+    },
+    {
+        "storyArcId": "venom-lives",
+        "issueId": "asm-345",
+        "order": 2
+    },
+    {
+        "storyArcId": "venom-lives",
+        "issueId": "asm-346",
+        "order": 3
+    },
+    {
+        "storyArcId": "venom-lives",
+        "issueId": "asm-347",
+        "order": 4
+    },
+    {
+        "storyArcId": "carnage-debut",
+        "issueId": "asm-360",
+        "order": 1
+    },
+    {
+        "storyArcId": "carnage-debut",
+        "issueId": "asm-361",
+        "order": 2
+    },
+    {
+        "storyArcId": "carnage-debut",
+        "issueId": "asm-362",
+        "order": 3
+    },
+    {
+        "storyArcId": "carnage-debut",
+        "issueId": "asm-363",
+        "order": 4
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "asm-378",
+        "order": 3
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "asm-379",
+        "order": 7
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "asm-380",
+        "order": 11
+    },
+    {
+        "storyArcId": "web-of-death",
+        "issueId": "asm-397",
+        "order": 1
+    },
+    {
+        "storyArcId": "web-of-death",
+        "issueId": "asm-398",
+        "order": 2
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "asm-394",
+        "order": 1
+    },
+    {
+        "storyArcId": "death-of-aunt-may",
+        "issueId": "asm-400",
+        "order": 1
     }
 ]
