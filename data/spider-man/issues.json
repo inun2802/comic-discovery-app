@@ -884,7 +884,7 @@
         "seriesId": "asm",
         "issueNumber": "156",
         "title": "On a Clear Day You Can See...the Mirage!",
-        "releaseDate": "1976-03-01",
+        "releaseDate": "1976-02-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -894,7 +894,7 @@
         "seriesId": "asm",
         "issueNumber": "157",
         "title": "The Ghost that Haunted Octopus!",
-        "releaseDate": "1976-04-01",
+        "releaseDate": "1976-03-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -904,7 +904,7 @@
         "seriesId": "asm",
         "issueNumber": "158",
         "title": "Hammerhead is Out!",
-        "releaseDate": "1976-05-01",
+        "releaseDate": "1976-04-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -913,8 +913,8 @@
         "id": "asm-159",
         "seriesId": "asm",
         "issueNumber": "159",
-        "title": "Arm-In-Arm-In-Arm-In-Arm-In-Arm-In-Arm with Doctor Octopus",
-        "releaseDate": "1976-06-01",
+        "title": "Arm-In-Arm  with Doctor Octopus",
+        "releaseDate": "1976-05-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -924,7 +924,7 @@
         "seriesId": "asm",
         "issueNumber": "161",
         "title": "...And the Nightcrawler Came Prowling, Prowling...",
-        "releaseDate": "1976-08-01",
+        "releaseDate": "1976-07-01",
         "universe": "main",
         "isMajorCrossover": true,
         "isKeyIssue": true
@@ -934,7 +934,7 @@
         "seriesId": "asm",
         "issueNumber": "162",
         "title": "Let the Punisher Fit the Crime!",
-        "releaseDate": "1976-09-01",
+        "releaseDate": "1976-08-01",
         "universe": "main",
         "isMajorCrossover": true,
         "isKeyIssue": true
@@ -944,7 +944,7 @@
         "seriesId": "asm",
         "issueNumber": "176",
         "title": "He Who Laughs Last...!",
-        "releaseDate": "1977-11-01",
+        "releaseDate": "1977-10-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -954,7 +954,7 @@
         "seriesId": "asm",
         "issueNumber": "177",
         "title": "Goblin in the Middle",
-        "releaseDate": "1977-12-01",
+        "releaseDate": "1977-11-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -964,7 +964,7 @@
         "seriesId": "asm",
         "issueNumber": "178",
         "title": "Green Grows the Goblin",
-        "releaseDate": "1978-01-01",
+        "releaseDate": "1977-12-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -974,7 +974,7 @@
         "seriesId": "asm",
         "issueNumber": "179",
         "title": "The Goblin's Always Greener...!",
-        "releaseDate": "1978-02-01",
+        "releaseDate": "1978-01-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -984,7 +984,7 @@
         "seriesId": "asm",
         "issueNumber": "180",
         "title": "Who Was that Goblin I Saw You With?",
-        "releaseDate": "1978-03-01",
+        "releaseDate": "1978-02-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -994,7 +994,7 @@
         "seriesId": "asm",
         "issueNumber": "182",
         "title": "The Rocket Racer's Back in Town!",
-        "releaseDate": "1978-05-01",
+        "releaseDate": "1978-04-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1004,7 +1004,7 @@
         "seriesId": "asm",
         "issueNumber": "183",
         "title": "...And Where the Big Wheel Stops, Nobody Knows!",
-        "releaseDate": "1978-06-01",
+        "releaseDate": "1978-05-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1014,7 +1014,7 @@
         "seriesId": "asm",
         "issueNumber": "194",
         "title": "My Deadly Enemy...the Black Cat!",
-        "releaseDate": "1979-07-01",
+        "releaseDate": "1979-04-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1024,7 +1024,7 @@
         "seriesId": "asm",
         "issueNumber": "195",
         "title": "Nine Lives Has the Black Cat!",
-        "releaseDate": "1979-06-01",
+        "releaseDate": "1979-05-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1034,7 +1034,7 @@
         "seriesId": "asm",
         "issueNumber": "196",
         "title": "Requiem!",
-        "releaseDate": "1979-07-01",
+        "releaseDate": "1979-06-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1044,19 +1044,137 @@
         "seriesId": "asm",
         "issueNumber": "200",
         "title": "The Spider and the Burglar...A Sequel",
-        "releaseDate": "1979-11-01",
+        "releaseDate": "1979-10-01",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
-
-    
+    {
+        "id": "asm-224",
+        "seriesId": "asm",
+        "issueNumber": "224",
+        "title": "The Sandman Always Strikes Twice!",
+        "releaseDate": "1981-10-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-226",
+        "seriesId": "asm",
+        "issueNumber": "226",
+        "title": "But the Cat Came Back!",
+        "releaseDate": "1981-12-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-227",
+        "seriesId": "asm",
+        "issueNumber": "227",
+        "title": "Cat and Mouse",
+        "releaseDate": "1982-01-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-229",
+        "seriesId": "asm",
+        "issueNumber": "229",
+        "title": "Nothing Can Stop the Juggernaut!",
+        "releaseDate": "1982-03-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-230",
+        "seriesId": "asm",
+        "issueNumber": "230",
+        "title": "To Fight the Unbeatable Foe!",
+        "releaseDate": "1982-04-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
     {
         "id": "asm-238",
         "seriesId": "asm",
         "issueNumber": "238",
-        "title": "The Hobgoblin Lives!",
-        "releaseDate": "1983-03-01",
+        "title": "Shadow of Evils Past!",
+        "releaseDate": "1982-11-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-239",
+        "seriesId": "asm",
+        "issueNumber": "239",
+        "title": "Now Strikes The Hobgoblin!",
+        "releaseDate": "1982-12-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-244",
+        "seriesId": "asm",
+        "issueNumber": "244",
+        "title": "Ordeals!",
+        "releaseDate": "1983-05-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-245",
+        "seriesId": "asm",
+        "issueNumber": "245",
+        "title": "Sacrifice Play!",
+        "releaseDate": "1983-06-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-248",
+        "seriesId": "asm",
+        "issueNumber": "248",
+        "title": "The Kid Who Collects Spider-Man!(B-Story)",
+        "releaseDate": "1983-09-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-249",
+        "seriesId": "asm",
+        "issueNumber": "249",
+        "title": "Secrets!",
+        "releaseDate": "1983-10-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-250",
+        "seriesId": "asm",
+        "issueNumber": "250",
+        "title": "Confessions!",
+        "releaseDate": "1983-11-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-251",
+        "seriesId": "asm",
+        "issueNumber": "251",
+        "title": "Endings!",
+        "releaseDate": "1984-01-03",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1065,8 +1183,48 @@
         "id": "asm-252",
         "seriesId": "asm",
         "issueNumber": "252",
-        "title": "Homecoming! (First Black Costume)",
+        "title": "Homecoming!",
+        "releaseDate": "1984-01-31",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-253",
+        "seriesId": "asm",
+        "issueNumber": "253",
+        "title": "By Myself Betrayed!",
+        "releaseDate": "1984-02-28",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-255",
+        "seriesId": "asm",
+        "issueNumber": "255",
+        "title": "Even a Ghost Can Fear!",
         "releaseDate": "1984-05-01",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-256",
+        "seriesId": "asm",
+        "issueNumber": "256",
+        "title": "Introducing... Puma!",
+        "releaseDate": "1984-05-29",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-257",
+        "seriesId": "asm",
+        "issueNumber": "257",
+        "title": "Beware the Claws of Puma!",
+        "releaseDate": "1984-07-03",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1076,27 +1234,127 @@
         "seriesId": "asm",
         "issueNumber": "258",
         "title": "The Sinister Secret of Spider-Man's New Costume!",
-        "releaseDate": "1984-11-01",
+        "releaseDate": "1984-07-31",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
     {
-        "id": "sm-vs-wolverine-1",
-        "seriesId": "sm-vs-wolverine",
-        "issueNumber": "1",
-        "title": "Spider-Man vs. Wolverine",
-        "releaseDate": "1987-02-01",
+        "id": "asm-259",
+        "seriesId": "asm",
+        "issueNumber": "259",
+        "title": "All My Pasts Remembered!",
+        "releaseDate": "1984-09-04",
         "universe": "main",
-        "isMajorCrossover": true,
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-265",
+        "seriesId": "asm",
+        "issueNumber": "265",
+        "title": "After the Fox!",
+        "releaseDate": "1985-03-05",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-275",
+        "seriesId": "asm",
+        "issueNumber": "275",
+        "title": "The Choice and the Challenge!",
+        "releaseDate": "1985-12-31",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-276",
+        "seriesId": "asm",
+        "issueNumber": "276",
+        "title": "Unmasked!",
+        "releaseDate": "1986-02-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-283",
+        "seriesId": "asm",
+        "issueNumber": "283",
+        "title": "With Foes Like These...",
+        "releaseDate": "1986-09-02",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-284",
+        "seriesId": "asm",
+        "issueNumber": "284",
+        "title": "....And Who Will Stand Against Them...?",
+        "releaseDate": "1986-09-30",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-285",
+        "seriesId": "asm",
+        "issueNumber": "285",
+        "title": "The Arranger Must Die!",
+        "releaseDate": "1986-11-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-289",
+        "seriesId": "asm",
+        "issueNumber": "289",
+        "title": "The Hobgoblin Revealed!",
+        "releaseDate": "1987-03-03",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-290",
+        "seriesId": "asm",
+        "issueNumber": "290",
+        "title": "The Big Question",
+        "releaseDate": "1987-03-31",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-292",
+        "seriesId": "asm",
+        "issueNumber": "292",
+        "title": "Growning Pains!",
+        "releaseDate": "1987-06-02",
+        "universe": "main",
+        "isMajorCrossover": false,
         "isKeyIssue": true
     },
     {
         "id": "asm-293",
         "seriesId": "asm",
         "issueNumber": "293",
-        "title": "Kraven's Last Hunt Part 1",
-        "releaseDate": "1987-10-01",
+        "title": "Crawling",
+        "releaseDate": "1987-06-30",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-294",
+        "seriesId": "asm",
+        "issueNumber": "294",
+        "title": "Thunder",
+        "releaseDate": "1987-08-04",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1105,8 +1363,18 @@
         "id": "asm-298",
         "seriesId": "asm",
         "issueNumber": "298",
-        "title": "The Alien Costume (First Eddie Brock appearance)",
-        "releaseDate": "1988-03-01",
+        "title": "Chance Encounter!",
+        "releaseDate": "1987-11-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-299",
+        "seriesId": "asm",
+        "issueNumber": "299",
+        "title": "Survival of the Fittest!",
+        "releaseDate": "1987-12-08",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1115,12 +1383,15 @@
         "id": "asm-300",
         "seriesId": "asm",
         "issueNumber": "300",
-        "title": "Venom!",
-        "releaseDate": "1988-05-01",
+        "title": "Venom",
+        "releaseDate": "1988-01-12",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
+
+
+    
     {
         "id": "asm-344",
         "seriesId": "asm",
@@ -1249,6 +1520,16 @@
         "releaseDate": "2014-06-01",
         "universe": "main",
         "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "sm-vs-wolverine-1",
+        "seriesId": "sm-vs-wolverine",
+        "issueNumber": "1",
+        "title": "Spider-Man vs. Wolverine",
+        "releaseDate": "1987-02-01",
+        "universe": "main",
+        "isMajorCrossover": true,
         "isKeyIssue": true
     },
     {

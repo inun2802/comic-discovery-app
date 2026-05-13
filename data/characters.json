@@ -444,6 +444,24 @@
         "publisherId": "marvel"
     },
     {
+        "id": "juggernaut",
+        "name": "Juggernaut",
+        "description": "Cain Marko, step-brother of Professor X, an unstoppable force empowered by the Crimson Gem of Cyttorak",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin",
+        "name": "Hobgoblin",
+        "description": "Roderick Kingsley, a fashion mogul who discovered the Green Goblin's hideout and became the Hobgoblin",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "madame-web",
+        "name": "Madame Web",
+        "description": "Cassandra Webb, a powerful psychic and clairvoyant who is connected to a life support system resembling a spider web",
+        "publisherId": "marvel"
+    },
+    {
         "id": "medusa",
         "name": "Medusa",
         "description": "Medusalith Amaquelin, queen of the Inhumans with prehensile hair",
@@ -453,6 +471,36 @@
         "id": "morbius",
         "name": "Morbius",
         "description": "Dr. Michael Morbius, a biochemist turned living vampire after a failed experiment",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "silver-sable",
+        "name": "Silver Sable",
+        "description": "Silver Sablinova, leader of the Wild Pack and a mercenary who hunts war criminals",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "puma",
+        "name": "Puma",
+        "description": "Thomas Fireheart, a Native American businessman who can transform into a puma-like creature",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-fox",
+        "name": "Black Fox",
+        "description": "An aging jewel thief who repeatedly clashes with Spider-Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "eddie-brock",
+        "name": "Eddie Brock",
+        "description": "A disgraced journalist who bonds with the alien symbiote to become Venom, one of Spider-Man's greatest foes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "venom",
+        "name": "Venom",
+        "description": "Eddie Brock bonded with the alien symbiote, creating one of Spider-Man's most terrifying villains",
         "publisherId": "marvel"
     },
     {

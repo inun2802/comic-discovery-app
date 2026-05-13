@@ -88,5 +88,96 @@
         "title": "Death of the Burglar",
         "description": "Spider-Man finally confronts the burglar responsible for Uncle Ben's death in the landmark 200th issue.",
         "publisherId": "marvel"
+    },
+    {
+        "id": "nothing-can-stop-juggernaut",
+        "title": "Nothing Can Stop the Juggernaut!",
+        "description": "One of the greatest Spider-Man stories ever told. Spider-Man must stop the unstoppable Juggernaut alone to save Madame Web.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin-debut",
+        "title": "The Hobgoblin Lives!",
+        "description": "The debut of the Hobgoblin, one of Spider-Man's greatest mysteries. Who is behind the mask?",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin-returns",
+        "title": "The Hobgoblin Returns",
+        "description": "The Hobgoblin returns and fakes his death, deepening the mystery of his true identity.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-costume-saga",
+        "title": "The Black Costume Saga",
+        "description": "Spider-Man returns from Secret Wars with an alien symbiote costume that begins to take control of him. Leads directly to the creation of Venom.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gang-war",
+        "title": "Gang War",
+        "description": "New York's criminal underworld erupts in all-out war following the Kingpin's fall from power. Spider-Man is caught in the middle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin-revealed",
+        "title": "The Hobgoblin Revealed",
+        "description": "The mystery of the Hobgoblin's identity is finally solved — or is it? Ned Leeds is revealed as the Hobgoblin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kravens-last-hunt",
+        "title": "Kraven's Last Hunt",
+        "description": "The greatest Spider-Man story ever told. Kraven the Hunter buries Spider-Man alive and takes his place. Dark, literary, and unforgettable.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "venom-origin",
+        "title": "The Birth of Venom",
+        "description": "Eddie Brock bonds with the alien symbiote to become Venom, culminating in the landmark ASM #300.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "peter-proposes",
+        "title": "Peter Parker Proposes",
+        "description": "Peter Parker finally proposes to Mary Jane Watson and she says yes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-costume-saga",
+        "title": "The Black Costume Saga",
+        "description": "Spider-Man returns from Secret Wars with an alien symbiote costume that begins to take control of him. Leads directly to the creation of Venom.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gang-war",
+        "title": "Gang War",
+        "description": "New York's criminal underworld erupts in all-out war following the Kingpin's fall from power. Spider-Man is caught in the middle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin-revealed",
+        "title": "The Hobgoblin Revealed",
+        "description": "The mystery of the Hobgoblin's identity is finally solved — or is it? Ned Leeds is revealed as the Hobgoblin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kravens-last-hunt",
+        "title": "Kraven's Last Hunt",
+        "description": "The greatest Spider-Man story ever told. Kraven the Hunter buries Spider-Man alive and takes his place. Dark, literary, and unforgettable.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "venom-origin",
+        "title": "The Birth of Venom",
+        "description": "Eddie Brock bonds with the alien symbiote to become Venom, culminating in the landmark ASM #300.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "peter-proposes",
+        "title": "Peter Parker Proposes",
+        "description": "Peter Parker finally proposes to Mary Jane Watson and she says yes.",
+        "publisherId": "marvel"
     }
+
 ]

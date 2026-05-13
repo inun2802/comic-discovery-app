@@ -255,5 +255,140 @@
         "storyArcId": "death-of-burglar",
         "issueId": "asm-200",
         "order": 1
+    },
+    {
+        "storyArcId": "nothing-can-stop-juggernaut",
+        "issueId": "asm-229",
+        "order": 1
+    },
+    {
+        "storyArcId": "nothing-can-stop-juggernaut",
+        "issueId": "asm-230",
+        "order": 2
+    },
+    {
+        "storyArcId": "hobgoblin-debut",
+        "issueId": "asm-238",
+        "order": 1
+    },
+    {
+        "storyArcId": "hobgoblin-debut",
+        "issueId": "asm-239",
+        "order": 2
+    },
+    {
+        "storyArcId": "hobgoblin-returns",
+        "issueId": "asm-244",
+        "order": 1
+    },
+    {
+        "storyArcId": "hobgoblin-returns",
+        "issueId": "asm-245",
+        "order": 2
+    },
+    {
+        "storyArcId": "hobgoblin-returns",
+        "issueId": "asm-249",
+        "order": 3
+    },
+    {
+        "storyArcId": "hobgoblin-returns",
+        "issueId": "asm-250",
+        "order": 4
+    },
+    {
+        "storyArcId": "hobgoblin-returns",
+        "issueId": "asm-251",
+        "order": 5
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-252",
+        "order": 1
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-253",
+        "order": 2
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-255",
+        "order": 3
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-256",
+        "order": 4
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-257",
+        "order": 5
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-258",
+        "order": 6
+    },
+    {
+        "storyArcId": "black-costume-saga",
+        "issueId": "asm-259",
+        "order": 7
+    },
+    {
+        "storyArcId": "gang-war",
+        "issueId": "asm-283",
+        "order": 1
+    },
+    {
+        "storyArcId": "gang-war",
+        "issueId": "asm-284",
+        "order": 2
+    },
+    {
+        "storyArcId": "gang-war",
+        "issueId": "asm-285",
+        "order": 3
+    },
+    {
+        "storyArcId": "hobgoblin-revealed",
+        "issueId": "asm-289",
+        "order": 1
+    },
+    {
+        "storyArcId": "kravens-last-hunt",
+        "issueId": "asm-293",
+        "order": 1
+    },
+    {
+        "storyArcId": "kravens-last-hunt",
+        "issueId": "asm-294",
+        "order": 2
+    },
+    {
+        "storyArcId": "peter-proposes",
+        "issueId": "asm-290",
+        "order": 1
+    },
+    {
+        "storyArcId": "peter-proposes",
+        "issueId": "asm-292",
+        "order": 2
+    },
+    {
+        "storyArcId": "venom-origin",
+        "issueId": "asm-298",
+        "order": 1
+    },
+    {
+        "storyArcId": "venom-origin",
+        "issueId": "asm-299",
+        "order": 2
+    },
+    {
+        "storyArcId": "venom-origin",
+        "issueId": "asm-300",
+        "order": 3
     }
 ]
