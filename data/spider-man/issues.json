@@ -204,7 +204,7 @@
         "seriesId": "asm",
         "issueNumber": "32",
         "title": "Man On A Rampage!",
-        "releaseDate": "1964-07-01",
+        "releaseDate": "1964-10-12",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -294,7 +294,7 @@
         "seriesId": "asm",
         "issueNumber": "46",
         "title": "The Sinister Shocker!",
-        "releaseDate": "1966-12-01",
+        "releaseDate": "1966-12-08",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -434,7 +434,7 @@
         "seriesId": "asm",
         "issueNumber": "72",
         "title": "Rocked by...the Shocker!",
-        "releaseDate": "1968-12-01",
+        "releaseDate": "1969-02-11",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1750,13 +1750,73 @@
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
-
+    
+    {
+        "id": "asm-vol2-1",
+        "seriesId": "asm-vol2",
+        "issueNumber": "1",
+        "title": "Where R U Spider-Man???",
+        "releaseDate": "1998-11-11",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
     {
         "id": "asm-vol2-30",
         "seriesId": "asm-vol2",
         "issueNumber": "30",
         "title": "Coming Home Part 1",
-        "releaseDate": "2001-06-01",
+        "releaseDate": "2001-06-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-31",
+        "seriesId": "asm-vol2",
+        "issueNumber": "31",
+        "title": "Coming Home Part 2",
+        "releaseDate": "2001-07-11",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-32",
+        "seriesId": "asm-vol2",
+        "issueNumber": "32",
+        "title": "Coming Home Part 3",
+        "releaseDate": "2001-08-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-33",
+        "seriesId": "asm-vol2",
+        "issueNumber": "33",
+        "title": "Coming Home Part 4",
+        "releaseDate": "2001-09-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-34",
+        "seriesId": "asm-vol2",
+        "issueNumber": "34",
+        "title": "Coming Home Part 5",
+        "releaseDate": "2001-10-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-35",
+        "seriesId": "asm-vol2",
+        "issueNumber": "35",
+        "title": "Coming Home Part 6",
+        "releaseDate": "2001-11-14",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1765,8 +1825,38 @@
         "id": "asm-vol2-36",
         "seriesId": "asm-vol2",
         "issueNumber": "36",
-        "title": "Stand Tall (9/11 Issue)",
-        "releaseDate": "2001-12-01",
+        "title": "Stand Tall",
+        "releaseDate": "2001-12-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-38",
+        "seriesId": "asm-vol2",
+        "issueNumber": "38",
+        "title": "The Conversation",
+        "releaseDate": "2002-02-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-498",
+        "seriesId": "asm-vol2",
+        "issueNumber": "498",
+        "title": "Happy Birthday Part 1",
+        "releaseDate": "2003-10-22",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-499",
+        "seriesId": "asm-vol2",
+        "issueNumber": "499",
+        "title": "Happy Birthday Part 2",
+        "releaseDate": "2003-11-19",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1775,10 +1865,330 @@
         "id": "asm-500",
         "seriesId": "asm-vol2",
         "issueNumber": "500",
-        "title": "Happy Birthday Part 1",
-        "releaseDate": "2003-12-01",
+        "title": "Happy Birthday Part 3",
+        "releaseDate": "2003-12-24",
         "universe": "main",
         "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-503",
+        "seriesId": "asm-vol2",
+        "issueNumber": "503",
+        "title": "The Book of Ezekiel Chapter One",
+        "releaseDate": "2004-02-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-504",
+        "seriesId": "asm-vol2",
+        "issueNumber": "504",
+        "title": "The Book of Ezekiel Chapter Two",
+        "releaseDate": "2004-02-25",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-505",
+        "seriesId": "asm-vol2",
+        "issueNumber": "505",
+        "title": "The Book of Ezekiel Chapter Three",
+        "releaseDate": "2004-03-17",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-506",
+        "seriesId": "asm-vol2",
+        "issueNumber": "506",
+        "title": "The Book of Ezekiel Chapter Four",
+        "releaseDate": "2004-04-07",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-507",
+        "seriesId": "asm-vol2",
+        "issueNumber": "507",
+        "title": "The Book of Ezekiel Chapter Five",
+        "releaseDate": "2004-05-05",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-508",
+        "seriesId": "asm-vol2",
+        "issueNumber": "508",
+        "title": "The Book of Ezekiel Chapter Six",
+        "releaseDate": "2004-06-16",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-509",
+        "seriesId": "asm-vol2",
+        "issueNumber": "509",
+        "title": "Sins Past Part 1",
+        "releaseDate": "2004-08-25",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-510",
+        "seriesId": "asm-vol2",
+        "issueNumber": "510",
+        "title": "Sins Past Part 2",
+        "releaseDate": "2004-09-22",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-511",
+        "seriesId": "asm-vol2",
+        "issueNumber": "511",
+        "title": "Sins Past Part 3",
+        "releaseDate": "2004-10-27",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-512",
+        "seriesId": "asm-vol2",
+        "issueNumber": "512",
+        "title": "Sins Past Part 4",
+        "releaseDate": "2004-11-17",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-513",
+        "seriesId": "asm-vol2",
+        "issueNumber": "513",
+        "title": "Sins Past Part 5",
+        "releaseDate": "2004-12-22",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-514",
+        "seriesId": "asm-vol2",
+        "issueNumber": "514",
+        "title": "Sins Past Part 6",
+        "releaseDate": "2005-01-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-525",
+        "seriesId": "asm-vol2",
+        "issueNumber": "525",
+        "title": "The Other: Evolve or Die Part 3",
+        "releaseDate": "2005-12-14",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-526",
+        "seriesId": "asm-vol2",
+        "issueNumber": "526",
+        "title": "The Other: Evolve or Die Part 6",
+        "releaseDate": "2006-01-11",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-527",
+        "seriesId": "asm-vol2",
+        "issueNumber": "527",
+        "title": "The Other: Evolve or Die Part 9",
+        "releaseDate": "2006-02-08",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-528",
+        "seriesId": "asm-vol2",
+        "issueNumber": "528",
+        "title": "The Other: Evolve or Die Part 12",
+        "releaseDate": "2006-03-08",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-529",
+        "seriesId": "asm-vol2",
+        "issueNumber": "529",
+        "title": "Mr. Parker Goes to Washington Part 1",
+        "releaseDate": "2006-04-12",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-530",
+        "seriesId": "asm-vol2",
+        "issueNumber": "530",
+        "title": "Mr. Parker Goes to Washington Part 2",
+        "releaseDate": "2006-05-10",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-531",
+        "seriesId": "asm-vol2",
+        "issueNumber": "531",
+        "title": "Mr. Parker Goes to Washington Part 3",
+        "releaseDate": "2006-06-07",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-532",
+        "seriesId": "asm-vol2",
+        "issueNumber": "532",
+        "title": "The War at Home Part 1",
+        "releaseDate": "2006-05-31",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-533",
+        "seriesId": "asm-vol2",
+        "issueNumber": "533",
+        "title": "The War at Home Part 2",
+        "releaseDate": "2006-07-19",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-534",
+        "seriesId": "asm-vol2",
+        "issueNumber": "534",
+        "title": "The War at Home Part 3",
+        "releaseDate": "2006-08-23",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-535",
+        "seriesId": "asm-vol2",
+        "issueNumber": "535",
+        "title": "The War at Home Part 4",
+        "releaseDate": "2006-09-27",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-536",
+        "seriesId": "asm-vol2",
+        "issueNumber": "536",
+        "title": "The War at Home Part 5",
+        "releaseDate": "2006-11-22",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-537",
+        "seriesId": "asm-vol2",
+        "issueNumber": "537",
+        "title": "The War at Home Part 6",
+        "releaseDate": "2007-01-10",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-538",
+        "seriesId": "asm-vol2",
+        "issueNumber": "538",
+        "title": "The War at Home Part 7",
+        "releaseDate": "2007-02-21",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-539",
+        "seriesId": "asm-vol2",
+        "issueNumber": "539",
+        "title": "Back in Black Part 1",
+        "releaseDate": "2007-04-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-540",
+        "seriesId": "asm-vol2",
+        "issueNumber": "540",
+        "title": "Back in Black Part 2",
+        "releaseDate": "2007-05-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-541",
+        "seriesId": "asm-vol2",
+        "issueNumber": "541",
+        "title": "Back in Black Part 3",
+        "releaseDate": "2007-06-06",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-542",
+        "seriesId": "asm-vol2",
+        "issueNumber": "542",
+        "title": "Back in Black Part 4",
+        "releaseDate": "2007-07-11",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-543",
+        "seriesId": "asm-vol2",
+        "issueNumber": "543",
+        "title": "Back in Black Part 5",
+        "releaseDate": "2007-10-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-544",
+        "seriesId": "asm-vol2",
+        "issueNumber": "544",
+        "title": "One More Day Part 1",
+        "releaseDate": "2007-11-07",
+        "universe": "main",
+        "isMajorCrossover": true,
         "isKeyIssue": true
     },
     {
@@ -1786,7 +2196,7 @@
         "seriesId": "asm-vol2",
         "issueNumber": "545",
         "title": "One More Day Part 4",
-        "releaseDate": "2007-12-01",
+        "releaseDate": "2008-01-09",
         "universe": "main",
         "isMajorCrossover": true,
         "isKeyIssue": true
@@ -1796,7 +2206,167 @@
         "seriesId": "asm-vol2",
         "issueNumber": "546",
         "title": "Brand New Day",
-        "releaseDate": "2008-01-01",
+        "releaseDate": "2008-01-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-547",
+        "seriesId": "asm-vol2",
+        "issueNumber": "547",
+        "title": "Crimes of the Heart",
+        "releaseDate": "2008-01-16",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-548",
+        "seriesId": "asm-vol2",
+        "issueNumber": "548",
+        "title": "Blood Ties",
+        "releaseDate": "2008-01-23",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-549",
+        "seriesId": "asm-vol2",
+        "issueNumber": "549",
+        "title": "Who's That Girl?!",
+        "releaseDate": "2008-02-06",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-550",
+        "seriesId": "asm-vol2",
+        "issueNumber": "550",
+        "title": "The Menace of... Menace!!",
+        "releaseDate": "2008-02-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-551",
+        "seriesId": "asm-vol2",
+        "issueNumber": "551",
+        "title": "Lo, There Shall Come a Menace!!",
+        "releaseDate": "2008-02-20",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-552",
+        "seriesId": "asm-vol2",
+        "issueNumber": "552",
+        "title": "Just Blame Spider-Man",
+        "releaseDate": "2008-03-05",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-553",
+        "seriesId": "asm-vol2",
+        "issueNumber": "553",
+        "title": "Freak-Out!",
+        "releaseDate": "2008-03-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-565",
+        "seriesId": "asm-vol2",
+        "issueNumber": "565",
+        "title": "Kraven's First Hunt Part 1: To Squash a Spider!",
+        "releaseDate": "2008-07-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-566",
+        "seriesId": "asm-vol2",
+        "issueNumber": "566",
+        "title": "Kraven's First Hunt Part 2: Identity Crisis!",
+        "releaseDate": "2008-07-16",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-567",
+        "seriesId": "asm-vol2",
+        "issueNumber": "567",
+        "title": "Kraven's First Hunt Part 3: Legacy",
+        "releaseDate": "2008-08-13",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-568",
+        "seriesId": "asm-vol2",
+        "issueNumber": "568",
+        "title": "New Ways to Die Part 1: Back with Vengeance",
+        "releaseDate": "2008-08-20",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-569",
+        "seriesId": "asm-vol2",
+        "issueNumber": "569",
+        "title": "New Ways to Die Part 2: The Osborn Supremacy",
+        "releaseDate": "2008-08-27",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-570",
+        "seriesId": "asm-vol2",
+        "issueNumber": "570",
+        "title": "New Ways to Die Part 3: The Killer Cure",
+        "releaseDate": "2008-09-03",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-571",
+        "seriesId": "asm-vol2",
+        "issueNumber": "571",
+        "title": "New Ways to Die Part 4: Opposites Attack",
+        "releaseDate": "2008-09-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-572",
+        "seriesId": "asm-vol2",
+        "issueNumber": "572",
+        "title": "New Ways to Die Part 5: Easy Targets",
+        "releaseDate": "2008-09-17",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-573",
+        "seriesId": "asm-vol2",
+        "issueNumber": "573",
+        "title": "New Ways to Die Part 6: Weapons of Self Destruction",
+        "releaseDate": "2008-10-15",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1806,7 +2376,467 @@
         "seriesId": "asm-vol2",
         "issueNumber": "600",
         "title": "Last Legs",
-        "releaseDate": "2009-08-01",
+        "releaseDate": "2009-08-05",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-609",
+        "seriesId": "asm-vol2",
+        "issueNumber": "609",
+        "title": "The Pain of Kaine",
+        "releaseDate": "2009-10-21",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-610",
+        "seriesId": "asm-vol2",
+        "issueNumber": "610",
+        "title": "Who Was Ben Reilly?",
+        "releaseDate": "2009-11-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-612",
+        "seriesId": "asm-vol2",
+        "issueNumber": "612",
+        "title": "Power to the People Part 1",
+        "releaseDate": "2009-11-18",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-613",
+        "seriesId": "asm-vol2",
+        "issueNumber": "613",
+        "title": "Power to the People Part 2",
+        "releaseDate": "2009-11-25",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-614",
+        "seriesId": "asm-vol2",
+        "issueNumber": "614",
+        "title": "Power to the People Part 3",
+        "releaseDate": "2009-12-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-615",
+        "seriesId": "asm-vol2",
+        "issueNumber": "615",
+        "title": "Keemia's Castle Part 1",
+        "releaseDate": "2009-12-16",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-616",
+        "seriesId": "asm-vol2",
+        "issueNumber": "616",
+        "title": "Keemia's Castle Part 2",
+        "releaseDate": "2009-12-23",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-617",
+        "seriesId": "asm-vol2",
+        "issueNumber": "617",
+        "title": "Rage of the Rhino",
+        "releaseDate": "2010-01-06",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-618",
+        "seriesId": "asm-vol2",
+        "issueNumber": "618",
+        "title": "Mysterioso Part 1: Un-Murder Incorporated",
+        "releaseDate": "2010-01-20",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-619",
+        "seriesId": "asm-vol2",
+        "issueNumber": "619",
+        "title": "Mysterioso Part 2: Re-Appearing Act",
+        "releaseDate": "2010-01-27",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-620",
+        "seriesId": "asm-vol2",
+        "issueNumber": "620",
+        "title": "Mysterioso Part 3: Smoke & Mirrors",
+        "releaseDate": "2010-02-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-621",
+        "seriesId": "asm-vol2",
+        "issueNumber": "621",
+        "title": "Out for Blood Part 1",
+        "releaseDate": "2010-02-17",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-622",
+        "seriesId": "asm-vol2",
+        "issueNumber": "622",
+        "title": "It is the Life",
+        "releaseDate": "2010-02-24",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-630",
+        "seriesId": "asm-vol2",
+        "issueNumber": "630",
+        "title": "Shed Part 1",
+        "releaseDate": "2010-05-05",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-631",
+        "seriesId": "asm-vol2",
+        "issueNumber": "631",
+        "title": "Shed Part 2: The Death of Curt Connors",
+        "releaseDate": "2010-05-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-632",
+        "seriesId": "asm-vol2",
+        "issueNumber": "632",
+        "title": "Shed Part 3",
+        "releaseDate": "2010-05-26",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-633",
+        "seriesId": "asm-vol2",
+        "issueNumber": "633",
+        "title": "Shed Conclusion",
+        "releaseDate": "2010-06-02",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-634",
+        "seriesId": "asm-vol2",
+        "issueNumber": "634",
+        "title": "The Grim Hunt Chapter 1",
+        "releaseDate": "2010-06-16",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-635",
+        "seriesId": "asm-vol2",
+        "issueNumber": "635",
+        "title": "The Grim Hunt Chapter 2",
+        "releaseDate": "2010-06-23",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-636",
+        "seriesId": "asm-vol2",
+        "issueNumber": "636",
+        "title": "The Grim Hunt Chapter 3",
+        "releaseDate": "2010-07-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-637",
+        "seriesId": "asm-vol2",
+        "issueNumber": "637",
+        "title": "Grim Hunt Conclusion",
+        "releaseDate": "2010-07-14",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-648",
+        "seriesId": "asm-vol2",
+        "issueNumber": "648",
+        "title": "Big Time Part 1",
+        "releaseDate": "2010-11-10",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-649",
+        "seriesId": "asm-vol2",
+        "issueNumber": "649",
+        "title": "Big Time Part 2",
+        "releaseDate": "2010-11-17",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-650",
+        "seriesId": "asm-vol2",
+        "issueNumber": "650",
+        "title": "Big Time Part 3",
+        "releaseDate": "2010-11-24",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-651",
+        "seriesId": "asm-vol2",
+        "issueNumber": "651",
+        "title": "Big Time Part 4",
+        "releaseDate": "2010-12-08",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-652",
+        "seriesId": "asm-vol2",
+        "issueNumber": "652",
+        "title": "Big Time Part 5",
+        "releaseDate": "2010-12-22",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-653",
+        "seriesId": "asm-vol2",
+        "issueNumber": "653",
+        "title": "Big Time Part 6",
+        "releaseDate": "2011-01-12",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-654",
+        "seriesId": "asm-vol2",
+        "issueNumber": "654",
+        "title": "Big Time Part 7: Flash Thompson Becomes Agent Venom",
+        "releaseDate": "2011-01-26",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-655",
+        "seriesId": "asm-vol2",
+        "issueNumber": "655",
+        "title": "Big Time Part 8",
+        "releaseDate": "2011-02-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-656",
+        "seriesId": "asm-vol2",
+        "issueNumber": "656",
+        "title": "Big Time Part 9",
+        "releaseDate": "2011-03-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-666",
+        "seriesId": "asm-vol2",
+        "issueNumber": "666",
+        "title": "Spider-Island Prologue: The One and Only",
+        "releaseDate": "2011-08-10",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-667",
+        "seriesId": "asm-vol2",
+        "issueNumber": "667",
+        "title": "Spider-Island Part 1",
+        "releaseDate": "2011-08-17",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-668",
+        "seriesId": "asm-vol2",
+        "issueNumber": "668",
+        "title": "Spider-Island Part 2",
+        "releaseDate": "2011-08-31",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-669",
+        "seriesId": "asm-vol2",
+        "issueNumber": "669",
+        "title": "Spider-Island Part 3",
+        "releaseDate": "2011-09-07",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-670",
+        "seriesId": "asm-vol2",
+        "issueNumber": "670",
+        "title": "Spider-Island Part 4",
+        "releaseDate": "2011-09-14",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-671",
+        "seriesId": "asm-vol2",
+        "issueNumber": "671",
+        "title": "Spider-Island Part 5",
+        "releaseDate": "2011-09-21",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-672",
+        "seriesId": "asm-vol2",
+        "issueNumber": "672",
+        "title": "Spider-Island Part 6",
+        "releaseDate": "2011-10-05",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-673",
+        "seriesId": "asm-vol2",
+        "issueNumber": "673",
+        "title": "Spider-Island Epilogue",
+        "releaseDate": "2011-10-19",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-682",
+        "seriesId": "asm-vol2",
+        "issueNumber": "682",
+        "title": "Ends of the Earth Part 1",
+        "releaseDate": "2012-03-07",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-683",
+        "seriesId": "asm-vol2",
+        "issueNumber": "683",
+        "title": "Ends of the Earth Part 2",
+        "releaseDate": "2012-03-21",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-684",
+        "seriesId": "asm-vol2",
+        "issueNumber": "684",
+        "title": "Ends of the Earth Part 3",
+        "releaseDate": "2012-04-04",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-685",
+        "seriesId": "asm-vol2",
+        "issueNumber": "685",
+        "title": "Ends of the Earth Part 4",
+        "releaseDate": "2012-04-18",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-686",
+        "seriesId": "asm-vol2",
+        "issueNumber": "686",
+        "title": "Ends of the Earth Part 5",
+        "releaseDate": "2012-05-09",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-687",
+        "seriesId": "asm-vol2",
+        "issueNumber": "687",
+        "title": "Ends of the Earth Part 6",
+        "releaseDate": "2012-06-06",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-698",
+        "seriesId": "asm-vol2",
+        "issueNumber": "698",
+        "title": "Dying Wish Prelude: Necessary Evil",
+        "releaseDate": "2012-11-07",
+        "universe": "main",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "asm-vol2-699",
+        "seriesId": "asm-vol2",
+        "issueNumber": "699",
+        "title": "Dying Wish Part 1: Outside the Box",
+        "releaseDate": "2012-11-21",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
@@ -1815,12 +2845,13 @@
         "id": "asm-700",
         "seriesId": "asm-vol2",
         "issueNumber": "700",
-        "title": "Dying Wish: Suicide Run",
-        "releaseDate": "2012-12-01",
+        "title": "Dying Wish Conclusion: Suicide Run",
+        "releaseDate": "2012-12-19",
         "universe": "main",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
+
     {
         "id": "sup-sm-1",
         "seriesId": "superior-sm",
