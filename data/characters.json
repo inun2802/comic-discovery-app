@@ -540,6 +540,126 @@
         "publisherId": "marvel"
     },
     {
+        "id": "ezekiel",
+        "name": "Ezekiel Sims",
+        "description": "Mysterious businessman who obtained spider-powers through a totem ritual and serves as both mentor and dark mirror to Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "morlun",
+        "name": "Morlun",
+        "description": "An ancient, virtually unstoppable energy vampire who feeds on totemic avatars. One of Spider-Man's most physically threatening foes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "shathra",
+        "name": "Shathra",
+        "description": "A spider-wasp totem and natural predator of the spider-totem. Hunts Spider-Man as part of the ancient totemic cycle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sarah-stacy",
+        "name": "Sarah Stacy",
+        "description": "Gwen Stacy's secret daughter with Norman Osborn, who ages rapidly due to the Goblin formula in her blood.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gabriel-stacy",
+        "name": "Gabriel Stacy",
+        "description": "Gwen Stacy's secret son with Norman Osborn, who becomes the Grey Goblin after injecting himself with the Goblin formula.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "iron-man",
+        "name": "Iron Man",
+        "description": "Tony Stark, billionaire inventor and founding Avenger. Recruits Spider-Man to the pro-registration side during Civil War.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "captain-america",
+        "name": "Captain America",
+        "description": "Steve Rogers, the super-soldier and symbol of America. Leads the anti-registration resistance during Civil War.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "mephisto",
+        "name": "Mephisto",
+        "description": "Marvel's devil figure. Offers to save Aunt May's life in exchange for Peter and MJ's marriage in One More Day.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "lily-hollister",
+        "name": "Lily Hollister / Menace",
+        "description": "Harry Osborn's girlfriend who secretly becomes Menace after exposure to a Goblin formula, serving her father the villain Carlie's rival.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "carlie-cooper",
+        "name": "Carlie Cooper",
+        "description": "NYPD forensic scientist and love interest for Peter Parker during the Brand New Day era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "anti-venom",
+        "name": "Anti-Venom",
+        "description": "Eddie Brock bonded to a new white symbiote formed from his cancer-curing white blood cells. Hunts both Spider-Man and Venom.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "freak",
+        "name": "Freak",
+        "description": "A drug addict who accidentally injects stem cells and mutates into a series of increasingly powerful monster forms.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ana-kravinoff",
+        "name": "Ana Kravinoff",
+        "description": "Kraven the Hunter's daughter, raised to be a remorseless killer. Buries Spider-Man alive as her initiation and leads the Grim Hunt.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sasha-kravinoff",
+        "name": "Sasha Kravinoff",
+        "description": "Kraven's wife and the architect of the Grim Hunt, orchestrating the ritual to resurrect her husband using Spider-Man's blood.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kaine",
+        "name": "Kaine",
+        "description": "A degenerate clone of Peter Parker with precognitive spider-sense and corrosive touch. Antihero who sacrifices himself in the Grim Hunt.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "new-vulture",
+        "name": "Vulture (Freak New)",
+        "description": "A new, younger and more savage Vulture introduced during the Gauntlet, distinct from the original Adrian Toomes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-queen",
+        "name": "Spider-Queen",
+        "description": "The Jackal's partner and primary antagonist of Spider-Island, who can control anyone with spider-powers.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "phil-urich",
+        "name": "Phil Urich / Hobgoblin",
+        "description": "Former heroic Green Goblin who becomes the new murderous Hobgoblin, stealing the mantle to work for the Kingpin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "agent-venom",
+        "name": "Agent Venom",
+        "description": "Flash Thompson bonded to the Venom symbiote as a government black-ops soldier, using it as a force for good.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "horizon-labs",
+        "name": "Max Modell",
+        "description": "Head of Horizon Labs, Peter Parker's dream employer during the Big Time era, who champions Peter's scientific genius.",
+        "publisherId": "marvel"
+    },
+    {
         "id": "mister-fantastic",
         "name": "Mister Fantastic",
         "description": "Reed Richards, The leader of the Fantastic Four",
@@ -557,7 +677,6 @@
         "description": "Johnny Storm, The hot headed younger brother Sue Storm",
         "publisherId": "marvel"
     },
-
     {
         "id": "thing",
         "name": "Thing",

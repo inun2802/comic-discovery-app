@@ -232,6 +232,156 @@
         "title": "The Death of Aunt May",
         "description": "In the landmark 400th issue, Aunt May tells Peter she knows he is Spider-Man before passing away peacefully.",
         "publisherId": "marvel"
+    },
+    {
+        "id": "vol2-relaunch",
+        "title": "Vol. 2 Relaunch",
+        "description": "Spider-Man relaunches with a fresh status quo after the Clone Saga, returning Peter Parker to his classic roots.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "coming-home",
+        "title": "Coming Home",
+        "description": "JMS's debut arc introduces Ezekiel and the totem mythology, reframing Spider-Man's origin. Morlun makes his first devastating appearance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "revelations-911",
+        "title": "Revelations",
+        "description": "Spider-Man's response to the 9/11 attacks. A standalone issue widely regarded as one of the most important single comics of the decade.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "the-conversation",
+        "title": "The Conversation",
+        "description": "Peter finally tells Aunt May he is Spider-Man in a quiet, devastating one-issue story decades in the making.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "happy-birthday",
+        "title": "Happy Birthday",
+        "description": "A time-travel story celebrating legacy issue #500. Peter visits past and future versions of himself in an emotionally resonant milestone.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "book-of-ezekiel",
+        "title": "The Book of Ezekiel",
+        "description": "Morlun returns and Ezekiel's totem arc reaches its conclusion. The payoff of everything JMS seeded in Coming Home.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "the-other",
+        "title": "The Other: Evolve or Die",
+        "description": "Peter Parker dies and is reborn with new instinctual spider abilities, setting up his enhanced status heading into Civil War.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "civil-war-asm",
+        "title": "Civil War",
+        "description": "Peter unmasks on live television in support of the Superhero Registration Act — one of the most consequential moments in Spider-Man history.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "back-in-black",
+        "title": "Back in Black",
+        "description": "Aunt May is shot as a direct consequence of Peter's unmasking. He returns to the black suit and hunts the Kingpin in a brutal, unrelenting arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "one-more-day",
+        "title": "One More Day",
+        "description": "Peter makes a deal with Mephisto to save Aunt May, erasing his marriage to MJ. Resets the entire status quo of the series.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "brand-new-day",
+        "title": "Brand New Day",
+        "description": "The post-OMD relaunch. New status quo, new supporting cast, and the introduction of Menace and Freak across a rotating team of writers.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kravens-first-hunt",
+        "title": "Kraven's First Hunt",
+        "description": "Ana Kravinoff buries Spider-Man alive as her initiation into the hunt, a critical setup for the Grim Hunt.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "new-ways-to-die",
+        "title": "New Ways to Die",
+        "description": "Anti-Venom debuts as Eddie Brock is reborn. Norman Osborn as H.A.M.M.E.R. director confronts Spider-Man directly.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-kaine",
+        "title": "The Gauntlet: Kaine Setup",
+        "description": "Kaine and Ben Reilly's history is revisited, foreshadowing Kaine's sacrifice in the Grim Hunt.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-electro",
+        "title": "The Gauntlet: Electro",
+        "description": "Electro is reframed as a populist revolutionary channeled by the Kravinoffs, opening the Gauntlet and setting its tone.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-sandman",
+        "title": "The Gauntlet: Sandman",
+        "description": "Keemia's Castle — one of the most emotionally complex Sandman stories ever told, as he believes a child is his daughter.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-rhino",
+        "title": "The Gauntlet: Rhino",
+        "description": "A new, deadlier Rhino is sent to kill the original. Rage of the Rhino is a gut-wrenching single issue and one of the best in the Slott era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-mysterio",
+        "title": "The Gauntlet: Mysterio",
+        "description": "Mysterio returns as a genuine threat after years of irrelevance, working with the Maggia and setting up his role in the Gauntlet.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gauntlet-vulture",
+        "title": "The Gauntlet: Vulture",
+        "description": "A new, savage Vulture is introduced as one of the Kravinoffs' assets, raising the stakes of the coming Grim Hunt.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "shed",
+        "title": "Shed",
+        "description": "The Lizard permanently devours Curt Connors' humanity — and kills his own son. One of the darkest transformations in Spider-Man history.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "grim-hunt",
+        "title": "The Grim Hunt",
+        "description": "Kraven's family hunts Peter and every spider-hero. Kaine dies sacrificing himself. The Kravenoffs are resurrected. The Gauntlet's devastating conclusion.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "big-time",
+        "title": "Big Time",
+        "description": "Dan Slott's solo era begins. Peter lands his dream job at Horizon Labs, Phil Urich becomes the new Hobgoblin, and Flash Thompson becomes Agent Venom.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-island",
+        "title": "Spider-Island",
+        "description": "Everyone in Manhattan develops spider powers via the Jackal and the Spider-Queen. MJ gains powers, and Kaine is cured to become the Scarlet Spider.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ends-of-the-earth",
+        "title": "Ends of the Earth",
+        "description": "A dying Doctor Octopus enacts a global master plan to be remembered as a hero. Silver Sable apparently dies stopping him.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "dying-wish",
+        "title": "Dying Wish",
+        "description": "Doctor Octopus swaps minds with Peter Parker. Peter dies in Ock's failing body, spending his last moments proving what it means to be Spider-Man.",
+        "publisherId": "marvel"
     }
 
 

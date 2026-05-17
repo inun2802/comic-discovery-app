@@ -535,5 +535,530 @@
         "storyArcId": "death-of-aunt-may",
         "issueId": "asm-400",
         "order": 1
+    },
+    {
+        "storyArcId": "vol2-relaunch",
+        "issueId": "asm-vol2-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-30",
+        "order": 1
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-31",
+        "order": 2
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-32",
+        "order": 3
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-33",
+        "order": 4
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-34",
+        "order": 5
+    },
+    {
+        "storyArcId": "coming-home",
+        "issueId": "asm-vol2-35",
+        "order": 6
+    },
+    {
+        "storyArcId": "revelations-911",
+        "issueId": "asm-vol2-36",
+        "order": 1
+    },
+    {
+        "storyArcId": "the-conversation",
+        "issueId": "asm-vol2-38",
+        "order": 1
+    },
+    {
+        "storyArcId": "happy-birthday",
+        "issueId": "asm-vol2-498",
+        "order": 1
+    },
+    {
+        "storyArcId": "happy-birthday",
+        "issueId": "asm-vol2-499",
+        "order": 2
+    },
+    {
+        "storyArcId": "happy-birthday",
+        "issueId": "asm-500",
+        "order": 3
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-503",
+        "order": 1
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-504",
+        "order": 2
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-505",
+        "order": 3
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-506",
+        "order": 4
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-507",
+        "order": 5
+    },
+    {
+        "storyArcId": "book-of-ezekiel",
+        "issueId": "asm-vol2-508",
+        "order": 6
+    },
+    {
+        "storyArcId": "sins-past",
+        "issueId": "asm-vol2-513",
+        "order": 5
+    },
+    {
+        "storyArcId": "sins-past",
+        "issueId": "asm-vol2-514",
+        "order": 6
+    },
+    {
+        "storyArcId": "the-other",
+        "issueId": "asm-vol2-525",
+        "order": 1
+    },
+    {
+        "storyArcId": "the-other",
+        "issueId": "asm-vol2-526",
+        "order": 2
+    },
+    {
+        "storyArcId": "the-other",
+        "issueId": "asm-vol2-527",
+        "order": 3
+    },
+    {
+        "storyArcId": "the-other",
+        "issueId": "asm-vol2-528",
+        "order": 4
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-529",
+        "order": 1
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-530",
+        "order": 2
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-531",
+        "order": 3
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-532",
+        "order": 4
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-533",
+        "order": 5
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-534",
+        "order": 6
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-535",
+        "order": 7
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-536",
+        "order": 8
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-537",
+        "order": 9
+    },
+    {
+        "storyArcId": "civil-war-asm",
+        "issueId": "asm-vol2-538",
+        "order": 10
+    },
+    {
+        "storyArcId": "back-in-black",
+        "issueId": "asm-vol2-539",
+        "order": 1
+    },
+    {
+        "storyArcId": "back-in-black",
+        "issueId": "asm-vol2-540",
+        "order": 2
+    },
+    {
+        "storyArcId": "back-in-black",
+        "issueId": "asm-vol2-541",
+        "order": 3
+    },
+    {
+        "storyArcId": "back-in-black",
+        "issueId": "asm-vol2-542",
+        "order": 4
+    },
+    {
+        "storyArcId": "back-in-black",
+        "issueId": "asm-vol2-543",
+        "order": 5
+    },
+    {
+        "storyArcId": "one-more-day",
+        "issueId": "asm-vol2-544",
+        "order": 1
+    },
+    {
+        "storyArcId": "one-more-day",
+        "issueId": "asm-545",
+        "order": 2
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-546",
+        "order": 1
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-547",
+        "order": 2
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-548",
+        "order": 3
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-549",
+        "order": 4
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-550",
+        "order": 5
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-551",
+        "order": 6
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-552",
+        "order": 7
+    },
+    {
+        "storyArcId": "brand-new-day",
+        "issueId": "asm-vol2-553",
+        "order": 8
+    },
+    {
+        "storyArcId": "kravens-first-hunt",
+        "issueId": "asm-vol2-565",
+        "order": 1
+    },
+    {
+        "storyArcId": "kravens-first-hunt",
+        "issueId": "asm-vol2-566",
+        "order": 2
+    },
+    {
+        "storyArcId": "kravens-first-hunt",
+        "issueId": "asm-vol2-567",
+        "order": 3
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-568",
+        "order": 1
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-569",
+        "order": 2
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-570",
+        "order": 3
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-571",
+        "order": 4
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-572",
+        "order": 5
+    },
+    {
+        "storyArcId": "new-ways-to-die",
+        "issueId": "asm-vol2-573",
+        "order": 6
+    },
+    {
+        "storyArcId": "gauntlet-kaine",
+        "issueId": "asm-vol2-609",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-kaine",
+        "issueId": "asm-vol2-610",
+        "order": 2
+    },
+    {
+        "storyArcId": "gauntlet-electro",
+        "issueId": "asm-vol2-612",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-electro",
+        "issueId": "asm-vol2-613",
+        "order": 2
+    },
+    {
+        "storyArcId": "gauntlet-electro",
+        "issueId": "asm-vol2-614",
+        "order": 3
+    },
+    {
+        "storyArcId": "gauntlet-sandman",
+        "issueId": "asm-vol2-615",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-sandman",
+        "issueId": "asm-vol2-616",
+        "order": 2
+    },
+    {
+        "storyArcId": "gauntlet-rhino",
+        "issueId": "asm-vol2-617",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-mysterio",
+        "issueId": "asm-vol2-618",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-mysterio",
+        "issueId": "asm-vol2-619",
+        "order": 2
+    },
+    {
+        "storyArcId": "gauntlet-mysterio",
+        "issueId": "asm-vol2-620",
+        "order": 3
+    },
+    {
+        "storyArcId": "gauntlet-vulture",
+        "issueId": "asm-vol2-621",
+        "order": 1
+    },
+    {
+        "storyArcId": "gauntlet-vulture",
+        "issueId": "asm-vol2-622",
+        "order": 2
+    },
+    {
+        "storyArcId": "shed",
+        "issueId": "asm-vol2-630",
+        "order": 1
+    },
+    {
+        "storyArcId": "shed",
+        "issueId": "asm-vol2-631",
+        "order": 2
+    },
+    {
+        "storyArcId": "shed",
+        "issueId": "asm-vol2-632",
+        "order": 3
+    },
+    {
+        "storyArcId": "shed",
+        "issueId": "asm-vol2-633",
+        "order": 4
+    },
+    {
+        "storyArcId": "grim-hunt",
+        "issueId": "asm-vol2-634",
+        "order": 1
+    },
+    {
+        "storyArcId": "grim-hunt",
+        "issueId": "asm-vol2-635",
+        "order": 2
+    },
+    {
+        "storyArcId": "grim-hunt",
+        "issueId": "asm-vol2-636",
+        "order": 3
+    },
+    {
+        "storyArcId": "grim-hunt",
+        "issueId": "asm-vol2-637",
+        "order": 4
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-648",
+        "order": 1
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-649",
+        "order": 2
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-650",
+        "order": 3
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-651",
+        "order": 4
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-652",
+        "order": 5
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-653",
+        "order": 6
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-654",
+        "order": 7
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-655",
+        "order": 8
+    },
+    {
+        "storyArcId": "big-time",
+        "issueId": "asm-vol2-656",
+        "order": 9
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-666",
+        "order": 1
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-667",
+        "order": 2
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-668",
+        "order": 3
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-669",
+        "order": 4
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-670",
+        "order": 5
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-671",
+        "order": 6
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-672",
+        "order": 7
+    },
+    {
+        "storyArcId": "spider-island",
+        "issueId": "asm-vol2-673",
+        "order": 8
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-682",
+        "order": 1
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-683",
+        "order": 2
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-684",
+        "order": 3
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-685",
+        "order": 4
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-686",
+        "order": 5
+    },
+    {
+        "storyArcId": "ends-of-the-earth",
+        "issueId": "asm-vol2-687",
+        "order": 6
+    },
+    {
+        "storyArcId": "dying-wish",
+        "issueId": "asm-vol2-698",
+        "order": 1
+    },
+    {
+        "storyArcId": "dying-wish",
+        "issueId": "asm-vol2-699",
+        "order": 2
+    },
+    {
+        "storyArcId": "dying-wish",
+        "issueId": "asm-700",
+        "order": 3
     }
 ]
