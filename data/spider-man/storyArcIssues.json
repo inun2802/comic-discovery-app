@@ -1,205 +1,203 @@
 [
-    { 
-        "storyArcId": "master-planner-saga",   
-        "issueId": "asm-31", 
-        "order": 1 
-    },
-    { 
-        "storyArcId": "master-planner-saga",   
-        "issueId": "asm-32", 
-        "order": 2 
-    },
-    { 
-        "storyArcId": "master-planner-saga",   
-        "issueId": "asm-33", 
-        "order": 3 
-    },
-
-    { 
-        "storyArcId": "goblin-identity",       
-        "issueId": "asm-39", 
-        "order": 1 
-    },
-    { 
-        "storyArcId": "goblin-identity",       
-        "issueId": "asm-40", 
-        "order": 2 
-    },
-
-    { 
-        "storyArcId": "drug-issues",           
-        "issueId": "asm-96", 
-        "order": 1 
-    },
-    { 
-        "storyArcId": "drug-issues",           
-        "issueId": "asm-97", 
-        "order": 2 
-    },
-    { 
-        "storyArcId": "drug-issues",           
-        "issueId": "asm-98", 
-        "order": 3 
-    },
-    { 
-        "storyArcId": "six-armed-saga",        
-        "issueId": "asm-100", 
-        "order": 1 
-    },
-    { 
-        "storyArcId": "six-armed-saga",        
-        "issueId": "asm-101", 
-        "order": 2 
-    },
-    { 
-        "storyArcId": "six-armed-saga",        
-        "issueId": "asm-102", 
-        "order": 3 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-68", 
+    {
+        "storyArcId": "master-planner-saga",
+        "issueId": "asm-31",
         "order": 1
     },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-69", 
-        "order": 2 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-70", 
-        "order": 3 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-72", 
-        "order": 4 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-73", 
-        "order": 5 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-74", 
-        "order": 6 
-    },
-    { 
-        "storyArcId": "kingpin-tablet-saga",   
-        "issueId": "asm-75", 
-        "order": 7 
-    },
-    { 
-        "storyArcId": "doc-ock-nullifier",     
-        "issueId": "asm-53", 
-        "order": 1 
-    },
-    { 
-        "storyArcId": "doc-ock-nullifier",     
-        "issueId": "asm-54", 
-        "order": 2 
-    },
-    { 
-        "storyArcId": "doc-ock-nullifier",     
-        "issueId": "asm-55", 
-        "order": 3 
-    },
-    { 
-        "storyArcId": "doc-ock-nullifier",     
-        "issueId": "asm-56", 
-        "order": 4 
-    },
-    { 
-        "storyArcId": "hammerhead-doc-ock",    
-        "issueId": "asm-113", 
-        "order": 1
-    },
-    { 
-        "storyArcId": "hammerhead-doc-ock",    
-        "issueId": "asm-114", 
+    {
+        "storyArcId": "master-planner-saga",
+        "issueId": "asm-32",
         "order": 2
     },
-    { 
-        "storyArcId": "hammerhead-doc-ock",    
-        "issueId": "asm-115", 
-        "order": 3 
+    {
+        "storyArcId": "master-planner-saga",
+        "issueId": "asm-33",
+        "order": 3
     },
-    { 
-        "storyArcId": "night-gwen-stacy-died", 
-        "issueId": "asm-121", 
-        "order": 1 
+    {
+        "storyArcId": "goblin-identity",
+        "issueId": "asm-39",
+        "order": 1
     },
-    { 
-        "storyArcId": "night-gwen-stacy-died", 
-        "issueId": "asm-122", 
-        "order": 2 
+    {
+        "storyArcId": "goblin-identity",
+        "issueId": "asm-40",
+        "order": 2
     },
-    { 
-        "storyArcId": "harry-goblin",          
-        "issueId": "asm-136", 
-        "order": 1 
+    {
+        "storyArcId": "drug-issues",
+        "issueId": "asm-96",
+        "order": 1
     },
-    { 
-        "storyArcId": "harry-goblin",          
-        "issueId": "asm-137", 
-        "order": 2 
+    {
+        "storyArcId": "drug-issues",
+        "issueId": "asm-97",
+        "order": 2
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-144", 
-        "order": 1 
+    {
+        "storyArcId": "drug-issues",
+        "issueId": "asm-98",
+        "order": 3
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-145", 
-        "order": 2 
+    {
+        "storyArcId": "six-armed-saga",
+        "issueId": "asm-100",
+        "order": 1
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-146", 
-        "order": 3 
+    {
+        "storyArcId": "six-armed-saga",
+        "issueId": "asm-101",
+        "order": 2
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-147", 
-        "order": 4 
+    {
+        "storyArcId": "six-armed-saga",
+        "issueId": "asm-102",
+        "order": 3
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-148", 
-        "order": 5 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-68",
+        "order": 1
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-149", 
-        "order": 6 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-69",
+        "order": 2
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-150", 
-        "order": 7 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-70",
+        "order": 3
     },
-    { 
-        "storyArcId": "clone-saga-original",   
-        "issueId": "asm-151", 
-        "order": 8 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-72",
+        "order": 4
     },
-    { 
-        "storyArcId": "spiderman-no-more",          
-        "issueId": "asm-50",  
-        "order": 1 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-73",
+        "order": 5
     },
-    { 
-        "storyArcId": "spiderman-no-more",          
-        "issueId": "asm-51",  
-        "order": 2 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-74",
+        "order": 6
     },
-    { 
-        "storyArcId": "spiderman-no-more",          
-        "issueId": "asm-52",  
-        "order": 3 
+    {
+        "storyArcId": "kingpin-tablet-saga",
+        "issueId": "asm-75",
+        "order": 7
+    },
+    {
+        "storyArcId": "doc-ock-nullifier",
+        "issueId": "asm-53",
+        "order": 1
+    },
+    {
+        "storyArcId": "doc-ock-nullifier",
+        "issueId": "asm-54",
+        "order": 2
+    },
+    {
+        "storyArcId": "doc-ock-nullifier",
+        "issueId": "asm-55",
+        "order": 3
+    },
+    {
+        "storyArcId": "doc-ock-nullifier",
+        "issueId": "asm-56",
+        "order": 4
+    },
+    {
+        "storyArcId": "hammerhead-doc-ock",
+        "issueId": "asm-113",
+        "order": 1
+    },
+    {
+        "storyArcId": "hammerhead-doc-ock",
+        "issueId": "asm-114",
+        "order": 2
+    },
+    {
+        "storyArcId": "hammerhead-doc-ock",
+        "issueId": "asm-115",
+        "order": 3
+    },
+    {
+        "storyArcId": "night-gwen-stacy-died",
+        "issueId": "asm-121",
+        "order": 1
+    },
+    {
+        "storyArcId": "night-gwen-stacy-died",
+        "issueId": "asm-122",
+        "order": 2
+    },
+    {
+        "storyArcId": "harry-goblin",
+        "issueId": "asm-136",
+        "order": 1
+    },
+    {
+        "storyArcId": "harry-goblin",
+        "issueId": "asm-137",
+        "order": 2
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-144",
+        "order": 1
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-145",
+        "order": 2
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-146",
+        "order": 3
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-147",
+        "order": 4
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-148",
+        "order": 5
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-149",
+        "order": 6
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-150",
+        "order": 7
+    },
+    {
+        "storyArcId": "clone-saga-original",
+        "issueId": "asm-151",
+        "order": 8
+    },
+    {
+        "storyArcId": "spiderman-no-more",
+        "issueId": "asm-50",
+        "order": 1
+    },
+    {
+        "storyArcId": "spiderman-no-more",
+        "issueId": "asm-51",
+        "order": 2
+    },
+    {
+        "storyArcId": "spiderman-no-more",
+        "issueId": "asm-52",
+        "order": 3
     },
     {
         "storyArcId": "hammerhead-ghost",
@@ -364,7 +362,7 @@
     {
         "storyArcId": "kravens-last-hunt",
         "issueId": "asm-294",
-        "order": 2
+        "order": 3
     },
     {
         "storyArcId": "peter-proposes",
@@ -405,31 +403,6 @@
         "storyArcId": "venom-returns-315",
         "issueId": "asm-317",
         "order": 3
-    },
-    {
-        "storyArcId": "assassin-nation-plot",
-        "issueId": "asm-320",
-        "order": 1
-    },
-    {
-        "storyArcId": "assassin-nation-plot",
-        "issueId": "asm-321",
-        "order": 2
-    },
-    {
-        "storyArcId": "assassin-nation-plot",
-        "issueId": "asm-322",
-        "order": 3
-    },
-    {
-        "storyArcId": "assassin-nation-plot",
-        "issueId": "asm-323",
-        "order": 4
-    },
-    {
-        "storyArcId": "assassin-nation-plot",
-        "issueId": "asm-325",
-        "order": 5
     },
     {
         "storyArcId": "return-sinister-six",
@@ -504,17 +477,17 @@
     {
         "storyArcId": "maximum-carnage",
         "issueId": "asm-378",
-        "order": 3
+        "order": 1
     },
     {
         "storyArcId": "maximum-carnage",
         "issueId": "asm-379",
-        "order": 7
+        "order": 3
     },
     {
         "storyArcId": "maximum-carnage",
         "issueId": "asm-380",
-        "order": 11
+        "order": 5
     },
     {
         "storyArcId": "web-of-death",
@@ -529,7 +502,7 @@
     {
         "storyArcId": "clone-saga-394",
         "issueId": "asm-394",
-        "order": 1
+        "order": 2
     },
     {
         "storyArcId": "death-of-aunt-may",
@@ -570,11 +543,6 @@
         "storyArcId": "coming-home",
         "issueId": "asm-vol2-35",
         "order": 6
-    },
-    {
-        "storyArcId": "revelations-911",
-        "issueId": "asm-vol2-36",
-        "order": 1
     },
     {
         "storyArcId": "the-conversation",
@@ -624,16 +592,6 @@
     {
         "storyArcId": "book-of-ezekiel",
         "issueId": "asm-vol2-508",
-        "order": 6
-    },
-    {
-        "storyArcId": "sins-past",
-        "issueId": "asm-vol2-513",
-        "order": 5
-    },
-    {
-        "storyArcId": "sins-past",
-        "issueId": "asm-vol2-514",
         "order": 6
     },
     {
@@ -1058,7 +1016,1862 @@
     },
     {
         "storyArcId": "dying-wish",
-        "issueId": "asm-700",
+        "issueId": "asm-vol2-700",
         "order": 3
-    }
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "superior-begins",
+        "issueId": "sup-sm-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "troubled-mind",
+        "issueId": "sup-sm-7",
+        "order": 1
+    },
+    {
+        "storyArcId": "troubled-mind",
+        "issueId": "sup-sm-8",
+        "order": 2
+    },
+    {
+        "storyArcId": "troubled-mind",
+        "issueId": "sup-sm-9",
+        "order": 3
+    },
+    {
+        "storyArcId": "troubled-mind",
+        "issueId": "sup-sm-10",
+        "order": 4
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-11",
+        "order": 1
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-12",
+        "order": 2
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-13",
+        "order": 3
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-14",
+        "order": 4
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-15",
+        "order": 5
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-16",
+        "order": 6
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-17",
+        "order": 7
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-18",
+        "order": 8
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-19",
+        "order": 9
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-20",
+        "order": 10
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-21",
+        "order": 11
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-22",
+        "order": 12
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-23",
+        "order": 13
+    },
+    {
+        "storyArcId": "no-escape",
+        "issueId": "sup-sm-24",
+        "order": 14
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-25",
+        "order": 1
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-26",
+        "order": 2
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-27",
+        "order": 3
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-28",
+        "order": 4
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-29",
+        "order": 5
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-30",
+        "order": 6
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-31",
+        "order": 7
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-32",
+        "order": 8
+    },
+    {
+        "storyArcId": "goblin-nation",
+        "issueId": "sup-sm-33",
+        "order": 9
+    },
+    {
+        "storyArcId": "peter-returns",
+        "issueId": "asm-vol3-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "peter-returns",
+        "issueId": "asm-vol3-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "peter-returns",
+        "issueId": "asm-vol3-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-9",
+        "order": 1
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-10",
+        "order": 2
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-11",
+        "order": 3
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-12",
+        "order": 4
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-13",
+        "order": 5
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-14",
+        "order": 6
+    },
+    {
+        "storyArcId": "spider-verse",
+        "issueId": "asm-vol3-15",
+        "order": 7
+    },
+    {
+        "storyArcId": "graveyard-shift",
+        "issueId": "asm-vol3-16",
+        "order": 1
+    },
+    {
+        "storyArcId": "graveyard-shift",
+        "issueId": "asm-vol3-17",
+        "order": 2
+    },
+    {
+        "storyArcId": "graveyard-shift",
+        "issueId": "asm-vol3-18",
+        "order": 3
+    },
+    {
+        "storyArcId": "worldwide-arc",
+        "issueId": "asm-vol4-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "worldwide-arc",
+        "issueId": "asm-vol4-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "worldwide-arc",
+        "issueId": "asm-vol4-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "worldwide-arc",
+        "issueId": "asm-vol4-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "dark-kingdom",
+        "issueId": "asm-vol4-6",
+        "order": 1
+    },
+    {
+        "storyArcId": "dark-kingdom",
+        "issueId": "asm-vol4-7",
+        "order": 2
+    },
+    {
+        "storyArcId": "dark-kingdom",
+        "issueId": "asm-vol4-8",
+        "order": 3
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-16",
+        "order": 1
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-17",
+        "order": 2
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-18",
+        "order": 3
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-19",
+        "order": 4
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-20",
+        "order": 5
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-21",
+        "order": 6
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-22",
+        "order": 7
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-23",
+        "order": 8
+    },
+    {
+        "storyArcId": "dead-no-more",
+        "issueId": "asm-vol4-24",
+        "order": 9
+    },
+    {
+        "storyArcId": "osborn-identity",
+        "issueId": "asm-vol4-25",
+        "order": 1
+    },
+    {
+        "storyArcId": "osborn-identity",
+        "issueId": "asm-vol4-26",
+        "order": 2
+    },
+    {
+        "storyArcId": "osborn-identity",
+        "issueId": "asm-vol4-27",
+        "order": 3
+    },
+    {
+        "storyArcId": "osborn-identity",
+        "issueId": "asm-vol4-28",
+        "order": 4
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-789",
+        "order": 1
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-790",
+        "order": 2
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-791",
+        "order": 3
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-792",
+        "order": 4
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-793",
+        "order": 5
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-794",
+        "order": 6
+    },
+    {
+        "storyArcId": "fall-of-parker",
+        "issueId": "asm-vol4-795",
+        "order": 7
+    },
+    {
+        "storyArcId": "go-down-swinging",
+        "issueId": "asm-vol4-796",
+        "order": 1
+    },
+    {
+        "storyArcId": "go-down-swinging",
+        "issueId": "asm-vol4-797",
+        "order": 2
+    },
+    {
+        "storyArcId": "go-down-swinging",
+        "issueId": "asm-vol4-798",
+        "order": 3
+    },
+    {
+        "storyArcId": "go-down-swinging",
+        "issueId": "asm-vol4-799",
+        "order": 4
+    },
+    {
+        "storyArcId": "go-down-swinging",
+        "issueId": "asm-vol4-800",
+        "order": 5
+    },
+    {
+        "storyArcId": "back-to-basics",
+        "issueId": "asm-vol5-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "back-to-basics",
+        "issueId": "asm-vol5-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "back-to-basics",
+        "issueId": "asm-vol5-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "back-to-basics",
+        "issueId": "asm-vol5-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "back-to-basics",
+        "issueId": "asm-vol5-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-6",
+        "order": 1
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-7",
+        "order": 2
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-8",
+        "order": 3
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-9",
+        "order": 4
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-10",
+        "order": 5
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-11",
+        "order": 6
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-12",
+        "order": 7
+    },
+    {
+        "storyArcId": "heist-arc",
+        "issueId": "asm-vol5-13",
+        "order": 8
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-16",
+        "order": 1
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-17",
+        "order": 2
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-18",
+        "order": 3
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-19",
+        "order": 4
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-20",
+        "order": 5
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-21",
+        "order": 6
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-22",
+        "order": 7
+    },
+    {
+        "storyArcId": "hunted-arc",
+        "issueId": "asm-vol5-23",
+        "order": 8
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-44",
+        "order": 1
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-45",
+        "order": 2
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-46",
+        "order": 3
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-47",
+        "order": 4
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-48",
+        "order": 5
+    },
+    {
+        "storyArcId": "sins-rising",
+        "issueId": "asm-vol5-49",
+        "order": 6
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-50",
+        "order": 1
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-51",
+        "order": 2
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-52",
+        "order": 3
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-53",
+        "order": 4
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-54",
+        "order": 5
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-55",
+        "order": 6
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-56",
+        "order": 7
+    },
+    {
+        "storyArcId": "last-remains",
+        "issueId": "asm-vol5-57",
+        "order": 8
+    },
+    {
+        "storyArcId": "chameleon-conspiracy",
+        "issueId": "asm-vol5-67",
+        "order": 1
+    },
+    {
+        "storyArcId": "chameleon-conspiracy",
+        "issueId": "asm-vol5-68",
+        "order": 2
+    },
+    {
+        "storyArcId": "chameleon-conspiracy",
+        "issueId": "asm-vol5-69",
+        "order": 3
+    },
+    {
+        "storyArcId": "sinister-war-arc",
+        "issueId": "asm-vol5-70",
+        "order": 1
+    },
+    {
+        "storyArcId": "sinister-war-arc",
+        "issueId": "asm-vol5-71",
+        "order": 2
+    },
+    {
+        "storyArcId": "sinister-war-arc",
+        "issueId": "asm-vol5-72",
+        "order": 3
+    },
+    {
+        "storyArcId": "sinister-war-arc",
+        "issueId": "asm-vol5-73",
+        "order": 4
+    },
+    {
+        "storyArcId": "sinister-war-arc",
+        "issueId": "asm-vol5-74",
+        "order": 5
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-75",
+        "order": 1
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-76",
+        "order": 2
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-77",
+        "order": 3
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-78",
+        "order": 4
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-79",
+        "order": 5
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-80",
+        "order": 6
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-81",
+        "order": 7
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-82",
+        "order": 8
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-83",
+        "order": 9
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-84",
+        "order": 10
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-85",
+        "order": 11
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-86",
+        "order": 12
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-87",
+        "order": 13
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-88",
+        "order": 14
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-89",
+        "order": 15
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-90",
+        "order": 16
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-91",
+        "order": 17
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-92",
+        "order": 18
+    },
+    {
+        "storyArcId": "beyond-arc",
+        "issueId": "asm-vol5-93",
+        "order": 19
+    },
+    {
+        "storyArcId": "spec-debut",
+        "issueId": "spec-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "death-jean-dewolff",
+        "issueId": "spec-107",
+        "order": 1
+    },
+    {
+        "storyArcId": "death-jean-dewolff",
+        "issueId": "spec-108",
+        "order": 2
+    },
+    {
+        "storyArcId": "death-jean-dewolff",
+        "issueId": "spec-109",
+        "order": 3
+    },
+    {
+        "storyArcId": "death-jean-dewolff",
+        "issueId": "spec-110",
+        "order": 4
+    },
+    {
+        "storyArcId": "kravens-last-hunt",
+        "issueId": "spec-131",
+        "order": 2
+    },
+    {
+        "storyArcId": "kravens-last-hunt",
+        "issueId": "spec-132",
+        "order": 4
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-178",
+        "order": 1
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-179",
+        "order": 2
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-180",
+        "order": 3
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-181",
+        "order": 4
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-182",
+        "order": 5
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-183",
+        "order": 6
+    },
+    {
+        "storyArcId": "harry-goblin-arc",
+        "issueId": "spec2-200",
+        "order": 7
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-211",
+        "order": 9
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-212",
+        "order": 10
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-213",
+        "order": 11
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-217",
+        "order": 3
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-226",
+        "order": 14
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-227",
+        "order": 15
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-228",
+        "order": 16
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-229",
+        "order": 17
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-262",
+        "order": 21
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "spec2-263",
+        "order": 23
+    },
+    {
+        "storyArcId": "torment",
+        "issueId": "sm90-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "torment",
+        "issueId": "sm90-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "torment",
+        "issueId": "sm90-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "torment",
+        "issueId": "sm90-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "torment",
+        "issueId": "sm90-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "sm90-35",
+        "order": 2
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "sm90-36",
+        "order": 4
+    },
+    {
+        "storyArcId": "maximum-carnage",
+        "issueId": "sm90-37",
+        "order": 6
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-51",
+        "order": 4
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-52",
+        "order": 12
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-53",
+        "order": 13
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-75",
+        "order": 18
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-96",
+        "order": 20
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-97",
+        "order": 22
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "sm90-98",
+        "order": 24
+    },
+    {
+        "storyArcId": "wosm-debut",
+        "issueId": "wosm-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-117",
+        "order": 1
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-118",
+        "order": 5
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-119",
+        "order": 6
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-120",
+        "order": 7
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-121",
+        "order": 8
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "wosm-129",
+        "order": 19
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "asm-400",
+        "order": 25
+    },
+    {
+        "storyArcId": "clone-saga-394",
+        "issueId": "asm-441",
+        "order": 26
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-power-responsibility",
+        "issueId": "usm-v2-7",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-8",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-9",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-10",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-11",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-12",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-learning-curve",
+        "issueId": "usm-v2-13",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-v2-14",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-v2-15",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-16",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-17",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-18",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-19",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-20",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-doctor-octopus",
+        "issueId": "usm-21",
+        "order": 8
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-22",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-23",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-24",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-25",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-26",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-legacy",
+        "issueId": "usm-27",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-public-scrutiny",
+        "issueId": "usm-28",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-public-scrutiny",
+        "issueId": "usm-29",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-public-scrutiny",
+        "issueId": "usm-30",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-public-scrutiny",
+        "issueId": "usm-31",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-public-scrutiny",
+        "issueId": "usm-32",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-33",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-34",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-35",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-36",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-37",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-38",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-venom",
+        "issueId": "usm-39",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-40",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-41",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-42",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-43",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-44",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-irresponsible",
+        "issueId": "usm-45",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-46",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-47",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-48",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-49",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-50",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-51",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-52",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-cats-kings",
+        "issueId": "usm-53",
+        "order": 8
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-54",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-55",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-56",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-57",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-58",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-hollywood",
+        "issueId": "usm-59",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-60",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-61",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-62",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-63",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-64",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-carnage",
+        "issueId": "usm-65",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-66",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-67",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-68",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-69",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-70",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-superstars",
+        "issueId": "usm-71",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-72",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-73",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-74",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-75",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-76",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-77",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-hobgoblin",
+        "issueId": "usm-78",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-79",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-80",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-81",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-82",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-83",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-84",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-warriors",
+        "issueId": "usm-85",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-silver-sable",
+        "issueId": "usm-86",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-silver-sable",
+        "issueId": "usm-87",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-silver-sable",
+        "issueId": "usm-88",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-silver-sable",
+        "issueId": "usm-89",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-silver-sable",
+        "issueId": "usm-90",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-deadpool",
+        "issueId": "usm-91",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-deadpool",
+        "issueId": "usm-92",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-deadpool",
+        "issueId": "usm-93",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-deadpool",
+        "issueId": "usm-94",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-morbius",
+        "issueId": "usm-95",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-morbius",
+        "issueId": "usm-96",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-97",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-98",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-99",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-100",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-101",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-102",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-103",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-104",
+        "order": 8
+    },
+    {
+        "storyArcId": "usm-clone-saga",
+        "issueId": "usm-105",
+        "order": 9
+    },
+    {
+        "storyArcId": "usm-ultimate-knights",
+        "issueId": "usm-106",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-ultimate-knights",
+        "issueId": "usm-107",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-ultimate-knights",
+        "issueId": "usm-108",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-ultimate-knights",
+        "issueId": "usm-109",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-ultimate-knights",
+        "issueId": "usm-110",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-the-talk",
+        "issueId": "usm-111",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-112",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-113",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-114",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-115",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-116",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-death-goblin",
+        "issueId": "usm-117",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-omega-red",
+        "issueId": "usm-121",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-worst-day",
+        "issueId": "usm-122",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-123",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-124",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-125",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-126",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-127",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-war-symbiotes",
+        "issueId": "usm-128",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-ultimatum",
+        "issueId": "usm-129",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-ultimatum",
+        "issueId": "usm-130",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-ultimatum",
+        "issueId": "usm-131",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-ultimatum",
+        "issueId": "usm-132",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-ultimatum",
+        "issueId": "usm-133",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-amazing-friends",
+        "issueId": "usm-118",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-amazing-friends",
+        "issueId": "usm-119",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-amazing-friends",
+        "issueId": "usm-120",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-new-world",
+        "issueId": "usm-v2-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-7",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-8",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-9",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-10",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-11",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-12",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-13",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-chameleons",
+        "issueId": "usm-v2-14",
+        "order": 8
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-v2-15",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-150",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-151",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-152",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-153",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-154",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm-death-sm-prelude",
+        "issueId": "usm-155",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm-death-spiderman",
+        "issueId": "usm-156",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm-death-spiderman",
+        "issueId": "usm-157",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm-death-spiderman",
+        "issueId": "usm-158",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm-death-spiderman",
+        "issueId": "usm-159",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm-death-spiderman",
+        "issueId": "usm-160",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-7",
+        "order": 7
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-8",
+        "order": 8
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-9",
+        "order": 9
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-10",
+        "order": 10
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-11",
+        "order": 11
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-12",
+        "order": 12
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-13",
+        "order": 13
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-14",
+        "order": 14
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-15",
+        "order": 15
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-16",
+        "order": 16
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-17",
+        "order": 17
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-18",
+        "order": 18
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-19",
+        "order": 19
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-20",
+        "order": 20
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-21",
+        "order": 21
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-22",
+        "order": 22
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-23",
+        "order": 23
+    },
+    {
+        "storyArcId": "usm2024-world",
+        "issueId": "usm-2024-24",
+        "order": 24
+    }  
 ]

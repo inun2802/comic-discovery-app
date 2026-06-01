@@ -2,7 +2,7 @@
     {
         "id": "spiderman",
         "name": "Spider-Man",
-        "description": "Peter Parker, Your Friendly neighborhood Spider-Man",
+        "description": "Peter Parker, Your Friendly neighborhood Spider-Man. Nuff Said",
         "publisherId": "marvel"
     },
     {
@@ -14,337 +14,31 @@
     {
         "id": "gwen-stacy",
         "name": "Gwen Stacy",
-        "description": "The late love interest of Spider-Man/Peter Parker",
+        "description": "The late love interest of Peter Parker. Eventually becomes a key figure in his life and legacy of Spider-Man.",
         "publisherId": "marvel"
     },
     {
         "id": "harry-osborn",
         "name": "Harry Osborn",
-        "description": "Peter Parker's best friend and eventual foe",
+        "description": "Peter Parker's best friend and eventual foe. The son of Norman Osborn and eventual heir to the Oscorp empire",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kindred",
+        "name": "Kindred",
+        "description": "A demonic entity tied to Peter Parker's deal with Mephisto, revealed to be Harry Osborn's soul corrupted — the central villain of Spencer's run.",
         "publisherId": "marvel"
     },
     {
         "id": "liz-allen",
         "name": "Liz Allen",
-        "description": "Peter Parker's high school crush",
+        "description": "Peter Parker's high school crush. She later marries Harry Osborn and becomes the mother of Normie Osborn",
         "publisherId": "marvel"
     },
     {
         "id": "flash-thompson",
         "name": "Flash Thompson",
-        "description": "Peter Parker's high school bully and eventual friend",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "aunt-may",
-        "name": "Aunt May",
-        "description": "Peter Parker's loving aunt",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "uncle-ben",
-        "name": "Uncle Ben",
-        "description": "Peter Parker's late uncle",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "crusher-hogan",
-        "name": "Crusher Hogan",
-        "description": "The wrestler that",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "j-j-jameson",
-        "name": "J. Jonah Jameson",
-        "description": "The editor-in-chief of the Daily Bugle",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "betty-brant",
-        "name": "Betty Brant",
-        "description": "J. Jonah Jameson's secretary and occasional love interest of Peter Parker",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "john-jameson",
-        "name": "John Jameson",
-        "description": "World renowned astronaut and son of J. Jonah Jameson. Later becomes Man Wolf",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "chameleon",
-        "name": "Chameleon",
-        "description": "A supervillain known for his ability to change his appearance. Brother of Kraven the Hunter",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "norman-osborn",
-        "name": "Norman Osborn",
-        "description": "CEO of Oscorp. The Green Goblin. One of Spider-Man's greatest foes",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "doc-ock",
-        "name": "Doctor Octopus",
-        "description": "Otto Octavius, A brilliant scientist with four mechanical arms fused to his body",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "vulture",
-        "name": "Vulture",
-        "description": "Adrian Toomes, An elderly engineer who uses a special harness to fly and commit crime",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "tinkerer",
-        "name": "Tinkerer",
-        "description": "Phineas Mason, A brilliant inventor who creates gadgets for supervillains",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "sandman",
-        "name": "Sandman",
-        "description": "Flint Marko, a criminal who gained the ability to transform into sand",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "burglar",
-        "name": "Burglar",
-        "description": "The man responsible for the murder of Uncle Ben",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "black-cat",
-        "name": "Black Cat",
-        "description": "The Black Cat, one of Spider-Man's most puzzling love interests",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "doctor-doom",
-        "name": "Doctor Doom",
-        "description": "Victor Von Doom, ruler of Latveria and one of Marvel's greatest villains",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "lizard",
-        "name": "Lizard",
-        "description": "Dr. Curt Connors, a scientist who transforms into a reptilian monster",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "living-brain",
-        "name": "Living Brain",
-        "description": "A powerful robot built by International Computing Machines Corporation",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "electro",
-        "name": "Electro",
-        "description": "Maxwell Dillon, a villain with the ability to generate and control electricity",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "big-man",
-        "name": "Big Man",
-        "description": "Frederick Foswell, a Daily Bugle reporter who secretly led the Enforcers as the Big Man",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "enforcers",
-        "name": "Enforcers",
-        "description": "A gang of criminals consisting of Ox, Montana, and Fancy Dan",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "mysterio",
-        "name": "Mysterio",
-        "description": "Quentin Beck, a special effects artist turned master of illusion and supervillain",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "kraven",
-        "name": "Kraven the Hunter",
-        "description": "Sergei Kravinoff, the world's greatest hunter obsessed with defeating Spider-Man",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "daredevil",
-        "name": "Daredevil",
-        "description": "Matt Murdock, a blind lawyer who fights crime as the Man Without Fear",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "nightcrawler",
-        "name": "Nightcrawler",
-        "description": "Kurt Wagner, a blue-skinned mutant X-Man with teleportation abilities",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "jigsaw",
-        "name": "Jigsaw",
-        "description": "Billy Russo, a hitman whose face was disfigured by the Punisher",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "bart-hamilton",
-        "name": "Bart Hamilton",
-        "description": "Harry Osborn's psychiatrist who became the third Green Goblin",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "rocket-racer",
-        "name": "Rocket Racer",
-        "description": "Robert Farrell, a young man who uses a rocket-powered skateboard to commit crimes",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "mirage",
-        "name": "Mirage",
-        "description": "Desmond Charne, a villain who uses holographic technology to create illusions",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ned-leeds",
-        "name": "Ned Leeds",
-        "description": "Daily Bugle reporter and husband of Betty Brant, later revealed to be the Hobgoblin",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ringmaster",
-        "name": "Ringmaster",
-        "description": "Maynard Tiboldt, leader of the Circus of Crime",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "scorpion",
-        "name": "Scorpion",
-        "description": "Mac Gargan, a private investigator transformed into the Scorpion by J. Jonah Jameson",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "beetle",
-        "name": "Beetle",
-        "description": "Abner Jenkins, a mechanic who became a supervillain using a stolen suit of armor",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "crime-master",
-        "name": "Crime Master",
-        "description": "Nick Lewis, a crime lord who clashed with Spider-Man and the Green Goblin",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "molten-man",
-        "name": "Molten Man",
-        "description": "Mark Raxton, Liz Allen's step-brother who was accidentally coated in a liquid metal alloy",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "spider-slayer",
-        "name": "Spider-Slayer",
-        "description": "A series of robots built by Spencer Smythe and commissioned by J. Jonah Jameson to destroy Spider-Man",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "cat-burglar",
-        "name": "Cat Burglar",
-        "description": "A thief who appeared in early Spider-Man stories",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "master-planner",
-        "name": "Master Planner",
-        "description": "Doctor Octopus operating under a secret alias to steal technology",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "looter",
-        "name": "Looter",
-        "description": "Norton G. Fester, a villain who gained super strength from a meteor",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "rhino",
-        "name": "Rhino",
-        "description": "Aleksei Sytsevich, a criminal bonded to a rhinoceros-like suit giving him immense strength",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "shocker",
-        "name": "Shocker",
-        "description": "Herman Schultz, a villain who uses vibro-shock gauntlets to commit crimes",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "blackie-drago",
-        "name": "Blackie Drago",
-        "description": "A criminal who stole the Vulture's harness while they were both imprisoned",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "kingpin",
-        "name": "Kingpin",
-        "description": "Wilson Fisk, the powerful crime lord of New York City",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "joe-robertson",
-        "name": "Joe Robertson",
-        "description": "Joseph 'Robbie' Robertson, the editor of the Daily Bugle and a close friend of Peter Parker",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "captain-stacy",
-        "name": "Captain Stacy",
-        "description": "George Stacy, a retired NYPD captain and father of Gwen Stacy",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ka-zar",
-        "name": "Ka-Zar",
-        "description": "Kevin Plunder, a lord of the jungle who rules over the Savage Land",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "quicksilver",
-        "name": "Quicksilver",
-        "description": "Pietro Maximoff, a mutant with the ability to move at superhuman speeds",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "silvermane",
-        "name": "Silvermane",
-        "description": "Silvio Manfredi, an aging Maggia crime boss obsessed with regaining his youth",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "prowler",
-        "name": "Prowler",
-        "description": "Hobie Brown, a young inventor who created a suit to commit crimes before becoming a hero",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "kangaroo",
-        "name": "Kangaroo",
-        "description": "Frank Oliver, a villain with kangaroo-like agility and strength",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "schemer",
-        "name": "Schemer",
-        "description": "Richard Fisk, the son of the Kingpin who disguised himself to take down his father",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "black-widow",
-        "name": "Black Widow",
-        "description": "Natasha Romanoff, a former Soviet spy turned S.H.I.E.L.D. agent and Avenger",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "iceman",
-        "name": "Iceman",
-        "description": "Bobby Drake, a mutant with the ability to generate and control ice",
+        "description": "Peter Parker's high school bully and one of Spider-Man's biggest fans. Later turns into a close friend to Peter and eventually becomes Agent Venom",
         "publisherId": "marvel"
     },
     {
@@ -354,105 +48,111 @@
         "publisherId": "marvel"
     },
     {
-        "id": "doctor-strange",
-        "name": "Doctor Strange",
-        "description": "Stephen Strange, the Sorcerer Supreme and master of the mystic arts",
+        "id": "uncle-ben",
+        "name": "Uncle Ben",
+        "description": "Peter Parker's late uncle, who died tragically in a robbery that Peter Parker witnessed and could've stopped. His death serves as the catalyst for Peter's transformation into Spider-Man and his commitment to using his great powers responsibly",
         "publisherId": "marvel"
     },
     {
-        "id": "gibbon",
-        "name": "Gibbon",
-        "description": "Martin Blank, a man with ape-like abilities who was manipulated by Kraven the Hunter",
+        "id": "aunt-may",
+        "name": "Aunt May",
+        "description": "Peter Parker's loving aunt and the closest thing he has to a parent. She raised Peter with her late husband Ben Parker after the death of his parents. She is a constant source of support and guidance for him",
         "publisherId": "marvel"
     },
     {
-        "id": "hammerhead",
-        "name": "Hammerhead",
-        "description": "A Maggia crime boss with a steel-reinforced skull who uses his head as a weapon",
+        "id": "ben-reilly",
+        "name": "Ben Reilly",
+        "description": "The Scarlet Spider and clone of Peter Parker, debuting in Web of Spider-Man #118 as the Spider-Clone returns to New York during the Clone Saga. He later takes on the mantle of Spider-Man",
         "publisherId": "marvel"
     },
     {
-        "id": "smasher",
-        "name": "Smasher",
-        "description": "A villain who appeared in the political storyline issues of Amazing Spider-Man",
+        "id": "kaine",
+        "name": "Kaine",
+        "description": "A degenerate clone of Peter Parker with precognitive spider-sense and corrosive touch. Later becomes an antihero and takes up the mantle of the Scarlet Spider.",
         "publisherId": "marvel"
     },
     {
-        "id": "disruptor",
-        "name": "Disruptor",
-        "description": "A politically motivated villain who clashed with Spider-Man in the early 1970s",
+        "id": "spider-man-2099",
+        "name": "Spider-Man 2099",
+        "description": "Miguel O'Hara, a geneticist from the year 2099 who becomes Spider-Man of the future Neuva York",
         "publisherId": "marvel"
     },
     {
-        "id": "hulk",
-        "name": "Hulk",
-        "description": "Bruce Banner, a scientist who transforms into a green-skinned giant of immense strength",
+        "id": "silk",
+        "name": "Silk",
+        "description": "Cindy Moon, bitten by the same radioactive spider as Peter Parker, who spent years locked away and debuts during Spider-Verse.",
         "publisherId": "marvel"
     },
     {
-        "id": "luke-cage",
-        "name": "Luke Cage",
-        "description": "A street-level hero with unbreakable skin and superhuman strength, also known as Power Man",
+        "id": "spider-gwen",
+        "name": "Spider-Gwen",
+        "description": "Gwen Stacy from an alternate universe where she was bitten by the radioactive spider instead of Peter, first appearing in Spider-Verse.",
         "publisherId": "marvel"
     },
     {
-        "id": "man-wolf",
-        "name": "Man-Wolf",
-        "description": "John Jameson transformed into a werewolf-like creature by a mystical moonstone",
+        "id": "burglar",
+        "name": "Burglar",
+        "description": "The man responsible for the murder of Uncle Ben",
         "publisherId": "marvel"
     },
     {
-        "id": "punisher",
-        "name": "Punisher",
-        "description": "Frank Castle, a vigilante who wages a one-man war on crime after the murder of his family",
+        "id": "captain-stacy",
+        "name": "Captain Stacy",
+        "description": "George Stacy, a retired NYPD captain and father of Gwen Stacy",
         "publisherId": "marvel"
     },
     {
-        "id": "jackal",
-        "name": "Jackal",
-        "description": "Miles Warren, a geneticist and former professor of Peter Parker who became obsessed with cloning",
+        "id": "jean-dewolff",
+        "name": "Jean DeWolff",
+        "description": "NYPD captain and longtime Spider-Man ally whose murder by the Sin-Eater sets off one of the most acclaimed Spectacular Spider-Man arcs.",
         "publisherId": "marvel"
     },
     {
-        "id": "tarantula",
-        "name": "Tarantula",
-        "description": "A South American mercenary with poisoned toe spikes on his boots",
+        "id": "crusher-hogan",
+        "name": "Crusher Hogan",
+        "description": "A big time wrestler who Peter Parker fought in his first public appearance as Spider-Man",
         "publisherId": "marvel"
     },
     {
-        "id": "mindworm",
-        "name": "Mindworm",
-        "description": "William Turner, a mutant with powerful telepathic abilities",
+        "id": "j-j-jameson",
+        "name": "J. Jonah Jameson",
+        "description": "The editor-in-chief of the Daily Bugle, possibly one of Spider-Man's greatest antagonists. He is obsessed with portraying Spider-Man as a wall crawling menace",
         "publisherId": "marvel"
     },
     {
-        "id": "grizzly",
-        "name": "Grizzly",
-        "description": "Maxwell Markham, a criminal who wears a bear-like exoskeleton suit",
+        "id": "joe-robertson",
+        "name": "Joe Robertson",
+        "description": "Joseph 'Robbie' Robertson, the editor of the Daily Bugle and a close friend of Peter Parker",
         "publisherId": "marvel"
     },
     {
-        "id": "cyclone",
-        "name": "Cyclone",
-        "description": "André Gerard, a French criminal who uses a suit that generates powerful wind vortexes",
+        "id": "betty-brant",
+        "name": "Betty Brant",
+        "description": "J. Jonah Jameson's secretary and occasional love interest of Peter Parker in the early years. She later becomes a reporter for the Daily Bugle and marries Ned Leeds",
         "publisherId": "marvel"
     },
     {
-        "id": "spider-clone",
-        "name": "Spider-Clone",
-        "description": "Ben Reilly, the clone of Peter Parker created by the Jackal",
+        "id": "ned-leeds",
+        "name": "Ned Leeds",
+        "description": "Daily Bugle reporter and husband of Betty Brant, later revealed to be the Hobgoblin",
         "publisherId": "marvel"
     },
     {
-        "id": "juggernaut",
-        "name": "Juggernaut",
-        "description": "Cain Marko, step-brother of Professor X, an unstoppable force empowered by the Crimson Gem of Cyttorak",
+        "id": "ben-urich",
+        "name": "Ben Urich",
+        "description": "Investigative reporter for the Daily Bugle who frequently crosses paths with Spider-Man and Daredevil uncovering criminal conspiracies.",
         "publisherId": "marvel"
     },
     {
-        "id": "hobgoblin",
-        "name": "Hobgoblin",
-        "description": "Roderick Kingsley, a fashion mogul who discovered the Green Goblin's hideout and became the Hobgoblin",
+        "id": "eddie-brock",
+        "name": "Eddie Brock",
+        "description": "A disgraced journalist who bonds with the alien symbiote to become Venom, one of Spider-Man's greatest foes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "john-jameson",
+        "name": "John Jameson",
+        "description": "World renowned astronaut and son of J. Jonah Jameson. Later becomes the Man Wolf",
         "publisherId": "marvel"
     },
     {
@@ -462,15 +162,9 @@
         "publisherId": "marvel"
     },
     {
-        "id": "medusa",
-        "name": "Medusa",
-        "description": "Medusalith Amaquelin, queen of the Inhumans with prehensile hair",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "morbius",
-        "name": "Morbius",
-        "description": "Dr. Michael Morbius, a biochemist turned living vampire after a failed experiment",
+        "id": "black-cat",
+        "name": "Black Cat",
+        "description": "Felcia Hardy, Spider-Man's on-again off-again love interest who always sturs some sort of trouble in both Peter Parker and Spider-Man's lives",
         "publisherId": "marvel"
     },
     {
@@ -486,15 +180,93 @@
         "publisherId": "marvel"
     },
     {
-        "id": "black-fox",
-        "name": "Black Fox",
-        "description": "An aging jewel thief who repeatedly clashes with Spider-Man",
+        "id": "ezekiel",
+        "name": "Ezekiel Sims",
+        "description": "Mysterious businessman who obtained spider-powers through a totem ritual and serves as both mentor and dark mirror to Spider-Man.",
         "publisherId": "marvel"
     },
     {
-        "id": "eddie-brock",
-        "name": "Eddie Brock",
-        "description": "A disgraced journalist who bonds with the alien symbiote to become Venom, one of Spider-Man's greatest foes",
+        "id": "norman-osborn",
+        "name": "Norman Osborn",
+        "description": "CEO of Oscorp. The Green Goblin. Father of Harry Osborn. And one of Spider-Man's greatest villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "osborn-identity",
+        "name": "Norman Osborn (Iron Patriot)",
+        "description": "Norman Osborn operating under a new identity in San Francisco, having had his memories altered, confronted by Spider-Man in the Osborn Identity arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "red-goblin",
+        "name": "Red Goblin",
+        "description": "Norman Osborn bonded with the Carnage symbiote, becoming the Red Goblin — the most dangerous version of the Green Goblin ever faced.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "doc-ock",
+        "name": "Doctor Octopus",
+        "description": "Doctor Otto Octavius, A brilliant scientist with four mechanical arms fused to his body. The leader of the infamous Sinister Six and one of Spider-Man's most iconic villains. Later swaps his mind with Peter Parker's to become the Superior Spider-Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "vulture",
+        "name": "Vulture",
+        "description": "Adrian Toomes, An elderly engineer who uses a special harness to fly and commit crime. A founding member of the Sinister Six and one of Spider-Man's most iconic villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sandman",
+        "name": "Sandman",
+        "description": "Flint Marko, a criminal who gained the ability to transform into sand. A founding member of the Sinister Six and one of Spider-Man's most iconic villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "lizard",
+        "name": "Lizard",
+        "description": "Dr. Curt Connors, a scientist who transforms into a reptilian monster. One of the most tragic villains in Marvel Comics",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "electro",
+        "name": "Electro",
+        "description": "Maxwell Dillon, a villain with the ability to generate and control electricity. A founding member of the Sinister Six and one of Spider-Man's most iconic villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "mysterio",
+        "name": "Mysterio",
+        "description": "Quentin Beck, a special effects artist turned master of illusion and supervillain. A founding member of the Sinister Six and one of Spider-Man's most iconic villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kraven",
+        "name": "Kraven the Hunter",
+        "description": "Sergei Kravinoff, the world's greatest hunter obsessed with capturing and defeating the apex predator. A founding member of the Sinister Six and one of Spider-Man's most iconic villains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "chameleon",
+        "name": "Chameleon",
+        "description": "A supervillain known for his ability to change his appearance. Brother of Kraven the Hunter",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "scorpion",
+        "name": "Scorpion",
+        "description": "Mac Gargan, a private investigator transformed into the Scorpion by J. Jonah Jameson. An iconic Spider-Man villain and later becomes the third Venom",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "rhino",
+        "name": "Rhino",
+        "description": "Aleksei Sytsevich, a criminal bonded to a rhinoceros-like suit giving him immense strength. An iconic Spider-Man villain",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "shocker",
+        "name": "Shocker",
+        "description": "Herman Schultz, a villain who uses vibro-shock gauntlets to commit crimes. An iconic Spider-Man villain",
         "publisherId": "marvel"
     },
     {
@@ -510,15 +282,249 @@
         "publisherId": "marvel"
     },
     {
+        "id": "anti-venom",
+        "name": "Anti-Venom",
+        "description": "Eddie Brock bonded to a new white symbiote formed from his cancer-curing white blood cells. Hunts both Spider-Man and Venom.",
+        "publisherId": "marvel"
+    },
+    {
         "id": "cletus-kasady",
         "name": "Cletus Kasady",
         "description": "A homicidal serial killer who becomes Carnage after bonding with the Venom symbiote's offspring",
         "publisherId": "marvel"
     },
     {
-        "id": "ben-reilly",
-        "name": "Ben Reilly",
-        "description": "The Scarlet Spider and clone of Peter Parker, later takes on the mantle of Spider-Man",
+        "id": "carnage-max",
+        "name": "Carnage",
+        "description": "Cletus Kasady bonded with the Venom symbiote offspring, leading a gang of supervillains on a killing spree through New York in Maximum Carnage.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hobgoblin",
+        "name": "Hobgoblin",
+        "description": "Roderick Kingsley, a fashion mogul who discovered the Green Goblin's hideout and became the Hobgoblin",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "morbius",
+        "name": "Morbius",
+        "description": "Dr. Michael Morbius, a biochemist turned living vampire after a failed experiment",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "jackal",
+        "name": "Jackal",
+        "description": "Miles Warren, a geneticist and former professor of Peter Parker who became obsessed with cloning",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "morlun",
+        "name": "Morlun",
+        "description": "An ancient, virtually unstoppable energy vampire who feeds on totemic avatars. One of Spider-Man's most physically threatening foes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "tinkerer",
+        "name": "Tinkerer",
+        "description": "Phineas Mason, A brilliant inventor who creates gadgets for supervillains",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kingpin",
+        "name": "Kingpin",
+        "description": "Wilson Fisk, the powerful crime lord of New York City. Villain to all of street-level Marvel heroes, including Spider-Man and Daredevil",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "silvermane",
+        "name": "Silvermane",
+        "description": "Silvio Manfredi, an aging Maggia crime boss obsessed with regaining his youth",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hammerhead",
+        "name": "Hammerhead",
+        "description": "A Maggia crime boss with a steel-reinforced skull who uses his head as a weapon",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "master-planner",
+        "name": "Master Planner",
+        "description": "Doctor Octopus operating under a secret alias to steal technology",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "big-man",
+        "name": "Big Man",
+        "description": "Frederick Foswell, a Daily Bugle reporter who secretly led the Enforcers as the Big Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "enforcers",
+        "name": "Enforcers",
+        "description": "A gang of criminals consisting of Ox, Montana, and Fancy Dan",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "blackie-drago",
+        "name": "Blackie Drago",
+        "description": "A criminal who stole the Vulture's harness while they were both imprisoned and took up the mantle as the second Vulture",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "bart-hamilton",
+        "name": "Bart Hamilton",
+        "description": "Harry Osborn's psychiatrist who became the third Green Goblin",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "prowler",
+        "name": "Prowler",
+        "description": "Hobie Brown, a young inventor who created a suit to commit crimes before becoming a hero",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "rocket-racer",
+        "name": "Rocket Racer",
+        "description": "Robert Farrell, a young man who uses a rocket-powered skateboard to commit crimes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "molten-man",
+        "name": "Molten Man",
+        "description": "Mark Raxton, Liz Allen's step-brother who was accidentally coated in a liquid metal alloy",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "beetle",
+        "name": "Beetle",
+        "description": "Abner Jenkins, a mechanic who became a supervillain using a stolen suit of armor",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "boomerang",
+        "name": "Boomerang",
+        "description": "Fred Myers, a reformed villain who becomes Peter Parker's unlikely roommate and comedic foil throughout much of the Spencer run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "crime-master",
+        "name": "Crime Master",
+        "description": "Nick Lewis, a crime lord who clashed with Spider-Man and the Green Goblin",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ringmaster",
+        "name": "Ringmaster",
+        "description": "Maynard Tiboldt, leader of the Circus of Crime",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-slayer",
+        "name": "Spider-Slayer",
+        "description": "A series of robots built by Spencer Smythe and commissioned by J. Jonah Jameson to destroy Spider-Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "cat-burglar",
+        "name": "Cat Burglar",
+        "description": "A thief who appeared in early Spider-Man stories",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "man-wolf",
+        "name": "Man-Wolf",
+        "description": "John Jameson transformed into a werewolf-like creature by a mystical moonstone",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kangaroo",
+        "name": "Kangaroo",
+        "description": "Frank Oliver, a villain with kangaroo-like agility and strength",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "schemer",
+        "name": "Schemer",
+        "description": "Richard Fisk, the son of the Kingpin who disguised himself to take down his father",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "gibbon",
+        "name": "Gibbon",
+        "description": "Martin Blank, a man with ape-like abilities who was manipulated by Kraven the Hunter",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "looter",
+        "name": "Looter",
+        "description": "Norton G. Fester, a villain who gained super strength from a meteor",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "smasher",
+        "name": "Smasher",
+        "description": "A villain who appeared in the political storyline issues of Amazing Spider-Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "disruptor",
+        "name": "Disruptor",
+        "description": "A politically motivated villain who clashed with Spider-Man in the early 1970s",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "jigsaw",
+        "name": "Jigsaw",
+        "description": "Billy Russo, a hitman whose face was disfigured by the Punisher",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "tarantula",
+        "name": "Tarantula",
+        "description": "A South American mercenary with poisoned toe spikes on his boots",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "mindworm",
+        "name": "Mindworm",
+        "description": "William Turner, a mutant with powerful telepathic abilities",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "mirage",
+        "name": "Mirage",
+        "description": "Desmond Charne, a villain who uses holographic technology to create illusions",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "living-brain",
+        "name": "Living Brain",
+        "description": "A powerful robot built by International Computing Machines Corporation",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "grizzly",
+        "name": "Grizzly",
+        "description": "Maxwell Markham, a criminal who wears a bear-like exoskeleton suit",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "cyclone",
+        "name": "Cyclone",
+        "description": "André Gerard, a French criminal who uses a suit that generates powerful wind vortexes",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "juggernaut",
+        "name": "Juggernaut",
+        "description": "Cain Marko, step-brother of Professor X, an unstoppable force empowered by the Crimson Gem of Cyttorak",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-fox",
+        "name": "Black Fox",
+        "description": "An aging jewel thief who repeatedly clashes with Spider-Man",
         "publisherId": "marvel"
     },
     {
@@ -534,57 +540,15 @@
         "publisherId": "marvel"
     },
     {
-        "id": "spider-man-2099",
-        "name": "Spider-Man 2099",
-        "description": "Miguel O'Hara, a geneticist from the year 2099 who becomes Spider-Man of the future",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ezekiel",
-        "name": "Ezekiel Sims",
-        "description": "Mysterious businessman who obtained spider-powers through a totem ritual and serves as both mentor and dark mirror to Spider-Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "morlun",
-        "name": "Morlun",
-        "description": "An ancient, virtually unstoppable energy vampire who feeds on totemic avatars. One of Spider-Man's most physically threatening foes.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "shathra",
         "name": "Shathra",
         "description": "A spider-wasp totem and natural predator of the spider-totem. Hunts Spider-Man as part of the ancient totemic cycle.",
         "publisherId": "marvel"
     },
     {
-        "id": "sarah-stacy",
-        "name": "Sarah Stacy",
-        "description": "Gwen Stacy's secret daughter with Norman Osborn, who ages rapidly due to the Goblin formula in her blood.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "gabriel-stacy",
-        "name": "Gabriel Stacy",
-        "description": "Gwen Stacy's secret son with Norman Osborn, who becomes the Grey Goblin after injecting himself with the Goblin formula.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "iron-man",
-        "name": "Iron Man",
-        "description": "Tony Stark, billionaire inventor and founding Avenger. Recruits Spider-Man to the pro-registration side during Civil War.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "captain-america",
-        "name": "Captain America",
-        "description": "Steve Rogers, the super-soldier and symbol of America. Leads the anti-registration resistance during Civil War.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "mephisto",
         "name": "Mephisto",
-        "description": "Marvel's devil figure. Offers to save Aunt May's life in exchange for Peter and MJ's marriage in One More Day.",
+        "description": "Marvel's devil figure. Offers to save Aunt May's life in exchange for Peter and MJ's marriage in the infamous comic 'One More Day'",
         "publisherId": "marvel"
     },
     {
@@ -597,12 +561,6 @@
         "id": "carlie-cooper",
         "name": "Carlie Cooper",
         "description": "NYPD forensic scientist and love interest for Peter Parker during the Brand New Day era.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "anti-venom",
-        "name": "Anti-Venom",
-        "description": "Eddie Brock bonded to a new white symbiote formed from his cancer-curing white blood cells. Hunts both Spider-Man and Venom.",
         "publisherId": "marvel"
     },
     {
@@ -621,12 +579,6 @@
         "id": "sasha-kravinoff",
         "name": "Sasha Kravinoff",
         "description": "Kraven's wife and the architect of the Grim Hunt, orchestrating the ritual to resurrect her husband using Spider-Man's blood.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "kaine",
-        "name": "Kaine",
-        "description": "A degenerate clone of Peter Parker with precognitive spider-sense and corrosive touch. Antihero who sacrifices himself in the Grim Hunt.",
         "publisherId": "marvel"
     },
     {
@@ -660,39 +612,682 @@
         "publisherId": "marvel"
     },
     {
+        "id": "superior-octavius",
+        "name": "Superior Spider-Man",
+        "description": "Doctor Octopus in Peter Parker's body, operating as a more aggressive and ruthless Spider-Man while Peter's ghost fights for control.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "carlie-cooper-det",
+        "name": "Carlie Cooper",
+        "description": "NYPD detective and Peter's ex-girlfriend who figures out Ock is inside Spider-Man's body during the Superior era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "goblin-king",
+        "name": "Goblin King",
+        "description": "Norman Osborn rebranded as the Goblin King, orchestrating the Goblin Nation takeover of New York's underworld during Superior Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "anna-maria",
+        "name": "Anna Maria Marconi",
+        "description": "Ock's love interest during Superior Spider-Man — a brilliant scientist whom Ock genuinely falls for, motivating his final sacrifice.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "morlun-inheritors",
+        "name": "The Inheritors",
+        "description": "A family of totem-hunters led by Solus who hunt Spider-totems across the multiverse, the primary antagonists of Spider-Verse.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "zodiac-leader",
+        "name": "Scorpio / Zodiac",
+        "description": "The leader of the Zodiac criminal organization who targets Parker Industries in a global confrontation during the Scorpio Rising arc.",
+        "publisherId": "marvel"
+    },   
+    {
+        "id": "sin-eater-vol5",
+        "name": "Sin-Eater (Resurrected)",
+        "description": "Stanley Carter resurrected by Kindred as a supernatural enforcer who 'cleanses' villains by killing them, setting up Last Remains.",
+        "publisherId": "marvel"
+    },
+    
+    {
+        "id": "teresa-parker",
+        "name": "Teresa Parker",
+        "description": "A woman who may be Peter Parker's sister, a spy introduced in the Spencer run who complicates Peter's understanding of his family.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "kraven-vol5",
+        "name": "Kraven the Hunter (Hunted)",
+        "description": "Kraven returns to orchestrate the Hunted arc, trapping heroes and villains in Central Park for the ultimate hunt, seeking a worthy death.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "jonah-jameson-vol5",
+        "name": "J. Jonah Jameson",
+        "description": "Jameson returns as a podcaster and unlikely ally to Spider-Man during Spencer's run, having evolved from his anti-Spider-Man stance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sin-eater",
+        "name": "Sin-Eater",
+        "description": "Stanley Carter, a corrupt cop turned serial killer who targets sinners. His murder of Jean DeWolff is one of the darkest Spider-Man stories ever told.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "harry-goblin",
+        "name": "Harry Osborn (Green Goblin II)",
+        "description": "Harry Osborn's tragic arc as the second Green Goblin, culminating in his death in Spectacular Spider-Man #200.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "lizard-torment",
+        "name": "Lizard",
+        "description": "Doctor Curt Connors as the Lizard, the primary villain of McFarlane's landmark Torment arc in Spider-Man #1-5.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-peter",
+        "name": "Peter Parker (Ultimate)",
+        "description": "The Ultimate Universe's Peter Parker — younger, more modern, and defined by Brian Michael Bendis's 160-issue run ending with his heroic death.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-mj",
+        "name": "Mary Jane Watson (Ultimate)",
+        "description": "Peter's high school girlfriend and emotional anchor in the Ultimate universe. A journalist in training, more assertive than her 616 counterpart.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-gwen",
+        "name": "Gwen Stacy (Ultimate)",
+        "description": "Peter's classmate and eventual girlfriend in the Ultimate universe, with a very different fate than her 616 counterpart.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-uncle-ben",
+        "name": "Uncle Ben (Ultimate)",
+        "description": "Peter Parker's guardian whose murder galvanizes him to become Spider-Man. His death echoes throughout the entire Bendis run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-aunt-may",
+        "name": "Aunt May (Ultimate)",
+        "description": "Peter's guardian in the Ultimate universe, who eventually learns he is Spider-Man and becomes one of his greatest supporters.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-fury",
+        "name": "Nick Fury (Ultimate)",
+        "description": "The Ultimate universe's Nick Fury, the black Nick Fury who inspired the MCU version, heavily involved in Spider-Man's world.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-harry",
+        "name": "Harry Osborn (Ultimate)",
+        "description": "Peter's best friend at Midtown High and son of Norman Osborn. His complicated arc culminates in his death as the Hobgoblin in Death of a Goblin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-flash",
+        "name": "Flash Thompson (Ultimate)",
+        "description": "Peter's bully-turned-classmate who ironically becomes Spider-Man's biggest fan. A recurring presence throughout the Bendis run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kong",
+        "name": "Kenny 'Kong' McFarlane (Ultimate)",
+        "description": "Flash's friend who suspects Peter is Spider-Man early in the run. More sympathetic than his 616 counterpart.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-osborn",
+        "name": "Norman Osborn (Ultimate)",
+        "description": "The Ultimate Green Goblin — a Hulk-like monster rather than a masked villain, whose obsession with Peter Parker drives the entire Bendis run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-venom",
+        "name": "Venom (Ultimate)",
+        "description": "Eddie Brock in the Ultimate universe, where the symbiote is a cancer cure invented by Peter's father, making the bond deeply personal.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-carnage",
+        "name": "Carnage (Ultimate)",
+        "description": "A female clone created from Peter Parker and the Venom symbiote in the Ultimate universe, with a very different origin from her 616 counterpart.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-clone",
+        "name": "Spider-Man Clone (Ultimate)",
+        "description": "One of several Peter Parker clones created in the Ultimate Clone Saga, each with distinct personalities and abilities.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-hobgoblin",
+        "name": "Hobgoblin (Ultimate)",
+        "description": "Harry Osborn as the Ultimate Hobgoblin, infected with a version of his father's Oz formula and becoming a monster.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kingpin",
+        "name": "Kingpin (Ultimate)",
+        "description": "Wilson Fisk as the Ultimate Kingpin, a younger and more physically imposing crime lord whose conflict with Spider-Man drives the Learning Curve arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-blackcat",
+        "name": "Black Cat (Ultimate)",
+        "description": "Felicia Hardy in the Ultimate universe, a cat burglar whose Hollywood connections bring her into Peter's life.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-doc-ock",
+        "name": "Doctor Octopus (Ultimate)",
+        "description": "Otto Octavius in the Ultimate universe, a former OsCorp scientist whose tentacles are fused to his spine, making him more dangerous and unstable.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-electro",
+        "name": "Electro (Ultimate)",
+        "description": "Working for the Kingpin during Learning Curve, Ultimate Electro is one of Spider-Man's first serious physical threats.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-enforcers",
+        "name": "Enforcers (Ultimate)",
+        "description": "The Kingpin's muscle — Ox, Fancy Dan, and Montana — recurring antagonists during the Learning Curve era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kraven",
+        "name": "Kraven the Hunter (Ultimate)",
+        "description": "Reimagined as an Australian reality TV host who hunts Spider-Man for ratings in the Doctor Octopus arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-captain-stacy",
+        "name": "Captain Stacy (Ultimate)",
+        "description": "Gwen's father and NYPD captain, killed by a Spider-Man impostor — a tragedy that shapes Gwen's distrust of Peter.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-elektra",
+        "name": "Elektra (Ultimate)",
+        "description": "A deadly assassin working for the Kingpin in the Cats & Kings era, who clashes with Spider-Man and Black Cat.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-liz-allan",
+        "name": "Liz Allan (Ultimate)",
+        "description": "Peter's classmate whose latent mutant fire powers emerge in the Amazing Friends arc, leading her to join the X-Men.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kitty-pryde",
+        "name": "Kitty Pryde (Ultimate)",
+        "description": "An X-Man who becomes Peter's girlfriend during the Warriors-through-Death of a Goblin era, one of the run's most beloved supporting characters.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jessica-drew",
+        "name": "Spider-Woman (Ultimate)",
+        "description": "A female clone of Peter Parker who escapes the Clone Saga and forges her own identity, eventually joining S.H.I.E.L.D.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kaine-clone",
+        "name": "Kaine (Ultimate)",
+        "description": "A degenerate Peter Parker clone who becomes an antagonist in the Clone Saga, ultimately killed by S.H.I.E.L.D.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-johnny-storm",
+        "name": "Human Torch (Ultimate)",
+        "description": "Johnny Storm who moves into the Parker household after Ultimatum, becoming part of Peter's extended family in his final days.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-bobby-drake",
+        "name": "Iceman (Ultimate)",
+        "description": "Bobby Drake who takes refuge at the Parker house post-Ultimatum and fights alongside Peter in the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-shocker",
+        "name": "Shocker (Ultimate)",
+        "description": "Herman Schultz, one of Spider-Man's early recurring villains in the Ultimate universe, first appearing in Learning Curve.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-rhino",
+        "name": "Rhino (Ultimate)",
+        "description": "A super-powered villain who appears briefly in the Public Scrutiny arc, defeated by Iron Man before Spider-Man arrives.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-iron-man",
+        "name": "Iron Man (Ultimate)",
+        "description": "Tony Stark in the Ultimate universe, who defeats Rhino in the Public Scrutiny arc and later plays a role in the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-wolverine",
+        "name": "Wolverine (Ultimate)",
+        "description": "The Ultimate Wolverine who body-swaps with Peter Parker during the Superstars arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-moon-knight",
+        "name": "Moon Knight (Ultimate)",
+        "description": "A vigilante who clashes with Spider-Man during the Warriors arc and joins Daredevil's underground alliance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-silver-sable",
+        "name": "Silver Sable (Ultimate)",
+        "description": "Leader of the Wild Pack hired by Roxxon to capture Spider-Man in the Silver Sable arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-deadpool",
+        "name": "Deadpool (Ultimate)",
+        "description": "Reimagined as a reality TV host who hunts mutants on Krakoa in the Deadpool arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-morbius",
+        "name": "Morbius (Ultimate)",
+        "description": "A vampire hunter who fights alongside Spider-Man against vampirism in the Morbius arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-daredevil",
+        "name": "Daredevil (Ultimate)",
+        "description": "Matt Murdock who organizes the Ultimate Knights alliance against the Kingpin and later dies in the Ultimatum wave.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-ned-leeds",
+        "name": "Ned Leeds (Ultimate)",
+        "description": "A classmate of Peter Parker who first appears in the Omega Red issue (#121).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-vulture",
+        "name": "Vulture (Ultimate)",
+        "description": "Adrian Toomes, introduced in The Worst Day in Peter Parker's Life (#122) as an enemy created by Roxxon.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-beetle",
+        "name": "Beetle (Ultimate)",
+        "description": "First appears in #122, part of the War of the Symbiotes era as a villain working for Latveria.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-firestar",
+        "name": "Firestar / Liz Allan (Ultimate)",
+        "description": "Liz Allan's mutant fire powers manifest in the Amazing Friends arc (#118-120), leading her to be called Firestar.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-omega-red",
+        "name": "Omega Red (Ultimate)",
+        "description": "Appears in the Silver Sable arc and his own spotlight issue (#121).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jessica-jones",
+        "name": "Jessica Jones (Ultimate)",
+        "description": "First appears in the Ultimate Knights arc (#106-110) as part of Daredevil's underground alliance against the Kingpin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-geldoff",
+        "name": "Geldoff (Ultimate)",
+        "description": "A foreign exchange student with psionic car-exploding powers who appears in the Irresponsible arc (#40-45).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-chameleon",
+        "name": "Chameleon (Ultimate)",
+        "description": "The Ultimate Chameleon impersonates Peter Parker in the Vol 2 arc, nearly destroying his relationships and discovering his secret identity.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-mysterio",
+        "name": "Mysterio (Ultimate)",
+        "description": "The Ultimate Mysterio who appears post-Ultimatum as a new crime boss in New York, confronting Spider-Man in the Tainted Love arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-shang-chi",
+        "name": "Shang-Chi (Ultimate)",
+        "description": "Master martial artist who joins Daredevil's Ultimate Knights alliance against the Kingpin in the Warriors arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-iron-fist",
+        "name": "Iron Fist (Ultimate)",
+        "description": "Danny Rand who joins the Ultimate Knights alongside Daredevil, Shang-Chi and Spider-Man. Acts as an informant for the Kingpin which nearly derails the alliance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-ronin",
+        "name": "Ronin / Moon Knight (Ultimate)",
+        "description": "Moon Knight's Ronin persona created to infiltrate the Kingpin's operation as a bodyguard in the Ultimate Knights arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-captain-america",
+        "name": "Captain America (Ultimate)",
+        "description": "Steve Rogers in the Ultimate universe — harder and more moralistic than his 616 counterpart. Finds Peter after Ultimatum and trains him briefly before the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-thor",
+        "name": "Thor (Ultimate)",
+        "description": "The Ultimate Thor who appears in the Spidey's 50th Anniversary special debating what to do about Spider-Man alongside Captain America and Iron Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-carol-danvers",
+        "name": "Carol Danvers (Ultimate)",
+        "description": "S.H.I.E.L.D. director who takes over from Fury and plays a key role in the Death of a Goblin and Superhero Training arcs, ordering Peter's training.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-punisher",
+        "name": "Punisher (Ultimate)",
+        "description": "Frank Castle who shoots Spider-Man during the Death of Spider-Man arc while trying to kill Captain America, setting off Peter's final battle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-sandman",
+        "name": "Sandman (Ultimate)",
+        "description": "One of the Sinister Six assembled by Norman Osborn who attacks the Parker house during the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-electro-dos",
+        "name": "Electro (Ultimate Death arc)",
+        "description": "Electro who is broken out by Norman Osborn and attacks Peter's home in the Death of Spider-Man, ultimately neutralized by Aunt May's gun shot.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jean-grey",
+        "name": "Jean Grey (Ultimate)",
+        "description": "X-Man who appears when Spider-Man visits the X-Mansion during the Irresponsible arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-professor-x",
+        "name": "Professor X (Ultimate)",
+        "description": "Xavier who hosts Spider-Man at the X-Mansion during the Irresponsible arc and informs him about Geldoff's origin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-fantastic-four",
+        "name": "Fantastic Four (Ultimate)",
+        "description": "Reed, Sue, Johnny and Ben who assist Spider-Man during the Clone Saga when the situation at the Parker house escalates beyond his control.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-peter",
+        "name": "Peter Parker (Ultimate Universe)",
+        "description": "An older, married Peter Parker in the rebooted Ultimate Universe — a family man working at the Daily Bugle who becomes Spider-Man later in life.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-mj",
+        "name": "Mary Jane Watson (Ultimate Universe)",
+        "description": "Peter's wife in the 2024 Ultimate Universe, aware of his Spider-Man identity from the start.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-richard",
+        "name": "Richard Parker II / Venom (Ultimate Universe)",
+        "description": "Peter and MJ's 15-year-old son who inherits the picotech suit when Peter goes missing and adopts the name Venom.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-may-parker",
+        "name": "May Parker II (Ultimate Universe)",
+        "description": "Peter and MJ's younger daughter, the first to discover Peter's Spider-Man identity and suggest the red and blue suit.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-uncle-ben",
+        "name": "Ben Parker (Ultimate Universe)",
+        "description": "Peter's uncle who is alive in this timeline. Managing editor of the Daily Bugle before quitting with Jonah to found The Paper.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-jameson",
+        "name": "J. Jonah Jameson (Ultimate Universe)",
+        "description": "Ben Parker's newspaper partner who co-founds The Paper after leaving the Bugle. Friend and ally throughout the series.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-gwen",
+        "name": "Gwen Stacy-Osborn / Mysterio (Ultimate Universe)",
+        "description": "Harry's wife and Oscorp CEO, secretly a member of the Mysterio group. Fakes Harry's death to protect him and ultimately turns on the Sinister Six.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-harry",
+        "name": "Harry Osborn / Green Goblin (Ultimate Universe)",
+        "description": "Peter's closest ally and the armored vigilante Green Goblin. Married to Gwen Stacy, he fights alongside Spider-Man against Kingpin's Sinister Six.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-osborn",
+        "name": "Norman Osborn (Ultimate Universe)",
+        "description": "Norman Osborn of the 2024 Ultimate Universe, Harry's dead father who still haunts his memory.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-otto",
+        "name": "Otto Octavius / Superior Spider-Man (Ultimate Universe)",
+        "description": "Oscorp scientist who helps Peter and Harry, eventually building his own Spider-Man suit. Designed after Otto's Elliot Tolliver clone form.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-iron-lad",
+        "name": "Tony Stark / Iron Lad (Ultimate Universe)",
+        "description": "Leader of The Ultimates who sends Peter the radioactive spider and sets him on the path to becoming Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-kingpin",
+        "name": "Wilson Fisk / Kingpin (Ultimate Universe)",
+        "description": "Shadow Governor of Manhattan serving the Maker's Council. Assembles the Sinister Six to eliminate Spider-Man and Green Goblin. Dies falling from Fisk Tower.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-shocker",
+        "name": "Shocker (Ultimate Universe)",
+        "description": "Herman Schultz, a bank robber who accidentally received his vibro-gauntlets from a package meant for Peter Parker.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-kraven",
+        "name": "Kraven the Hunter (Ultimate Universe)",
+        "description": "Billionaire hunter who controls Staten Island for the Sinister Six. Kidnaps Peter and Harry for a lethal hunt in Subterranea before being shot by Mysterio.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-mister-negative",
+        "name": "Mister Negative (Ultimate Universe)",
+        "description": "Martin Li, CEO of F.E.A.S.T. and leader of the Demons gang. Controls Queens for the Sinister Six before turning on Kingpin and dying with him.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-mole-man",
+        "name": "Mole Man (Ultimate Universe)",
+        "description": "Harvey Elder, Kingpin's oldest ally who rules Subterranea. Eventually defects and aids Spider-Man against Kingpin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-mysterio-org",
+        "name": "The Mysterio (Ultimate Universe)",
+        "description": "A secret group of illusion-powered heroes including Gwen Stacy, Quentin Beck, Robbie Robertson, and James Wesley who oppose the Maker's Council.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-black-cat-sr",
+        "name": "Walter Hardy / Black Cat (Ultimate Universe)",
+        "description": "Fisk's lieutenant who controls the Bronx. Paralyzed by Green Goblin, replaced by his daughter Felicia.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-felicia",
+        "name": "Felicia Hardy / Black Cat (Ultimate Universe)",
+        "description": "Walter Hardy's 16-year-old daughter who takes over as the new Black Cat. Befriends Richard Parker II and ultimately helps Spider-Man against Kingpin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-bullseye",
+        "name": "Bullseye (Ultimate Universe)",
+        "description": "An assassin group serving the Maker's Council and Kingpin, devoted to Henri Duggary.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-sandman",
+        "name": "Sandman (Ultimate Universe)",
+        "description": "William Baker, transformed by AIM experimentation. Briefly attacks the Parker family before being freed by Spider-Man and becoming an ally.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "captain-america",
+        "name": "Captain America",
+        "description": "Steve Rogers, scrawny kid from Brooklyn, transformed into a super-soldier during World War II. A leader of the Avengers and one of Marvel's most iconic heroes.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "iron-man",
+        "name": "Iron Man",
+        "description": "Tony Stark; billionaire, playboy, philanthropist, etc. Owner of Stark Industries and founding member of the Avengers.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hulk",
+        "name": "Hulk",
+        "description": "Bruce Banner, a scientist who transforms into a green-skinned giant of immense strength",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "black-widow",
+        "name": "Black Widow",
+        "description": "Natasha Romanoff, a former Soviet spy turned S.H.I.E.L.D. agent and Avenger",
+        "publisherId": "marvel"
+    },
+    {
         "id": "mister-fantastic",
         "name": "Mister Fantastic",
-        "description": "Reed Richards, The leader of the Fantastic Four",
+        "description": "Reed Richards, One of the worlds most brilliant scientists and the leader of the Fantastic Four. Husband of Sue Storm and father of Franklin Richards and Valeria Richards",
         "publisherId": "marvel"
     },
     {
         "id": "invisible-woman",
         "name": "Invisible Woman",
-        "description": "Susan Storm, First lady of Marvel and of the Fantastic Four",
+        "description": "Susan Storm. Wife of Reed Richards and the first lady of Marvel, and of the Fantastic Four",
         "publisherId": "marvel"
     },
     {
         "id": "human-torch",
         "name": "Human Torch",
-        "description": "Johnny Storm, The hot headed younger brother Sue Storm",
+        "description": "Johnny Storm. The hot headed younger brother of Sue Storm and uncle to Franklin Richards and Valeria Richards",
         "publisherId": "marvel"
     },
     {
         "id": "thing",
         "name": "Thing",
-        "description": "Ben Grimm, The strongest member of the Fantastic Four",
+        "description": "Ben Grimm, best friend of Reed Richards and the strongest member of the Fantastic Four",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "doctor-doom",
+        "name": "Doctor Doom",
+        "description": "Victor Von Doom, ruler of Latveria and one of Marvel's greatest villains. Arch enemy of the Fantastic Four and Mister Fantastic.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "daredevil",
+        "name": "Daredevil",
+        "description": "Matt Murdock, a blind lawyer who fights crime as the Man Without Fear",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "punisher",
+        "name": "Punisher",
+        "description": "Frank Castle, a vigilante who wages a one-man war on crime after the murder of his family",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "luke-cage",
+        "name": "Luke Cage",
+        "description": "A street-level hero with unbreakable skin and superhuman strength, also known as Power Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "iceman",
+        "name": "Iceman",
+        "description": "Bobby Drake, a mutant with the ability to generate and control ice",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "nightcrawler",
+        "name": "Nightcrawler",
+        "description": "Kurt Wagner, a blue-skinned mutant X-Man with teleportation abilities",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "quicksilver",
+        "name": "Quicksilver",
+        "description": "Pietro Maximoff, a mutant with the ability to move at superhuman speeds",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "medusa",
+        "name": "Medusa",
+        "description": "Medusalith Amaquelin, queen of the Inhumans with prehensile hair",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "doctor-strange",
+        "name": "Doctor Strange",
+        "description": "Stephen Strange, the Sorcerer Supreme and master of the mystic arts",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-woman",
+        "name": "Spider-Woman",
+        "description": "Jessica Drew, a longtime Avenger and spy who plays a key role in coordinating the Spider-Army during Spider-Verse.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ka-zar",
+        "name": "Ka-Zar",
+        "description": "Kevin Plunder, a lord of the jungle who rules over the Savage Land",
         "publisherId": "marvel"
     },
     {
         "id": "batman",
         "name": "Batman",
-        "description": "The Dark Knight of Gotham",
+        "description": "Bruce Wayne, the Dark Knight of Gotham",
         "publisherId": "dc"
     },
     {
         "id": "invincible",
         "name": "Invincible",
-        "description": "Teenage Viltumite",
+        "description": "Mark Grayson, a teenager whose father comes from the Planet Viltrum",
         "publisherId": "image"
     },
     {

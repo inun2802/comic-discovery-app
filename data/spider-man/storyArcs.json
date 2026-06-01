@@ -1,69 +1,69 @@
 [
-    { 
-        "id": "master-planner-saga",      
-        "title": "The Master Planner Saga",           
-        "description": "Spider-Man battles the Master Planner (Doctor Octopus in disguise) while Aunt May's life hangs in the balance. Culminates in the legendary ASM #33.", 
-        "publisherId": "marvel" 
+    {
+        "id": "master-planner-saga",
+        "title": "The Master Planner Saga",
+        "description": "Spider-Man battles the Master Planner (Doctor Octopus in disguise) while Aunt May's life hangs in the balance. Culminates in the legendary ASM #33.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "goblin-identity",          
-        "title": "The Goblin's Identity Revealed",    
-        "description": "The Green Goblin discovers Spider-Man's secret identity and Peter learns who the Goblin truly is.", 
-        "publisherId": "marvel" 
+    {
+        "id": "goblin-identity",
+        "title": "The Goblin's Identity Revealed",
+        "description": "The Green Goblin discovers Spider-Man's secret identity and Peter learns who the Goblin truly is.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "drug-issues",              
-        "title": "Goblin Reborn",                   
-        "description": "Stan Lee tackled drug addiction without Comics Code Authority approval. Harry Osborn overdoses on pills.", 
-        "publisherId": "marvel" 
+    {
+        "id": "drug-issues",
+        "title": "Goblin Reborn",
+        "description": "Stan Lee tackled drug addiction without Comics Code Authority approval. Harry Osborn overdoses on pills.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "six-armed-saga",           
-        "title": "The Six-Armed Saga",                
-        "description": "Spider-Man takes a serum to remove his powers but grows four extra arms. Leads to the introduction of Morbius.", 
-        "publisherId": "marvel" 
+    {
+        "id": "six-armed-saga",
+        "title": "The Six-Armed Saga",
+        "description": "Spider-Man takes a serum to remove his powers but grows four extra arms. Leads to the introduction of Morbius.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "kingpin-tablet-saga",      
-        "title": "The Kingpin Tablet Saga",           
-        "description": "The Kingpin steals a mysterious ancient tablet and Spider-Man must retrieve it across multiple battles.", 
-        "publisherId": "marvel" 
+    {
+        "id": "kingpin-tablet-saga",
+        "title": "The Kingpin Tablet Saga",
+        "description": "The Kingpin steals a mysterious ancient tablet and Spider-Man must retrieve it across multiple battles.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "doc-ock-nullifier",        
-        "title": "The Nullifier Saga",                
-        "description": "Doctor Octopus steals the Nullifier device and uses it to cause Spider-Man to lose his memory.", 
-        "publisherId": "marvel" 
+    {
+        "id": "doc-ock-nullifier",
+        "title": "The Nullifier Saga",
+        "description": "Doctor Octopus steals the Nullifier device and uses it to cause Spider-Man to lose his memory.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "night-gwen-stacy-died",    
-        "title": "The Night Gwen Stacy Died",         
-        "description": "One of the most pivotal moments in Spider-Man history. The Green Goblin kills Gwen Stacy. Norman Osborn then dies.", 
-        "publisherId": "marvel" 
+    {
+        "id": "night-gwen-stacy-died",
+        "title": "The Night Gwen Stacy Died",
+        "description": "One of the most pivotal moments in Spider-Man history. The Green Goblin kills Gwen Stacy. Norman Osborn then dies.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "harry-goblin",             
-        "title": "Harry Osborn as the Green Goblin",  
-        "description": "Harry Osborn discovers Peter is Spider-Man and becomes the second Green Goblin.", 
-        "publisherId": "marvel" 
+    {
+        "id": "harry-goblin",
+        "title": "Harry Osborn as the Green Goblin",
+        "description": "Harry Osborn discovers Peter is Spider-Man and becomes the second Green Goblin.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "clone-saga-original",      
-        "title": "The Original Clone Saga",           
-        "description": "The Jackal clones Spider-Man and both the clone and the original must face off. Leads to the first appearance of the Spider-Clone (Ben Reilly) and return of Gwen Stacy ?!?.", 
-        "publisherId": "marvel" 
+    {
+        "id": "clone-saga-original",
+        "title": "The Original Clone Saga",
+        "description": "The Jackal clones Spider-Man and both the clone and the original must face off. Leads to the first appearance of the Spider-Clone (Ben Reilly) and return of Gwen Stacy ?!?.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "spiderman-no-more",         
-        "title": "Spider-Man No More",           
-        "description": "The Kingpin's debut and rise to power as New York's greatest crime lord beginning with Spider-Man No More.", 
-        "publisherId": "marvel" 
+    {
+        "id": "spiderman-no-more",
+        "title": "Spider-Man No More",
+        "description": "The Kingpin's debut and rise to power as New York's greatest crime lord beginning with Spider-Man No More.",
+        "publisherId": "marvel"
     },
-    { 
-        "id": "death-of-captain-stacy",         
-        "title": "The Death of Captain Stacy",           
-        "description": "The tragic death of Captain Stacy and its impact on the Spider-Man universe.", 
-        "publisherId": "marvel" 
+    {
+        "id": "death-of-captain-stacy",
+        "title": "The Death of Captain Stacy",
+        "description": "The tragic death of Captain Stacy and its impact on the Spider-Man universe.",
+        "publisherId": "marvel"
     },
     {
         "id": "hammerhead-ghost",
@@ -122,43 +122,7 @@
     {
         "id": "hobgoblin-revealed",
         "title": "The Hobgoblin Revealed",
-        "description": "The mystery of the Hobgoblin's identity is finally solved — or is it? Ned Leeds is revealed as the Hobgoblin.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "kravens-last-hunt",
-        "title": "Kraven's Last Hunt",
-        "description": "The greatest Spider-Man story ever told. Kraven the Hunter buries Spider-Man alive and takes his place. Dark, literary, and unforgettable.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "venom-origin",
-        "title": "The Birth of Venom",
-        "description": "Eddie Brock bonds with the alien symbiote to become Venom, culminating in the landmark ASM #300.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "peter-proposes",
-        "title": "Peter Parker Proposes",
-        "description": "Peter Parker finally proposes to Mary Jane Watson and she says yes.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "black-costume-saga",
-        "title": "The Black Costume Saga",
-        "description": "Spider-Man returns from Secret Wars with an alien symbiote costume that begins to take control of him. Leads directly to the creation of Venom.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "gang-war",
-        "title": "Gang War",
-        "description": "New York's criminal underworld erupts in all-out war following the Kingpin's fall from power. Spider-Man is caught in the middle.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "hobgoblin-revealed",
-        "title": "The Hobgoblin Revealed",
-        "description": "The mystery of the Hobgoblin's identity is finally solved — or is it? Ned Leeds is revealed as the Hobgoblin.",
+        "description": "The mystery of the Hobgoblin's identity is finally solved \u2014 or is it? Ned Leeds is revealed as the Hobgoblin.",
         "publisherId": "marvel"
     },
     {
@@ -183,12 +147,6 @@
         "id": "venom-returns-315",
         "title": "The Return of Venom",
         "description": "Venom returns to terrorize Spider-Man and Mary Jane in a brutal three-part story.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "assassin-nation-plot",
-        "title": "The Assassin Nation Plot",
-        "description": "Spider-Man teams with Silver Sable and the Wild Pack to stop an international assassination conspiracy.",
         "publisherId": "marvel"
     },
     {
@@ -246,12 +204,6 @@
         "publisherId": "marvel"
     },
     {
-        "id": "revelations-911",
-        "title": "Revelations",
-        "description": "Spider-Man's response to the 9/11 attacks. A standalone issue widely regarded as one of the most important single comics of the decade.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "the-conversation",
         "title": "The Conversation",
         "description": "Peter finally tells Aunt May he is Spider-Man in a quiet, devastating one-issue story decades in the making.",
@@ -270,6 +222,12 @@
         "publisherId": "marvel"
     },
     {
+        "id": "sins-past",
+        "title": "Sins Past",
+        "description": "It is revealed that Gwen Stacy secretly had Norman Osborn's children. A divisive but permanently canonical story with lasting consequences.",
+        "publisherId": "marvel"
+    },
+    {
         "id": "the-other",
         "title": "The Other: Evolve or Die",
         "description": "Peter Parker dies and is reborn with new instinctual spider abilities, setting up his enhanced status heading into Civil War.",
@@ -278,7 +236,7 @@
     {
         "id": "civil-war-asm",
         "title": "Civil War",
-        "description": "Peter unmasks on live television in support of the Superhero Registration Act — one of the most consequential moments in Spider-Man history.",
+        "description": "Peter unmasks on live television in support of the Superhero Registration Act \u2014 one of the most consequential moments in Spider-Man history.",
         "publisherId": "marvel"
     },
     {
@@ -326,7 +284,7 @@
     {
         "id": "gauntlet-sandman",
         "title": "The Gauntlet: Sandman",
-        "description": "Keemia's Castle — one of the most emotionally complex Sandman stories ever told, as he believes a child is his daughter.",
+        "description": "Keemia's Castle \u2014 one of the most emotionally complex Sandman stories ever told, as he believes a child is his daughter.",
         "publisherId": "marvel"
     },
     {
@@ -350,7 +308,7 @@
     {
         "id": "shed",
         "title": "Shed",
-        "description": "The Lizard permanently devours Curt Connors' humanity — and kills his own son. One of the darkest transformations in Spider-Man history.",
+        "description": "The Lizard permanently devours Curt Connors' humanity \u2014 and kills his own son. One of the darkest transformations in Spider-Man history.",
         "publisherId": "marvel"
     },
     {
@@ -382,7 +340,329 @@
         "title": "Dying Wish",
         "description": "Doctor Octopus swaps minds with Peter Parker. Peter dies in Ock's failing body, spending his last moments proving what it means to be Spider-Man.",
         "publisherId": "marvel"
+    },
+    {
+        "id": "superior-begins",
+        "title": "Superior Spider-Man: A Superior Beginning",
+        "description": "Otto Octavius, now in Peter Parker's body, vows to be a better Spider-Man while Peter's ghost fights desperately to reclaim control.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "troubled-mind",
+        "title": "Troubled Mind",
+        "description": "Peter's consciousness resurfaces inside Ock's mind, forcing a confrontation. Ock ultimately destroys Peter's remaining memories to fully take control.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "no-escape",
+        "title": "No Escape",
+        "description": "Superior Spider-Man takes on the Vulture and the Massacre, revealing Ock's willingness to cross moral lines Peter never would.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "goblin-nation",
+        "title": "Goblin Nation",
+        "description": "The Goblin King's army overruns New York. Ock is forced to admit defeat and restore Peter Parker, sacrificing himself to save Anna Maria.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "peter-returns",
+        "title": "Peter Returns",
+        "description": "Peter Parker reclaims his body and life after the Superior Spider-Man era, rebuilding what Ock destroyed while establishing Parker Industries.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spider-verse",
+        "title": "Spider-Verse",
+        "description": "The Inheritors hunt Spider-totems across the multiverse. Peter leads a Spider-Army spanning every alternate reality to stop the slaughter. Silk and Spider-Gwen debut.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "graveyard-shift",
+        "title": "The Graveyard Shift",
+        "description": "Peter juggles Parker Industries and his identity as Silk's connection puts them both in danger, closing out Vol 3 before Secret Wars.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "worldwide-arc",
+        "title": "Worldwide",
+        "description": "Peter Parker runs Parker Industries as a global tech company, operating as Spider-Man from a position of wealth and resources for the first time.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "dark-kingdom",
+        "title": "The Dark Kingdom",
+        "description": "Spider-Man faces Mister Negative and the Inner Demons in a personal arc tied to Martin Li's connection to Aunt May and F.E.A.S.T.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "go-down-swinging",
+        "title": "Go Down Swinging",
+        "description": "Norman Osborn bonds with the Carnage symbiote to become the Red Goblin, the most dangerous version of the Green Goblin ever. A career-defining confrontation.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "fall-of-parker",
+        "title": "Fall of Parker",
+        "description": "Parker Industries collapses and Peter loses everything he built, forcing him back to his street-level roots heading into the Nick Spencer era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "back-to-basics",
+        "title": "Back to Basics",
+        "description": "Nick Spencer's debut arc restores Peter Parker to his classic struggling status quo \u2014 broke, unlucky, and back in New York \u2014 while seeding the mystery of Kindred.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "heist-arc",
+        "title": "Heist",
+        "description": "Black Cat assembles a crew to steal from Spider-Man, kicking off a long-running criminal subplot that redefines Felicia Hardy's role in the Spencer run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "hunted-arc",
+        "title": "Hunted",
+        "description": "Kraven the Hunter traps Spider-Man and dozens of animal-themed villains in Central Park as prey, seeking a death worthy of his legacy.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sins-rising",
+        "title": "Sins Rising",
+        "description": "The resurrected Sin-Eater, empowered by Kindred, targets Spider-Man's rogues gallery. Norman Osborn is cleansed of the Green Goblin persona, setting up Last Remains.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "last-remains",
+        "title": "Last Remains",
+        "description": "Kindred is revealed as Harry Osborn's corrupted soul, the consequence of Peter's deal with Mephisto. The darkest arc of Spencer's run with a Spider-Family-wide confrontation.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "chameleon-conspiracy",
+        "title": "The Chameleon Conspiracy",
+        "description": "The Chameleon's true identity and agenda are exposed, with ties to Teresa Parker and a spy network threatening Peter's family history.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sinister-war-arc",
+        "title": "Sinister War",
+        "description": "Multiple Sinister Six line-ups battle simultaneously over Spider-Man, with Kindred manipulating every faction toward a single devastating endgame.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "beyond-arc",
+        "title": "Beyond",
+        "description": "Ben Reilly returns as the official Spider-Man under the Beyond Corporation while a wounded Peter recovers, closing out the Spencer era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "spec-debut",
+        "title": "Peter Parker: Spectacular Spider-Man Debuts",
+        "description": "The launch of Spider-Man's second ongoing series, establishing Peter Parker's street-level New York world alongside the main ASM title.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "death-jean-dewolff",
+        "title": "The Death of Jean DeWolff",
+        "description": "The Sin-Eater murders NYPD Captain Jean DeWolff, pushing Spider-Man and Daredevil to their moral limits in one of the greatest Spectacular stories ever told.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "harry-goblin-arc",
+        "title": "Harry Osborn: The Green Goblin Returns",
+        "description": "Harry Osborn's tragic descent into becoming the Green Goblin again, culminating in his death saving Peter Parker in the landmark #200.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "torment",
+        "title": "Torment",
+        "description": "Todd McFarlane's debut arc on his own Spider-Man title. A dark, atmospheric five-parter pitting Spider-Man against a supernaturally powered Lizard.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "wosm-debut",
+        "title": "Web of Spider-Man Debuts",
+        "description": "The launch of Web of Spider-Man, Spider-Man's third ongoing series, expanding his world further into street-level New York.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-power-responsibility",
+        "title": "Power and Responsibility",
+        "description": "Bendis retells Spider-Man's origin for the Ultimate universe — Peter Parker bitten, Uncle Ben killed, the weight of responsibility beginning. A modern reinvention that made the character feel new.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-learning-curve",
+        "title": "Learning Curve",
+        "description": "Peter confronts the Ultimate Kingpin for the first time, learning the brutal reality of New York's criminal underworld. Introduces Elektra and sets the tone for the entire run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-doctor-octopus",
+        "title": "Doctor Octopus / Public Scrutiny",
+        "description": "Ultimate Doc Ock debuts as a former OsCorp scientist with fused tentacles. Peter's double life begins fraying as the media turns on Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-legacy",
+        "title": "Legacy",
+        "description": "Gwen Stacy enters Peter's life. Norman Osborn's Oz formula resurfaces and the Green Goblin threat begins building toward an inevitable confrontation.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-public-scrutiny",
+        "title": "Public Scrutiny",
+        "description": "The Ultimate Venom origin — Eddie Brock and Peter discover the symbiote was a cancer cure invented by their fathers. One of the most personal Venom stories ever told.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-venom",
+        "title": "Venom",
+        "description": "Norman Osborn fully transforms into a Hulk-like Green Goblin and attacks Peter's school. One of the run's most explosive arcs, with massive consequences.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-cats-kings",
+        "title": "Cats and Kings",
+        "description": "Black Cat enters Peter's life as a cat burglar with Hollywood connections, forcing Spider-Man into conflict with the Kingpin again.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-hollywood",
+        "title": "Hollywood",
+        "description": "A long-running arc involving Mysterio, Doc Ock, and the media's obsession with Spider-Man. Peter's life becomes increasingly complicated.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-carnage",
+        "title": "Carnage",
+        "description": "The Ultimate Carnage is revealed as a female clone of Peter created from his DNA and the Venom symbiote. One of the most disturbing arcs in the run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-hobgoblin",
+        "title": "Hobgoblin",
+        "description": "Harry Osborn is infected with a version of the Oz formula and becomes the Ultimate Hobgoblin, forcing Peter to face his best friend as a monster.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-warriors",
+        "title": "Warriors",
+        "description": "Spider-Man gets caught between the Kingpin, the Hammerhead mob, and a gang war that threatens to consume all of New York.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-silver-sable",
+        "title": "Silver Sable",
+        "description": "Silver Sable and her Wild Pack hunt Spider-Man while Deadpool — reimagined as a reality TV host — adds chaos. A fan-favorite lighter arc before the Clone Saga.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-clone-saga",
+        "title": "Ultimate Clone Saga",
+        "description": "Multiple Peter Parker clones emerge, including the female clone later known as Spider-Woman. Bendis's take on the Clone Saga is tighter, more focused, and genuinely disturbing.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-ultimate-knights",
+        "title": "Ultimate Knights",
+        "description": "Spider-Man joins Daredevil's underground alliance against the Kingpin in a long-building payoff to years of Kingpin conflict.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-death-goblin",
+        "title": "Death of a Goblin",
+        "description": "Norman Osborn escapes prison and the Green Goblin returns for a final confrontation with Harry. One of the most emotionally devastating arcs of the run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-war-symbiotes",
+        "title": "War of the Symbiotes",
+        "description": "Venom returns and the symbiote war begins. Multiple symbiote hosts clash as Peter's past with Eddie Brock comes to a head.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-irresponsible",
+        "title": "Irresponsible",
+        "description": "Peter struggles with balancing his Spider-Man life and school obligations. A quieter arc that sets up the emotional stakes before the heavier Venom story.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-superstars",
+        "title": "Superstars",
+        "description": "Peter body-swaps with Wolverine, encounters Dr. Strange, and deals with the X-Men. A fun anthology arc featuring the broader Ultimate Marvel universe.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-ultimatum",
+        "title": "Ultimatum",
+        "description": "The Ultimate universe's catastrophic Ultimatum event hits New York. Peter survives but the world around him is irrevocably changed.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-new-world",
+        "title": "The New World According to Peter Parker",
+        "description": "Post-Ultimatum, Peter rebuilds. The Chameleon arc gives way to Mysterio's manipulation in Tainted Love — the final long arc before Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-deadpool",
+        "title": "Deadpool",
+        "description": "Spider-Man and Kitty Pryde are captured by Ultimate Deadpool — reimagined as a reality TV host — who hunts mutants on Krakoa. A fan-favourite lighter arc with the X-Men.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-amazing-friends",
+        "title": "Spider-Man and His Amazing Friends",
+        "description": "Liz Allen's mutant powers emerge, leading to a crossover with the X-Men. Marks the transition from Bagley to Immonen as the book's artist.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-chameleons",
+        "title": "Chameleons",
+        "description": "The Ultimate Chameleon impersonates Peter, nearly destroying his relationships with MJ and Gwen while uncovering his secret identity.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-morbius",
+        "title": "Morbius",
+        "description": "Spider-Man investigates a vampire case involving Ben Urich and encounters Morbius, a vampire hunter. Discovers his spider-DNA makes him immune to vampirism.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-the-talk",
+        "title": "The Talk",
+        "description": "A special transitional issue (#111) where Aunt May learns Peter is Spider-Man and gives her support. Marks Mark Bagley's handover to Stuart Immonen as artist.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-omega-red",
+        "title": "Omega Red",
+        "description": "A spotlight issue (#121) where Spider-Man and Omega Red clash at the Daily Bugle. Also features the first appearance of Ned Leeds.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-worst-day",
+        "title": "The Worst Day in Peter Parker's Life",
+        "description": "Issue #122 where Spider-Man faces the Shocker while his double life spirals. First appearances of Ultimate Adrian Toomes and the Beetle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-death-sm-prelude",
+        "title": "Death of Spider-Man Prelude",
+        "description": "The Superhero Training arc and the buildup to Death of Spider-Man. Peter gets training from Captain America as Norman Osborn secretly escapes custody.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm-death-spiderman",
+        "title": "Death of Spider-Man",
+        "description": "Peter Parker is shot, then makes one final stand against the Sinister Six at his home to protect his family. His death is one of the most celebrated moments in Ultimate Marvel history.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "usm2024-world",
+        "title": "Ultimate Spider-Man: A New World",
+        "description": "An older Peter Parker becomes Spider-Man for the first time in the rebooted Ultimate Universe, balancing his family life with MJ and an emerging threat from Norman Osborn.",
+        "publisherId": "marvel"
     }
-
-
 ]
