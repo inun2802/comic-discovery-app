@@ -289,7 +289,7 @@
     },
     {
         "id": "carnage-max",
-        "name": "Carnage",
+        "name": "Carnage Max",
         "description": "Cletus Kasady bonded with the Venom symbiote offspring, leading a gang of supervillains on a killing spree through New York in Maximum Carnage.",
         "publisherId": "marvel"
     },
@@ -618,12 +618,6 @@
         "publisherId": "marvel"
     },
     {
-        "id": "carlie-cooper-det",
-        "name": "Carlie Cooper",
-        "description": "NYPD detective and Peter's ex-girlfriend who figures out Ock is inside Spider-Man's body during the Superior era.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "goblin-king",
         "name": "Goblin King",
         "description": "Norman Osborn rebranded as the Goblin King, orchestrating the Goblin Nation takeover of New York's underworld during Superior Spider-Man.",
@@ -666,494 +660,482 @@
         "publisherId": "marvel"
     },
     {
-        "id": "jonah-jameson-vol5",
-        "name": "J. Jonah Jameson",
-        "description": "Jameson returns as a podcaster and unlikely ally to Spider-Man during Spencer's run, having evolved from his anti-Spider-Man stance.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "harry-goblin",
         "name": "Harry Osborn (Green Goblin II)",
         "description": "Harry Osborn's tragic arc as the second Green Goblin, culminating in his death in Spectacular Spider-Man #200.",
         "publisherId": "marvel"
     },
     {
-        "id": "lizard-torment",
-        "name": "Lizard",
-        "description": "Doctor Curt Connors as the Lizard, the primary villain of McFarlane's landmark Torment arc in Spider-Man #1-5.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "ultimate-peter",
-        "name": "Peter Parker (Ultimate)",
+        "name": "Ultimate Spider-Man",
         "description": "The Ultimate Universe's Peter Parker — younger, more modern, and defined by Brian Michael Bendis's 160-issue run ending with his heroic death.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-mj",
-        "name": "Mary Jane Watson (Ultimate)",
+        "name": "Ultimate Mary Jane",
         "description": "Peter's high school girlfriend and emotional anchor in the Ultimate universe. A journalist in training, more assertive than her 616 counterpart.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-gwen",
-        "name": "Gwen Stacy (Ultimate)",
+        "name": "Ultimate Gwen Stacy",
         "description": "Peter's classmate and eventual girlfriend in the Ultimate universe, with a very different fate than her 616 counterpart.",
         "publisherId": "marvel"
     },
     {
-        "id": "ultimate-uncle-ben",
-        "name": "Uncle Ben (Ultimate)",
-        "description": "Peter Parker's guardian whose murder galvanizes him to become Spider-Man. His death echoes throughout the entire Bendis run.",
+        "id": "ultimate-osborn",
+        "name": "Ultimate Green Goblin",
+        "description": "The Ultimate Green Goblin — a Hulk-like monster rather than a masked villain, whose obsession with Peter Parker drives the entire Bendis run.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-aunt-may",
-        "name": "Aunt May (Ultimate)",
+        "name": "Ultimate Aunt May",
         "description": "Peter's guardian in the Ultimate universe, who eventually learns he is Spider-Man and becomes one of his greatest supporters.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-fury",
-        "name": "Nick Fury (Ultimate)",
+        "name": "Ultimate Nick Fury",
         "description": "The Ultimate universe's Nick Fury, the black Nick Fury who inspired the MCU version, heavily involved in Spider-Man's world.",
         "publisherId": "marvel"
     },
     {
-        "id": "ultimate-harry",
-        "name": "Harry Osborn (Ultimate)",
-        "description": "Peter's best friend at Midtown High and son of Norman Osborn. His complicated arc culminates in his death as the Hobgoblin in Death of a Goblin.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-flash",
-        "name": "Flash Thompson (Ultimate)",
-        "description": "Peter's bully-turned-classmate who ironically becomes Spider-Man's biggest fan. A recurring presence throughout the Bendis run.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-kong",
-        "name": "Kenny 'Kong' McFarlane (Ultimate)",
-        "description": "Flash's friend who suspects Peter is Spider-Man early in the run. More sympathetic than his 616 counterpart.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-osborn",
-        "name": "Norman Osborn (Ultimate)",
-        "description": "The Ultimate Green Goblin — a Hulk-like monster rather than a masked villain, whose obsession with Peter Parker drives the entire Bendis run.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "ultimate-venom",
-        "name": "Venom (Ultimate)",
+        "name": "Ultimate Venom",
         "description": "Eddie Brock in the Ultimate universe, where the symbiote is a cancer cure invented by Peter's father, making the bond deeply personal.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-carnage",
-        "name": "Carnage (Ultimate)",
-        "description": "A clone of Peter Parker and the Venom symbiote in the Ultimate universe, with a very different origin from her 616 counterpart.",
+        "name": "Ultimate Carnage",
+        "description": "A female clone created from Peter Parker and the Venom symbiote in the Ultimate universe, with a very different origin from her 616 counterpart.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-clone",
-        "name": "Spider-Man Clone (Ultimate)",
+        "name": "Ultimate Spider-Man Clone",
         "description": "One of several Peter Parker clones created in the Ultimate Clone Saga, each with distinct personalities and abilities.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-hobgoblin",
-        "name": "Hobgoblin (Ultimate)",
+        "name": "Ultimate Hobgoblin",
         "description": "Harry Osborn as the Ultimate Hobgoblin, infected with a version of his father's Oz formula and becoming a monster.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-kingpin",
-        "name": "Kingpin (Ultimate)",
+        "name": "Ultimate Kingpin",
         "description": "Wilson Fisk as the Ultimate Kingpin, a younger and more physically imposing crime lord whose conflict with Spider-Man drives the Learning Curve arc.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-blackcat",
-        "name": "Black Cat (Ultimate)",
+        "name": "Ultimate Black Cat",
         "description": "Felicia Hardy in the Ultimate universe, a cat burglar whose Hollywood connections bring her into Peter's life.",
         "publisherId": "marvel"
     },
     {
         "id": "ultimate-doc-ock",
-        "name": "Doctor Octopus (Ultimate)",
+        "name": "Ultimate Doctor Octopus",
         "description": "Otto Octavius in the Ultimate universe, a former OsCorp scientist whose tentacles are fused to his spine, making him more dangerous and unstable.",
         "publisherId": "marvel"
     },
     {
-        "id": "ultimate-electro",
-        "name": "Electro (Ultimate)",
-        "description": "Working for the Kingpin during Learning Curve, Ultimate Electro is one of Spider-Man's first serious physical threats.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-enforcers",
-        "name": "Enforcers (Ultimate)",
-        "description": "The Kingpin's muscle — Ox, Fancy Dan, and Montana — recurring antagonists during the Learning Curve era.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-kraven",
-        "name": "Kraven the Hunter (Ultimate)",
-        "description": "Reimagined as an Australian reality TV host who hunts Spider-Man for ratings in the Doctor Octopus arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-captain-stacy",
-        "name": "Captain Stacy (Ultimate)",
-        "description": "Gwen's father and NYPD captain, killed by a Spider-Man impostor — a tragedy that shapes Gwen's distrust of Peter.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-elektra",
-        "name": "Elektra (Ultimate)",
-        "description": "A deadly assassin working for the Kingpin in the Cats & Kings era, who clashes with Spider-Man and Black Cat.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-liz-allan",
-        "name": "Liz Allan (Ultimate)",
-        "description": "Peter's classmate whose latent mutant fire powers emerge in the Amazing Friends arc, leading her to join the X-Men.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-kitty-pryde",
-        "name": "Kitty Pryde (Ultimate)",
-        "description": "An X-Man who becomes Peter's girlfriend during the Warriors-through-Death of a Goblin era, one of the run's most beloved supporting characters.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-jessica-drew",
-        "name": "Spider-Woman (Ultimate)",
-        "description": "A female clone of Peter Parker who escapes the Clone Saga and forges her own identity, eventually joining S.H.I.E.L.D.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-kaine-clone",
-        "name": "Kaine (Ultimate)",
-        "description": "A degenerate Peter Parker clone who becomes an antagonist in the Clone Saga, ultimately killed by S.H.I.E.L.D.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-johnny-storm",
-        "name": "Human Torch (Ultimate)",
-        "description": "Johnny Storm who moves into the Parker household after Ultimatum, becoming part of Peter's extended family in his final days.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-bobby-drake",
-        "name": "Iceman (Ultimate)",
-        "description": "Bobby Drake who takes refuge at the Parker house post-Ultimatum and fights alongside Peter in the Death of Spider-Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-shocker",
-        "name": "Shocker (Ultimate)",
-        "description": "Herman Schultz, one of Spider-Man's early recurring villains in the Ultimate universe, first appearing in Learning Curve.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-rhino",
-        "name": "Rhino (Ultimate)",
-        "description": "A super-powered villain who appears briefly in the Public Scrutiny arc, defeated by Iron Man before Spider-Man arrives.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-iron-man",
-        "name": "Iron Man (Ultimate)",
-        "description": "Tony Stark in the Ultimate universe, who defeats Rhino in the Public Scrutiny arc and later plays a role in the Death of Spider-Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-wolverine",
-        "name": "Wolverine (Ultimate)",
-        "description": "The Ultimate Wolverine who body-swaps with Peter Parker during the Superstars arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-moon-knight",
-        "name": "Moon Knight (Ultimate)",
-        "description": "A vigilante who clashes with Spider-Man during the Warriors arc and joins Daredevil's underground alliance.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-silver-sable",
-        "name": "Silver Sable (Ultimate)",
-        "description": "Leader of the Wild Pack hired by Roxxon to capture Spider-Man in the Silver Sable arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-deadpool",
-        "name": "Deadpool (Ultimate)",
-        "description": "Reimagined as a reality TV host who hunts mutants on Krakoa in the Deadpool arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-morbius",
-        "name": "Morbius (Ultimate)",
-        "description": "A vampire hunter who fights alongside Spider-Man against vampirism in the Morbius arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-daredevil",
-        "name": "Daredevil (Ultimate)",
-        "description": "Matt Murdock who organizes the Ultimate Knights alliance against the Kingpin and later dies in the Ultimatum wave.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-ned-leeds",
-        "name": "Ned Leeds (Ultimate)",
-        "description": "A classmate of Peter Parker who first appears in the Omega Red issue (#121).",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-vulture",
-        "name": "Vulture (Ultimate)",
-        "description": "Adrian Toomes, introduced in The Worst Day in Peter Parker's Life (#122) as an enemy created by Roxxon.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-beetle",
-        "name": "Beetle (Ultimate)",
-        "description": "First appears in #122, part of the War of the Symbiotes era as a villain working for Latveria.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-firestar",
-        "name": "Firestar / Liz Allan (Ultimate)",
-        "description": "Liz Allan's mutant fire powers manifest in the Amazing Friends arc (#118-120), leading her to be called Firestar.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-omega-red",
-        "name": "Omega Red (Ultimate)",
-        "description": "Appears in the Silver Sable arc and his own spotlight issue (#121).",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-jessica-jones",
-        "name": "Jessica Jones (Ultimate)",
-        "description": "First appears in the Ultimate Knights arc (#106-110) as part of Daredevil's underground alliance against the Kingpin.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-geldoff",
-        "name": "Geldoff (Ultimate)",
-        "description": "A foreign exchange student with psionic car-exploding powers who appears in the Irresponsible arc (#40-45).",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-chameleon",
-        "name": "Chameleon (Ultimate)",
-        "description": "The Ultimate Chameleon impersonates Peter Parker in the Vol 2 arc, nearly destroying his relationships and discovering his secret identity.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-mysterio",
-        "name": "Mysterio (Ultimate)",
-        "description": "The Ultimate Mysterio who appears post-Ultimatum as a new crime boss in New York, confronting Spider-Man in the Tainted Love arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-shang-chi",
-        "name": "Shang-Chi (Ultimate)",
-        "description": "Master martial artist who joins Daredevil's Ultimate Knights alliance against the Kingpin in the Warriors arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-iron-fist",
-        "name": "Iron Fist (Ultimate)",
-        "description": "Danny Rand who joins the Ultimate Knights alongside Daredevil, Shang-Chi and Spider-Man. Acts as an informant for the Kingpin which nearly derails the alliance.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-ronin",
-        "name": "Ronin / Moon Knight (Ultimate)",
-        "description": "Moon Knight's Ronin persona created to infiltrate the Kingpin's operation as a bodyguard in the Ultimate Knights arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-captain-america",
-        "name": "Captain America (Ultimate)",
-        "description": "Steve Rogers in the Ultimate universe — harder and more moralistic than his 616 counterpart. Finds Peter after Ultimatum and trains him briefly before the Death of Spider-Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-thor",
-        "name": "Thor (Ultimate)",
-        "description": "The Ultimate Thor who appears in the Spidey's 50th Anniversary special debating what to do about Spider-Man alongside Captain America and Iron Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-carol-danvers",
-        "name": "Carol Danvers (Ultimate)",
-        "description": "S.H.I.E.L.D. director who takes over from Fury and plays a key role in the Death of a Goblin and Superhero Training arcs, ordering Peter's training.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-punisher",
-        "name": "Punisher (Ultimate)",
-        "description": "Frank Castle who shoots Spider-Man during the Death of Spider-Man arc while trying to kill Captain America, setting off Peter's final battle.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-sandman",
-        "name": "Sandman (Ultimate)",
-        "description": "One of the Sinister Six assembled by Norman Osborn who attacks the Parker house during the Death of Spider-Man.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-electro-dos",
-        "name": "Electro (Ultimate Death arc)",
-        "description": "Electro who is broken out by Norman Osborn and attacks Peter's home in the Death of Spider-Man, ultimately neutralized by Aunt May's gun shot.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-jean-grey",
-        "name": "Jean Grey (Ultimate)",
-        "description": "X-Man who appears when Spider-Man visits the X-Mansion during the Irresponsible arc.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-professor-x",
-        "name": "Professor X (Ultimate)",
-        "description": "Xavier who hosts Spider-Man at the X-Mansion during the Irresponsible arc and informs him about Geldoff's origin.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "ultimate-fantastic-four",
-        "name": "Fantastic Four (Ultimate)",
-        "description": "Reed, Sue, Johnny and Ben who assist Spider-Man during the Clone Saga when the situation at the Parker house escalates beyond his control.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "usm2024-peter",
-        "name": "Peter Parker (Ultimate Universe)",
+        "name": "Ultimate Spider-Man (2024)",
         "description": "An older, married Peter Parker in the rebooted Ultimate Universe — a family man working at the Daily Bugle who becomes Spider-Man later in life.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-mj",
-        "name": "Mary Jane Watson (Ultimate Universe)",
+        "name": "Ultimate Mary Jane (2024)",
         "description": "Peter's wife in the 2024 Ultimate Universe, aware of his Spider-Man identity from the start.",
         "publisherId": "marvel"
     },
     {
+        "id": "usm2024-osborn",
+        "name": "Ultimate Norman Osborn (2024)",
+        "description": "The villain of the 2024 Ultimate Universe, pulling strings behind the scenes as Peter discovers his new world.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-uncle-ben",
+        "name": "Ultimate Uncle Ben",
+        "description": "Peter Parker's guardian whose murder galvanizes him to become Spider-Man. His death echoes throughout the entire Bendis run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-harry",
+        "name": "Ultimate Harry Osborn",
+        "description": "Peter's best friend at Midtown High and son of Norman Osborn. His complicated arc culminates in his death as the Hobgoblin in Death of a Goblin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-flash",
+        "name": "Ultimate Flash Thompson",
+        "description": "Peter's bully-turned-classmate who ironically becomes Spider-Man's biggest fan. A recurring presence throughout the Bendis run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kong",
+        "name": "Ultimate Kong McFarlane",
+        "description": "Flash's friend who suspects Peter is Spider-Man early in the run. More sympathetic than his 616 counterpart.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-electro",
+        "name": "Ultimate Electro",
+        "description": "Working for the Kingpin during Learning Curve, Ultimate Electro is one of Spider-Man's first serious physical threats.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-enforcers",
+        "name": "Ultimate Enforcers",
+        "description": "The Kingpin's muscle — Ox, Fancy Dan, and Montana — recurring antagonists during the Learning Curve era.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kraven",
+        "name": "Ultimate Kraven",
+        "description": "Reimagined as an Australian reality TV host who hunts Spider-Man for ratings in the Doctor Octopus arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-captain-stacy",
+        "name": "Ultimate Captain Stacy",
+        "description": "Gwen's father and NYPD captain, killed by a Spider-Man impostor — a tragedy that shapes Gwen's distrust of Peter.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-elektra",
+        "name": "Ultimate Elektra",
+        "description": "A deadly assassin working for the Kingpin in the Cats & Kings era, who clashes with Spider-Man and Black Cat.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-liz-allan",
+        "name": "Ultimate Liz Allan",
+        "description": "Peter's classmate whose latent mutant fire powers emerge in the Amazing Friends arc, leading her to join the X-Men.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kitty-pryde",
+        "name": "Ultimate Kitty Pryde",
+        "description": "An X-Man who becomes Peter's girlfriend during the Warriors-through-Death of a Goblin era, one of the run's most beloved supporting characters.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jessica-drew",
+        "name": "Ultimate Spider-Woman",
+        "description": "A female clone of Peter Parker who escapes the Clone Saga and forges her own identity, eventually joining S.H.I.E.L.D.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-kaine-clone",
+        "name": "Ultimate Kaine",
+        "description": "A degenerate Peter Parker clone who becomes an antagonist in the Clone Saga, ultimately killed by S.H.I.E.L.D.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-johnny-storm",
+        "name": "Ultimate Human Torch",
+        "description": "Johnny Storm who moves into the Parker household after Ultimatum, becoming part of Peter's extended family in his final days.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-bobby-drake",
+        "name": "Ultimate Iceman",
+        "description": "Bobby Drake who takes refuge at the Parker house post-Ultimatum and fights alongside Peter in the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-shocker",
+        "name": "Ultimate Shocker",
+        "description": "Herman Schultz, one of Spider-Man's early recurring villains in the Ultimate universe, first appearing in Learning Curve.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-rhino",
+        "name": "Ultimate Rhino",
+        "description": "A super-powered villain who appears briefly in the Public Scrutiny arc, defeated by Iron Man before Spider-Man arrives.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-iron-man",
+        "name": "Ultimate Iron Man",
+        "description": "Tony Stark in the Ultimate universe, who defeats Rhino in the Public Scrutiny arc and later plays a role in the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-wolverine",
+        "name": "Ultimate Wolverine",
+        "description": "The Ultimate Wolverine who body-swaps with Peter Parker during the Superstars arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-moon-knight",
+        "name": "Ultimate Moon Knight",
+        "description": "A vigilante who clashes with Spider-Man during the Warriors arc and joins Daredevil's underground alliance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-silver-sable",
+        "name": "Ultimate Silver Sable",
+        "description": "Leader of the Wild Pack hired by Roxxon to capture Spider-Man in the Silver Sable arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-deadpool",
+        "name": "Ultimate Deadpool",
+        "description": "Reimagined as a reality TV host who hunts mutants on Krakoa in the Deadpool arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-morbius",
+        "name": "Ultimate Morbius",
+        "description": "A vampire hunter who fights alongside Spider-Man against vampirism in the Morbius arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-daredevil",
+        "name": "Ultimate Daredevil",
+        "description": "Matt Murdock who organizes the Ultimate Knights alliance against the Kingpin and later dies in the Ultimatum wave.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-ned-leeds",
+        "name": "Ultimate Ned Leeds",
+        "description": "A classmate of Peter Parker who first appears in the Omega Red issue (#121).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-vulture",
+        "name": "Ultimate Vulture",
+        "description": "Adrian Toomes, introduced in The Worst Day in Peter Parker's Life (#122) as an enemy created by Roxxon.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-beetle",
+        "name": "Ultimate Beetle",
+        "description": "First appears in #122, part of the War of the Symbiotes era as a villain working for Latveria.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-firestar",
+        "name": "Ultimate Firestar",
+        "description": "Liz Allan's mutant fire powers manifest in the Amazing Friends arc (#118-120), leading her to be called Firestar.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-omega-red",
+        "name": "Ultimate Omega Red",
+        "description": "Appears in the Silver Sable arc and his own spotlight issue (#121).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jessica-jones",
+        "name": "Ultimate Jessica Jones",
+        "description": "First appears in the Ultimate Knights arc (#106-110) as part of Daredevil's underground alliance against the Kingpin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-geldoff",
+        "name": "Ultimate Geldoff",
+        "description": "A foreign exchange student with psionic car-exploding powers who appears in the Irresponsible arc (#40-45).",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-chameleon",
+        "name": "Ultimate Chameleon",
+        "description": "The Ultimate Chameleon impersonates Peter Parker in the Vol 2 arc, nearly destroying his relationships and discovering his secret identity.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-mysterio",
+        "name": "Ultimate Mysterio",
+        "description": "The Ultimate Mysterio who appears post-Ultimatum as a new crime boss in New York, confronting Spider-Man in the Tainted Love arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-shang-chi",
+        "name": "Ultimate Shang-Chi",
+        "description": "Master martial artist who joins Daredevil's Ultimate Knights alliance against the Kingpin in the Warriors arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-iron-fist",
+        "name": "Ultimate Iron Fist",
+        "description": "Danny Rand who joins the Ultimate Knights alongside Daredevil, Shang-Chi and Spider-Man. Acts as an informant for the Kingpin which nearly derails the alliance.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-ronin",
+        "name": "Ultimate Ronin",
+        "description": "Moon Knight's Ronin persona created to infiltrate the Kingpin's operation as a bodyguard in the Ultimate Knights arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-captain-america",
+        "name": "Ultimate Captain America",
+        "description": "Steve Rogers in the Ultimate universe — harder and more moralistic than his 616 counterpart. Finds Peter after Ultimatum and trains him briefly before the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-thor",
+        "name": "Ultimate Thor",
+        "description": "The Ultimate Thor who appears in the Spidey's 50th Anniversary special debating what to do about Spider-Man alongside Captain America and Iron Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-carol-danvers",
+        "name": "Ultimate Carol Danvers",
+        "description": "S.H.I.E.L.D. director who takes over from Fury and plays a key role in the Death of a Goblin and Superhero Training arcs, ordering Peter's training.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-punisher",
+        "name": "Ultimate Punisher",
+        "description": "Frank Castle who shoots Spider-Man during the Death of Spider-Man arc while trying to kill Captain America, setting off Peter's final battle.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-sandman",
+        "name": "Ultimate Sandman",
+        "description": "One of the Sinister Six assembled by Norman Osborn who attacks the Parker house during the Death of Spider-Man.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-electro-dos",
+        "name": "Ultimate Electro (Sinister Six)",
+        "description": "Electro who is broken out by Norman Osborn and attacks Peter's home in the Death of Spider-Man, ultimately neutralized by Aunt May's gun shot.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-jean-grey",
+        "name": "Ultimate Jean Grey",
+        "description": "X-Man who appears when Spider-Man visits the X-Mansion during the Irresponsible arc.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-professor-x",
+        "name": "Ultimate Professor X",
+        "description": "Xavier who hosts Spider-Man at the X-Mansion during the Irresponsible arc and informs him about Geldoff's origin.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "ultimate-fantastic-four",
+        "name": "Ultimate Fantastic Four",
+        "description": "Reed, Sue, Johnny and Ben who assist Spider-Man during the Clone Saga when the situation at the Parker house escalates beyond his control.",
+        "publisherId": "marvel"
+    },
+    {
         "id": "usm2024-richard",
-        "name": "Richard Parker II / Venom (Ultimate Universe)",
+        "name": "Ultimate Venom (2024)",
         "description": "Peter and MJ's 15-year-old son who inherits the picotech suit when Peter goes missing and adopts the name Venom.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-may-parker",
-        "name": "May Parker II (Ultimate Universe)",
+        "name": "Ultimate May Parker (2024)",
         "description": "Peter and MJ's younger daughter, the first to discover Peter's Spider-Man identity and suggest the red and blue suit.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-uncle-ben",
-        "name": "Ben Parker (Ultimate Universe)",
+        "name": "Ultimate Uncle Ben (2024)",
         "description": "Peter's uncle who is alive in this timeline. Managing editor of the Daily Bugle before quitting with Jonah to found The Paper.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-jameson",
-        "name": "J. Jonah Jameson (Ultimate Universe)",
+        "name": "Ultimate J. Jonah Jameson (2024)",
         "description": "Ben Parker's newspaper partner who co-founds The Paper after leaving the Bugle. Friend and ally throughout the series.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-gwen",
-        "name": "Gwen Stacy-Osborn / Mysterio (Ultimate Universe)",
+        "name": "Ultimate Gwen Stacy (2024)",
         "description": "Harry's wife and Oscorp CEO, secretly a member of the Mysterio group. Fakes Harry's death to protect him and ultimately turns on the Sinister Six.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-harry",
-        "name": "Harry Osborn / Green Goblin (Ultimate Universe)",
+        "name": "Ultimate Green Goblin (2024)",
         "description": "Peter's closest ally and the armored vigilante Green Goblin. Married to Gwen Stacy, he fights alongside Spider-Man against Kingpin's Sinister Six.",
         "publisherId": "marvel"
     },
     {
-        "id": "usm2024-osborn",
-        "name": "Norman Osborn (Ultimate Universe)",
-        "description": "Norman Osborn of the 2024 Ultimate Universe, Harry's dead father who still haunts his memory.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "usm2024-otto",
-        "name": "Otto Octavius / Superior Spider-Man (Ultimate Universe)",
+        "name": "Ultimate Doctor Octopus (2024)",
         "description": "Oscorp scientist who helps Peter and Harry, eventually building his own Spider-Man suit. Designed after Otto's Elliot Tolliver clone form.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-iron-lad",
-        "name": "Tony Stark / Iron Lad (Ultimate Universe)",
+        "name": "Ultimate Iron Lad (2024)",
         "description": "Leader of The Ultimates who sends Peter the radioactive spider and sets him on the path to becoming Spider-Man.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-kingpin",
-        "name": "Wilson Fisk / Kingpin (Ultimate Universe)",
+        "name": "Ultimate Kingpin (2024)",
         "description": "Shadow Governor of Manhattan serving the Maker's Council. Assembles the Sinister Six to eliminate Spider-Man and Green Goblin. Dies falling from Fisk Tower.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-shocker",
-        "name": "Shocker (Ultimate Universe)",
+        "name": "Ultimate Shocker (2024)",
         "description": "Herman Schultz, a bank robber who accidentally received his vibro-gauntlets from a package meant for Peter Parker.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-kraven",
-        "name": "Kraven the Hunter (Ultimate Universe)",
+        "name": "Ultimate Kraven (2024)",
         "description": "Billionaire hunter who controls Staten Island for the Sinister Six. Kidnaps Peter and Harry for a lethal hunt in Subterranea before being shot by Mysterio.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-mister-negative",
-        "name": "Mister Negative (Ultimate Universe)",
+        "name": "Ultimate Mister Negative (2024)",
         "description": "Martin Li, CEO of F.E.A.S.T. and leader of the Demons gang. Controls Queens for the Sinister Six before turning on Kingpin and dying with him.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-mole-man",
-        "name": "Mole Man (Ultimate Universe)",
+        "name": "Ultimate Mole Man (2024)",
         "description": "Harvey Elder, Kingpin's oldest ally who rules Subterranea. Eventually defects and aids Spider-Man against Kingpin.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-mysterio-org",
-        "name": "The Mysterio (Ultimate Universe)",
+        "name": "Ultimate Mysterio (2024)",
         "description": "A secret group of illusion-powered heroes including Gwen Stacy, Quentin Beck, Robbie Robertson, and James Wesley who oppose the Maker's Council.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-black-cat-sr",
-        "name": "Walter Hardy / Black Cat (Ultimate Universe)",
+        "name": "Ultimate Black Cat Sr. (2024)",
         "description": "Fisk's lieutenant who controls the Bronx. Paralyzed by Green Goblin, replaced by his daughter Felicia.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-felicia",
-        "name": "Felicia Hardy / Black Cat (Ultimate Universe)",
+        "name": "Ultimate Black Cat (2024)",
         "description": "Walter Hardy's 16-year-old daughter who takes over as the new Black Cat. Befriends Richard Parker II and ultimately helps Spider-Man against Kingpin.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-bullseye",
-        "name": "Bullseye (Ultimate Universe)",
+        "name": "Ultimate Bullseye (2024)",
         "description": "An assassin group serving the Maker's Council and Kingpin, devoted to Henri Duggary.",
         "publisherId": "marvel"
     },
     {
         "id": "usm2024-sandman",
-        "name": "Sandman (Ultimate Universe)",
+        "name": "Ultimate Sandman (2024)",
         "description": "William Baker, transformed by AIM experimentation. Briefly attacks the Parker family before being freed by Spider-Man and becoming an ally.",
         "publisherId": "marvel"
     },
