@@ -3555,22 +3555,22 @@
     },
 
     { 
-        "issueId": "asm-vol2-500", 
+        "issueId": "asm-500", 
         "characterId": "spiderman",      
         "role": "main" 
     },
     { 
-        "issueId": "asm-vol2-500", 
+        "issueId": "asm-500", 
         "characterId": "aunt-may",       
         "role": "supporting" 
     },
     { 
-        "issueId": "asm-vol2-500", 
+        "issueId": "asm-500", 
         "characterId": "mary-jane-watson",  
         "role": "supporting" 
     },
     { 
-        "issueId": "asm-vol2-500", 
+        "issueId": "asm-500", 
         "characterId": "doctor-strange", 
         "role": "guest" 
     },
@@ -3692,7 +3692,9 @@
     },
     { 
         "issueId": "asm-vol2-528", 
-        "characterId": "iron-man",      "role": "guest" },
+        "characterId": "iron-man",      
+        "role": "guest" 
+    },
     { 
         "issueId": "asm-vol2-529", 
         "characterId": "spiderman",     
@@ -3700,7 +3702,9 @@
     },
     { 
         "issueId": "asm-vol2-529", 
-        "characterId": "iron-man",      "role": "supporting" },
+        "characterId": "iron-man",      
+        "role": "supporting" 
+    },
 
     { 
         "issueId": "asm-vol2-530", 
@@ -3930,7 +3934,7 @@
     },
     { 
         "issueId": "asm-vol2-546", 
-        "characterId": "harry-lyman",  
+        "characterId": "harry-osborn",  
         "role": "supporting",   
         "isFirstAppearance": true 
     },
@@ -3952,7 +3956,7 @@
     },
     { 
         "issueId": "asm-vol2-547", 
-        "characterId": "harry-lyman", 
+        "characterId": "harry-osborn", 
         "role": "supporting" 
     },
 
@@ -3970,31 +3974,37 @@
     { 
         "issueId": "asm-vol2-549", 
         "characterId": "spiderman",   
-        "role": "main" },
+        "role": "main" 
+    },
     {
         "issueId": "asm-vol2-549",
         "characterId": "lily-hollister",
         "role": "supporting",
-        "isFirstAppearance": true },
+        "isFirstAppearance": true 
+    },
     {
         "issueId": "asm-vol2-549",
         "characterId": "carlie-cooper",
         "role": "supporting",
-        "isFirstAppearance": true },
+        "isFirstAppearance": true 
+    },
 
     {
         "issueId": "asm-vol2-550",
         "characterId": "spiderman",
-        "role": "main" },
+        "role": "main" 
+    },
     {
         "issueId": "asm-vol2-550",
         "characterId": "lily-hollister",
-        "role": "villain" },
+        "role": "villain" 
+    },
 
     {
         "issueId": "asm-vol2-551",
         "characterId": "spiderman",
-        "role": "main" },
+        "role": "main" 
+    },
 
     {
         "issueId": "asm-vol2-551",
@@ -4692,7 +4702,7 @@
     },
     {
         "issueId": "asm-vol2-698",
-        "characterId": "otto-octavius",
+        "characterId": "doc-ock",
         "role": "villain"
     },
     {
@@ -4702,7 +4712,7 @@
     },
     {
         "issueId": "asm-vol2-699",
-        "characterId": "otto-octavius",
+        "characterId": "doc-ock",
         "role": "villain"
     },
     {
@@ -4710,26 +4720,28 @@
         "characterId": "aunt-may",
         "role": "supporting"
     },
+
     {
-        "issueId": "asm-700",
+        "issueId": "asm-vol2-700",
         "characterId": "spiderman",
         "role": "main"
     },
     {
-        "issueId": "asm-700",
-        "characterId": "otto-octavius",
+        "issueId": "asm-vol2-700",
+        "characterId": "doc-ock",
         "role": "villain"
     },
     {
-        "issueId": "asm-700",
+        "issueId": "asm-vol2-700",
         "characterId": "aunt-may",
         "role": "supporting"
     },
     {
-        "issueId": "asm-700",
+        "issueId": "asm-vol2-700",
         "characterId": "mary-jane-watson",
         "role": "supporting"
     },
+
     {
         "issueId": "sup-sm-1",
         "characterId": "superior-octavius",
@@ -4747,6 +4759,7 @@
         "characterId": "mary-jane-watson",
         "role": "supporting"
     },
+
     {
         "issueId": "sup-sm-2",
         "characterId": "superior-octavius",
@@ -4764,7 +4777,7 @@
     },
     {
         "issueId": "sup-sm-3",
-        "characterId": "carlie-cooper-det",
+        "characterId": "carlie-cooper",
         "role": "supporting"
     },
     {
@@ -4774,7 +4787,7 @@
     },
     {
         "issueId": "sup-sm-4",
-        "characterId": "carlie-cooper-det",
+        "characterId": "carlie-cooper",
         "role": "supporting"
     },
     {
@@ -4814,7 +4827,7 @@
     },
     {
         "issueId": "sup-sm-8",
-        "characterId": "carlie-cooper-det",
+        "characterId": "carlie-cooper",
         "role": "supporting"
     },
     {
@@ -4889,7 +4902,7 @@
     },
     {
         "issueId": "sup-sm-17",
-        "characterId": "spider-man-2099-miguel",
+        "characterId": "spider-man-2099",
         "role": "guest"
     },
     {
@@ -4899,7 +4912,7 @@
     },
     {
         "issueId": "sup-sm-18",
-        "characterId": "spider-man-2099-miguel",
+        "characterId": "spider-man-2099",
         "role": "guest"
     },
     {
@@ -5364,127 +5377,6 @@
         "issueId": "asm-vol4-15",
         "characterId": "spiderman",
         "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-16",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-16",
-        "characterId": "jackal-vol4",
-        "role": "villain",
-        "isFirstAppearance": true
-    },
-    {
-        "issueId": "asm-vol4-17",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-17",
-        "characterId": "jackal-vol4",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-18",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-18",
-        "characterId": "jackal-vol4",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-19",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-19",
-        "characterId": "jackal-vol4",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-19",
-        "characterId": "gwen-stacy",
-        "role": "supporting"
-    },
-    {
-        "issueId": "asm-vol4-20",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-20",
-        "characterId": "jackal-vol4",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-21",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-22",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-23",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-24",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-24",
-        "characterId": "jackal-vol4",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-25",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-25",
-        "characterId": "osborn-identity",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-26",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-26",
-        "characterId": "osborn-identity",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-27",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-27",
-        "characterId": "osborn-identity",
-        "role": "villain"
-    },
-    {
-        "issueId": "asm-vol4-28",
-        "characterId": "spiderman",
-        "role": "main"
-    },
-    {
-        "issueId": "asm-vol4-28",
-        "characterId": "osborn-identity",
-        "role": "villain"
     },
     {
         "issueId": "asm-vol4-29",

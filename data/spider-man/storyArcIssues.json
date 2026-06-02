@@ -110,21 +110,6 @@
         "order": 4
     },
     {
-        "storyArcId": "hammerhead-doc-ock",
-        "issueId": "asm-113",
-        "order": 1
-    },
-    {
-        "storyArcId": "hammerhead-doc-ock",
-        "issueId": "asm-114",
-        "order": 2
-    },
-    {
-        "storyArcId": "hammerhead-doc-ock",
-        "issueId": "asm-115",
-        "order": 3
-    },
-    {
         "storyArcId": "night-gwen-stacy-died",
         "issueId": "asm-121",
         "order": 1
@@ -1283,71 +1268,6 @@
         "storyArcId": "dark-kingdom",
         "issueId": "asm-vol4-8",
         "order": 3
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-16",
-        "order": 1
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-17",
-        "order": 2
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-18",
-        "order": 3
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-19",
-        "order": 4
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-20",
-        "order": 5
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-21",
-        "order": 6
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-22",
-        "order": 7
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-23",
-        "order": 8
-    },
-    {
-        "storyArcId": "dead-no-more",
-        "issueId": "asm-vol4-24",
-        "order": 9
-    },
-    {
-        "storyArcId": "osborn-identity",
-        "issueId": "asm-vol4-25",
-        "order": 1
-    },
-    {
-        "storyArcId": "osborn-identity",
-        "issueId": "asm-vol4-26",
-        "order": 2
-    },
-    {
-        "storyArcId": "osborn-identity",
-        "issueId": "asm-vol4-27",
-        "order": 3
-    },
-    {
-        "storyArcId": "osborn-identity",
-        "issueId": "asm-vol4-28",
-        "order": 4
     },
     {
         "storyArcId": "fall-of-parker",

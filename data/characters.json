@@ -192,12 +192,6 @@
         "publisherId": "marvel"
     },
     {
-        "id": "osborn-identity",
-        "name": "Norman Osborn (Iron Patriot)",
-        "description": "Norman Osborn operating under a new identity in San Francisco, having had his memories altered, confronted by Spider-Man in the Osborn Identity arc.",
-        "publisherId": "marvel"
-    },
-    {
         "id": "red-goblin",
         "name": "Red Goblin",
         "description": "Norman Osborn bonded with the Carnage symbiote, becoming the Red Goblin — the most dangerous version of the Green Goblin ever faced.",
@@ -405,6 +399,12 @@
         "id": "boomerang",
         "name": "Boomerang",
         "description": "Fred Myers, a reformed villain who becomes Peter Parker's unlikely roommate and comedic foil throughout much of the Spencer run.",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "sin-eater",
+        "name": "Sin-Eater",
+        "description": "Stanley Carter, a corrupt cop turned serial killer who targets sinners. His murder of Jean DeWolff is one of the darkest Spider-Man stories ever told.",
         "publisherId": "marvel"
     },
     {
@@ -653,7 +653,6 @@
         "description": "Stanley Carter resurrected by Kindred as a supernatural enforcer who 'cleanses' villains by killing them, setting up Last Remains.",
         "publisherId": "marvel"
     },
-    
     {
         "id": "teresa-parker",
         "name": "Teresa Parker",
@@ -670,12 +669,6 @@
         "id": "jonah-jameson-vol5",
         "name": "J. Jonah Jameson",
         "description": "Jameson returns as a podcaster and unlikely ally to Spider-Man during Spencer's run, having evolved from his anti-Spider-Man stance.",
-        "publisherId": "marvel"
-    },
-    {
-        "id": "sin-eater",
-        "name": "Sin-Eater",
-        "description": "Stanley Carter, a corrupt cop turned serial killer who targets sinners. His murder of Jean DeWolff is one of the darkest Spider-Man stories ever told.",
         "publisherId": "marvel"
     },
     {
@@ -759,7 +752,7 @@
     {
         "id": "ultimate-carnage",
         "name": "Carnage (Ultimate)",
-        "description": "A female clone created from Peter Parker and the Venom symbiote in the Ultimate universe, with a very different origin from her 616 counterpart.",
+        "description": "A clone of Peter Parker and the Venom symbiote in the Ultimate universe, with a very different origin from her 616 counterpart.",
         "publisherId": "marvel"
     },
     {
@@ -1234,6 +1227,12 @@
         "id": "luke-cage",
         "name": "Luke Cage",
         "description": "A street-level hero with unbreakable skin and superhuman strength, also known as Power Man",
+        "publisherId": "marvel"
+    },
+    {
+        "id": "wolverine",
+        "name": "Wolverine",
+        "description": "Logan, a mutant with adamantium claws and a berserker rage. Member of the X-Men",
         "publisherId": "marvel"
     },
     {
