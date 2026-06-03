@@ -1266,6 +1266,12 @@
         "publisherId": "dc"
     },
     {
+        "id": "robin",
+        "name": "Robin",
+        "description": "Dick Grayson, the Boy Wonder and protégé of Batman",
+        "publisherId": "dc"
+    },
+    {
         "id": "invincible",
         "name": "Invincible",
         "description": "Mark Grayson, a teenager whose father comes from the Planet Viltrum",

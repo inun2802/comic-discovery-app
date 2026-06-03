@@ -6,18 +6,21 @@
 <title>ComicDisc — Comic Discovery</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Permanent+Marker&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --ink: #111010;
+    --ink: #0f0e0d;
     --ink-muted: #5a5856;
     --ink-faint: #9c9894;
-    --paper: #faf9f7;
-    --paper-warm: #f3f1ec;
-    --paper-mid: #e8e5de;
-    --rule: #dedad2;
+    --paper: #f5f0e8;
+    --paper-warm: #ede8dc;
+    --paper-mid: #dedad2;
+    --rule: #ccc9be;
+    --red: #d42b2b;
+    --yellow: #f5c842;
+    --navy: #1a3a6b;
     --accent: #2d1f7a;
     --accent-light: #eeecfb;
     --accent-text: #1a1250;
@@ -27,12 +30,15 @@
     --danger-light: #faece7;
     --info: #185fa5;
     --info-light: #e6f1fb;
-    --font-display: 'Playfair Display', Georgia, serif;
+    --dot-color: rgba(0,0,0,0.055);
+    --font-display: 'Bebas Neue', Impact, sans-serif;
+    --font-marker: 'Permanent Marker', cursive;
     --font-body: 'DM Sans', system-ui, sans-serif;
     --font-mono: 'DM Mono', monospace;
-    --r-sm: 6px;
-    --r-md: 10px;
-    --r-lg: 14px;
+    --r-sm: 3px;
+    --r-md: 4px;
+    --r-lg: 4px;
+    --border: 2.5px solid var(--ink);
   }
 
   html { scroll-behavior: smooth; }
@@ -44,273 +50,360 @@
     font-size: 15px;
     line-height: 1.6;
     min-height: 100vh;
+    position: relative;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: radial-gradient(circle, var(--dot-color) 1.5px, transparent 1.5px);
+    background-size: 22px 22px;
+    pointer-events: none;
+    z-index: 0;
   }
 
   /* ── NAV ── */
   .nav {
     position: sticky; top: 0; z-index: 200;
     background: var(--paper);
-    border-bottom: 1px solid var(--rule);
+    border-bottom: var(--border);
     display: flex; align-items: center; justify-content: space-between;
     padding: 0 2rem;
-    height: 56px;
+    height: 58px;
   }
   .nav-logo {
     font-family: var(--font-display);
-    font-size: 20px; font-weight: 700;
+    font-size: 26px; letter-spacing: 2px;
     color: var(--ink); text-decoration: none;
-    display: flex; align-items: center; gap: 6px;
+    display: flex; align-items: center; gap: 10px;
   }
-  .nav-logo span { color: var(--accent); }
-  .nav-links {
-    display: flex; gap: 0; list-style: none;
+  .nav-logo-badge {
+    font-family: var(--font-body);
+    font-size: 10px; font-weight: 700;
+    letter-spacing: 1px; text-transform: uppercase;
+    background: var(--red); color: #fff;
+    padding: 2px 7px; border-radius: 3px;
+    border: 2px solid var(--ink);
   }
+  .nav-links { display: flex; gap: 4px; list-style: none; }
   .nav-links a {
-    display: block; padding: 8px 14px;
-    font-size: 13px; color: var(--ink-muted);
-    text-decoration: none; border-radius: var(--r-sm);
-    transition: color 0.15s, background 0.15s;
+    display: block; padding: 7px 14px;
+    font-size: 12px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 1px;
+    color: var(--ink-muted);
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: var(--r-md);
+    transition: all 0.15s;
   }
-  .nav-links a:hover, .nav-links a.active {
-    color: var(--ink);
-    background: var(--paper-warm);
-  }
-  .nav-links a.active { color: var(--accent); font-weight: 500; }
+  .nav-links a:hover { color: var(--ink); border-color: var(--ink); background: var(--yellow); }
+  .nav-links a.active { color: var(--red); border-color: var(--red); font-weight: 700; }
 
   /* ── VIEWS ── */
-  .view { display: none; }
+  .view { display: none; position: relative; z-index: 1; }
   .view.active { display: block; }
 
   /* ── HERO ── */
   .hero {
-    padding: 5rem 2rem 4rem;
-    border-bottom: 1px solid var(--rule);
-    position: relative; overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 460px;
+    border-bottom: var(--border);
+    overflow: hidden;
   }
-  .hero::before {
+  .hero-left {
+    padding: 56px 48px;
+    border-right: var(--border);
+    display: flex; flex-direction: column;
+    justify-content: center; gap: 22px;
+    background: var(--paper);
+  }
+  .hero-tag {
+    font-size: 11px; font-weight: 700;
+    letter-spacing: 2px; text-transform: uppercase;
+    color: var(--red);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .hero-tag::before {
     content: '';
-    position: absolute; inset: 0;
-    background:
-      repeating-linear-gradient(
-        90deg,
-        transparent,
-        transparent 79px,
-        var(--rule) 79px,
-        var(--rule) 80px
-      ),
-      repeating-linear-gradient(
-        0deg,
-        transparent,
-        transparent 79px,
-        var(--paper-mid) 79px,
-        var(--paper-mid) 80px
-      );
-    opacity: 0.35;
-    pointer-events: none;
-  }
-  .hero-inner { position: relative; max-width: 800px; }
-  .hero-kicker {
-    display: inline-block;
-    font-size: 11px; font-weight: 500;
-    letter-spacing: 0.12em; text-transform: uppercase;
-    color: var(--accent); margin-bottom: 1rem;
-    border: 1px solid var(--accent-light);
-    background: var(--accent-light);
-    padding: 3px 10px; border-radius: 999px;
+    display: inline-block; width: 18px; height: 3px;
+    background: var(--red); border-radius: 2px;
   }
   .hero-headline {
     font-family: var(--font-display);
-    font-size: clamp(2.6rem, 6vw, 4.2rem);
-    font-weight: 700;
-    line-height: 1.06;
+    font-size: clamp(54px, 7vw, 90px);
+    line-height: 0.94; letter-spacing: 1px;
     color: var(--ink);
-    margin-bottom: 1.25rem;
   }
   .hero-headline em {
-    font-style: italic; color: var(--accent);
+    font-style: italic;
+    font-family: var(--font-marker);
+    color: var(--red);
+    font-size: 0.68em;
+    vertical-align: middle;
   }
   .hero-sub {
-    font-size: 16px; color: var(--ink-muted);
-    max-width: 480px; margin-bottom: 2.5rem;
-    font-weight: 300;
+    font-size: 15px; color: var(--ink-muted);
+    max-width: 380px; font-weight: 300; line-height: 1.65;
   }
-  .hero-cta {
-    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+  .hero-cta { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+  /* hero right panel */
+  .hero-right {
+    background: var(--navy);
+    position: relative;
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
   }
+  .hero-right::before {
+    content: '';
+    position: absolute; inset: 0;
+    background-image: radial-gradient(circle, rgba(255,255,255,0.07) 1.5px, transparent 1.5px);
+    background-size: 18px 18px;
+  }
+  .panel-stack { position: relative; width: 280px; height: 330px; }
+  .panel-card {
+    position: absolute;
+    background: var(--paper);
+    border: 2.5px solid var(--ink);
+    border-radius: 2px;
+    padding: 18px; width: 215px;
+  }
+  .panel-card:nth-child(1) { top: 0; left: 0; transform: rotate(-4deg); z-index: 1; }
+  .panel-card:nth-child(2) { top: 58px; left: 38px; transform: rotate(2deg); z-index: 2; }
+  .panel-card:nth-child(3) { top: 116px; left: 18px; transform: rotate(-1deg); z-index: 3; background: var(--yellow); }
+  .panel-num { font-family: var(--font-display); font-size: 10px; letter-spacing: 2px; color: #888; margin-bottom: 5px; }
+  .panel-title { font-family: var(--font-display); font-size: 19px; letter-spacing: 0.5px; color: var(--ink); line-height: 1.1; margin-bottom: 3px; }
+  .panel-series { font-size: 11px; color: #666; font-weight: 500; }
+  .panel-badge {
+    display: inline-block; margin-top: 9px;
+    font-size: 10px; font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; padding: 2px 8px;
+    background: var(--red); color: #fff;
+    border: 2px solid var(--ink); border-radius: 3px;
+  }
+  .panel-badge.yellow { background: var(--yellow); color: var(--ink); }
+  .panel-badge.blue { background: var(--navy); color: #fff; }
 
   /* ── BUTTONS ── */
   .btn {
     display: inline-flex; align-items: center; gap: 6px;
-    padding: 9px 20px; font-size: 14px;
-    font-family: var(--font-body); font-weight: 500;
+    padding: 10px 22px; font-size: 13px;
+    font-family: var(--font-body); font-weight: 700;
+    letter-spacing: 1px; text-transform: uppercase;
     border-radius: var(--r-md); cursor: pointer;
     transition: all 0.15s; text-decoration: none;
-    border: 1px solid transparent;
+    border: 2.5px solid var(--ink);
   }
-  .btn-primary { background: var(--accent); color: white; }
-  .btn-primary:hover { background: var(--accent-text); }
-  .btn-outline {
-    background: transparent; color: var(--ink-muted);
-    border-color: var(--rule);
-  }
-  .btn-outline:hover { color: var(--ink); border-color: var(--ink-faint); background: var(--paper-warm); }
-
-  /* ── SEARCH ── */
-  .search-wrap {
-    padding: 1.5rem 2rem;
-    border-bottom: 1px solid var(--rule);
-    background: var(--paper-warm);
-  }
-  .search-row { display: flex; gap: 8px; max-width: 540px; }
-  .search-input {
-    flex: 1; padding: 9px 14px;
-    border: 1px solid var(--rule);
-    border-radius: var(--r-md);
-    background: var(--paper);
-    color: var(--ink); font-size: 14px;
-    font-family: var(--font-body);
-    transition: border-color 0.15s;
-  }
-  .search-input:focus { outline: none; border-color: var(--accent); }
-  .search-input::placeholder { color: var(--ink-faint); }
+  .btn-primary { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .btn-primary:hover { background: var(--red); border-color: var(--red); transform: translate(-2px,-2px); box-shadow: 4px 4px 0 var(--ink); }
+  .btn-outline { background: transparent; color: var(--ink); border-color: var(--ink); }
+  .btn-outline:hover { background: var(--yellow); transform: translate(-2px,-2px); box-shadow: 4px 4px 0 var(--ink); }
 
   /* ── STATS ── */
   .stats-row {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    border-bottom: 1px solid var(--rule);
+    border-bottom: var(--border);
+    position: relative; z-index: 1;
   }
-  .stat-cell {
-    padding: 1.25rem 2rem;
-    border-right: 1px solid var(--rule);
-  }
+  .stat-cell { padding: 26px 32px; border-right: var(--border); }
   .stat-cell:last-child { border-right: none; }
   .stat-num {
     font-family: var(--font-display);
-    font-size: 2rem; font-weight: 700;
+    font-size: 46px; letter-spacing: 1px;
     color: var(--ink); line-height: 1;
   }
   .stat-label {
-    font-size: 12px; color: var(--ink-faint);
-    text-transform: uppercase; letter-spacing: 0.08em;
-    margin-top: 4px;
+    font-size: 11px; color: var(--ink-faint);
+    text-transform: uppercase; letter-spacing: 2px; margin-top: 4px;
+    font-weight: 700;
   }
 
-  /* ── SECTION ── */
-  .section { padding: 2.5rem 2rem; }
+  /* ── SEARCH ── */
+  .search-wrap {
+    padding: 0;
+    border-bottom: var(--border);
+    background: var(--ink);
+    position: relative; z-index: 1;
+  }
+  .search-inner { padding: 32px 48px; }
+  .search-label {
+    font-family: var(--font-display);
+    font-size: 13px; letter-spacing: 3px;
+    color: var(--yellow); margin-bottom: 12px;
+    display: block;
+  }
+  .search-row { display: flex; gap: 0; max-width: 560px; }
+  .search-input {
+    flex: 1; padding: 12px 18px;
+    border: 2.5px solid var(--paper);
+    border-right: none;
+    border-radius: var(--r-md) 0 0 var(--r-md);
+    background: var(--paper); color: var(--ink);
+    font-size: 14px; font-family: var(--font-body);
+    transition: border-color 0.15s;
+  }
+  .search-input:focus { outline: none; border-color: var(--yellow); }
+  .search-input::placeholder { color: var(--ink-faint); }
+  .search-btn {
+    padding: 12px 24px;
+    font-family: var(--font-body); font-weight: 700;
+    font-size: 12px; letter-spacing: 1px; text-transform: uppercase;
+    background: var(--yellow); color: var(--ink);
+    border: 2.5px solid var(--paper);
+    border-radius: 0 var(--r-md) var(--r-md) 0;
+    cursor: pointer; transition: all 0.15s;
+  }
+  .search-btn:hover { background: var(--red); color: #fff; border-color: var(--red); }
+
+  /* ── SECTIONS ── */
+  .section { padding: 2.5rem 2.5rem; position: relative; z-index: 1; }
   .section-header {
     display: flex; align-items: baseline;
     justify-content: space-between;
     margin-bottom: 1.25rem;
   }
   .section-title {
-    font-size: 13px; font-weight: 500;
-    text-transform: uppercase; letter-spacing: 0.08em;
-    color: var(--ink-muted);
+    font-family: var(--font-display);
+    font-size: 20px; letter-spacing: 2px;
+    color: var(--ink);
   }
   .section-more {
-    font-size: 13px; color: var(--accent);
-    text-decoration: none;
+    font-size: 12px; font-weight: 700;
+    letter-spacing: 1px; text-transform: uppercase;
+    color: var(--red); text-decoration: none;
+    border-bottom: 2px solid var(--red);
+    padding-bottom: 1px;
   }
-  .section-more:hover { text-decoration: underline; }
-  .section + .section { border-top: 1px solid var(--rule); }
+  .section-more:hover { color: var(--ink); border-color: var(--ink); }
+  .section + .section { border-top: var(--border); }
+
+  /* ── HOME GRID ── */
+  .home-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    border-top: var(--border);
+    min-height: 400px;
+    position: relative; z-index: 1;
+  }
+  .home-main { border-right: var(--border); }
 
   /* ── CHARACTER CARDS ── */
   .chars-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
-    gap: 10px;
+    gap: 12px;
   }
   .char-card {
     background: var(--paper);
-    border: 1px solid var(--rule);
+    border: 2.5px solid var(--ink);
     border-radius: var(--r-lg);
-    padding: 1.25rem;
+    padding: 1.1rem 1.25rem;
     cursor: pointer;
-    transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+    transition: all 0.15s;
     text-decoration: none; color: inherit;
+    position: relative; overflow: hidden;
+  }
+  .char-card::after {
+    content: '';
+    position: absolute; inset: 0;
+    background: var(--yellow); opacity: 0; transition: opacity 0.15s;
   }
   .char-card:hover {
-    border-color: var(--accent);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(45,31,122,0.08);
+    transform: translate(-3px,-3px);
+    box-shadow: 5px 5px 0 var(--ink);
   }
+  .char-card:hover::after { opacity: 0.18; }
   .char-avatar {
     width: 42px; height: 42px; border-radius: 50%;
     display: flex; align-items: center; justify-content: center;
-    font-size: 13px; font-weight: 500;
-    margin-bottom: 0.75rem;
-    flex-shrink: 0;
+    font-family: var(--font-display); font-size: 15px; letter-spacing: 1px;
+    margin-bottom: 0.7rem; flex-shrink: 0;
+    border: 2px solid var(--ink);
+    position: relative; z-index: 1;
   }
-  .char-name { font-size: 14px; font-weight: 500; margin-bottom: 2px; }
-  .char-publisher { font-size: 12px; color: var(--ink-faint); }
+  .char-name { font-family: var(--font-display); font-size: 16px; letter-spacing: 0.5px; margin-bottom: 2px; position: relative; z-index: 1; }
+  .char-publisher { font-size: 11px; color: var(--ink-faint); font-weight: 700; letter-spacing: 1px; text-transform: uppercase; position: relative; z-index: 1; }
   .char-pill {
-    display: inline-block; margin-top: 10px;
-    font-size: 10px; font-weight: 500;
-    padding: 2px 8px; border-radius: 999px;
-    text-transform: uppercase; letter-spacing: 0.06em;
+    display: inline-block; margin-top: 9px;
+    font-size: 9px; font-weight: 700;
+    padding: 2px 8px; border-radius: 3px;
+    text-transform: uppercase; letter-spacing: 1px;
+    border: 2px solid var(--ink);
+    position: relative; z-index: 1;
   }
 
   /* ── ISSUE ROWS ── */
-  .issue-list { display: flex; flex-direction: column; gap: 6px; }
+  .issue-list { display: flex; flex-direction: column; gap: 0; }
   .issue-row {
-    background: var(--paper);
-    border: 1px solid var(--rule);
-    border-radius: var(--r-md);
-    padding: 0.9rem 1.25rem;
-    display: flex; align-items: center; gap: 1rem;
+    background: transparent;
+    border-bottom: 1.5px solid var(--rule);
+    padding: 14px 0;
+    display: flex; align-items: flex-start; gap: 1rem;
     cursor: default;
-    transition: border-color 0.15s;
+    transition: background 0.1s;
   }
-  .issue-row:hover { border-color: var(--rule); }
+  .issue-row:last-child { border-bottom: none; }
+  .issue-row:hover { background: rgba(245,200,66,0.12); }
   .issue-meta {
-    font-size: 11px; color: var(--ink-faint);
+    font-size: 10px; color: var(--ink-faint);
     font-family: var(--font-mono);
-    min-width: 80px; flex-shrink: 0;
+    min-width: 75px; flex-shrink: 0;
+    font-weight: 700; letter-spacing: 0.5px;
+    padding-top: 2px;
   }
   .issue-body { flex: 1; min-width: 0; }
-  .issue-title { font-size: 14px; font-weight: 500; }
-  .issue-series { font-size: 12px; color: var(--ink-muted); margin-top: 1px; }
+  .issue-title { font-family: var(--font-display); font-size: 15px; letter-spacing: 0.5px; line-height: 1.2; }
+  .issue-series { font-size: 12px; color: var(--ink-muted); margin-top: 2px; }
   .issue-badges { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; }
   .badge {
-    display: inline-block; font-size: 10px;
-    padding: 2px 7px; border-radius: 4px;
-    font-weight: 500; letter-spacing: 0.02em;
+    display: inline-block; font-size: 9px;
+    padding: 2px 7px; border-radius: 3px;
+    font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; border: 1.5px solid;
   }
-  .badge-key   { background: var(--accent-light); color: var(--accent-text); }
-  .badge-first { background: var(--success-light); color: var(--success); }
-  .badge-cross { background: var(--danger-light); color: var(--danger); }
+  .badge-key   { background: var(--yellow); color: var(--ink); border-color: var(--ink); }
+  .badge-first { background: var(--success-light); color: var(--success); border-color: var(--success); }
+  .badge-cross { background: var(--danger-light); color: var(--danger); border-color: var(--danger); }
 
   /* ── CHAR DETAIL ── */
   .char-detail-header {
     display: flex; align-items: flex-start; gap: 20px;
     padding-bottom: 2rem;
-    border-bottom: 1px solid var(--rule);
+    border-bottom: var(--border);
     margin-bottom: 2rem;
   }
   .char-detail-avatar {
     width: 64px; height: 64px; border-radius: 50%;
     display: flex; align-items: center; justify-content: center;
     font-family: var(--font-display);
-    font-size: 22px; font-weight: 700; flex-shrink: 0;
+    font-size: 22px; letter-spacing: 1px; flex-shrink: 0;
+    border: 2.5px solid var(--ink);
   }
   .char-detail-name {
     font-family: var(--font-display);
-    font-size: 2rem; font-weight: 700; line-height: 1.1;
+    font-size: 40px; letter-spacing: 1px; line-height: 1;
   }
-  .char-detail-sub { font-size: 14px; color: var(--ink-muted); margin-top: 4px; }
+  .char-detail-sub { font-size: 14px; color: var(--ink-muted); margin-top: 6px; }
 
   /* ── TABS ── */
-  .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--rule); margin-bottom: 1.5rem; }
-  .tab {
-    padding: 8px 16px; font-size: 13px; font-weight: 400;
-    color: var(--ink-muted);
-    background: none; border: none; border-bottom: 2px solid transparent;
-    cursor: pointer; font-family: var(--font-body);
-    transition: all 0.15s; margin-bottom: -1px;
+  .tabs {
+    display: flex; gap: 0;
+    border-bottom: var(--border); margin-bottom: 1.5rem;
   }
-  .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 500; }
-  .tab:hover:not(.active) { color: var(--ink); }
+  .tab {
+    padding: 8px 18px; font-size: 12px; font-weight: 700;
+    letter-spacing: 1px; text-transform: uppercase;
+    color: var(--ink-muted);
+    background: none; border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer; font-family: var(--font-body);
+    transition: all 0.15s; margin-bottom: -2.5px;
+  }
+  .tab.active { color: var(--red); border-bottom-color: var(--red); }
+  .tab:hover:not(.active) { color: var(--ink); background: var(--paper-warm); }
   .tab-panel { display: none; }
   .tab-panel.active { display: block; }
 
@@ -318,47 +411,50 @@
   .ro-list { display: flex; flex-direction: column; }
   .ro-item {
     display: flex; gap: 1.5rem; align-items: flex-start;
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--rule);
+    padding: 1rem 0; border-bottom: 1px solid var(--rule);
   }
   .ro-item:last-child { border-bottom: none; }
   .ro-n {
     font-family: var(--font-display);
-    font-size: 2rem; font-weight: 700; color: var(--rule);
+    font-size: 28px; letter-spacing: 1px; color: var(--rule);
     min-width: 2.5rem; line-height: 1.1; flex-shrink: 0;
     padding-top: 2px;
   }
   .ro-info { flex: 1; }
-  .ro-title { font-size: 14px; font-weight: 500; }
+  .ro-title { font-family: var(--font-display); font-size: 15px; letter-spacing: 0.5px; }
   .ro-sub { font-size: 12px; color: var(--ink-muted); margin-top: 2px; }
   .ro-role {
-    font-size: 10px; font-weight: 500;
-    text-transform: uppercase; letter-spacing: 0.08em;
-    padding: 2px 8px; border-radius: 999px; flex-shrink: 0;
-    margin-top: 4px;
+    font-size: 9px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 1px;
+    padding: 2px 8px; border-radius: 3px; flex-shrink: 0;
+    margin-top: 4px; border: 1.5px solid;
   }
-  .role-main    { background: var(--accent-light); color: var(--accent-text); }
-  .role-villain { background: var(--danger-light); color: var(--danger); }
-  .role-supporting { background: var(--success-light); color: var(--success); }
-  .role-guest   { background: var(--paper-warm); color: var(--ink-muted); border: 1px solid var(--rule); }
+  .role-main    { background: var(--yellow); color: var(--ink); border-color: var(--ink); }
+  .role-villain { background: var(--danger-light); color: var(--danger); border-color: var(--danger); }
+  .role-supporting { background: var(--success-light); color: var(--success); border-color: var(--success); }
+  .role-guest   { background: var(--paper-warm); color: var(--ink-muted); border-color: var(--rule); }
 
   /* ── JUMPING OFF ── */
   .jp-card {
-    border: 1px solid var(--rule);
-    border-left: 3px solid var(--accent);
+    border: 2px solid var(--ink);
+    border-left: 4px solid var(--red);
     border-radius: var(--r-md);
     padding: 1rem 1.25rem;
     margin-bottom: 8px;
+    transition: all 0.15s;
+    cursor: default;
   }
+  .jp-card:hover { transform: translate(-2px,-2px); box-shadow: 4px 4px 0 var(--ink); }
+  .jp-card[onclick] { cursor: pointer; }
   .jp-tier {
-    font-size: 10px; font-weight: 500;
-    text-transform: uppercase; letter-spacing: 0.1em;
-    color: var(--accent); margin-bottom: 4px;
+    font-size: 9px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 2px;
+    color: var(--red); margin-bottom: 4px;
   }
-  .jp-title { font-size: 14px; font-weight: 500; }
-  .jp-blurb { font-size: 13px; color: var(--ink-muted); margin-top: 4px; }
+  .jp-title { font-family: var(--font-display); font-size: 16px; letter-spacing: 0.5px; }
+  .jp-blurb { font-size: 13px; color: var(--ink-muted); margin-top: 4px; line-height: 1.5; }
 
-  /* ── SUPPORTING CAST ── */
+  /* ── CAST ── */
   .cast-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
@@ -366,121 +462,177 @@
   }
   .cast-card {
     background: var(--paper-warm);
-    border: 1px solid var(--rule);
+    border: 2px solid var(--ink);
     border-radius: var(--r-md);
     padding: 0.75rem 1rem;
     display: flex; align-items: center; gap: 10px;
-    cursor: pointer;
-    transition: border-color 0.15s;
+    cursor: pointer; transition: all 0.15s;
   }
-  .cast-card:hover { border-color: var(--accent); }
+  .cast-card:hover { background: var(--yellow); transform: translate(-2px,-2px); box-shadow: 3px 3px 0 var(--ink); }
   .cast-avatar {
     width: 32px; height: 32px; border-radius: 50%;
     display: flex; align-items: center; justify-content: center;
-    font-size: 11px; font-weight: 500; flex-shrink: 0;
+    font-family: var(--font-display); font-size: 12px; flex-shrink: 0;
+    border: 1.5px solid var(--ink);
   }
-  .cast-name { font-size: 13px; font-weight: 500; }
+  .cast-name { font-family: var(--font-display); font-size: 14px; letter-spacing: 0.5px; }
 
   /* ── API PAGE ── */
   .api-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
   @media (max-width: 640px) { .api-grid { grid-template-columns: 1fr; } }
   .api-card {
     background: var(--paper-warm);
-    border: 1px solid var(--rule);
+    border: 2px solid var(--ink);
     border-radius: var(--r-lg);
     padding: 1.25rem;
   }
-  .api-card-title { font-size: 13px; font-weight: 500; margin-bottom: 12px; }
+  .api-card-title {
+    font-family: var(--font-display);
+    font-size: 18px; letter-spacing: 1px;
+    margin-bottom: 12px;
+  }
   .api-endpoint {
     font-family: var(--font-mono); font-size: 12px;
     background: var(--paper);
-    border: 1px solid var(--rule);
+    border: 1.5px solid var(--ink);
     border-radius: var(--r-sm);
-    padding: 6px 10px;
+    padding: 5px 10px;
     margin-bottom: 4px;
     display: flex; align-items: center; gap: 8px;
   }
   .api-method {
-    font-size: 10px; font-weight: 500;
-    padding: 2px 5px; border-radius: 3px;
-    background: var(--success-light); color: var(--success);
-    flex-shrink: 0;
+    font-size: 9px; font-weight: 700; letter-spacing: 1px;
+    padding: 2px 6px; border-radius: 3px;
+    background: var(--yellow); color: var(--ink);
+    border: 1.5px solid var(--ink); flex-shrink: 0;
   }
 
-  /* ── LOADING / ERROR ── */
-  .loading {
-    padding: 3rem; text-align: center;
-    color: var(--ink-faint); font-size: 14px;
+  /* ── SPEECH BUBBLE FOOTER BAR ── */
+  .speech-row {
+    background: var(--navy);
+    padding: 22px 48px;
+    display: flex; align-items: center; justify-content: space-between;
+    border-top: var(--border); border-bottom: var(--border);
+    position: relative; z-index: 1;
   }
-  .error-banner {
-    background: var(--danger-light); color: var(--danger);
-    border: 1px solid #f0997b; border-radius: var(--r-md);
-    padding: 1rem 1.25rem; margin-bottom: 1rem;
-    font-size: 14px;
+  .speech-bubble {
+    background: #fff; border: 2.5px solid var(--ink);
+    border-radius: 10px; padding: 10px 18px;
+    font-family: var(--font-marker); font-size: 15px;
+    color: var(--ink); position: relative;
   }
-  .back-link {
-    display: inline-flex; align-items: center; gap: 4px;
-    font-size: 13px; color: var(--ink-muted);
-    cursor: pointer; margin-bottom: 1.5rem;
-    background: none; border: none; font-family: var(--font-body);
-    padding: 0;
+  .speech-bubble::after {
+    content: ''; position: absolute;
+    bottom: -13px; left: 22px; width: 0; height: 0;
+    border-left: 9px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 13px solid var(--ink);
   }
-  .back-link:hover { color: var(--accent); }
-
-  /* ── READING GUIDE PAGE ── */
-  .rg-char-block { margin-bottom: 2.5rem; }
-  .rg-char-header {
-    display: flex; align-items: center; gap: 12px;
-    margin-bottom: 1rem;
+  .speech-bubble::before {
+    content: ''; position: absolute;
+    bottom: -9px; left: 23px; width: 0; height: 0;
+    border-left: 8px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 11px solid #fff; z-index: 1;
+  }
+  .tech-stack { display: flex; gap: 8px; }
+  .tech-pill {
+    font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+    padding: 4px 10px; border: 1.5px solid rgba(255,255,255,0.3);
+    border-radius: 3px; color: rgba(255,255,255,0.65);
   }
 
   /* ── FOOTER ── */
   footer {
-    border-top: 1px solid var(--rule);
-    padding: 1.5rem 2rem;
+    border-top: var(--border);
+    padding: 18px 2rem;
     display: flex; justify-content: space-between; align-items: center;
+    position: relative; z-index: 1;
   }
-  .footer-brand {
-    font-family: var(--font-display);
-    font-size: 15px; font-weight: 700; color: var(--ink);
+  .footer-logo { font-family: var(--font-display); font-size: 22px; letter-spacing: 2px; color: var(--ink); }
+  .footer-links { display: flex; gap: 20px; list-style: none; }
+  .footer-links a { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--ink-faint); text-decoration: none; }
+  .footer-links a:hover { color: var(--red); }
+
+  /* ── BACK LINK ── */
+  .back-link {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 12px; font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; color: var(--ink-muted);
+    cursor: pointer; margin-bottom: 1.5rem;
+    background: none; border: none; font-family: var(--font-body); padding: 0;
+    transition: color 0.15s;
   }
-  .footer-brand span { color: var(--accent); }
-  .footer-meta { font-size: 12px; color: var(--ink-faint); }
-  .fa-tooltip.show { display:block !important; }
+  .back-link:hover { color: var(--red); }
+
+  /* ── READING GUIDE PAGE ── */
+  .rg-char-block { margin-bottom: 2.5rem; }
+  .rg-char-header { display: flex; align-items: center; gap: 12px; margin-bottom: 1rem; }
+  .rg-char-name { font-family: var(--font-display); font-size: 22px; letter-spacing: 1px; }
+
+  /* ── LOADING / ERROR ── */
+  .loading { padding: 3rem; text-align: center; color: var(--ink-faint); font-size: 14px; }
+  .error-banner {
+    background: var(--danger-light); color: var(--danger);
+    border: 2px solid var(--danger); border-radius: var(--r-md);
+    padding: 1rem 1.25rem; margin-bottom: 1rem; font-size: 14px;
+  }
 
   /* ── UTILITIES ── */
   .empty { color: var(--ink-faint); font-size: 14px; padding: 2rem 0; }
+  .fa-tooltip.show { display:block !important; }
 </style>
 </head>
 <body>
 
 <nav class="nav">
-  <a class="nav-logo" href="#" onclick="showView('home')">Comic<span>Disc</span></a>
+  <a class="nav-logo" href="#" onclick="showView('home')">
+    ComicDisc
+    <span class="nav-logo-badge">Beta</span>
+  </a>
   <ul class="nav-links">
-    <li><a href="#" id="nav-browse" onclick="showView('browse')">Browse</a></li>
-    <li><a href="#" id="nav-guides" onclick="showView('guides')">Reading Guides</a></li>
-    <li><a href="#" id="nav-api"    onclick="showView('apiref')">API</a></li>
+    <li><a href="#" id="nav-browse"   onclick="showView('browse')">Browse</a></li>
+    <li><a href="#" id="nav-guides"   onclick="showView('guides')">Reading Guides</a></li>
+    <li><a href="#" id="nav-creators" onclick="showView('creators')">Creators</a></li>
+    <li><a href="#" id="nav-apiref"   onclick="showView('apiref')">API</a></li>
   </ul>
 </nav>
 
 <!-- ─── HOME ─── -->
 <div class="view active" id="view-home">
+
   <div class="hero">
-    <div class="hero-inner">
-      <span class="hero-kicker">Comic Discovery</span>
-      <h1 class="hero-headline">Know exactly <em>what</em><br>to read next.</h1>
+    <div class="hero-left">
+      <span class="hero-tag">Comic Discovery</span>
+      <h1 class="hero-headline">Know exactly<br><em>what</em><br>to read next.</h1>
       <p class="hero-sub">A structured, searchable library turning comic book history into a curated reading experience — built for fans, not archivists.</p>
       <div class="hero-cta">
-        <button class="btn btn-primary" onclick="showView('browse')">Browse characters</button>
-        <button class="btn btn-outline" onclick="showView('guides')">Reading guides</button>
+        <button class="btn btn-primary" onclick="showView('browse')">Browse Characters</button>
+        <button class="btn btn-outline" onclick="showView('guides')">Reading Guides</button>
+        <button class="btn btn-outline" onclick="showView('creators')">Creators</button>
       </div>
     </div>
-  </div>
-
-  <div class="search-wrap">
-    <div class="search-row">
-      <input class="search-input" id="home-search" type="text" placeholder="Search characters…" onkeydown="if(event.key==='Enter')doSearch('home-search')">
-      <button class="btn btn-primary" onclick="doSearch('home-search')">Search</button>
+    <div class="hero-right">
+      <div class="panel-stack">
+        <div class="panel-card">
+          <div class="panel-num">ASM #121 · 1973</div>
+          <div class="panel-title">The Night Gwen Stacy Died</div>
+          <div class="panel-series">The Amazing Spider-Man</div>
+          <span class="panel-badge">Key Issue</span>
+        </div>
+        <div class="panel-card">
+          <div class="panel-num">ASM #300 · 1988</div>
+          <div class="panel-title">Venom</div>
+          <div class="panel-series">The Amazing Spider-Man</div>
+          <span class="panel-badge blue">First App.</span>
+        </div>
+        <div class="panel-card">
+          <div class="panel-num">USM #1 · 2000</div>
+          <div class="panel-title">Powerless</div>
+          <div class="panel-series">Ultimate Spider-Man</div>
+          <span class="panel-badge yellow">Origin</span>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -491,41 +643,64 @@
     <div class="stat-cell"><div class="stat-num" id="stat-issues">—</div><div class="stat-label">Issues</div></div>
   </div>
 
-  <div class="section">
-    <div class="section-header">
-      <span class="section-title">Featured characters</span>
-      <a class="section-more" href="#" onclick="showView('browse')">See all →</a>
+  <div class="search-wrap">
+    <div class="search-inner">
+      <span class="search-label">Search the Longbox</span>
+      <div class="search-row">
+        <input class="search-input" id="home-search" type="text" placeholder="Search characters, arcs, issues…" onkeydown="if(event.key==='Enter')doSearch('home-search')">
+        <button class="search-btn" onclick="doSearch('home-search')">Search</button>
+      </div>
     </div>
-    <div class="chars-grid" id="home-chars"><div class="loading">Loading…</div></div>
   </div>
 
-  <div class="section">
-    <div class="section-header">
-      <span class="section-title">Recent key issues</span>
+  <div class="home-grid">
+    <div class="home-main">
+      <div class="section">
+        <div class="section-header">
+          <span class="section-title">Featured Characters</span>
+          <a class="section-more" href="#" onclick="showView('browse')">See All →</a>
+        </div>
+        <div class="chars-grid" id="home-chars"><div class="loading">Loading…</div></div>
+      </div>
     </div>
-    <div class="issue-list" id="home-issues"><div class="loading">Loading…</div></div>
+    <div>
+      <div class="section">
+        <div class="section-header">
+          <span class="section-title">Recent Key Issues</span>
+        </div>
+        <div class="issue-list" id="home-issues"><div class="loading">Loading…</div></div>
+      </div>
+    </div>
   </div>
+
+  <div class="speech-row">
+    <div class="speech-bubble">With great data comes great discovery.</div>
+    <div class="tech-stack">
+      <span class="tech-pill">Node.js</span>
+      <span class="tech-pill">PostgreSQL</span>
+      <span class="tech-pill">Prisma</span>
+      <span class="tech-pill">Express</span>
+    </div>
+  </div>
+
 </div>
 
 <!-- ─── BROWSE ─── -->
 <div class="view" id="view-browse">
   <div class="search-wrap">
-    <div class="search-row">
-      <input class="search-input" id="browse-search" type="text" placeholder="Filter characters…" oninput="filterChars(this.value)">
+    <div class="search-inner">
+      <span class="search-label">Filter Characters</span>
+      <div class="search-row">
+        <input class="search-input" id="browse-search" type="text" placeholder="Filter characters…" oninput="filterChars(this.value)">
+      </div>
     </div>
   </div>
-
   <div class="section">
-    <div class="section-header">
-      <span class="section-title">All characters</span>
-    </div>
+    <div class="section-header"><span class="section-title">All Characters</span></div>
     <div class="chars-grid" id="browse-chars"><div class="loading">Loading…</div></div>
   </div>
-
   <div class="section">
-    <div class="section-header">
-      <span class="section-title">Teams</span>
-    </div>
+    <div class="section-header"><span class="section-title">Teams</span></div>
     <div class="chars-grid" id="browse-teams"><div class="loading">Loading…</div></div>
   </div>
 </div>
@@ -537,12 +712,14 @@
     <div id="char-detail-content"><div class="loading">Loading…</div></div>
   </div>
 </div>
+
 <div class="view" id="view-team">
   <div class="section">
     <button class="back-link" onclick="goBack()">← Back</button>
     <div id="team-detail-content"><div class="loading">Loading…</div></div>
   </div>
 </div>
+
 <div class="view" id="view-arc">
   <div class="section">
     <button class="back-link" onclick="goBack()">← Back</button>
@@ -553,22 +730,27 @@
 <!-- ─── READING GUIDES ─── -->
 <div class="view" id="view-guides">
   <div class="section">
-    <div class="section-header">
-      <span class="section-title">Reading guides</span>
-    </div>
+    <div class="section-header"><span class="section-title">Reading Guides</span></div>
     <p style="font-size:14px;color:var(--ink-muted);margin-bottom:2rem;max-width:520px">Curated jumping-off points for every character in the library — from absolute beginners to essential runs.</p>
     <div id="guides-content"><div class="loading">Loading…</div></div>
+  </div>
+</div>
+
+<!-- ─── CREATORS ─── -->
+<div class="view" id="view-creators">
+  <div class="section">
+    <div class="section-header"><span class="section-title">Creators</span></div>
+    <p style="font-size:14px;color:var(--ink-muted);margin-bottom:2rem;max-width:520px">The writers and artists behind every issue in the library.</p>
+    <div id="creators-content"><div class="loading">Loading…</div></div>
   </div>
 </div>
 
 <!-- ─── API REFERENCE ─── -->
 <div class="view" id="view-apiref">
   <div class="section">
-    <div class="section-header">
-      <span class="section-title">API reference</span>
-    </div>
+    <div class="section-header"><span class="section-title">API Reference</span></div>
     <p style="font-size:14px;color:var(--ink-muted);margin-bottom:2rem;max-width:540px">
-      The Comic Discovery API runs on <code style="font-family:var(--font-mono);font-size:13px;background:var(--paper-warm);padding:1px 6px;border-radius:4px">localhost:3000</code>.
+      The Comic Discovery API runs on <code style="font-family:var(--font-mono);font-size:13px;background:var(--paper-warm);padding:1px 6px;border-radius:3px;border:1.5px solid var(--ink)">localhost:3000</code>.
       Built with Node.js, Express, PostgreSQL, and Prisma ORM.
     </p>
     <div class="api-grid">
@@ -596,17 +778,10 @@
           <div class="api-endpoint"><span class="api-method">GET</span>/api/publishers/:id</div>
         </div>
         <div class="api-card">
-          <div class="api-card-title">Data model</div>
-          <p style="font-size:13px;color:var(--ink-muted);line-height:1.6">
-            Characters connect <em>through</em> issues via <code style="font-family:var(--font-mono);font-size:12px">IssueCharacter</code>.
-            Each link carries a <strong>role</strong>: <code style="font-family:var(--font-mono);font-size:12px">main</code>,
-            <code style="font-family:var(--font-mono);font-size:12px">supporting</code>,
-            <code style="font-family:var(--font-mono);font-size:12px">villain</code>, or
-            <code style="font-family:var(--font-mono);font-size:12px">guest</code>.
-            Issues carry <code style="font-family:var(--font-mono);font-size:12px">isKeyIssue</code>,
-            <code style="font-family:var(--font-mono);font-size:12px">isFirstAppearance</code>,
-            <code style="font-family:var(--font-mono);font-size:12px">isMajorCrossover</code>.
-          </p>
+          <div class="api-card-title">Creators</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/creators</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/creators/:id</div>
+          <div class="api-endpoint"><span class="api-method">GET</span>/api/creators/:id/runs</div>
         </div>
       </div>
     </div>
@@ -614,26 +789,27 @@
 </div>
 
 <footer>
-  <span class="footer-brand">Comic<span>Disc</span></span>
-  <span class="footer-meta">Node.js · PostgreSQL · Prisma · Express</span>
+  <span class="footer-logo">ComicDisc</span>
+  <ul class="footer-links">
+    <li><a href="#" onclick="showView('browse')">Browse</a></li>
+    <li><a href="#" onclick="showView('guides')">Reading Guides</a></li>
+    <li><a href="#" onclick="showView('creators')">Creators</a></li>
+    <li><a href="#" onclick="showView('apiref')">API</a></li>
+  </ul>
 </footer>
 
 <script>
-// ── CONFIG ──────────────────────────────────────────────
 const API = 'http://localhost:3000';
-
-// ── STATE ───────────────────────────────────────────────
 let allCharacters = [];
-let allIssues     = [];
-let previousView  = 'home';
+let allIssues = [];
+let previousView = 'home';
 
-// ── COLOR MAP ───────────────────────────────────────────
 const PUB_COLORS = {
-  marvel:    { bg: '#eeecfb', text: '#2d1f7a' },
-  dc:        { bg: '#e6f1fb', text: '#185fa5' },
-  image:     { bg: '#e1f5ee', text: '#0f6e56' },
-  darkhorse: { bg: '#faece7', text: '#993c1d' },
-  default:   { bg: '#f3f1ec', text: '#5a5856' },
+  marvel:    { bg: '#fff5c2', text: '#0f0e0d' },
+  dc:        { bg: '#dce8ff', text: '#0f0e0d' },
+  image:     { bg: '#dcf5e8', text: '#0f0e0d' },
+  darkhorse: { bg: '#ffe0d0', text: '#0f0e0d' },
+  default:   { bg: '#ede8dc', text: '#0f0e0d' },
 };
 function pubColor(publisherId) {
   return PUB_COLORS[(publisherId||'').toLowerCase()] || PUB_COLORS.default;
@@ -641,22 +817,15 @@ function pubColor(publisherId) {
 function initials(name) {
   return (name||'').split(' ').filter(Boolean).map(w => w[0].toUpperCase()).slice(0,2).join('');
 }
-
-// ── FETCH HELPERS ───────────────────────────────────────
 async function api(path) {
   const r = await fetch(API + path);
   if (!r.ok) throw new Error(`${r.status} ${r.statusText}`);
   return r.json();
 }
-
 function errBanner(msg) {
-  return `<div class="error-banner">
-    Could not load data from <code>${API}</code> — make sure your API is running.<br>
-    <small>${msg}</small>
-  </div>`;
+  return `<div class="error-banner">Could not load data from <code>${API}</code> — make sure your API is running.<br><small>${msg}</small></div>`;
 }
 
-// ── VIEW ROUTER ─────────────────────────────────────────
 function showView(name, pushState = true) {
   if (pushState && currentView() !== name) previousView = currentView();
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
@@ -666,6 +835,7 @@ function showView(name, pushState = true) {
   const nav = document.getElementById('nav-' + name);
   if (nav) nav.classList.add('active');
   window.scrollTo(0, 0);
+  if (name === 'creators') loadCreators();
 }
 function currentView() {
   const a = document.querySelector('.view.active');
@@ -673,32 +843,20 @@ function currentView() {
 }
 function goBack() { showView(previousView); }
 
-// ── SEARCH ──────────────────────────────────────────────
 function doSearch(inputId) {
   const q = document.getElementById(inputId).value.toLowerCase().trim();
   if (!q) return;
-  const match = allCharacters.find(c =>
-    c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q)
-  );
-  if (match) {
-    openCharacter(match.id);
-  } else {
-    showView('browse');
-    filterChars(q);
-    document.getElementById('browse-search').value = q;
-  }
+  const match = allCharacters.find(c => c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q));
+  if (match) { openCharacter(match.id); }
+  else { showView('browse'); filterChars(q); document.getElementById('browse-search').value = q; }
 }
-
 function filterChars(q) {
-  const filtered = q
-    ? allCharacters.filter(c => c.name.toLowerCase().includes(q.toLowerCase()))
-    : allCharacters;
+  const filtered = q ? allCharacters.filter(c => c.name.toLowerCase().includes(q.toLowerCase())) : allCharacters;
   document.getElementById('browse-chars').innerHTML = filtered.length
     ? filtered.map(renderCharCard).join('')
     : `<p class="empty">No characters match "${q}".</p>`;
 }
 
-// ── RENDER HELPERS ───────────────────────────────────────
 function renderCharCard(ch) {
   const pub = ch.publisher || {};
   const c = pubColor(pub.id || ch.publisherId);
@@ -709,45 +867,24 @@ function renderCharCard(ch) {
     <span class="char-pill" style="background:${c.bg};color:${c.text}">${(pub.name||ch.publisherId||'').toUpperCase()}</span>
   </div>`;
 }
-
 function renderTeamCard(team) {
   const pub = team.publisher || {};
   const c = pubColor(pub.id || team.publisherId);
   return `<div class="char-card" onclick="openTeam('${team.id}')">
-    <div class="char-avatar" style="background:${c.bg};color:${c.text};font-size:11px">
-      ${team.name.split(' ').map(w => w[0]).join('').slice(0,3)}
-    </div>
+    <div class="char-avatar" style="background:${c.bg};color:${c.text};font-size:11px">${team.name.split(' ').map(w=>w[0]).join('').slice(0,3)}</div>
     <div class="char-name">${team.name}</div>
     <div class="char-publisher">${pub.name || ''}</div>
     <span class="char-pill" style="background:${c.bg};color:${c.text}">TEAM</span>
   </div>`;
 }
-
-function renderArcCard(arc) {
-  const pub = arc.publisher || {};
-  const c = pubColor(pub.id || arc.publisherId);
-  return `<div class="char-card" onclick="openArc('${arc.id}')">
-    <div class="char-avatar" style="background:${c.bg};color:${c.text};font-size:10px">
-      ARC
-    </div>
-    <div class="char-name">${arc.title}</div>
-    <div class="char-publisher">${pub.name || ''}</div>
-    <span class="char-pill" style="background:${c.bg};color:${c.text}">STORY ARC</span>
-  </div>`;
-}
-
 function renderIssueBadges(issue) {
   let b = '';
-  const firstAppearances = (issue.characterLinks || []).filter(l => l.isFirstAppearance);
-  if (firstAppearances.length) {
-    const names = firstAppearances.map(l => l.character.name).join(', ');
-    b += `<span class="badge badge-first">First appearance: ${names}</span>`;
-  }
-  if (issue.isKeyIssue)       b += `<span class="badge badge-key">Key issue</span>`;
+  const firstApps = (issue.characterLinks || []).filter(l => l.isFirstAppearance);
+  if (firstApps.length) b += `<span class="badge badge-first">First: ${firstApps.map(l=>l.character.name).join(', ')}</span>`;
+  if (issue.isKeyIssue) b += `<span class="badge badge-key">Key Issue</span>`;
   if (issue.isMajorCrossover) b += `<span class="badge badge-cross">Crossover</span>`;
   return b ? `<div class="issue-badges">${b}</div>` : '';
 }
-
 function renderIssueRow(issue) {
   const series = issue.series || {};
   const date = issue.releaseDate ? new Date(issue.releaseDate).getFullYear() : '';
@@ -761,7 +898,6 @@ function renderIssueRow(issue) {
   </div>`;
 }
 
-// ── LOAD HOME ────────────────────────────────────────────
 async function loadHome() {
   try {
     const [chars, publishers, series, issues] = await Promise.all([
@@ -770,77 +906,105 @@ async function loadHome() {
       api('/api/series'),
       api('/api/issues'),
     ]);
-
     allCharacters = chars;
-    allIssues     = issues;
-
+    allIssues = issues;
     document.getElementById('stat-chars').textContent      = chars.length;
     document.getElementById('stat-publishers').textContent = publishers.length;
     document.getElementById('stat-series').textContent     = series.length;
     document.getElementById('stat-issues').textContent     = issues.length;
-
-    const featured = chars.slice(0, 4);
-    document.getElementById('home-chars').innerHTML = featured.map(renderCharCard).join('');
+    document.getElementById('home-chars').innerHTML = chars.slice(0,4).map(renderCharCard).join('');
     document.getElementById('browse-chars').innerHTML = chars.map(renderCharCard).join('');
     const teams = await api('/api/teams');
-    document.getElementById('browse-teams').innerHTML = teams.length
-      ? teams.map(renderTeamCard).join('')
-      : '<p class="empty">No teams yet.</p>';
-    const keyIssues = issues.filter(i => i.isKeyIssue).slice(0, 5);
-    document.getElementById('home-issues').innerHTML = keyIssues.length
-      ? keyIssues.map(renderIssueRow).join('')
-      : '<p class="empty">No issues found.</p>';
-
+    document.getElementById('browse-teams').innerHTML = teams.length ? teams.map(renderTeamCard).join('') : '<p class="empty">No teams yet.</p>';
+    const keyIssues = issues.filter(i => i.isKeyIssue).slice(0, 6);
+    document.getElementById('home-issues').innerHTML = keyIssues.length ? keyIssues.map(renderIssueRow).join('') : '<p class="empty">No issues found.</p>';
     loadGuides(chars);
-
   } catch (e) {
     const err = errBanner(e.message);
-    document.getElementById('home-chars').innerHTML  = err;
+    document.getElementById('home-chars').innerHTML = err;
     document.getElementById('home-issues').innerHTML = '';
   }
 }
 
-// ── LOAD GUIDES ──────────────────────────────────────────
 async function loadGuides(chars) {
   const container = document.getElementById('guides-content');
   const blocks = [];
-
   for (const ch of chars) {
     try {
       const points = await api(`/api/characters/${ch.id}/jumping-points`);
       if (!points.length) continue;
       const pub = ch.publisher || {};
       const c = pubColor(pub.id || ch.publisherId);
-      blocks.push(`
-        <div class="rg-char-block">
-          <div class="rg-char-header">
-            <div class="char-avatar" style="background:${c.bg};color:${c.text};width:36px;height:36px;font-size:12px">${initials(ch.name)}</div>
-            <span style="font-size:16px;font-weight:500">${ch.name}</span>
-            <span style="font-size:12px;color:var(--ink-faint)">${pub.name||ch.publisherId||''}</span>
-          </div>
-          ${points.map(jp => `
-            <div class="jp-card">
-              <div class="jp-tier">${jp.tier || 'Recommended'}</div>
-              <div class="jp-title">${jp.title}</div>
-              ${jp.blurb ? `<div class="jp-blurb">${jp.blurb}</div>` : ''}
-            </div>
-          `).join('')}
+      blocks.push(`<div class="rg-char-block">
+        <div class="rg-char-header">
+          <div class="char-avatar" style="background:${c.bg};color:${c.text};width:36px;height:36px;font-size:12px;border:2px solid var(--ink)">${initials(ch.name)}</div>
+          <span class="rg-char-name">${ch.name}</span>
+          <span style="font-size:11px;color:var(--ink-faint);font-weight:700;letter-spacing:1px;text-transform:uppercase">${pub.name||ch.publisherId||''}</span>
         </div>
-      `);
+        ${points.map(jp=>`<div class="jp-card"><div class="jp-tier">${jp.tier||'Recommended'}</div><div class="jp-title">${jp.title}</div>${jp.blurb?`<div class="jp-blurb">${jp.blurb}</div>`:''}</div>`).join('')}
+      </div>`);
     } catch (_) {}
   }
-
-  container.innerHTML = blocks.length
-    ? blocks.join('')
-    : '<p class="empty">No reading guides found. Add jumping-off points via the API.</p>';
+  container.innerHTML = blocks.length ? blocks.join('') : '<p class="empty">No reading guides found.</p>';
 }
 
-// ── OPEN CHARACTER ────────────────────────────────────────
+async function loadCreators() {
+  const container = document.getElementById('creators-content');
+  if (container.dataset.loaded) return;
+  try {
+    const creators = await api('/api/creators');
+    if (!creators.length) { container.innerHTML = '<p class="empty">No creators found.</p>'; return; }
+    container.innerHTML = `<div class="chars-grid">${creators.map(cr => `
+      <div class="char-card" onclick="openCreator('${cr.id}')">
+        <div class="char-avatar" style="background:var(--paper-warm);color:var(--ink)">${initials(cr.name)}</div>
+        <div class="char-name">${cr.name}</div>
+        <div class="char-publisher">${cr.nationality || ''}</div>
+        <span class="char-pill" style="background:var(--paper-warm);color:var(--ink)">${cr.birthYear || ''}</span>
+      </div>`).join('')}</div>`;
+    container.dataset.loaded = '1';
+  } catch (e) {
+    container.innerHTML = errBanner(e.message);
+  }
+}
+
+async function openCreator(id) {
+  previousView = 'creators';
+  showView('character');
+  const container = document.getElementById('char-detail-content');
+  container.innerHTML = '<div class="loading">Loading…</div>';
+  try {
+    const creator = await api(`/api/creators/${id}`);
+    const runs = (creator.runs || []);
+    const runsHTML = runs.length
+      ? `<div class="ro-list">${runs.map(r => `<div class="ro-item">
+          <div class="ro-info">
+            <div class="ro-title">${r.series ? r.series.title : r.seriesId}</div>
+            <div class="ro-sub">Issues #${r.fromIssue}–#${r.toIssue}</div>
+          </div>
+          <span class="ro-role role-main">${r.role}</span>
+        </div>`).join('')}</div>`
+      : '<p class="empty">No runs found.</p>';
+    container.innerHTML = `
+      <div class="char-detail-header">
+        <div class="char-detail-avatar" style="background:var(--paper-warm);color:var(--ink)">${initials(creator.name)}</div>
+        <div>
+          <div class="char-detail-name">${creator.name}</div>
+          <div class="char-detail-sub">${creator.nationality || ''} · Born ${creator.birthYear || '?'}</div>
+        </div>
+      </div>
+      <div class="tabs" id="tabs-cr-${id}">
+        <button class="tab active" onclick="switchTab('cr-${id}','runs',this)">Runs</button>
+      </div>
+      <div class="tab-panel active" id="tp-cr-${id}-runs">${runsHTML}</div>`;
+  } catch (e) {
+    container.innerHTML = errBanner(e.message);
+  }
+}
+
 async function openCharacter(id) {
   showView('character');
   const container = document.getElementById('char-detail-content');
   container.innerHTML = '<div class="loading">Loading…</div>';
-
   try {
     const [char, jumpingPoints, supportingCast, issues, storyArcs] = await Promise.all([
       api(`/api/characters/${id}`),
@@ -849,10 +1013,8 @@ async function openCharacter(id) {
       api(`/api/characters/${id}/issues`).catch(() => []),
       api(`/api/characters/${id}/story-arcs`).catch(() => []),
     ]);
-
     const pub = char.publisher || {};
     const c = pubColor(pub.id || char.publisherId);
-
     const allIssuesHTML = issues.length
       ? `<div class="ro-list">${issues.map((l, i) => {
           const iss = l.issue || l;
@@ -860,42 +1022,26 @@ async function openCharacter(id) {
           const date = iss.releaseDate ? new Date(iss.releaseDate).getFullYear() : '';
           const firstApps = (iss.characterLinks || []).filter(lk => lk.isFirstAppearance);
           const firstAppNames = firstApps.map(lk => lk.character.name).join(', ');
-          const writers  = (iss.creatorLinks || []).filter(l => l.role === 'writer').map(l => l.creator.name).join(', ');
+          const writers   = (iss.creatorLinks || []).filter(l => l.role === 'writer').map(l => l.creator.name).join(', ');
           const pencilers = (iss.creatorLinks || []).filter(l => l.role === 'penciler').map(l => l.creator.name).join(', ');
           return `<div class="ro-item">
             <div class="ro-info">
               <div class="ro-title">${iss.title || 'Untitled'}</div>
               <div class="ro-sub">${series.title||''} #${iss.issueNumber||'?'} · ${date}</div>
-              ${writers || pencilers ? `
-                <div style="font-size:11px;color:var(--ink-faint);margin-top:4px">
-                  ${writers  ? `W: ${writers}`   : ''}
-                  ${writers && pencilers ? ' · ' : ''}
-                  ${pencilers ? `P: ${pencilers}` : ''}
-                </div>` : ''}
-              ${iss.isKeyIssue ? `<span class="badge badge-key">Key issue</span>` : ''}
-              ${iss.isMajorCrossover ? `<span class="badge badge-cross">Crossover</span>` : ''}
+              ${writers||pencilers?`<div style="font-size:11px;color:var(--ink-faint);margin-top:4px">${writers?`W: ${writers}`:''}${writers&&pencilers?' · ':''}${pencilers?`P: ${pencilers}`:''}</div>`:''}
+              ${iss.isKeyIssue?`<span class="badge badge-key" style="margin-top:5px">Key Issue</span>`:''}
+              ${iss.isMajorCrossover?`<span class="badge badge-cross" style="margin-top:5px">Crossover</span>`:''}
             </div>
-            ${firstAppNames ? `
-              <div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
-                <div onclick="this.nextElementSibling.classList.toggle('show')"
-                  style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;"></div>
-                <div class="fa-tooltip" style="display:none;position:absolute;right:0;top:16px;background:var(--ink);color:white;font-size:11px;padding:6px 10px;border-radius:var(--r-md);white-space:nowrap;z-index:10;font-weight:500;">
-                  1st: ${firstAppNames}
-                </div>
-              </div>` : ''}
+            ${firstAppNames?`<div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
+              <div onclick="this.nextElementSibling.classList.toggle('show')" style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;"></div>
+              <div class="fa-tooltip" style="display:none;position:absolute;right:0;top:16px;background:var(--ink);color:white;font-size:11px;padding:6px 10px;border-radius:var(--r-md);white-space:nowrap;z-index:10;font-weight:500;">1st: ${firstAppNames}</div>
+            </div>`:''}
           </div>`;
         }).join('')}</div>`
       : '<p class="empty">No issues linked yet.</p>';
     const jpHTML = jumpingPoints.length
-      ? jumpingPoints.map(jp => `
-          <div class="jp-card">
-            <div class="jp-tier">${jp.tier || 'Recommended'}</div>
-            <div class="jp-title">${jp.title}</div>
-            ${jp.blurb ? `<div class="jp-blurb">${jp.blurb}</div>` : ''}
-          </div>
-        `).join('')
-      : `<p class="empty">No jumping-off points yet.</p>`;
-
+      ? jumpingPoints.map(jp => `<div class="jp-card"><div class="jp-tier">${jp.tier||'Recommended'}</div><div class="jp-title">${jp.title}</div>${jp.blurb?`<div class="jp-blurb">${jp.blurb}</div>`:''}</div>`).join('')
+      : '<p class="empty">No jumping-off points yet.</p>';
     const castHTML = supportingCast.length
       ? `<div class="cast-grid">${supportingCast.map(sc => {
           const sc_c = pubColor(sc.publisherId);
@@ -904,58 +1050,43 @@ async function openCharacter(id) {
             <span class="cast-name">${sc.name}</span>
           </div>`;
         }).join('')}</div>`
-      : `<p class="empty">No supporting cast data yet.</p>`;
-    
+      : '<p class="empty">No supporting cast data yet.</p>';
     const arcsHTML = storyArcs.length
-    ? storyArcs.map(arc => `
-        <div class="jp-card" onclick="openArc('${arc.id}')" style="cursor:pointer">
-          <div class="jp-tier">Story Arc</div>
-          <div class="jp-title">${arc.title}</div>
-          ${arc.description ? `<div class="jp-blurb">${arc.description}</div>` : ''}
-        </div>`).join('')
-    : '<p class="empty">No story arcs linked yet.</p>';
-
+      ? storyArcs.map(arc => `<div class="jp-card" onclick="openArc('${arc.id}')" style="cursor:pointer"><div class="jp-tier">Story Arc</div><div class="jp-title">${arc.title}</div>${arc.description?`<div class="jp-blurb">${arc.description}</div>`:''}</div>`).join('')
+      : '<p class="empty">No story arcs linked yet.</p>';
     const tabs = [
-      ...(jumpingPoints.length ? [{ id: 'start', label: 'Where to start', content: jpHTML }] : []),
-      { id: 'issues', label: 'Issues',    content: allIssuesHTML },
-      ...(storyArcs.length ? [{ id: 'arcs', label: 'Story arcs', content: arcsHTML }] : []),
-      ...(supportingCast.length ? [{ id: 'cast', label: 'Supporting cast', content: castHTML }] : []),
-      ];
-
+      ...(jumpingPoints.length ? [{ id: 'start', label: 'Where to Start', content: jpHTML }] : []),
+      { id: 'issues', label: 'Issues', content: allIssuesHTML },
+      ...(storyArcs.length ? [{ id: 'arcs', label: 'Story Arcs', content: arcsHTML }] : []),
+      ...(supportingCast.length ? [{ id: 'cast', label: 'Supporting Cast', content: castHTML }] : []),
+    ];
     container.innerHTML = `
       <div class="char-detail-header">
         <div class="char-detail-avatar" style="background:${c.bg};color:${c.text}">${initials(char.name)}</div>
         <div>
           <div class="char-detail-name">${char.name}</div>
-          <div class="char-detail-sub">${pub.name || char.publisherId || ''} · ${char.description || ''}</div>
+          <div class="char-detail-sub">${pub.name||char.publisherId||''} · ${char.description||''}</div>
         </div>
       </div>
-
       <div class="tabs" id="tabs-${id}">
-        ${tabs.map((t, i) => `<button class="tab ${i===0?'active':''}" onclick="switchTab('${id}','${t.id}',this)">${t.label}</button>`).join('')}
+        ${tabs.map((t,i)=>`<button class="tab ${i===0?'active':''}" onclick="switchTab('${id}','${t.id}',this)">${t.label}</button>`).join('')}
       </div>
-
-      ${tabs.map((t, i) => `<div class="tab-panel ${i===0?'active':''}" id="tp-${id}-${t.id}">${t.content}</div>`).join('')}
-    `;
-
+      ${tabs.map((t,i)=>`<div class="tab-panel ${i===0?'active':''}" id="tp-${id}-${t.id}">${t.content}</div>`).join('')}`;
   } catch (e) {
     container.innerHTML = errBanner(e.message);
   }
 }
 
-// ── OPEN TEAM ────────────────────────────────────────
 async function openTeam(id) {
   showView('team');
   const container = document.getElementById('team-detail-content');
   container.innerHTML = '<div class="loading">Loading…</div>';
-
   try {
     const team = await api(`/api/teams/${id}`);
     const pub = team.publisher || {};
     const c = pubColor(pub.id || team.publisherId);
     const members = team.members || [];
     const issues = team.issueLinks || [];
-
     const membersHTML = members.length
       ? `<div class="cast-grid">${members.map(m => {
           const mc = pubColor(m.character.publisherId);
@@ -965,47 +1096,35 @@ async function openTeam(id) {
           </div>`;
         }).join('')}</div>`
       : '<p class="empty">No members yet.</p>';
-
     const issuesHTML = issues.length
       ? `<div class="issue-list">${issues.map(l => renderIssueRow(l.issue)).join('')}</div>`
       : '<p class="empty">No issues linked yet.</p>';
-
     container.innerHTML = `
       <div class="char-detail-header">
-        <div class="char-detail-avatar" style="background:${c.bg};color:${c.text};font-size:14px">
-          ${team.name.split(' ').map(w => w[0]).join('').slice(0,3)}
-        </div>
+        <div class="char-detail-avatar" style="background:${c.bg};color:${c.text};font-size:14px">${team.name.split(' ').map(w=>w[0]).join('').slice(0,3)}</div>
         <div>
           <div class="char-detail-name">${team.name}</div>
-          <div class="char-detail-sub">${pub.name || ''} · ${team.description || ''}</div>
+          <div class="char-detail-sub">${pub.name||''} · ${team.description||''}</div>
         </div>
       </div>
-
       <div class="tabs">
         <button class="tab active" onclick="switchTab('team','members',this)">Members</button>
         <button class="tab" onclick="switchTab('team','issues',this)">Issues</button>
       </div>
-
       <div class="tab-panel active" id="tp-team-members">${membersHTML}</div>
-      <div class="tab-panel" id="tp-team-issues">${issuesHTML}</div>
-    `;
-
-  } catch (e) {
-    container.innerHTML = errBanner(e.message);
-  }
+      <div class="tab-panel" id="tp-team-issues">${issuesHTML}</div>`;
+  } catch (e) { container.innerHTML = errBanner(e.message); }
 }
 
 async function openArc(id) {
   showView('arc');
   const container = document.getElementById('arc-detail-content');
   container.innerHTML = '<div class="loading">Loading…</div>';
-
   try {
     const arc = await api(`/api/story-arcs/${id}`);
     const pub = arc.publisher || {};
     const c = pubColor(pub.id || arc.publisherId);
     const issues = arc.issues || [];
-
     const issuesHTML = issues.length
       ? `<div class="ro-list">${issues.map((link, i) => {
           const iss = link.issue || {};
@@ -1016,39 +1135,29 @@ async function openArc(id) {
           return `<div class="ro-item">
             <div class="ro-n">${String(i+1).padStart(2,'0')}</div>
             <div class="ro-info">
-              <div class="ro-title">${iss.title || 'Untitled'}</div>
-              <div class="ro-sub">${series.title || ''} #${iss.issueNumber || '?'} · ${date}</div>
-              ${iss.isKeyIssue ? `<span class="badge badge-key">Key issue</span>` : ''}
-              ${iss.isMajorCrossover ? `<span class="badge badge-cross">Crossover</span>` : ''}
+              <div class="ro-title">${iss.title||'Untitled'}</div>
+              <div class="ro-sub">${series.title||''} #${iss.issueNumber||'?'} · ${date}</div>
+              ${iss.isKeyIssue?`<span class="badge badge-key" style="margin-top:5px">Key Issue</span>`:''}
+              ${iss.isMajorCrossover?`<span class="badge badge-cross" style="margin-top:5px">Crossover</span>`:''}
             </div>
-            ${firstAppNames ? `
-              <div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
-                <div onclick="this.nextElementSibling.classList.toggle('show')"
-                  style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;">
-                </div>
-                <div class="fa-tooltip" style="display:none;position:absolute;right:0;top:16px;background:var(--ink);color:white;font-size:11px;padding:6px 10px;border-radius:var(--r-md);white-space:nowrap;z-index:10;font-weight:500;">
-                  1st: ${firstAppNames}
-                </div>
-              </div>` : ''}
+            ${firstAppNames?`<div style="position:relative;flex-shrink:0" class="fa-dot-wrap">
+              <div onclick="this.nextElementSibling.classList.toggle('show')" style="width:8px;height:8px;border-radius:50%;background:var(--success);cursor:pointer;margin-top:4px;"></div>
+              <div class="fa-tooltip" style="display:none;position:absolute;right:0;top:16px;background:var(--ink);color:white;font-size:11px;padding:6px 10px;border-radius:var(--r-md);white-space:nowrap;z-index:10;font-weight:500;">1st: ${firstAppNames}</div>
+            </div>`:''}
           </div>`;
         }).join('')}</div>`
       : '<p class="empty">No issues linked yet.</p>';
-
     container.innerHTML = `
       <div class="char-detail-header">
         <div class="char-detail-avatar" style="background:${c.bg};color:${c.text};font-size:11px">ARC</div>
         <div>
           <div class="char-detail-name">${arc.title}</div>
-          <div class="char-detail-sub">${pub.name || ''} · ${arc.description || ''}</div>
+          <div class="char-detail-sub">${pub.name||''} · ${arc.description||''}</div>
         </div>
       </div>
-      <div style="margin-bottom:1rem;font-size:13px;color:var(--ink-muted)">${issues.length} issue${issues.length !== 1 ? 's' : ''}</div>
-      ${issuesHTML}
-    `;
-
-  } catch (e) {
-    container.innerHTML = errBanner(e.message);
-  }
+      <div style="margin-bottom:1rem;font-size:13px;color:var(--ink-muted);font-weight:700;letter-spacing:1px;text-transform:uppercase">${issues.length} issue${issues.length!==1?'s':''}</div>
+      ${issuesHTML}`;
+  } catch (e) { container.innerHTML = errBanner(e.message); }
 }
 
 function switchTab(charId, tabId, btn) {
@@ -1065,7 +1174,6 @@ document.addEventListener('click', e => {
   }
 });
 
-// ── BOOT ────────────────────────────────────────────────
 loadHome();
 </script>
 </body>
