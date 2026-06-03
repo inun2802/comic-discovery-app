@@ -605,7 +605,7 @@
     <div class="hero-left">
       <span class="hero-tag">Comic Discovery</span>
       <h1 class="hero-headline">Know exactly<br><em>what</em><br>to read next.</h1>
-      <p class="hero-sub">A structured, searchable comic book library turning the history of comic book characters into a curated reading guide — built for fans and new comers alike.</p>
+      <p class="hero-sub">A structured, searchable library turning comic book history into a curated reading experience — built for fans, not archivists.</p>
       <div class="hero-cta">
         <button class="btn btn-primary" onclick="showView('browse')">Browse Characters</button>
         <button class="btn btn-outline" onclick="showView('guides')">Reading Guides</button>
@@ -954,13 +954,40 @@ async function loadCreators() {
   try {
     const creators = await api('/api/creators');
     if (!creators.length) { container.innerHTML = '<p class="empty">No creators found.</p>'; return; }
-    container.innerHTML = `<div class="chars-grid">${creators.map(cr => `
-      <div class="char-card" onclick="openCreator('${cr.id}')">
-        <div class="char-avatar" style="background:var(--paper-warm);color:var(--ink)">${initials(cr.name)}</div>
-        <div class="char-name">${cr.name}</div>
-        <div class="char-publisher">${cr.nationality || ''}</div>
-        <span class="char-pill" style="background:var(--paper-warm);color:var(--ink)">${cr.birthYear || ''}</span>
-      </div>`).join('')}</div>`;
+    const writers  = creators.filter(cr => cr.roles?.includes('writer'));
+    const pencilers = creators.filter(cr => cr.roles?.includes('penciler'));
+
+    function creatorRow(cr) {
+      return `<div onclick="openCreator('${cr.id}')" style="display:flex;align-items:center;gap:12px;padding:12px 20px;border-bottom:1px solid var(--rule);cursor:pointer;transition:background 0.1s" onmouseover="this.style.background='rgba(245,200,66,0.18)'" onmouseout="this.style.background=''">
+        <div style="width:36px;height:36px;border-radius:50%;border:2px solid var(--ink);background:var(--paper-warm);display:flex;align-items:center;justify-content:center;font-family:var(--font-display);font-size:13px;flex-shrink:0">${initials(cr.name)}</div>
+        <div>
+          <div style="font-family:var(--font-display);font-size:15px;letter-spacing:0.5px">${cr.name}</div>
+          <div style="font-size:11px;color:var(--ink-faint);font-weight:700;letter-spacing:1px;text-transform:uppercase">${cr.nationality || ''} · ${cr.birthYear || ''}</div>
+        </div>
+      </div>`;
+    }
+
+    container.innerHTML = `
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;border:2.5px solid var(--ink);border-radius:4px;overflow:hidden">
+        <div style="border-right:2.5px solid var(--ink);">
+          <div style="padding:14px 20px;border-bottom:2.5px solid var(--ink);background:var(--paper-warm)">
+            <span style="font-family:var(--font-display);font-size:16px;letter-spacing:1px">Writers</span>
+            <span style="font-size:11px;color:var(--ink-faint);font-weight:700;letter-spacing:1px;margin-left:8px">${writers.length}</span>
+          </div>
+          <div style="display:flex;flex-direction:column">
+            ${writers.map(creatorRow).join('')}
+          </div>
+        </div>
+        <div>
+          <div style="padding:14px 20px;border-bottom:2.5px solid var(--ink);background:var(--paper-warm)">
+            <span style="font-family:var(--font-display);font-size:16px;letter-spacing:1px">Pencilers</span>
+            <span style="font-size:11px;color:var(--ink-faint);font-weight:700;letter-spacing:1px;margin-left:8px">${pencilers.length}</span>
+          </div>
+          <div style="display:flex;flex-direction:column">
+            ${pencilers.map(creatorRow).join('')}
+          </div>
+        </div>
+      </div>`;
     container.dataset.loaded = '1';
   } catch (e) {
     container.innerHTML = errBanner(e.message);
@@ -974,16 +1001,38 @@ async function openCreator(id) {
   container.innerHTML = '<div class="loading">Loading…</div>';
   try {
     const creator = await api(`/api/creators/${id}`);
-    const runs = (creator.runs || []);
-    const runsHTML = runs.length
-      ? `<div class="ro-list">${runs.map(r => `<div class="ro-item">
-          <div class="ro-info">
-            <div class="ro-title">${r.series ? r.series.title : r.seriesId}</div>
-            <div class="ro-sub">Issues #${r.fromIssue}–#${r.toIssue}</div>
+    const byRole = creator.byRole || {};
+
+    function roleSection(role, label, roleClass) {
+      const seriesMap = byRole[role] || {};
+      const entries = Object.entries(seriesMap);
+      if (!entries.length) return '';
+      return `
+        <div style="margin-bottom:1.5rem">
+          <div style="font-family:var(--font-display);font-size:13px;letter-spacing:2px;color:var(--red);margin-bottom:10px;text-transform:uppercase">${label}</div>
+          <div class="ro-list">
+            ${entries.map(([series, nums]) => {
+              const sorted = nums.filter(Boolean).map(Number).sort((a,b)=>a-b);
+              const span = sorted.length > 1 ? `#${sorted[0]}–#${sorted[sorted.length-1]}` : sorted.length ? `#${sorted[0]}` : '';
+              return `<div class="ro-item" style="padding:10px 0">
+                <div class="ro-info">
+                  <div class="ro-title">${series}</div>
+                  <div class="ro-sub">${span} · ${sorted.length} issue${sorted.length!==1?'s':''}</div>
+                </div>
+                <span class="ro-role ${roleClass}">${label}</span>
+              </div>`;
+            }).join('')}
           </div>
-          <span class="ro-role role-main">${r.role}</span>
-        </div>`).join('')}</div>`
-      : '<p class="empty">No runs found.</p>';
+        </div>`;
+    }
+
+    const content = [
+      roleSection('writer',   'Writer',   'role-main'),
+      roleSection('penciler', 'Penciler', 'role-supporting'),
+      roleSection('inker',    'Inker',    'role-guest'),
+      roleSection('colorist', 'Colorist', 'role-guest'),
+    ].filter(Boolean).join('') || '<p class="empty">No issue credits found.</p>';
+
     container.innerHTML = `
       <div class="char-detail-header">
         <div class="char-detail-avatar" style="background:var(--paper-warm);color:var(--ink)">${initials(creator.name)}</div>
@@ -992,10 +1041,7 @@ async function openCreator(id) {
           <div class="char-detail-sub">${creator.nationality || ''} · Born ${creator.birthYear || '?'}</div>
         </div>
       </div>
-      <div class="tabs" id="tabs-cr-${id}">
-        <button class="tab active" onclick="switchTab('cr-${id}','runs',this)">Runs</button>
-      </div>
-      <div class="tab-panel active" id="tp-cr-${id}-runs">${runsHTML}</div>`;
+      ${content}`;
   } catch (e) {
     container.innerHTML = errBanner(e.message);
   }
