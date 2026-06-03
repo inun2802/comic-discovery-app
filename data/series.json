@@ -10,6 +10,7 @@
     { "id": "web-of-sm",        "title": "Web of Spider-Man",                        "publisherId": "marvel" },
     { "id": "sm-1990",          "title": "Spider-Man",                               "publisherId": "marvel" },
     { "id": "sup-sm",           "title": "Superior Spider-Man",                      "publisherId": "marvel" },
+    { "id": "spider-man-blue",  "title": "Spider-Man: Blue",                         "publisherId": "marvel" },
     { "id": "untold-tales-sm",  "title": "Untold Tales of Spider-Man",               "publisherId": "marvel" },
     { "id": "usm",              "title": "Ultimate Spider-Man (2000)",               "publisherId": "marvel" },
     { "id": "usm-v2",           "title": "Ultimate Spider-Man (2000) Vol. 2",               "publisherId": "marvel" },

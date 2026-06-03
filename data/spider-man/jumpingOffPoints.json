@@ -40,6 +40,14 @@
         "order": 5
     },
     {
+        "id": "spiderman-jp-5",
+        "characterId": "spiderman",
+        "title": "Spider-Man: Blue by Jeph Loeb and Tim Sale",
+        "blurb": "A six issue miniseries retelling the early years of Spider-Man (during the Lee/Romita Sr. era)",
+        "tier": "Modern Classic / New Reader Friendly",
+        "order": 6
+    },
+    {
         "id": "spiderman-jp-6",
         "characterId": "spiderman",
         "title": "Ultimate Spider-Man #1-160 (Brian Michael Bendis)",

@@ -5070,6 +5070,66 @@
         "isKeyIssue": true
     },
     {
+        "id": "smb-01",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "1",
+        "title": "My Funny Valentine",
+        "releaseDate": "2002-05-08",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "smb-02",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "2",
+        "title": "Lets Fall in Love",
+        "releaseDate": "2002-06-12",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "smb-03",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "3",
+        "title": "Anything Goes",
+        "releaseDate": "2002-07-17",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "smb-04",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "4",
+        "title": "Autumn in New York",
+        "releaseDate": "2002-08-21",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "smb-05",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "5",
+        "title": "If I Had You",
+        "releaseDate": "2002-12-18",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "smb-06",
+        "seriesId": "spider-man-blue",
+        "issueNumber": "6",
+        "title": "All of Me",
+        "releaseDate": "2003-03-05",
+        "universe": "main",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
         "id": "usm-1",
         "seriesId": "usm",
         "issueNumber": "1",

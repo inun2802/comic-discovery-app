@@ -1,121 +1,639 @@
 [
-    { 
-        "creatorId": "stan-lee",       
-        "role": "writer",   
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" 
+    {
+        "creatorId": "stan-lee",
+        "seriesId": "amf",
+        "fromIssue": "15",
+        "toIssue": "15",
+        "role": "writer"
     },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "penciler", 
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" 
+    {
+        "creatorId": "steve-ditko",
+        "seriesId": "amf",
+        "fromIssue": "15",
+        "toIssue": "15",
+        "role": "penciler"
     },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "inker",    
-        "seriesId": "amf", 
-        "fromIssue": "15",  
-        "toIssue": "15" 
+    {
+        "creatorId": "stan-lee",
+        "seriesId": "asm",
+        "fromIssue": "1",
+        "toIssue": "100",
+        "role": "writer"
     },
-    { 
-        "creatorId": "stan-lee",       
-        "role": "writer",   
-        "seriesId": "asm", 
-        "fromIssue": "1",   
-        "toIssue": "110" 
+    {
+        "creatorId": "roy-thomas",
+        "seriesId": "asm",
+        "fromIssue": "101",
+        "toIssue": "104",
+        "role": "writer"
     },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "1",   
-        "toIssue": "38" 
+    {
+        "creatorId": "gerry-conway",
+        "seriesId": "asm",
+        "fromIssue": "111",
+        "toIssue": "149",
+        "role": "writer"
     },
-    { 
-        "creatorId": "john-romita-sr", 
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "39",  
-        "toIssue": "88" 
+    {
+        "creatorId": "len-wein",
+        "seriesId": "asm",
+        "fromIssue": "150",
+        "toIssue": "180",
+        "role": "writer"
     },
-    { 
-        "creatorId": "gerry-conway",   
-        "role": "writer",   
-        "seriesId": "asm", 
-        "fromIssue": "111", 
-        "toIssue": "149" 
+    {
+        "creatorId": "marv-wolfman",
+        "seriesId": "asm",
+        "fromIssue": "181",
+        "toIssue": "204",
+        "role": "writer"
     },
-    { 
-        "creatorId": "archie-goodwin", 
-        "role": "writer",   
-        "seriesId": "asm", 
-        "fromIssue": "150", 
-        "toIssue": "150" 
+    {
+        "creatorId": "bill-mantlo",
+        "seriesId": "asm",
+        "fromIssue": "205",
+        "toIssue": "223",
+        "role": "writer"
     },
-    { 
-        "creatorId": "len-wein",       
-        "role": "writer",   
-        "seriesId": "asm", 
-        "fromIssue": "151", 
-        "toIssue": "155" 
+    {
+        "creatorId": "roger-stern",
+        "seriesId": "asm",
+        "fromIssue": "224",
+        "toIssue": "252",
+        "role": "writer"
     },
-    { 
-        "creatorId": "roy-thomas",     
-        "role": "writer",   
-        "seriesId": "asm", 
-        "fromIssue": "101", 
-        "toIssue": "110" 
+    {
+        "creatorId": "tom-defalco",
+        "seriesId": "asm",
+        "fromIssue": "253",
+        "toIssue": "292",
+        "role": "writer"
     },
-    { 
-        "creatorId": "gil-kane",       
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "89",  
-        "toIssue": "107" 
+    {
+        "creatorId": "david-michelinie",
+        "seriesId": "asm",
+        "fromIssue": "296",
+        "toIssue": "388",
+        "role": "writer"
     },
-    { 
-        "creatorId": "ross-andru",     
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "125", 
-        "toIssue": "153" 
+    {
+        "creatorId": "jm-dematteis",
+        "seriesId": "asm",
+        "fromIssue": "389",
+        "toIssue": "410",
+        "role": "writer"
     },
-    { 
-        "creatorId": "sal-buscema",    
-        "role": "penciler", 
-        "seriesId": "asm", 
-        "fromIssue": "154", 
-        "toIssue": "155" 
+    {
+        "creatorId": "tom-defalco",
+        "seriesId": "asm",
+        "fromIssue": "411",
+        "toIssue": "441",
+        "role": "writer"
     },
-    { 
-        "creatorId": "steve-ditko",    
-        "role": "inker",    
-        "seriesId": "asm", 
-        "fromIssue": "1",   
-        "toIssue": "38" 
+    {
+        "creatorId": "steve-ditko",
+        "seriesId": "asm",
+        "fromIssue": "1",
+        "toIssue": "38",
+        "role": "penciler"
     },
-    { 
-        "creatorId": "mike-esposito",  
-        "role": "inker",    
-        "seriesId": "asm", 
-        "fromIssue": "39",  
-        "toIssue": "118" 
+    {
+        "creatorId": "john-romita-sr",
+        "seriesId": "asm",
+        "fromIssue": "39",
+        "toIssue": "88",
+        "role": "penciler"
     },
-    { 
-        "creatorId": "frank-giacoia",  
-        "role": "inker",    
-        "seriesId": "asm", 
-        "fromIssue": "96",  
-        "toIssue": "107" 
+    {
+        "creatorId": "gil-kane",
+        "seriesId": "asm",
+        "fromIssue": "89",
+        "toIssue": "124",
+        "role": "penciler"
     },
-    { 
-        "creatorId": "dave-hunt",      
-        "role": "inker",    
-        "seriesId": "asm", 
-        "fromIssue": "119", 
-        "toIssue": "155" 
+    {
+        "creatorId": "ross-andru",
+        "seriesId": "asm",
+        "fromIssue": "125",
+        "toIssue": "185",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "keith-pollard",
+        "seriesId": "asm",
+        "fromIssue": "186",
+        "toIssue": "223",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "asm",
+        "fromIssue": "224",
+        "toIssue": "252",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "ron-frenz",
+        "seriesId": "asm",
+        "fromIssue": "253",
+        "toIssue": "284",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "todd-mcfarlane",
+        "seriesId": "asm",
+        "fromIssue": "298",
+        "toIssue": "328",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "erik-larsen",
+        "seriesId": "asm",
+        "fromIssue": "329",
+        "toIssue": "350",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mark-bagley",
+        "seriesId": "asm",
+        "fromIssue": "351",
+        "toIssue": "388",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "asm",
+        "fromIssue": "389",
+        "toIssue": "410",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mark-bagley",
+        "seriesId": "asm",
+        "fromIssue": "411",
+        "toIssue": "441",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "howard-mackie",
+        "seriesId": "asm-vol2",
+        "fromIssue": "1",
+        "toIssue": "29",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jms",
+        "seriesId": "asm-vol2",
+        "fromIssue": "30",
+        "toIssue": "58",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jms",
+        "seriesId": "asm-vol2",
+        "fromIssue": "500",
+        "toIssue": "545",
+        "role": "writer"
+    },
+    {
+        "creatorId": "dan-slott",
+        "seriesId": "asm-vol2",
+        "fromIssue": "546",
+        "toIssue": "700",
+        "role": "writer"
+    },
+    {
+        "creatorId": "john-byrne",
+        "seriesId": "asm-vol2",
+        "fromIssue": "1",
+        "toIssue": "18",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "asm-vol2",
+        "fromIssue": "19",
+        "toIssue": "58",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "asm-vol2",
+        "fromIssue": "500",
+        "toIssue": "508",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mike-deodato",
+        "seriesId": "asm-vol2",
+        "fromIssue": "509",
+        "toIssue": "528",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "ron-garney",
+        "seriesId": "asm-vol2",
+        "fromIssue": "529",
+        "toIssue": "545",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "humberto-ramos",
+        "seriesId": "asm-vol2",
+        "fromIssue": "568",
+        "toIssue": "573",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "humberto-ramos",
+        "seriesId": "asm-vol2",
+        "fromIssue": "648",
+        "toIssue": "673",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "giuseppe-camuncoli",
+        "seriesId": "asm-vol2",
+        "fromIssue": "674",
+        "toIssue": "700",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "dan-slott",
+        "seriesId": "sup-sm",
+        "fromIssue": "1",
+        "toIssue": "33",
+        "role": "writer"
+    },
+    {
+        "creatorId": "ryan-stegman",
+        "seriesId": "sup-sm",
+        "fromIssue": "1",
+        "toIssue": "5",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "giuseppe-camuncoli",
+        "seriesId": "sup-sm",
+        "fromIssue": "6",
+        "toIssue": "33",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "dan-slott",
+        "seriesId": "asm-vol3",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "writer"
+    },
+    {
+        "creatorId": "humberto-ramos",
+        "seriesId": "asm-vol3",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "dan-slott",
+        "seriesId": "asm-vol4",
+        "fromIssue": "1",
+        "toIssue": "32",
+        "role": "writer"
+    },
+    {
+        "creatorId": "giuseppe-camuncoli",
+        "seriesId": "asm-vol4",
+        "fromIssue": "1",
+        "toIssue": "32",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "stuart-immonen",
+        "seriesId": "asm-vol4",
+        "fromIssue": "800",
+        "toIssue": "801",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "nick-spencer",
+        "seriesId": "asm-vol5",
+        "fromIssue": "1",
+        "toIssue": "74",
+        "role": "writer"
+    },
+    {
+        "creatorId": "ryan-ottley",
+        "seriesId": "asm-vol5",
+        "fromIssue": "1",
+        "toIssue": "12",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "humberto-ramos",
+        "seriesId": "asm-vol5",
+        "fromIssue": "13",
+        "toIssue": "23",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "ryan-ottley",
+        "seriesId": "asm-vol5",
+        "fromIssue": "24",
+        "toIssue": "32",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "patrick-gleason",
+        "seriesId": "asm-vol5",
+        "fromIssue": "33",
+        "toIssue": "44",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mark-bagley",
+        "seriesId": "asm-vol5",
+        "fromIssue": "45",
+        "toIssue": "57",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "patrick-gleason",
+        "seriesId": "asm-vol5",
+        "fromIssue": "58",
+        "toIssue": "74",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "peter-david",
+        "seriesId": "spectacular-sm",
+        "fromIssue": "107",
+        "toIssue": "110",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jm-dematteis",
+        "seriesId": "spectacular-sm",
+        "fromIssue": "131",
+        "toIssue": "132",
+        "role": "writer"
+    },
+    {
+        "creatorId": "mike-zeck",
+        "seriesId": "spectacular-sm",
+        "fromIssue": "131",
+        "toIssue": "132",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jm-dematteis",
+        "seriesId": "spectacular-sm-vol2",
+        "fromIssue": "178",
+        "toIssue": "200",
+        "role": "writer"
+    },
+    {
+        "creatorId": "sal-buscema",
+        "seriesId": "spectacular-sm-vol2",
+        "fromIssue": "134",
+        "toIssue": "257",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "louise-simonson",
+        "seriesId": "web-of-sm",
+        "fromIssue": "1",
+        "toIssue": "3",
+        "role": "writer"
+    },
+    {
+        "creatorId": "david-michelinie",
+        "seriesId": "web-of-sm",
+        "fromIssue": "8",
+        "toIssue": "24",
+        "role": "writer"
+    },
+    {
+        "creatorId": "gerry-conway",
+        "seriesId": "web-of-sm",
+        "fromIssue": "35",
+        "toIssue": "70",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jm-dematteis",
+        "seriesId": "web-of-sm",
+        "fromIssue": "31",
+        "toIssue": "32",
+        "role": "writer"
+    },
+    {
+        "creatorId": "terry-kavanagh",
+        "seriesId": "web-of-sm",
+        "fromIssue": "77",
+        "toIssue": "129",
+        "role": "writer"
+    },
+    {
+        "creatorId": "howard-mackie",
+        "seriesId": "web-of-sm",
+        "fromIssue": "84",
+        "toIssue": "96",
+        "role": "writer"
+    },
+    {
+        "creatorId": "alex-saviuk",
+        "seriesId": "web-of-sm",
+        "fromIssue": "35",
+        "toIssue": "116",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "marc-silvestri",
+        "seriesId": "web-of-sm",
+        "fromIssue": "1",
+        "toIssue": "8",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "todd-mcfarlane",
+        "seriesId": "sm-1990",
+        "fromIssue": "1",
+        "toIssue": "16",
+        "role": "writer"
+    },
+    {
+        "creatorId": "todd-mcfarlane",
+        "seriesId": "sm-1990",
+        "fromIssue": "1",
+        "toIssue": "16",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "erik-larsen",
+        "seriesId": "sm-1990",
+        "fromIssue": "17",
+        "toIssue": "23",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "howard-mackie",
+        "seriesId": "sm-1990",
+        "fromIssue": "44",
+        "toIssue": "75",
+        "role": "writer"
+    },
+    {
+        "creatorId": "tom-lyle",
+        "seriesId": "sm-1990",
+        "fromIssue": "44",
+        "toIssue": "61",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "sm-1990",
+        "fromIssue": "64",
+        "toIssue": "75",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "bendis",
+        "seriesId": "usm",
+        "fromIssue": "1",
+        "toIssue": "133",
+        "role": "writer"
+    },
+    {
+        "creatorId": "mark-bagley",
+        "seriesId": "usm",
+        "fromIssue": "1",
+        "toIssue": "110",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "stuart-immonen",
+        "seriesId": "usm",
+        "fromIssue": "111",
+        "toIssue": "133",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mark-bagley",
+        "seriesId": "usm",
+        "fromIssue": "150",
+        "toIssue": "160",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "hickman",
+        "seriesId": "usm-2024",
+        "fromIssue": "1",
+        "toIssue": "24",
+        "role": "writer"
+    },
+    {
+        "creatorId": "checchetto",
+        "seriesId": "usm-2024",
+        "fromIssue": "1",
+        "toIssue": "3",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "messina",
+        "seriesId": "usm-2024",
+        "fromIssue": "4",
+        "toIssue": "6",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "checchetto",
+        "seriesId": "usm-2024",
+        "fromIssue": "7",
+        "toIssue": "10",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "messina",
+        "seriesId": "usm-2024",
+        "fromIssue": "11",
+        "toIssue": "11",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "checchetto",
+        "seriesId": "usm-2024",
+        "fromIssue": "12",
+        "toIssue": "19",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "messina",
+        "seriesId": "usm-2024",
+        "fromIssue": "20",
+        "toIssue": "21",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "checchetto",
+        "seriesId": "usm-2024",
+        "fromIssue": "22",
+        "toIssue": "24",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "messina",
+        "seriesId": "usm-2024",
+        "fromIssue": "24",
+        "toIssue": "24",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "sal-buscema",
+        "seriesId": "asm",
+        "fromIssue": "285",
+        "toIssue": "297",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-romita-jr",
+        "seriesId": "asm-vol2",
+        "fromIssue": "59",
+        "toIssue": "499",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "marcos-martin",
+        "seriesId": "asm-vol2",
+        "fromIssue": "574",
+        "toIssue": "647",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jm-dematteis",
+        "seriesId": "spectacular-sm-vol2",
+        "fromIssue": "201",
+        "toIssue": "257",
+        "role": "writer"
+    },
+    {
+        "creatorId": "alex-saviuk",
+        "seriesId": "web-of-sm",
+        "fromIssue": "17",
+        "toIssue": "34",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jeph-loeb",
+        "seriesId": "spiderman-blue",
+        "fromIssue": "1",
+        "toIssue": "6",
+        "role": "writer"
+    },
+    {
+        "creatorId": "tim-sale",
+        "seriesId": "spiderman-blue",
+        "fromIssue": "1",
+        "toIssue": "6",
+        "role": "penciler"
     }
 ]

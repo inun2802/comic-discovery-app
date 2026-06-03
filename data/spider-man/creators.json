@@ -1,92 +1,338 @@
 [
-    { 
-        "id": "stan-lee",         
-        "name": "Stan Lee",          
-        "nationality": "American", 
-        "birthYear": 1922 
+    {
+        "id": "stan-lee",
+        "name": "Stan Lee",
+        "nationality": "American",
+        "birthYear": 1922
     },
-    { 
-        "id": "steve-ditko",      
-        "name": "Steve Ditko",       
-        "nationality": "American", 
-        "birthYear": 1927 
+    {
+        "id": "steve-ditko",
+        "name": "Steve Ditko",
+        "nationality": "American",
+        "birthYear": 1927
     },
-    { 
-        "id": "john-romita-sr",   
-        "name": "John Romita Sr.",   
-        "nationality": "American", 
-        "birthYear": 1930 
+    {
+        "id": "john-romita-sr",
+        "name": "John Romita Sr.",
+        "nationality": "American",
+        "birthYear": 1930
     },
-    { 
-        "id": "gil-kane",         
-        "name": "Gil Kane",          
-        "nationality": "American", 
-        "birthYear": 1926 
+    {
+        "id": "gil-kane",
+        "name": "Gil Kane",
+        "nationality": "American",
+        "birthYear": 1926
     },
-    { 
-        "id": "roy-thomas",       
-        "name": "Roy Thomas",        
-        "nationality": "American", 
-        "birthYear": 1940 
+    {
+        "id": "roy-thomas",
+        "name": "Roy Thomas",
+        "nationality": "American",
+        "birthYear": 1940
     },
-    { 
-        "id": "gerry-conway",     
-        "name": "Gerry Conway",      
-        "nationality": "American", 
-        "birthYear": 1952 
+    {
+        "id": "gerry-conway",
+        "name": "Gerry Conway",
+        "nationality": "American",
+        "birthYear": 1952
     },
-    { 
-        "id": "ross-andru",       
-        "name": "Ross Andru",        
-        "nationality": "American", 
-        "birthYear": 1927 
+    {
+        "id": "ross-andru",
+        "name": "Ross Andru",
+        "nationality": "American",
+        "birthYear": 1927
     },
-    { 
-        "id": "john-buscema",     
-        "name": "John Buscema",      
-        "nationality": "American", 
-        "birthYear": 1927 
+    {
+        "id": "john-buscema",
+        "name": "John Buscema",
+        "nationality": "American",
+        "birthYear": 1927
     },
-    { 
-        "id": "len-wein",         
-        "name": "Len Wein",          
-        "nationality": "American", 
-        "birthYear": 1948 
+    {
+        "id": "len-wein",
+        "name": "Len Wein",
+        "nationality": "American",
+        "birthYear": 1948
     },
-    { 
-        "id": "sal-buscema",      
-        "name": "Sal Buscema",       
-        "nationality": "American", 
-        "birthYear": 1936 
+    {
+        "id": "sal-buscema",
+        "name": "Sal Buscema",
+        "nationality": "American",
+        "birthYear": 1936
     },
-    { 
-        "id": "tony-mortellaro",  
-        "name": "Tony Mortellaro",   
-        "nationality": "American", 
-        "birthYear": 1930 
+    {
+        "id": "archie-goodwin",
+        "name": "Archie Goodwin",
+        "nationality": "American",
+        "birthYear": 1937
     },
-    { 
-        "id": "frank-giacoia",    
-        "name": "Frank Giacoia",     
-        "nationality": "American", 
-        "birthYear": 1924 
+    {
+        "id": "marv-wolfman",
+        "name": "Marv Wolfman",
+        "nationality": "American",
+        "birthYear": 1946
     },
-    { 
-        "id": "mike-esposito",    
-        "name": "Mike Esposito",     
-        "nationality": "American", 
-        "birthYear": 1927 
+    {
+        "id": "bill-mantlo",
+        "name": "Bill Mantlo",
+        "nationality": "American",
+        "birthYear": 1945
     },
-    { 
-        "id": "dave-hunt",        
-        "name": "Dave Hunt",         
-        "nationality": "American", 
-        "birthYear": 1947 
+    {
+        "id": "roger-stern",
+        "name": "Roger Stern",
+        "nationality": "American",
+        "birthYear": 1953
     },
-    { 
-        "id": "archie-goodwin",   
-        "name": "Archie Goodwin",    
-        "nationality": "American", 
-        "birthYear": 1937 
+    {
+        "id": "tom-defalco",
+        "name": "Tom DeFalco",
+        "nationality": "American",
+        "birthYear": 1950
+    },
+    {
+        "id": "ron-frenz",
+        "name": "Ron Frenz",
+        "nationality": "American",
+        "birthYear": 1956
+    },
+    {
+        "id": "john-romita-jr",
+        "name": "John Romita Jr.",
+        "nationality": "American",
+        "birthYear": 1956
+    },
+    {
+        "id": "peter-david",
+        "name": "Peter David",
+        "nationality": "American",
+        "birthYear": 1956
+    },
+    {
+        "id": "jm-dematteis",
+        "name": "J.M. DeMatteis",
+        "nationality": "American",
+        "birthYear": 1953
+    },
+    {
+        "id": "mike-zeck",
+        "name": "Mike Zeck",
+        "nationality": "American",
+        "birthYear": 1949
+    },
+    {
+        "id": "david-michelinie",
+        "name": "David Michelinie",
+        "nationality": "American",
+        "birthYear": 1948
+    },
+    {
+        "id": "todd-mcfarlane",
+        "name": "Todd McFarlane",
+        "nationality": "Canadian",
+        "birthYear": 1961
+    },
+    {
+        "id": "erik-larsen",
+        "name": "Erik Larsen",
+        "nationality": "American",
+        "birthYear": 1962
+    },
+    {
+        "id": "mark-bagley",
+        "name": "Mark Bagley",
+        "nationality": "American",
+        "birthYear": 1957
+    },
+    {
+        "id": "howard-mackie",
+        "name": "Howard Mackie",
+        "nationality": "American",
+        "birthYear": 1956
+    },
+    {
+        "id": "john-byrne",
+        "name": "John Byrne",
+        "nationality": "British",
+        "birthYear": 1950
+    },
+    {
+        "id": "jms",
+        "name": "J. Michael Straczynski",
+        "nationality": "American",
+        "birthYear": 1954
+    },
+    {
+        "id": "mike-deodato",
+        "name": "Mike Deodato",
+        "nationality": "Brazilian",
+        "birthYear": 1966
+    },
+    {
+        "id": "jeph-loeb",
+        "name": "Jeph Loeb",
+        "nationality": "American",
+        "birthYear": 1958
+    },
+    {
+        "id": "tim-sale",
+        "name": "Tim Sale",
+        "nationality": "American",
+        "birthYear": 1956
+    },
+    {
+        "id": "dan-slott",
+        "name": "Dan Slott",
+        "nationality": "American",
+        "birthYear": 1967
+    },
+    {
+        "id": "humberto-ramos",
+        "name": "Humberto Ramos",
+        "nationality": "Mexican",
+        "birthYear": 1975
+    },
+    {
+        "id": "giuseppe-camuncoli",
+        "name": "Giuseppe Camuncoli",
+        "nationality": "Italian",
+        "birthYear": 1975
+    },
+    {
+        "id": "ryan-stegman",
+        "name": "Ryan Stegman",
+        "nationality": "American",
+        "birthYear": 1983
+    },
+    {
+        "id": "christos-gage",
+        "name": "Christos Gage",
+        "nationality": "American",
+        "birthYear": 1968
+    },
+    {
+        "id": "nick-spencer",
+        "name": "Nick Spencer",
+        "nationality": "American",
+        "birthYear": 1980
+    },
+    {
+        "id": "ryan-ottley",
+        "name": "Ryan Ottley",
+        "nationality": "American",
+        "birthYear": 1977
+    },
+    {
+        "id": "stuart-immonen",
+        "name": "Stuart Immonen",
+        "nationality": "Canadian",
+        "birthYear": 1966
+    },
+    {
+        "id": "bendis",
+        "name": "Brian Michael Bendis",
+        "nationality": "American",
+        "birthYear": 1967
+    },
+    {
+        "id": "sara-pichelli",
+        "name": "Sara Pichelli",
+        "nationality": "Italian",
+        "birthYear": 1983
+    },
+    {
+        "id": "chris-bachalo",
+        "name": "Chris Bachalo",
+        "nationality": "Canadian",
+        "birthYear": 1966
+    },
+    {
+        "id": "hickman",
+        "name": "Jonathan Hickman",
+        "nationality": "American",
+        "birthYear": 1972
+    },
+    {
+        "id": "checchetto",
+        "name": "Marco Checchetto",
+        "nationality": "Italian",
+        "birthYear": 1977
+    },
+    {
+        "id": "messina",
+        "name": "David Messina",
+        "nationality": "Italian",
+        "birthYear": 1969
+    },
+    {
+        "id": "denny-oneil",
+        "name": "Denny O'Neil",
+        "nationality": "American",
+        "birthYear": 1939
+    },
+    {
+        "id": "ron-garney",
+        "name": "Ron Garney",
+        "nationality": "American",
+        "birthYear": 1966
+    },
+    {
+        "id": "patrick-gleason",
+        "name": "Patrick Gleason",
+        "nationality": "American",
+        "birthYear": 1975
+    },
+    {
+        "id": "stefano-caselli",
+        "name": "Stefano Caselli",
+        "nationality": "Italian",
+        "birthYear": 1981
+    },
+    {
+        "id": "marc-silvestri",
+        "name": "Marc Silvestri",
+        "nationality": "American",
+        "birthYear": 1958
+    },
+    {
+        "id": "keith-pollard",
+        "name": "Keith Pollard",
+        "nationality": "American",
+        "birthYear": 1950
+    },
+    {
+        "id": "mike-wieringo",
+        "name": "Mike Wieringo",
+        "nationality": "American",
+        "birthYear": 1963
+    },
+    {
+        "id": "alex-saviuk",
+        "name": "Alex Saviuk",
+        "nationality": "American",
+        "birthYear": 1953
+    },
+    {
+        "id": "louise-simonson",
+        "name": "Louise Simonson",
+        "nationality": "American",
+        "birthYear": 1946
+    },
+    {
+        "id": "terry-kavanagh",
+        "name": "Terry Kavanagh",
+        "nationality": "American",
+        "birthYear": 1955
+    },
+    {
+        "id": "tom-lyle",
+        "name": "Tom Lyle",
+        "nationality": "American",
+        "birthYear": 1955
+    },
+    {
+        "id": "marcos-martin",
+        "name": "Marcos Martin",
+        "nationality": "Spanish",
+        "birthYear": 1976
     }
 ]
