@@ -15,7 +15,7 @@
         "issueNumber": "1",
         "title": "Spider-Man / Spider-Man Vs. the Chameleon",
         "releaseDate": "1962-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -25,7 +25,7 @@
         "issueNumber": "2",
         "title": "Duel to the Death with the Vulture! / The Uncanny Threat of the Terrible Tinkerer",
         "releaseDate": "1963-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -35,7 +35,7 @@
         "issueNumber": "3",
         "title": "Spider-Man vs. Doctor Octopus",
         "releaseDate": "1963-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -45,7 +45,7 @@
         "issueNumber": "4",
         "title": "Nothing Can Stop the Sandman!",
         "releaseDate": "1963-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -55,7 +55,7 @@
         "issueNumber": "5",
         "title": "Marked for Destruction by Dr. Doom!",
         "releaseDate": "1963-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": false
     },
@@ -65,7 +65,7 @@
         "issueNumber": "6",
         "title": "Face-to-Face with... the Lizard!",
         "releaseDate": "1963-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -75,7 +75,7 @@
         "issueNumber": "9",
         "title": "The Man Called Electro!",
         "releaseDate": "1963-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -85,7 +85,7 @@
         "issueNumber": "10",
         "title": "The Enforcers!",
         "releaseDate": "1963-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -95,7 +95,7 @@
         "issueNumber": "13",
         "title": "The Menace of...Mysterio!",
         "releaseDate": "1964-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -105,7 +105,7 @@
         "issueNumber": "14",
         "title": "The Grotesque Adventure of the Green Goblin!",
         "releaseDate": "1964-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -115,7 +115,7 @@
         "issueNumber": "15",
         "title": "Kraven the Hunter!",
         "releaseDate": "1964-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -125,7 +125,7 @@
         "issueNumber": "16",
         "title": "Duel with Daredevil!",
         "releaseDate": "1964-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -135,7 +135,7 @@
         "issueNumber": "17",
         "title": "The Return of the Green Goblin!",
         "releaseDate": "1964-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -145,7 +145,7 @@
         "issueNumber": "18",
         "title": "The End of Spider-Man!",
         "releaseDate": "1964-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -155,7 +155,7 @@
         "issueNumber": "19",
         "title": "Spidey Strikes Back!",
         "releaseDate": "1964-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -165,7 +165,7 @@
         "issueNumber": "20",
         "title": "The Coming of the Scorpion!",
         "releaseDate": "1964-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -175,7 +175,7 @@
         "issueNumber": "25",
         "title": "Captured by J. Jonah Jameson!",
         "releaseDate": "1965-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -185,7 +185,7 @@
         "issueNumber": "28",
         "title": "The Menace Of the Molten Man!",
         "releaseDate": "1965-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -195,7 +195,7 @@
         "issueNumber": "31",
         "title": "If This Be My Destiny...!",
         "releaseDate": "1964-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -205,7 +205,7 @@
         "issueNumber": "32",
         "title": "Man On A Rampage!",
         "releaseDate": "1964-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -215,7 +215,7 @@
         "issueNumber": "33",
         "title": "The Final Chapter!",
         "releaseDate": "1965-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -225,7 +225,7 @@
         "issueNumber": "39",
         "title": "How Green Was My Goblin!",
         "releaseDate": "1966-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -235,7 +235,7 @@
         "issueNumber": "40",
         "title": "Spidey Saves the Day!",
         "releaseDate": "1966-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -245,7 +245,7 @@
         "issueNumber": "41",
         "title": "The Horns of the Rhino!",
         "releaseDate": "1966-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -255,7 +255,7 @@
         "issueNumber": "42",
         "title": "The Birth of a Super-Hero!",
         "releaseDate": "1966-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -265,7 +265,7 @@
         "issueNumber": "43",
         "title": "Rhino on the Rampage!",
         "releaseDate": "1966-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -275,7 +275,7 @@
         "issueNumber": "44",
         "title": "Where Crawls the Lizard!",
         "releaseDate": "1966-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -285,7 +285,7 @@
         "issueNumber": "45",
         "title": "Spidey Smashes Out!",
         "releaseDate": "1966-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -295,7 +295,7 @@
         "issueNumber": "46",
         "title": "The Sinister Shocker!",
         "releaseDate": "1966-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -305,7 +305,7 @@
         "issueNumber": "47",
         "title": "In the Hands of the Hunter!",
         "releaseDate": "1967-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -315,7 +315,7 @@
         "issueNumber": "48",
         "title": "The Wings fo the Vulture!",
         "releaseDate": "1967-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -325,7 +325,7 @@
         "issueNumber": "49",
         "title": "From the Depths of Defeat!",
         "releaseDate": "1967-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -335,7 +335,7 @@
         "issueNumber": "50",
         "title": "Spider-Man No More!",
         "releaseDate": "1967-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -345,7 +345,7 @@
         "issueNumber": "51",
         "title": "In the Clutches of the Kingpin!",
         "releaseDate": "1967-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -355,7 +355,7 @@
         "issueNumber": "52",
         "title": "To Die a Hero!",
         "releaseDate": "1967-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -365,7 +365,7 @@
         "issueNumber": "53",
         "title": "Enter: Dr. Octopus!",
         "releaseDate": "1967-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -375,7 +375,7 @@
         "issueNumber": "54",
         "title": "The Tentacles and the Trap!",
         "releaseDate": "1967-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -385,7 +385,7 @@
         "issueNumber": "55",
         "title": "Doc Ock Wins!",
         "releaseDate": "1967-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -395,7 +395,7 @@
         "issueNumber": "56",
         "title": "Disaster!",
         "releaseDate": "1967-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -405,7 +405,7 @@
         "issueNumber": "68",
         "title": "Crisis On The Campus!",
         "releaseDate": "1968-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -415,7 +415,7 @@
         "issueNumber": "69",
         "title": "Mission: Crush The Kingpin!",
         "releaseDate": "1968-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -425,7 +425,7 @@
         "issueNumber": "70",
         "title": "Spider-Man Wanted!",
         "releaseDate": "1968-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -435,7 +435,7 @@
         "issueNumber": "72",
         "title": "Rocked by...the Shocker!",
         "releaseDate": "1968-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -445,7 +445,7 @@
         "issueNumber": "73",
         "title": "The Web Closes!",
         "releaseDate": "1969-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -455,7 +455,7 @@
         "issueNumber": "74",
         "title": "If This Be Bedlam!",
         "releaseDate": "1969-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -465,7 +465,7 @@
         "issueNumber": "75",
         "title": "Death Without Warning!",
         "releaseDate": "1969-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -475,7 +475,7 @@
         "issueNumber": "76",
         "title": "The Lizard Lives",
         "releaseDate": "1969-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -485,7 +485,7 @@
         "issueNumber": "77",
         "title": "In the Blaze of Battle!",
         "releaseDate": "1969-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -495,7 +495,7 @@
         "issueNumber": "78",
         "title": "The Night of The Prowler!",
         "releaseDate": "1969-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -505,7 +505,7 @@
         "issueNumber": "79",
         "title": "To Prowl No More!",
         "releaseDate": "1969-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -515,7 +515,7 @@
         "issueNumber": "87",
         "title": "Unmasked At Last!",
         "releaseDate": "1970-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -525,7 +525,7 @@
         "issueNumber": "88",
         "title": "The Arms of Doctor Octopus!",
         "releaseDate": "1970-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -535,7 +535,7 @@
         "issueNumber": "89",
         "title": "Doc Ock Lives!",
         "releaseDate": "1970-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -545,7 +545,7 @@
         "issueNumber": "90",
         "title": "And Death Shall Come!",
         "releaseDate": "1970-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -555,7 +555,7 @@
         "issueNumber": "92",
         "title": "To Smash the Spider!",
         "releaseDate": "1970-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -565,7 +565,7 @@
         "issueNumber": "96",
         "title": "...And Now, The Goblin!",
         "releaseDate": "1971-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -575,7 +575,7 @@
         "issueNumber": "97",
         "title": "In The Grip of the Goblin!",
         "releaseDate": "1971-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -585,7 +585,7 @@
         "issueNumber": "98",
         "title": "The Goblin's Last Gasp!",
         "releaseDate": "1971-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -595,7 +595,7 @@
         "issueNumber": "100",
         "title": "The Spider or the Man?",
         "releaseDate": "1971-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -605,7 +605,7 @@
         "issueNumber": "101",
         "title": "A Monster Called Morbius!",
         "releaseDate": "1971-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -615,7 +615,7 @@
         "issueNumber": "102",
         "title": "Vampire At Large!",
         "releaseDate": "1971-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -625,7 +625,7 @@
         "issueNumber": "109",
         "title": "Enter Doctor Strange!",
         "releaseDate": "1972-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": false
     },
@@ -635,7 +635,7 @@
         "issueNumber": "113",
         "title": "They Call The Doctor...Octopus!",
         "releaseDate": "1972-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -645,7 +645,7 @@
         "issueNumber": "114",
         "title": "Gang War, Schmang War! What I Want to know is ...who the Heck is Hammerhead?",
         "releaseDate": "1972-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -655,7 +655,7 @@
         "issueNumber": "115",
         "title": "The Last Battle!",
         "releaseDate": "1972-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -665,7 +665,7 @@
         "issueNumber": "119",
         "title": "The Gentleman's Name Is The Hulk!",
         "releaseDate": "1973-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -675,7 +675,7 @@
         "issueNumber": "120",
         "title": "The Fight And The Fury!",
         "releaseDate": "1973-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -685,7 +685,7 @@
         "issueNumber": "121",
         "title": "The Night Gwen Stacy Died",
         "releaseDate": "1973-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -695,7 +695,7 @@
         "issueNumber": "122",
         "title": "The Goblin's Last Stand!",
         "releaseDate": "1973-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -705,7 +705,7 @@
         "issueNumber": "123",
         "title": "...Just A Man Called Cage!",
         "releaseDate": "1973-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -715,7 +715,7 @@
         "issueNumber": "124",
         "title": "The Mark of the Man-Wolf!",
         "releaseDate": "1973-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -725,7 +725,7 @@
         "issueNumber": "125",
         "title": "Wolfhunt!",
         "releaseDate": "1973-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -735,7 +735,7 @@
         "issueNumber": "129",
         "title": "The Punisher Strikes Twice!",
         "releaseDate": "1973-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -745,7 +745,7 @@
         "issueNumber": "131",
         "title": "My Uncle...My Enemy?",
         "releaseDate": "1974-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -755,7 +755,7 @@
         "issueNumber": "134",
         "title": "Danger is a Man named...Tarantula!",
         "releaseDate": "1974-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -765,7 +765,7 @@
         "issueNumber": "135",
         "title": "Shoot-Out In Central Park!",
         "releaseDate": "1974-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -775,7 +775,7 @@
         "issueNumber": "136",
         "title": "The Green Goblin Lives Again!",
         "releaseDate": "1974-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -785,7 +785,7 @@
         "issueNumber": "137",
         "title": "The Green Goblin Strikes!",
         "releaseDate": "1974-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -795,7 +795,7 @@
         "issueNumber": "141",
         "title": "The Man's Name Appears To Be...Mysterio!",
         "releaseDate": "1974-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -805,7 +805,7 @@
         "issueNumber": "144",
         "title": "The Delusion Conspiracy!",
         "releaseDate": "1975-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -815,7 +815,7 @@
         "issueNumber": "145",
         "title": "Gwen Stacy is Alive...And, Well...?!",
         "releaseDate": "1975-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -825,7 +825,7 @@
         "issueNumber": "146",
         "title": "Scorpion...Where is Thy Sting?",
         "releaseDate": "1975-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -835,7 +835,7 @@
         "issueNumber": "147",
         "title": "The Tarantula is a Very Deadly Beast!",
         "releaseDate": "1975-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -845,7 +845,7 @@
         "issueNumber": "148",
         "title": "Jackal, Jackal...Who's Got the Jackal?",
         "releaseDate": "1975-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -855,7 +855,7 @@
         "issueNumber": "149",
         "title": "Even If I Live, I Die!",
         "releaseDate": "1975-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -865,7 +865,7 @@
         "issueNumber": "150",
         "title": "Spider-Man...Or Spider-Clone?",
         "releaseDate": "1975-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -875,7 +875,7 @@
         "issueNumber": "151",
         "title": "Skirmish Beneath the Streets!",
         "releaseDate": "1975-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -885,7 +885,7 @@
         "issueNumber": "156",
         "title": "On a Clear Day You Can See...the Mirage!",
         "releaseDate": "1976-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -895,7 +895,7 @@
         "issueNumber": "157",
         "title": "The Ghost that Haunted Octopus!",
         "releaseDate": "1976-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -905,7 +905,7 @@
         "issueNumber": "158",
         "title": "Hammerhead is Out!",
         "releaseDate": "1976-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -915,7 +915,7 @@
         "issueNumber": "159",
         "title": "Arm-In-Arm  with Doctor Octopus",
         "releaseDate": "1976-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -925,7 +925,7 @@
         "issueNumber": "161",
         "title": "...And the Nightcrawler Came Prowling, Prowling...",
         "releaseDate": "1976-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -935,7 +935,7 @@
         "issueNumber": "162",
         "title": "Let the Punisher Fit the Crime!",
         "releaseDate": "1976-08-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -945,7 +945,7 @@
         "issueNumber": "176",
         "title": "He Who Laughs Last...!",
         "releaseDate": "1977-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -955,7 +955,7 @@
         "issueNumber": "177",
         "title": "Goblin in the Middle",
         "releaseDate": "1977-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -965,7 +965,7 @@
         "issueNumber": "178",
         "title": "Green Grows the Goblin",
         "releaseDate": "1977-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -975,7 +975,7 @@
         "issueNumber": "179",
         "title": "The Goblin's Always Greener...!",
         "releaseDate": "1978-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -985,7 +985,7 @@
         "issueNumber": "180",
         "title": "Who Was that Goblin I Saw You With?",
         "releaseDate": "1978-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -995,7 +995,7 @@
         "issueNumber": "182",
         "title": "The Rocket Racer's Back in Town!",
         "releaseDate": "1978-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1005,7 +1005,7 @@
         "issueNumber": "183",
         "title": "...And Where the Big Wheel Stops, Nobody Knows!",
         "releaseDate": "1978-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1015,7 +1015,7 @@
         "issueNumber": "194",
         "title": "My Deadly Enemy...the Black Cat!",
         "releaseDate": "1979-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1025,7 +1025,7 @@
         "issueNumber": "195",
         "title": "Nine Lives Has the Black Cat!",
         "releaseDate": "1979-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1035,7 +1035,7 @@
         "issueNumber": "196",
         "title": "Requiem!",
         "releaseDate": "1979-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1045,7 +1045,7 @@
         "issueNumber": "200",
         "title": "The Spider and the Burglar...A Sequel",
         "releaseDate": "1979-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1055,7 +1055,7 @@
         "issueNumber": "224",
         "title": "The Sandman Always Strikes Twice!",
         "releaseDate": "1981-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1065,7 +1065,7 @@
         "issueNumber": "226",
         "title": "But the Cat Came Back!",
         "releaseDate": "1981-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1075,7 +1075,7 @@
         "issueNumber": "227",
         "title": "Cat and Mouse",
         "releaseDate": "1982-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1085,7 +1085,7 @@
         "issueNumber": "229",
         "title": "Nothing Can Stop the Juggernaut!",
         "releaseDate": "1982-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1095,7 +1095,7 @@
         "issueNumber": "230",
         "title": "To Fight the Unbeatable Foe!",
         "releaseDate": "1982-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1105,7 +1105,7 @@
         "issueNumber": "238",
         "title": "Shadow of Evils Past!",
         "releaseDate": "1982-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1115,7 +1115,7 @@
         "issueNumber": "239",
         "title": "Now Strikes The Hobgoblin!",
         "releaseDate": "1982-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1125,7 +1125,7 @@
         "issueNumber": "244",
         "title": "Ordeals!",
         "releaseDate": "1983-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1135,7 +1135,7 @@
         "issueNumber": "245",
         "title": "Sacrifice Play!",
         "releaseDate": "1983-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1145,7 +1145,7 @@
         "issueNumber": "248",
         "title": "The Kid Who Collects Spider-Man!(B-Story)",
         "releaseDate": "1983-09-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1155,7 +1155,7 @@
         "issueNumber": "249",
         "title": "Secrets!",
         "releaseDate": "1983-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1165,7 +1165,7 @@
         "issueNumber": "250",
         "title": "Confessions!",
         "releaseDate": "1983-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1175,7 +1175,7 @@
         "issueNumber": "251",
         "title": "Endings!",
         "releaseDate": "1984-01-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1185,7 +1185,7 @@
         "issueNumber": "252",
         "title": "Homecoming!",
         "releaseDate": "1984-01-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1195,7 +1195,7 @@
         "issueNumber": "253",
         "title": "By Myself Betrayed!",
         "releaseDate": "1984-02-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1205,7 +1205,7 @@
         "issueNumber": "255",
         "title": "Even a Ghost Can Fear!",
         "releaseDate": "1984-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1215,7 +1215,7 @@
         "issueNumber": "256",
         "title": "Introducing... Puma!",
         "releaseDate": "1984-05-29",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1225,7 +1225,7 @@
         "issueNumber": "257",
         "title": "Beware the Claws of Puma!",
         "releaseDate": "1984-07-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1235,7 +1235,7 @@
         "issueNumber": "258",
         "title": "The Sinister Secret of Spider-Man's New Costume!",
         "releaseDate": "1984-07-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1245,7 +1245,7 @@
         "issueNumber": "259",
         "title": "All My Pasts Remembered!",
         "releaseDate": "1984-09-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1255,7 +1255,7 @@
         "issueNumber": "265",
         "title": "After the Fox!",
         "releaseDate": "1985-03-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1265,7 +1265,7 @@
         "issueNumber": "275",
         "title": "The Choice and the Challenge!",
         "releaseDate": "1985-12-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1275,7 +1275,7 @@
         "issueNumber": "276",
         "title": "Unmasked!",
         "releaseDate": "1986-02-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1285,7 +1285,7 @@
         "issueNumber": "283",
         "title": "With Foes Like These...",
         "releaseDate": "1986-09-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1295,7 +1295,7 @@
         "issueNumber": "284",
         "title": "....And Who Will Stand Against Them...?",
         "releaseDate": "1986-09-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1305,7 +1305,7 @@
         "issueNumber": "285",
         "title": "The Arranger Must Die!",
         "releaseDate": "1986-11-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1315,7 +1315,7 @@
         "issueNumber": "289",
         "title": "The Hobgoblin Revealed!",
         "releaseDate": "1987-03-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1325,7 +1325,7 @@
         "issueNumber": "290",
         "title": "The Big Question",
         "releaseDate": "1987-03-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1335,7 +1335,7 @@
         "issueNumber": "292",
         "title": "Growning Pains!",
         "releaseDate": "1987-06-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1345,7 +1345,7 @@
         "issueNumber": "293",
         "title": "Crawling",
         "releaseDate": "1987-06-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1355,7 +1355,7 @@
         "issueNumber": "294",
         "title": "Thunder",
         "releaseDate": "1987-08-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1365,7 +1365,7 @@
         "issueNumber": "298",
         "title": "Chance Encounter!",
         "releaseDate": "1987-11-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1375,7 +1375,7 @@
         "issueNumber": "299",
         "title": "Survival of the Hittest!",
         "releaseDate": "1987-12-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1385,7 +1385,7 @@
         "issueNumber": "300",
         "title": "Venom",
         "releaseDate": "1988-01-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1395,7 +1395,7 @@
         "issueNumber": "301",
         "title": "The Sable Gauntlet!",
         "releaseDate": "1988-02-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1405,7 +1405,7 @@
         "issueNumber": "312",
         "title": "The Goblin War!",
         "releaseDate": "1988-10-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1415,7 +1415,7 @@
         "issueNumber": "315",
         "title": "A Matter of Life and Debt!",
         "releaseDate": "1989-01-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1425,7 +1425,7 @@
         "issueNumber": "316",
         "title": "Dead Meat!",
         "releaseDate": "1989-02-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1435,7 +1435,7 @@
         "issueNumber": "317",
         "title": "The Sand and the Fury!",
         "releaseDate": "1989-03-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1445,7 +1445,7 @@
         "issueNumber": "320",
         "title": "License Invoked!",
         "releaseDate": "1989-05-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1455,7 +1455,7 @@
         "issueNumber": "321",
         "title": "Under War!",
         "releaseDate": "1989-06-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1465,7 +1465,7 @@
         "issueNumber": "322",
         "title": "Ceremony!",
         "releaseDate": "1989-06-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1475,7 +1475,7 @@
         "issueNumber": "323",
         "title": "Assault Rivals!",
         "releaseDate": "1989-07-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1485,7 +1485,7 @@
         "issueNumber": "325",
         "title": "Finale in Red!",
         "releaseDate": "1989-08-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1495,7 +1495,7 @@
         "issueNumber": "334",
         "title": "Secrets, Puzzles, and Little Fears...!",
         "releaseDate": "1990-05-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1505,7 +1505,7 @@
         "issueNumber": "335",
         "title": "Shocks!",
         "releaseDate": "1990-05-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1515,7 +1515,7 @@
         "issueNumber": "336",
         "title": "The Wagers of Sin!",
         "releaseDate": "1990-06-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1525,7 +1525,7 @@
         "issueNumber": "337",
         "title": "Rites and Wrongs!",
         "releaseDate": "1990-06-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1535,7 +1535,7 @@
         "issueNumber": "338",
         "title": "Death from Above!",
         "releaseDate": "1990-07-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1545,7 +1545,7 @@
         "issueNumber": "339",
         "title": "The Killing Cure!",
         "releaseDate": "1990-07-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1555,7 +1555,7 @@
         "issueNumber": "344",
         "title": "Hearts and Powers!",
         "releaseDate": "1990-12-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1565,7 +1565,7 @@
         "issueNumber": "345",
         "title": "Gun from the Heart!",
         "releaseDate": "1991-01-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1575,7 +1575,7 @@
         "issueNumber": "346",
         "title": "Elliptical Pursuit!",
         "releaseDate": "1991-02-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1585,7 +1585,7 @@
         "issueNumber": "347",
         "title": "The Boneyard Hop!",
         "releaseDate": "1991-03-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1595,7 +1595,7 @@
         "issueNumber": "360",
         "title": "Death Toy!",
         "releaseDate": "1992-01-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1605,7 +1605,7 @@
         "issueNumber": "361",
         "title": "Carnage, Part One: Savage Genesis!",
         "releaseDate": "1992-02-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1615,7 +1615,7 @@
         "issueNumber": "362",
         "title": "Carnage, Part Two: Savage Alliance!",
         "releaseDate": "1992-03-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1625,7 +1625,7 @@
         "issueNumber": "363",
         "title": "Carnage, Conclusion: Savage Grace!",
         "releaseDate": "1992-04-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1635,7 +1635,7 @@
         "issueNumber": "365",
         "title": "Fathers and Sins!",
         "releaseDate": "1992-06-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1645,7 +1645,7 @@
         "issueNumber": "375",
         "title": "The Bride of Venom!",
         "releaseDate": "1993-01-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1655,7 +1655,7 @@
         "issueNumber": "378",
         "title": "Demons on Broadway!",
         "releaseDate": "1993-04-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1665,7 +1665,7 @@
         "issueNumber": "379",
         "title": "The Gathering Storm!",
         "releaseDate": "1993-05-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1675,7 +1675,7 @@
         "issueNumber": "380",
         "title": "Soldiers of Hope!",
         "releaseDate": "1993-06-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1685,7 +1685,7 @@
         "issueNumber": "388",
         "title": "The Sadness of Truth!",
         "releaseDate": "1994-02-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1695,7 +1695,7 @@
         "issueNumber": "394",
         "title": "Power and Responsibility - Part Two: Breakdown",
         "releaseDate": "1994-08-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1705,7 +1705,7 @@
         "issueNumber": "397",
         "title": "Tentacles!",
         "releaseDate": "1994-11-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1715,7 +1715,7 @@
         "issueNumber": "398",
         "title": "Tentacles!",
         "releaseDate": "1994-12-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1725,7 +1725,7 @@
         "issueNumber": "400",
         "title": "The Gift",
         "releaseDate": "1995-02-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1735,7 +1735,7 @@
         "issueNumber": "418",
         "title": "Torment!",
         "releaseDate": "1996-10-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1745,7 +1745,7 @@
         "issueNumber": "441",
         "title": "The Final Chapter Part 1 of 4: And Who Shall Claim A Kingly Crown!",
         "releaseDate": "1998-09-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1755,7 +1755,7 @@
         "issueNumber": "1",
         "title": "Where R U Spider-Man???",
         "releaseDate": "1998-11-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1765,7 +1765,7 @@
         "issueNumber": "30",
         "title": "Coming Home Part 1",
         "releaseDate": "2001-04-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1775,7 +1775,7 @@
         "issueNumber": "31",
         "title": "Coming Home Part 2",
         "releaseDate": "2001-05-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1785,7 +1785,7 @@
         "issueNumber": "32",
         "title": "Coming Home Part 3",
         "releaseDate": "2001-06-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1795,7 +1795,7 @@
         "issueNumber": "33",
         "title": "All Fall Down",
         "releaseDate": "2001-07-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1805,7 +1805,7 @@
         "issueNumber": "34",
         "title": "Coming Home Part 5",
         "releaseDate": "2001-08-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1815,7 +1815,7 @@
         "issueNumber": "35",
         "title": "Coming Home Part 6",
         "releaseDate": "2001-10-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1825,7 +1825,7 @@
         "issueNumber": "36",
         "title": "Stand Tall",
         "releaseDate": "2001-11-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1835,7 +1835,7 @@
         "issueNumber": "38",
         "title": "The Conversation",
         "releaseDate": "2002-02-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1845,7 +1845,7 @@
         "issueNumber": "498",
         "title": "Happy Birthday Part 1",
         "releaseDate": "2003-10-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1855,7 +1855,7 @@
         "issueNumber": "499",
         "title": "Happy Birthday Part 2",
         "releaseDate": "2003-11-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1865,7 +1865,7 @@
         "issueNumber": "500",
         "title": "Happy Birthday Part 3",
         "releaseDate": "2003-12-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1875,7 +1875,7 @@
         "issueNumber": "503",
         "title": "The Book of Ezekiel Chapter One",
         "releaseDate": "2004-01-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1885,7 +1885,7 @@
         "issueNumber": "504",
         "title": "The Book of Ezekiel Chapter Two",
         "releaseDate": "2004-02-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1895,7 +1895,7 @@
         "issueNumber": "505",
         "title": "The Book of Ezekiel Chapter Three",
         "releaseDate": "2004-03-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1905,7 +1905,7 @@
         "issueNumber": "506",
         "title": "The Book of Ezekiel Chapter Four",
         "releaseDate": "2004-04-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1915,7 +1915,7 @@
         "issueNumber": "507",
         "title": "The Book of Ezekiel Chapter Five",
         "releaseDate": "2004-05-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1925,7 +1925,7 @@
         "issueNumber": "508",
         "title": "The Book of Ezekiel Chapter Six",
         "releaseDate": "2004-06-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -1935,7 +1935,7 @@
         "issueNumber": "525",
         "title": "The Other: Evolve or Die Part 3",
         "releaseDate": "2005-10-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1945,7 +1945,7 @@
         "issueNumber": "526",
         "title": "The Other: Evolve or Die Part 6",
         "releaseDate": "2005-11-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1955,7 +1955,7 @@
         "issueNumber": "527",
         "title": "The Other: Evolve or Die Part 9",
         "releaseDate": "2005-12-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1965,7 +1965,7 @@
         "issueNumber": "528",
         "title": "The Other: Evolve or Die Part 12",
         "releaseDate": "2006-01-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1975,7 +1975,7 @@
         "issueNumber": "529",
         "title": "Mr. Parker Goes to Washington Part 1",
         "releaseDate": "2006-02-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1985,7 +1985,7 @@
         "issueNumber": "530",
         "title": "Mr. Parker Goes to Washington Part 2",
         "releaseDate": "2006-03-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -1995,7 +1995,7 @@
         "issueNumber": "531",
         "title": "Mr. Parker Goes to Washington Part 3",
         "releaseDate": "2006-04-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2005,7 +2005,7 @@
         "issueNumber": "532",
         "title": "The War at Home Part 1",
         "releaseDate": "2006-05-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2015,7 +2015,7 @@
         "issueNumber": "533",
         "title": "The War at Home Part 2",
         "releaseDate": "2006-06-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2025,7 +2025,7 @@
         "issueNumber": "534",
         "title": "The War at Home Part 3",
         "releaseDate": "2006-07-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2035,7 +2035,7 @@
         "issueNumber": "535",
         "title": "The War at Home Part 4",
         "releaseDate": "2006-09-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2045,7 +2045,7 @@
         "issueNumber": "536",
         "title": "The War at Home Part 5",
         "releaseDate": "2006-11-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2055,7 +2055,7 @@
         "issueNumber": "537",
         "title": "The War at Home Part 6",
         "releaseDate": "2007-01-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2065,7 +2065,7 @@
         "issueNumber": "538",
         "title": "The War at Home Part 7",
         "releaseDate": "2007-02-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2075,7 +2075,7 @@
         "issueNumber": "539",
         "title": "Back in Black Part 1",
         "releaseDate": "2007-03-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2085,7 +2085,7 @@
         "issueNumber": "540",
         "title": "Back in Black Part 2",
         "releaseDate": "2007-05-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2095,7 +2095,7 @@
         "issueNumber": "541",
         "title": "Back in Black Part 3",
         "releaseDate": "2007-06-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2105,7 +2105,7 @@
         "issueNumber": "542",
         "title": "Back in Black Part 4",
         "releaseDate": "2007-07-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2115,7 +2115,7 @@
         "issueNumber": "543",
         "title": "Back in Black Part 5",
         "releaseDate": "2007-08-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2125,7 +2125,7 @@
         "issueNumber": "544",
         "title": "One More Day Part 1",
         "releaseDate": "2007-09-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2135,7 +2135,7 @@
         "issueNumber": "545",
         "title": "One More Day Part 4",
         "releaseDate": "2007-12-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2145,7 +2145,7 @@
         "issueNumber": "546",
         "title": "Brand New Day",
         "releaseDate": "2008-01-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2155,7 +2155,7 @@
         "issueNumber": "547",
         "title": "Crimes of the Heart",
         "releaseDate": "2008-01-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2165,7 +2165,7 @@
         "issueNumber": "548",
         "title": "Blood Ties",
         "releaseDate": "2008-01-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2175,7 +2175,7 @@
         "issueNumber": "549",
         "title": "Who's That Girl?!",
         "releaseDate": "2008-02-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2185,7 +2185,7 @@
         "issueNumber": "550",
         "title": "The Menace of... Menace!!",
         "releaseDate": "2008-02-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2195,7 +2195,7 @@
         "issueNumber": "551",
         "title": "Lo, There Shall Come a Menace!!",
         "releaseDate": "2008-02-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2205,7 +2205,7 @@
         "issueNumber": "552",
         "title": "Just Blame Spider-Man",
         "releaseDate": "2008-03-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2215,7 +2215,7 @@
         "issueNumber": "553",
         "title": "Freak-Out!",
         "releaseDate": "2008-03-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2225,7 +2225,7 @@
         "issueNumber": "565",
         "title": "Kraven's First Hunt Part 1: To Squash a Spider!",
         "releaseDate": "2008-07-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2235,7 +2235,7 @@
         "issueNumber": "566",
         "title": "Kraven's First Hunt Part 2: Identity Crisis!",
         "releaseDate": "2008-07-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2245,7 +2245,7 @@
         "issueNumber": "567",
         "title": "Kraven's First Hunt Part 3: Legacy",
         "releaseDate": "2008-08-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2255,7 +2255,7 @@
         "issueNumber": "568",
         "title": "New Ways to Die Part 1: Back with Vengeance",
         "releaseDate": "2008-08-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2265,7 +2265,7 @@
         "issueNumber": "569",
         "title": "New Ways to Die Part 2: The Osborn Supremacy",
         "releaseDate": "2008-08-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2275,7 +2275,7 @@
         "issueNumber": "570",
         "title": "New Ways to Die Part 3: The Killer Cure",
         "releaseDate": "2008-09-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2285,7 +2285,7 @@
         "issueNumber": "571",
         "title": "New Ways to Die Part 4: Opposites Attack",
         "releaseDate": "2008-09-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2295,7 +2295,7 @@
         "issueNumber": "572",
         "title": "New Ways to Die Part 5: Easy Targets",
         "releaseDate": "2008-09-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2305,7 +2305,7 @@
         "issueNumber": "573",
         "title": "New Ways to Die Part 6: Weapons of Self Destruction",
         "releaseDate": "2008-10-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2315,7 +2315,7 @@
         "issueNumber": "600",
         "title": "Last Legs",
         "releaseDate": "2009-07-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2325,7 +2325,7 @@
         "issueNumber": "609",
         "title": "The Pain of Kaine",
         "releaseDate": "2009-10-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2335,7 +2335,7 @@
         "issueNumber": "610",
         "title": "Who Was Ben Reilly?",
         "releaseDate": "2009-11-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2345,7 +2345,7 @@
         "issueNumber": "612",
         "title": "Power to the People Part 1",
         "releaseDate": "2009-11-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2355,7 +2355,7 @@
         "issueNumber": "613",
         "title": "Power to the People Part 2",
         "releaseDate": "2009-11-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2365,7 +2365,7 @@
         "issueNumber": "614",
         "title": "Power to the People Part 3",
         "releaseDate": "2009-12-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2375,7 +2375,7 @@
         "issueNumber": "615",
         "title": "Keemia's Castle Part 1",
         "releaseDate": "2009-12-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2385,7 +2385,7 @@
         "issueNumber": "616",
         "title": "Keemia's Castle Part 2",
         "releaseDate": "2009-12-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2395,7 +2395,7 @@
         "issueNumber": "617",
         "title": "Rage of the Rhino",
         "releaseDate": "2010-01-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2405,7 +2405,7 @@
         "issueNumber": "618",
         "title": "Mysterioso Part 1: Un-Murder Incorporated",
         "releaseDate": "2010-01-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2415,7 +2415,7 @@
         "issueNumber": "619",
         "title": "Mysterioso Part 2: Re-Appearing Act",
         "releaseDate": "2010-01-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2425,7 +2425,7 @@
         "issueNumber": "620",
         "title": "Mysterioso Part 3: Smoke & Mirrors",
         "releaseDate": "2010-02-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2435,7 +2435,7 @@
         "issueNumber": "621",
         "title": "Out for Blood Part 1",
         "releaseDate": "2010-02-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2445,7 +2445,7 @@
         "issueNumber": "622",
         "title": "It is the Life",
         "releaseDate": "2010-02-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2455,7 +2455,7 @@
         "issueNumber": "630",
         "title": "Shed Part 1",
         "releaseDate": "2010-05-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2465,7 +2465,7 @@
         "issueNumber": "631",
         "title": "Shed Part 2: The Death of Curt Connors",
         "releaseDate": "2010-05-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2475,7 +2475,7 @@
         "issueNumber": "632",
         "title": "Shed Part 3",
         "releaseDate": "2010-05-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2485,7 +2485,7 @@
         "issueNumber": "633",
         "title": "Shed Conclusion",
         "releaseDate": "2010-06-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2495,7 +2495,7 @@
         "issueNumber": "634",
         "title": "The Grim Hunt Chapter 1",
         "releaseDate": "2010-06-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2505,7 +2505,7 @@
         "issueNumber": "635",
         "title": "The Grim Hunt Chapter 2",
         "releaseDate": "2010-06-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2515,7 +2515,7 @@
         "issueNumber": "636",
         "title": "The Grim Hunt Chapter 3",
         "releaseDate": "2010-07-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2525,7 +2525,7 @@
         "issueNumber": "637",
         "title": "Grim Hunt Conclusion",
         "releaseDate": "2010-07-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2535,7 +2535,7 @@
         "issueNumber": "648",
         "title": "Big Time Part 1",
         "releaseDate": "2010-11-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2545,7 +2545,7 @@
         "issueNumber": "649",
         "title": "Big Time Part 2",
         "releaseDate": "2010-11-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2555,7 +2555,7 @@
         "issueNumber": "650",
         "title": "Big Time Part 3",
         "releaseDate": "2010-12-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2565,7 +2565,7 @@
         "issueNumber": "651",
         "title": "Big Time Part 4",
         "releaseDate": "2011-01-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2575,7 +2575,7 @@
         "issueNumber": "652",
         "title": "Big Time Part 5",
         "releaseDate": "2011-01-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2585,7 +2585,7 @@
         "issueNumber": "653",
         "title": "Big Time Part 6",
         "releaseDate": "2011-02-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2595,7 +2595,7 @@
         "issueNumber": "654",
         "title": "Big Time Part 7: Flash Thompson Becomes Agent Venom",
         "releaseDate": "2011-02-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2605,7 +2605,7 @@
         "issueNumber": "655",
         "title": "Big Time Part 8",
         "releaseDate": "2011-02-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2615,7 +2615,7 @@
         "issueNumber": "656",
         "title": "Big Time Part 9",
         "releaseDate": "2011-03-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2625,7 +2625,7 @@
         "issueNumber": "666",
         "title": "Spider-Island Prologue: The One and Only",
         "releaseDate": "2011-07-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2635,7 +2635,7 @@
         "issueNumber": "667",
         "title": "Spider-Island Part 1",
         "releaseDate": "2011-08-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2645,7 +2645,7 @@
         "issueNumber": "668",
         "title": "Spider-Island Part 2",
         "releaseDate": "2011-08-31",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2655,7 +2655,7 @@
         "issueNumber": "669",
         "title": "Spider-Island Part 3",
         "releaseDate": "2011-09-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2665,7 +2665,7 @@
         "issueNumber": "670",
         "title": "Spider-Island Part 4",
         "releaseDate": "2011-09-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2675,7 +2675,7 @@
         "issueNumber": "671",
         "title": "Spider-Island Part 5",
         "releaseDate": "2011-10-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2685,7 +2685,7 @@
         "issueNumber": "672",
         "title": "Spider-Island Part 6",
         "releaseDate": "2011-10-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2695,7 +2695,7 @@
         "issueNumber": "673",
         "title": "Spider-Island Epilogue",
         "releaseDate": "2011-11-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -2705,7 +2705,7 @@
         "issueNumber": "682",
         "title": "Ends of the Earth Part 1",
         "releaseDate": "2012-03-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2715,7 +2715,7 @@
         "issueNumber": "683",
         "title": "Ends of the Earth Part 2",
         "releaseDate": "2012-04-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2725,7 +2725,7 @@
         "issueNumber": "684",
         "title": "Ends of the Earth Part 3",
         "releaseDate": "2012-04-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2735,7 +2735,7 @@
         "issueNumber": "685",
         "title": "Ends of the Earth Part 4",
         "releaseDate": "2012-05-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2745,7 +2745,7 @@
         "issueNumber": "686",
         "title": "Ends of the Earth Part 5",
         "releaseDate": "2012-05-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2755,7 +2755,7 @@
         "issueNumber": "687",
         "title": "Ends of the Earth Part 6",
         "releaseDate": "2012-06-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2765,7 +2765,7 @@
         "issueNumber": "698",
         "title": "Dying Wish Prelude: Necessary Evil",
         "releaseDate": "2012-11-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2775,7 +2775,7 @@
         "issueNumber": "699",
         "title": "Dying Wish Part 1: Outside the Box",
         "releaseDate": "2012-12-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2785,7 +2785,7 @@
         "issueNumber": "700",
         "title": "Dying Wish Conclusion: Suicide Run",
         "releaseDate": "2012-12-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2795,7 +2795,7 @@
         "issueNumber": "1",
         "title": "Hero or Menace?",
         "releaseDate": "2013-01-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2805,7 +2805,7 @@
         "issueNumber": "2",
         "title": "The Peter Principle",
         "releaseDate": "2013-01-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2815,7 +2815,7 @@
         "issueNumber": "3",
         "title": "Everything You Know Is Wrong",
         "releaseDate": "2013-02-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2825,7 +2825,7 @@
         "issueNumber": "4",
         "title": "The Aggressive Approach",
         "releaseDate": "2013-02-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2835,7 +2835,7 @@
         "issueNumber": "5",
         "title": "Emotionally Compromised",
         "releaseDate": "2013-03-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2845,7 +2845,7 @@
         "issueNumber": "6",
         "title": "Joking Hazard",
         "releaseDate": "2013-03-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2855,7 +2855,7 @@
         "issueNumber": "7",
         "title": "Troubled Mind Part One: Right-Hand Man",
         "releaseDate": "2013-04-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2865,7 +2865,7 @@
         "issueNumber": "8",
         "title": "Troubled Mind Part Two: Proof Positive",
         "releaseDate": "2013-04-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2875,7 +2875,7 @@
         "issueNumber": "9",
         "title": "Troubled Mind Part Three: Gray Areas",
         "releaseDate": "2013-05-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2885,7 +2885,7 @@
         "issueNumber": "10",
         "title": "Grim Hunt",
         "releaseDate": "2013-05-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2895,7 +2895,7 @@
         "issueNumber": "11",
         "title": "No Escape Part One: A Lock for Every Key",
         "releaseDate": "2013-06-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2905,7 +2905,7 @@
         "issueNumber": "12",
         "title": "No Escape Part Two: Lockdown",
         "releaseDate": "2013-06-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2915,7 +2915,7 @@
         "issueNumber": "13",
         "title": "No Escape Part Three: Danger Zone",
         "releaseDate": "2013-07-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2925,7 +2925,7 @@
         "issueNumber": "14",
         "title": "A Blind Eye",
         "releaseDate": "2013-07-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2935,7 +2935,7 @@
         "issueNumber": "15",
         "title": "Run, Goblin, Run Part 1",
         "releaseDate": "2013-08-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2945,7 +2945,7 @@
         "issueNumber": "16",
         "title": "Run, Goblin, Run Part 2",
         "releaseDate": "2013-08-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2955,7 +2955,7 @@
         "issueNumber": "17",
         "title": "Necessary Evil Part One",
         "releaseDate": "2013-09-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2965,7 +2965,7 @@
         "issueNumber": "18",
         "title": "Necessary Evil Part Two: Smack to the Future",
         "releaseDate": "2013-09-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2975,7 +2975,7 @@
         "issueNumber": "19",
         "title": "Necessary Evil Part Three: Event Horizon",
         "releaseDate": "2013-10-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2985,7 +2985,7 @@
         "issueNumber": "20",
         "title": "Necessary Evil Part Four: Still Standing",
         "releaseDate": "2013-10-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -2995,7 +2995,7 @@
         "issueNumber": "21",
         "title": "Lethal Ladies",
         "releaseDate": "2013-11-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3005,7 +3005,7 @@
         "issueNumber": "22",
         "title": "Darkest Hours Part One: Face to Face",
         "releaseDate": "2013-11-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3015,7 +3015,7 @@
         "issueNumber": "23",
         "title": "Darkest Hours Part Two: Superior Venom",
         "releaseDate": "2013-12-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3025,7 +3025,7 @@
         "issueNumber": "24",
         "title": "Darkest Hours Part Three: Dark Heart",
         "releaseDate": "2013-12-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3035,7 +3035,7 @@
         "issueNumber": "25",
         "title": "Goblin Nation Prelude: The Arena",
         "releaseDate": "2014-01-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3045,7 +3045,7 @@
         "issueNumber": "26",
         "title": "Goblin Nation Prelude: The Arena Part 2",
         "releaseDate": "2014-01-29",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3055,7 +3055,7 @@
         "issueNumber": "27",
         "title": "Goblin Nation Part One",
         "releaseDate": "2014-02-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3065,7 +3065,7 @@
         "issueNumber": "28",
         "title": "Goblin Nation Part Two: The Fall",
         "releaseDate": "2014-02-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3075,7 +3075,7 @@
         "issueNumber": "29",
         "title": "Goblin Nation Part Three: Legs Out",
         "releaseDate": "2014-03-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3085,7 +3085,7 @@
         "issueNumber": "30",
         "title": "Goblin Nation Part Four",
         "releaseDate": "2014-04-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3095,7 +3095,7 @@
         "issueNumber": "31",
         "title": "Goblin Nation Part 5",
         "releaseDate": "2014-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3105,7 +3105,7 @@
         "issueNumber": "32",
         "title": "Goblin Nation Epilogue Part One",
         "releaseDate": "2014-08-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3115,7 +3115,7 @@
         "issueNumber": "33",
         "title": "Goblin Nation Epilogue Part Two",
         "releaseDate": "2014-09-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3125,7 +3125,7 @@
         "issueNumber": "1",
         "title": "The Parker Luck",
         "releaseDate": "2014-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3135,7 +3135,7 @@
         "issueNumber": "2",
         "title": "Homecoming",
         "releaseDate": "2014-05-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3145,7 +3145,7 @@
         "issueNumber": "3",
         "title": "Necessary Evil",
         "releaseDate": "2014-06-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3155,7 +3155,7 @@
         "issueNumber": "4",
         "title": "The Repossession of Peter Parker",
         "releaseDate": "2014-07-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3165,7 +3165,7 @@
         "issueNumber": "5",
         "title": "The Hasty Harvestman",
         "releaseDate": "2014-08-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3175,7 +3175,7 @@
         "issueNumber": "6",
         "title": "Rattle-Born",
         "releaseDate": "2014-09-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3185,7 +3185,7 @@
         "issueNumber": "7",
         "title": "Ms. Marvel Team-Up",
         "releaseDate": "2014-10-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3195,7 +3195,7 @@
         "issueNumber": "8",
         "title": "Adventures in Babysitting",
         "releaseDate": "2014-10-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3205,7 +3205,7 @@
         "issueNumber": "9",
         "title": "Spider-Verse Part One: The Gathering",
         "releaseDate": "2014-11-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3215,7 +3215,7 @@
         "issueNumber": "10",
         "title": "Spider-Verse Part Two: Superior",
         "releaseDate": "2014-11-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3225,7 +3225,7 @@
         "issueNumber": "11",
         "title": "Spider-Verse Part Three: Higher Ground",
         "releaseDate": "2014-12-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3235,7 +3235,7 @@
         "issueNumber": "12",
         "title": "Spider-Verse Part Four: Anywhere But Here",
         "releaseDate": "2015-01-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3245,7 +3245,7 @@
         "issueNumber": "13",
         "title": "Spider-Verse Part Five: Spider-Man Worldwide",
         "releaseDate": "2015-01-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3255,7 +3255,7 @@
         "issueNumber": "14",
         "title": "Spider-Verse Part Six: Web Warriors",
         "releaseDate": "2015-02-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3265,7 +3265,7 @@
         "issueNumber": "15",
         "title": "Spider-Verse Epilogue",
         "releaseDate": "2015-02-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3275,7 +3275,7 @@
         "issueNumber": "16",
         "title": "The Graveyard Shift Part One",
         "releaseDate": "2015-03-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3285,7 +3285,7 @@
         "issueNumber": "17",
         "title": "The Graveyard Shift Part Two: Trust Issues",
         "releaseDate": "2015-04-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3295,7 +3295,7 @@
         "issueNumber": "18",
         "title": "The Graveyard Shift Part Three",
         "releaseDate": "2015-05-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3305,7 +3305,7 @@
         "issueNumber": "19",
         "title": "Spiral Part One",
         "releaseDate": "2015-07-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3315,7 +3315,7 @@
         "issueNumber": "20",
         "title": "Spiral Conclusion",
         "releaseDate": "2015-07-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3325,7 +3325,7 @@
         "issueNumber": "1",
         "title": "Worldwide",
         "releaseDate": "2015-12-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3335,7 +3335,7 @@
         "issueNumber": "2",
         "title": "Water Proof",
         "releaseDate": "2015-10-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3345,7 +3345,7 @@
         "issueNumber": "3",
         "title": "Friendly Fire",
         "releaseDate": "2015-11-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3355,7 +3355,7 @@
         "issueNumber": "4",
         "title": "High Priority",
         "releaseDate": "2015-12-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3365,7 +3365,7 @@
         "issueNumber": "5",
         "title": "Set in Stone",
         "releaseDate": "2015-12-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3375,7 +3375,7 @@
         "issueNumber": "6",
         "title": "The Dark Kingdom Part 1",
         "releaseDate": "2015-12-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3385,7 +3385,7 @@
         "issueNumber": "7",
         "title": "The Dark Kingdom Part 2: Opposing Forces",
         "releaseDate": "2016-02-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3395,7 +3395,7 @@
         "issueNumber": "8",
         "title": "The Dark Kingdom Part 3: Black and White",
         "releaseDate": "2016-02-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3405,7 +3405,7 @@
         "issueNumber": "9",
         "title": "Scorpio Rising Part 1",
         "releaseDate": "2016-03-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3415,7 +3415,7 @@
         "issueNumber": "10",
         "title": "Scorpio Rising Part 2: Power Play",
         "releaseDate": "2016-04-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3425,7 +3425,7 @@
         "issueNumber": "11",
         "title": "Scorpio Rising Conclusion",
         "releaseDate": "2016-04-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3435,7 +3435,7 @@
         "issueNumber": "12",
         "title": "Power Play Part 1: The Stark Contrast",
         "releaseDate": "2016-05-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3445,7 +3445,7 @@
         "issueNumber": "13",
         "title": "Power Play Part 2: Civil War II",
         "releaseDate": "2016-06-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3455,7 +3455,7 @@
         "issueNumber": "14",
         "title": "Power Play Part 3: Avengers Assemble",
         "releaseDate": "2016-06-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3465,7 +3465,7 @@
         "issueNumber": "15",
         "title": "Power Play Conclusion: Suit Up",
         "releaseDate": "2016-07-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3475,7 +3475,7 @@
         "issueNumber": "25",
         "title": "The Osborn Identity Part One: Bug Hunt",
         "releaseDate": "2017-03-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3485,7 +3485,7 @@
         "issueNumber": "26",
         "title": "The Osborn Identity Part Two",
         "releaseDate": "2017-04-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3495,7 +3495,7 @@
         "issueNumber": "27",
         "title": "The Osborn Identity Part Three",
         "releaseDate": "2017-05-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3505,7 +3505,7 @@
         "issueNumber": "28",
         "title": "The Osborn Identity Part Four: Conclusion",
         "releaseDate": "2017-06-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3515,7 +3515,7 @@
         "issueNumber": "29",
         "title": "Secret Empire Part One: Rightful King",
         "releaseDate": "2017-06-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3525,7 +3525,7 @@
         "issueNumber": "30",
         "title": "Secret Empire Part Two: Master Spider",
         "releaseDate": "2017-07-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3535,7 +3535,7 @@
         "issueNumber": "31",
         "title": "Secret Empire Part Three: End of the Line",
         "releaseDate": "2017-08-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3545,7 +3545,7 @@
         "issueNumber": "32",
         "title": "Personal Demon",
         "releaseDate": "2017-09-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3555,7 +3555,7 @@
         "issueNumber": "789",
         "title": "Fall of Parker Part One: Taking the Hit",
         "releaseDate": "2017-10-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3565,7 +3565,7 @@
         "issueNumber": "790",
         "title": "Fall of Parker Part Two: Breaking Point",
         "releaseDate": "2017-10-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3575,7 +3575,7 @@
         "issueNumber": "791",
         "title": "Fall of Parker Part Three: Back to Basics",
         "releaseDate": "2017-11-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3585,7 +3585,7 @@
         "issueNumber": "792",
         "title": "Fall of Parker Part Four",
         "releaseDate": "2017-12-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3595,7 +3595,7 @@
         "issueNumber": "793",
         "title": "Threat Level Red Part One",
         "releaseDate": "2018-01-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3605,7 +3605,7 @@
         "issueNumber": "794",
         "title": "Threat Level Red Part Two",
         "releaseDate": "2018-01-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3615,7 +3615,7 @@
         "issueNumber": "795",
         "title": "Threat Level Red Part Three",
         "releaseDate": "2018-02-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3625,7 +3625,7 @@
         "issueNumber": "796",
         "title": "Go Down Swinging Part One",
         "releaseDate": "2018-02-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3635,7 +3635,7 @@
         "issueNumber": "797",
         "title": "Go Down Swinging Part Two: The Rope-A-Dope",
         "releaseDate": "2018-03-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3645,7 +3645,7 @@
         "issueNumber": "798",
         "title": "Go Down Swinging Part Three",
         "releaseDate": "2018-04-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3655,7 +3655,7 @@
         "issueNumber": "799",
         "title": "Go Down Swinging Part Four",
         "releaseDate": "2018-04-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3665,7 +3665,7 @@
         "issueNumber": "800",
         "title": "Go Down Swinging Conclusion",
         "releaseDate": "2018-05-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3675,7 +3675,7 @@
         "issueNumber": "1",
         "title": "Back to Basics Part One",
         "releaseDate": "2018-07-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3685,7 +3685,7 @@
         "issueNumber": "2",
         "title": "Back to Basics Part Two",
         "releaseDate": "2018-07-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3695,7 +3695,7 @@
         "issueNumber": "3",
         "title": "Back to Basics Part Three",
         "releaseDate": "2018-08-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3705,7 +3705,7 @@
         "issueNumber": "4",
         "title": "Back to Basics Part Four",
         "releaseDate": "2018-08-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3715,7 +3715,7 @@
         "issueNumber": "5",
         "title": "Back to Basics Part Five",
         "releaseDate": "2018-09-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3725,7 +3725,7 @@
         "issueNumber": "6",
         "title": "Heist Part One",
         "releaseDate": "2018-09-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3735,7 +3735,7 @@
         "issueNumber": "7",
         "title": "Heist Part Two",
         "releaseDate": "2018-10-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3745,7 +3745,7 @@
         "issueNumber": "8",
         "title": "Heist Part Three",
         "releaseDate": "2018-10-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3755,7 +3755,7 @@
         "issueNumber": "9",
         "title": "Heist Part Four",
         "releaseDate": "2018-11-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3765,7 +3765,7 @@
         "issueNumber": "10",
         "title": "Heist Conclusion",
         "releaseDate": "2018-11-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3775,7 +3775,7 @@
         "issueNumber": "11",
         "title": "Lifetime Achievement Part One",
         "releaseDate": "2018-12-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3785,7 +3785,7 @@
         "issueNumber": "12",
         "title": "Lifetime Achievement Part Two",
         "releaseDate": "2018-12-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3795,7 +3795,7 @@
         "issueNumber": "13",
         "title": "Lifetime Achievement Part Three",
         "releaseDate": "2019-01-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3805,7 +3805,7 @@
         "issueNumber": "14",
         "title": "Hunted Prelude: Followed",
         "releaseDate": "2019-01-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3815,7 +3815,7 @@
         "issueNumber": "15",
         "title": "Family Matters",
         "releaseDate": "2019-02-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3825,7 +3825,7 @@
         "issueNumber": "16",
         "title": "Hunted Prelude",
         "releaseDate": "2019-02-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3835,7 +3835,7 @@
         "issueNumber": "17",
         "title": "Hunted Part One",
         "releaseDate": "2019-03-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3845,7 +3845,7 @@
         "issueNumber": "18",
         "title": "Hunted Part Two",
         "releaseDate": "2019-03-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3855,7 +3855,7 @@
         "issueNumber": "19",
         "title": "Hunted Part Three",
         "releaseDate": "2019-04-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3865,7 +3865,7 @@
         "issueNumber": "20",
         "title": "Hunted Part Four",
         "releaseDate": "2019-04-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3875,7 +3875,7 @@
         "issueNumber": "21",
         "title": "Hunted Part Five",
         "releaseDate": "2019-05-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3885,7 +3885,7 @@
         "issueNumber": "22",
         "title": "Hunted Part Six",
         "releaseDate": "2019-05-29",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3895,7 +3895,7 @@
         "issueNumber": "23",
         "title": "Hunted Epilogue",
         "releaseDate": "2019-06-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -3905,7 +3905,7 @@
         "issueNumber": "24",
         "title": "One-on-One",
         "releaseDate": "2019-06-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3915,7 +3915,7 @@
         "issueNumber": "25",
         "title": "24/7",
         "releaseDate": "2019-07-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3925,7 +3925,7 @@
         "issueNumber": "26",
         "title": "Who Run the World?",
         "releaseDate": "2019-07-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3935,7 +3935,7 @@
         "issueNumber": "27",
         "title": "Who Run the World? Part Two",
         "releaseDate": "2019-08-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3945,7 +3945,7 @@
         "issueNumber": "28",
         "title": "Meanwhile...",
         "releaseDate": "2019-08-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3955,7 +3955,7 @@
         "issueNumber": "29",
         "title": "Arrivals/Departures",
         "releaseDate": "2019-09-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3965,7 +3965,7 @@
         "issueNumber": "30",
         "title": "Absolute Carnage Part One",
         "releaseDate": "2019-09-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3975,7 +3975,7 @@
         "issueNumber": "31",
         "title": "Absolute Carnage Part Two",
         "releaseDate": "2019-10-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -3985,7 +3985,7 @@
         "issueNumber": "32",
         "title": "Running Late",
         "releaseDate": "2019-10-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -3995,7 +3995,7 @@
         "issueNumber": "33",
         "title": "Point Blank",
         "releaseDate": "2019-11-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4005,7 +4005,7 @@
         "issueNumber": "34",
         "title": "Kinship",
         "releaseDate": "2019-11-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4015,7 +4015,7 @@
         "issueNumber": "35",
         "title": "Dom's Day",
         "releaseDate": "2019-12-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -4025,7 +4025,7 @@
         "issueNumber": "36",
         "title": "Time After Time",
         "releaseDate": "2019-12-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -4035,7 +4035,7 @@
         "issueNumber": "37",
         "title": "The Osborn Agenda",
         "releaseDate": "2020-01-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4045,7 +4045,7 @@
         "issueNumber": "38",
         "title": "Breaking News Part One",
         "releaseDate": "2020-01-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4055,7 +4055,7 @@
         "issueNumber": "39",
         "title": "Breaking News Part Two",
         "releaseDate": "2020-02-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4065,7 +4065,7 @@
         "issueNumber": "40",
         "title": "Breaking News Part Three",
         "releaseDate": "2020-02-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4075,7 +4075,7 @@
         "issueNumber": "41",
         "title": "True Companions Part One",
         "releaseDate": "2020-03-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4085,7 +4085,7 @@
         "issueNumber": "42",
         "title": "True Companions Part Two",
         "releaseDate": "2020-03-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4095,7 +4095,7 @@
         "issueNumber": "43",
         "title": "True Companions Part Three",
         "releaseDate": "2020-04-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4105,7 +4105,7 @@
         "issueNumber": "44",
         "title": "Beware the Rising",
         "releaseDate": "2020-07-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4115,7 +4115,7 @@
         "issueNumber": "45",
         "title": "Sins Rising Part One",
         "releaseDate": "2020-07-29",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4125,7 +4125,7 @@
         "issueNumber": "46",
         "title": "Sins Rising Part Two",
         "releaseDate": "2020-08-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4135,7 +4135,7 @@
         "issueNumber": "47",
         "title": "Sins Rising Part Three",
         "releaseDate": "2020-08-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4145,7 +4145,7 @@
         "issueNumber": "48",
         "title": "Sins Rising Part Four",
         "releaseDate": "2020-09-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4155,7 +4155,7 @@
         "issueNumber": "49",
         "title": "The Return of the Green Goblin",
         "releaseDate": "2020-10-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4165,7 +4165,7 @@
         "issueNumber": "50",
         "title": "Last Remains Part One",
         "releaseDate": "2020-10-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4175,7 +4175,7 @@
         "issueNumber": "51",
         "title": "Last Remains Part Two",
         "releaseDate": "2020-10-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4185,7 +4185,7 @@
         "issueNumber": "52",
         "title": "Last Remains Part Three",
         "releaseDate": "2020-11-11",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4195,7 +4195,7 @@
         "issueNumber": "53",
         "title": "Last Remains Part Four",
         "releaseDate": "2020-11-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4205,7 +4205,7 @@
         "issueNumber": "54",
         "title": "Last Remains Part Five",
         "releaseDate": "2020-12-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4215,7 +4215,7 @@
         "issueNumber": "55",
         "title": "Last Remains Part Six",
         "releaseDate": "2020-12-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4225,7 +4225,7 @@
         "issueNumber": "56",
         "title": "Last Remains Post-Mortem Part One",
         "releaseDate": "2021-01-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4235,7 +4235,7 @@
         "issueNumber": "57",
         "title": "Last Remains Post-Mortem Part Two",
         "releaseDate": "2021-01-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4245,7 +4245,7 @@
         "issueNumber": "58",
         "title": "Negative Space Part One",
         "releaseDate": "2021-01-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4255,7 +4255,7 @@
         "issueNumber": "59",
         "title": "Negative Space Part Two",
         "releaseDate": "2021-02-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4265,7 +4265,7 @@
         "issueNumber": "60",
         "title": "No Exit",
         "releaseDate": "2021-02-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4275,7 +4275,7 @@
         "issueNumber": "61",
         "title": "The Wish",
         "releaseDate": "2021-03-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4285,7 +4285,7 @@
         "issueNumber": "62",
         "title": "Threats and Menaces",
         "releaseDate": "2021-03-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4295,7 +4295,7 @@
         "issueNumber": "63",
         "title": "King's Ransom Part One",
         "releaseDate": "2021-04-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4305,7 +4305,7 @@
         "issueNumber": "64",
         "title": "King's Ransom Part Two",
         "releaseDate": "2021-04-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4315,7 +4315,7 @@
         "issueNumber": "65",
         "title": "King's Ransom Part Three",
         "releaseDate": "2021-05-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4325,7 +4325,7 @@
         "issueNumber": "66",
         "title": "Tangled Web",
         "releaseDate": "2021-05-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": false
     },
@@ -4335,7 +4335,7 @@
         "issueNumber": "67",
         "title": "Chameleon Conspiracy Part One",
         "releaseDate": "2021-06-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4345,7 +4345,7 @@
         "issueNumber": "68",
         "title": "Chameleon Conspiracy Part Two",
         "releaseDate": "2021-06-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4355,7 +4355,7 @@
         "issueNumber": "69",
         "title": "Chameleon Conspiracy Part Three",
         "releaseDate": "2021-06-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4365,7 +4365,7 @@
         "issueNumber": "70",
         "title": "Prelude to Sinister War",
         "releaseDate": "2021-07-07",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4375,7 +4375,7 @@
         "issueNumber": "71",
         "title": "Sinister War Part One",
         "releaseDate": "2021-07-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4385,7 +4385,7 @@
         "issueNumber": "72",
         "title": "Sinister War Part Two",
         "releaseDate": "2021-08-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4395,7 +4395,7 @@
         "issueNumber": "73",
         "title": "Sins of Our Fathers",
         "releaseDate": "2021-09-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4405,7 +4405,7 @@
         "issueNumber": "74",
         "title": "Sinister War Part Four",
         "releaseDate": "2021-09-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4415,7 +4415,7 @@
         "issueNumber": "75",
         "title": "Beyond Part One",
         "releaseDate": "2021-10-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4425,7 +4425,7 @@
         "issueNumber": "76",
         "title": "Beyond Part Two",
         "releaseDate": "2021-10-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4435,7 +4435,7 @@
         "issueNumber": "77",
         "title": "Beyond Part Three",
         "releaseDate": "2021-10-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4445,7 +4445,7 @@
         "issueNumber": "78",
         "title": "Beyond Part Four",
         "releaseDate": "2021-11-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4455,7 +4455,7 @@
         "issueNumber": "79",
         "title": "Beyond Part Five",
         "releaseDate": "2021-11-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4465,7 +4465,7 @@
         "issueNumber": "80",
         "title": "Beyond Part Six",
         "releaseDate": "2021-12-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4475,7 +4475,7 @@
         "issueNumber": "81",
         "title": "Beyond Part Seven",
         "releaseDate": "2021-12-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4485,7 +4485,7 @@
         "issueNumber": "82",
         "title": "Beyond Part Eight",
         "releaseDate": "2021-12-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4495,7 +4495,7 @@
         "issueNumber": "83",
         "title": "Beyond Part Nine",
         "releaseDate": "2021-12-29",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4505,7 +4505,7 @@
         "issueNumber": "84",
         "title": "Beyond Part Ten",
         "releaseDate": "2022-01-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4515,7 +4515,7 @@
         "issueNumber": "85",
         "title": "Beyond Part Eleven",
         "releaseDate": "2022-01-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4525,7 +4525,7 @@
         "issueNumber": "86",
         "title": "Beyond Part Twelve",
         "releaseDate": "2022-01-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4535,7 +4535,7 @@
         "issueNumber": "87",
         "title": "Beyond Part Thirteen",
         "releaseDate": "2022-01-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4545,7 +4545,7 @@
         "issueNumber": "88",
         "title": "Beyond Part Fourteen",
         "releaseDate": "2022-02-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4555,7 +4555,7 @@
         "issueNumber": "89",
         "title": "Beyond Part Fifteen",
         "releaseDate": "2022-02-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4565,7 +4565,7 @@
         "issueNumber": "90",
         "title": "Beyond Part Sixteen",
         "releaseDate": "2022-02-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4575,7 +4575,7 @@
         "issueNumber": "91",
         "title": "Beyond Part Seventeen",
         "releaseDate": "2022-03-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4585,7 +4585,7 @@
         "issueNumber": "92",
         "title": "Beyond Part Eighteen",
         "releaseDate": "2022-03-09",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4595,7 +4595,7 @@
         "issueNumber": "93",
         "title": "Beyond Conclusion",
         "releaseDate": "2022-03-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4605,7 +4605,7 @@
         "issueNumber": "1",
         "title": "Spider-Man vs. Wolverine",
         "releaseDate": "1987-02-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4615,7 +4615,7 @@
         "issueNumber": "1",
         "title": "The Tarantula Is Here!",
         "releaseDate": "1976-10-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4625,7 +4625,7 @@
         "issueNumber": "107",
         "title": "The Death of Jean DeWolff Part 1: Original Sin",
         "releaseDate": "1985-07-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4635,7 +4635,7 @@
         "issueNumber": "108",
         "title": "The Death of Jean DeWolff Part 2: Sin of Pride",
         "releaseDate": "1985-08-13",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4645,7 +4645,7 @@
         "issueNumber": "109",
         "title": "The Death of Jean DeWolff Part 3: All My Sins Remembered",
         "releaseDate": "1985-09-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4655,7 +4655,7 @@
         "issueNumber": "110",
         "title": "The Death of Jean DeWolff Part 4: All My Sins Remembered",
         "releaseDate": "1985-10-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4665,7 +4665,7 @@
         "issueNumber": "131",
         "title": "Kraven's Last Hunt Part 2: Ascending",
         "releaseDate": "1987-07-14",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4675,7 +4675,7 @@
         "issueNumber": "132",
         "title": "Kraven's Last Hunt Part 5: Ascending",
         "releaseDate": "1987-08-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4685,7 +4685,7 @@
         "issueNumber": "178",
         "title": "Up from the Depths",
         "releaseDate": "1991-05-28",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4695,7 +4695,7 @@
         "issueNumber": "179",
         "title": "Wounds",
         "releaseDate": "1991-06-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4705,7 +4705,7 @@
         "issueNumber": "180",
         "title": "The Love of Power Part 1",
         "releaseDate": "1991-03-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4715,7 +4715,7 @@
         "issueNumber": "181",
         "title": "Guilt",
         "releaseDate": "1991-08-27",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4725,7 +4725,7 @@
         "issueNumber": "182",
         "title": "Reckonings",
         "releaseDate": "1991-09-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4735,7 +4735,7 @@
         "issueNumber": "183",
         "title": "Aftermath",
         "releaseDate": "1991-11-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4745,7 +4745,7 @@
         "issueNumber": "200",
         "title": "Best of Enemies",
         "releaseDate": "1993-03-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4755,7 +4755,7 @@
         "issueNumber": "211",
         "title": "Face Value",
         "releaseDate": "1994-03-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4765,7 +4765,7 @@
         "issueNumber": "212",
         "title": "Rain Dance",
         "releaseDate": "1994-03-22",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4775,7 +4775,7 @@
         "issueNumber": "213",
         "title": "Bloody Justice",
         "releaseDate": "1994-05-24",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4785,7 +4785,7 @@
         "issueNumber": "217",
         "title": "Power and Responsibility Part 3",
         "releaseDate": "1994-08-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4795,7 +4795,7 @@
         "issueNumber": "226",
         "title": "If Death Be My Destiny!",
         "releaseDate": "1995-07-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4805,7 +4805,7 @@
         "issueNumber": "227",
         "title": "If Death Be My Destiny! Part 2",
         "releaseDate": "1995-07-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4815,7 +4815,7 @@
         "issueNumber": "228",
         "title": "Run for Your Life!",
         "releaseDate": "1995-08-03",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4825,7 +4825,7 @@
         "issueNumber": "229",
         "title": "No More the Hero",
         "releaseDate": "1995-09-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4835,7 +4835,7 @@
         "issueNumber": "262",
         "title": "The Gathering of Five Part Four",
         "releaseDate": "1998-08-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4845,7 +4845,7 @@
         "issueNumber": "263",
         "title": "The Final Chapter Part 3 of 4",
         "releaseDate": "1998-09-23",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4855,7 +4855,7 @@
         "issueNumber": "1",
         "title": "Torment Part 1",
         "releaseDate": "1990-06-19",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4865,7 +4865,7 @@
         "issueNumber": "2",
         "title": "Torment Part 2",
         "releaseDate": "1990-07-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4875,7 +4875,7 @@
         "issueNumber": "3",
         "title": "Torment Part 3",
         "releaseDate": "1999-08-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4885,7 +4885,7 @@
         "issueNumber": "4",
         "title": "Torment Part 4",
         "releaseDate": "1990-09-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4895,7 +4895,7 @@
         "issueNumber": "5",
         "title": "Torment Part 5",
         "releaseDate": "1990-10-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4905,7 +4905,7 @@
         "issueNumber": "35",
         "title": "Maximum Carnage Part 4: Team Venom",
         "releaseDate": "1993-04-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4915,7 +4915,7 @@
         "issueNumber": "36",
         "title": "Maximum Carnage Part 7: The Light",
         "releaseDate": "1993-06-15",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4925,7 +4925,7 @@
         "issueNumber": "37",
         "title": "Maximum Carnage Part 10: Light the Night!",
         "releaseDate": "1993-07-20",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4935,7 +4935,7 @@
         "issueNumber": "51",
         "title": "Power and Responsibility Part 4",
         "releaseDate": "1994-08-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4945,7 +4945,7 @@
         "issueNumber": "52",
         "title": "Deadline",
         "releaseDate": "1994-09-26",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4955,7 +4955,7 @@
         "issueNumber": "53",
         "title": "Gathering Storms",
         "releaseDate": "1994-10-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4965,7 +4965,7 @@
         "issueNumber": "75",
         "title": "The Night of the Goblin!",
         "releaseDate": "1996-10-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -4975,7 +4975,7 @@
         "issueNumber": "96",
         "title": "The Gathering of Five Part Three",
         "releaseDate": "1998-09-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4985,7 +4985,7 @@
         "issueNumber": "97",
         "title": "The Final Chapter Part 2 of 4",
         "releaseDate": "1998-09-16",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -4995,7 +4995,7 @@
         "issueNumber": "98",
         "title": "The Final Chapter Part 4 of 4",
         "releaseDate": "1998-09-30",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5005,7 +5005,7 @@
         "issueNumber": "1",
         "title": "Til Death Do Us Part!",
         "releaseDate": "1984-12-25",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5015,7 +5015,7 @@
         "issueNumber": "117",
         "title": "Power and Responsibility Part 1",
         "releaseDate": "1994-08-02",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5025,7 +5025,7 @@
         "issueNumber": "118",
         "title": "Memories",
         "releaseDate": "1994-09-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5035,7 +5035,7 @@
         "issueNumber": "119",
         "title": "Echoes of Silence",
         "releaseDate": "1994-10-04",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5045,7 +5045,7 @@
         "issueNumber": "120",
         "title": "Lure of the Spider",
         "releaseDate": "1994-11-01",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5055,7 +5055,7 @@
         "issueNumber": "121",
         "title": "The Hunting",
         "releaseDate": "1994-12-06",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5065,7 +5065,7 @@
         "issueNumber": "129",
         "title": "By My Hand, Mary Jane Must Die!",
         "releaseDate": "1995-08-10",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5075,7 +5075,7 @@
         "issueNumber": "1",
         "title": "My Funny Valentine",
         "releaseDate": "2002-05-08",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5085,7 +5085,7 @@
         "issueNumber": "2",
         "title": "Lets Fall in Love",
         "releaseDate": "2002-06-12",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5095,7 +5095,7 @@
         "issueNumber": "3",
         "title": "Anything Goes",
         "releaseDate": "2002-07-17",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5105,7 +5105,7 @@
         "issueNumber": "4",
         "title": "Autumn in New York",
         "releaseDate": "2002-08-21",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5115,7 +5115,7 @@
         "issueNumber": "5",
         "title": "If I Had You",
         "releaseDate": "2002-12-18",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5125,7 +5125,7 @@
         "issueNumber": "6",
         "title": "All of Me",
         "releaseDate": "2003-03-05",
-        "universe": "main",
+        "universe": "Earth-616",
         "isMajorCrossover": true,
         "isKeyIssue": true
     },
@@ -5135,7 +5135,7 @@
         "issueNumber": "1",
         "title": "Powerless",
         "releaseDate": "2000-09-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5145,7 +5145,7 @@
         "issueNumber": "2",
         "title": "Growing Pains",
         "releaseDate": "2000-10-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5155,7 +5155,7 @@
         "issueNumber": "3",
         "title": "Wannabe",
         "releaseDate": "2000-11-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5165,7 +5165,7 @@
         "issueNumber": "4",
         "title": "With Great Power",
         "releaseDate": "2000-12-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5175,7 +5175,7 @@
         "issueNumber": "5",
         "title": "Life Lessons",
         "releaseDate": "2001-01-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5185,7 +5185,7 @@
         "issueNumber": "6",
         "title": "Big Time Super Hero",
         "releaseDate": "2001-02-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5195,7 +5195,7 @@
         "issueNumber": "7",
         "title": "Secret Identity",
         "releaseDate": "2001-03-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5205,7 +5205,7 @@
         "issueNumber": "8",
         "title": "Working Stiff",
         "releaseDate": "2001-04-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5215,7 +5215,7 @@
         "issueNumber": "9",
         "title": "Meet the Enforcers",
         "releaseDate": "2001-04-25",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5225,7 +5225,7 @@
         "issueNumber": "10",
         "title": "The Worst Thing",
         "releaseDate": "2001-05-16",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5235,7 +5235,7 @@
         "issueNumber": "11",
         "title": "Discovery",
         "releaseDate": "2001-07-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5245,7 +5245,7 @@
         "issueNumber": "12",
         "title": "Battle Royal",
         "releaseDate": "2001-08-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5255,7 +5255,7 @@
         "issueNumber": "13",
         "title": "Confessions",
         "releaseDate": "2001-09-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5265,7 +5265,7 @@
         "issueNumber": "14",
         "title": "Doctor Octopus",
         "releaseDate": "2001-10-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5275,7 +5275,7 @@
         "issueNumber": "15",
         "title": "Confrontations",
         "releaseDate": "2001-11-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5285,7 +5285,7 @@
         "issueNumber": "16",
         "title": "Kraven the Hunter",
         "releaseDate": "2001-12-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5295,7 +5295,7 @@
         "issueNumber": "17",
         "title": "Taking Advantage",
         "releaseDate": "2002-01-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5305,7 +5305,7 @@
         "issueNumber": "18",
         "title": "The Cycle",
         "releaseDate": "2002-02-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5315,7 +5315,7 @@
         "issueNumber": "19",
         "title": "Piece of Work",
         "releaseDate": "2002-03-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5325,7 +5325,7 @@
         "issueNumber": "20",
         "title": "Live",
         "releaseDate": "2002-03-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5335,7 +5335,7 @@
         "issueNumber": "21",
         "title": "Hunted",
         "releaseDate": "2002-04-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5345,7 +5345,7 @@
         "issueNumber": "22",
         "title": "Reflections of...",
         "releaseDate": "2002-05-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5355,7 +5355,7 @@
         "issueNumber": "23",
         "title": "Responsible",
         "releaseDate": "2002-06-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5365,7 +5365,7 @@
         "issueNumber": "24",
         "title": "Ultimatum",
         "releaseDate": "2002-07-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5375,7 +5375,7 @@
         "issueNumber": "25",
         "title": "Plasmids",
         "releaseDate": "2002-08-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5385,7 +5385,7 @@
         "issueNumber": "26",
         "title": "Circles",
         "releaseDate": "2002-09-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5395,7 +5395,7 @@
         "issueNumber": "27",
         "title": "Illegal",
         "releaseDate": "2002-09-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5405,7 +5405,7 @@
         "issueNumber": "28",
         "title": "Sidetracked",
         "releaseDate": "2002-10-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5415,7 +5415,7 @@
         "issueNumber": "29",
         "title": "Stolen Identity",
         "releaseDate": "2002-10-16",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5425,7 +5425,7 @@
         "issueNumber": "30",
         "title": "Emergency",
         "releaseDate": "2002-11-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5435,7 +5435,7 @@
         "issueNumber": "31",
         "title": "Black Van",
         "releaseDate": "2002-12-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5445,7 +5445,7 @@
         "issueNumber": "32",
         "title": "Just a Guy",
         "releaseDate": "2002-12-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5455,7 +5455,7 @@
         "issueNumber": "33",
         "title": "Origins",
         "releaseDate": "2003-01-15",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5465,7 +5465,7 @@
         "issueNumber": "34",
         "title": "Inheritance",
         "releaseDate": "2003-01-22",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5475,7 +5475,7 @@
         "issueNumber": "35",
         "title": "Legacy",
         "releaseDate": "2003-01-15",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5485,7 +5485,7 @@
         "issueNumber": "36",
         "title": "Today",
         "releaseDate": "2003-02-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5495,7 +5495,7 @@
         "issueNumber": "37",
         "title": "Still",
         "releaseDate": "2003-03-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5505,7 +5505,7 @@
         "issueNumber": "38",
         "title": "Father's Pride",
         "releaseDate": "2003-03-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5515,7 +5515,7 @@
         "issueNumber": "39",
         "title": "Therapy",
         "releaseDate": "2003-04-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5525,7 +5525,7 @@
         "issueNumber": "40",
         "title": "Average Bear",
         "releaseDate": "2003-05-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5535,7 +5535,7 @@
         "issueNumber": "41",
         "title": "The Letter",
         "releaseDate": "2003-05-21",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5545,7 +5545,7 @@
         "issueNumber": "42",
         "title": "Temptations",
         "releaseDate": "2003-06-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5555,7 +5555,7 @@
         "issueNumber": "43",
         "title": "Help",
         "releaseDate": "2003-07-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5565,7 +5565,7 @@
         "issueNumber": "44",
         "title": "Tampered",
         "releaseDate": "2003-08-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5575,7 +5575,7 @@
         "issueNumber": "45",
         "title": "Guilt",
         "releaseDate": "2003-08-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5585,7 +5585,7 @@
         "issueNumber": "46",
         "title": "Afterwards...",
         "releaseDate": "2003-09-17",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5595,7 +5595,7 @@
         "issueNumber": "47",
         "title": "Men of Influence",
         "releaseDate": "2003-10-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5605,7 +5605,7 @@
         "issueNumber": "48",
         "title": "Suspended",
         "releaseDate": "2003-10-15",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5615,7 +5615,7 @@
         "issueNumber": "49",
         "title": "Hero",
         "releaseDate": "2003-11-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5625,7 +5625,7 @@
         "issueNumber": "50",
         "title": "Black Cat",
         "releaseDate": "2003-12-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5635,7 +5635,7 @@
         "issueNumber": "51",
         "title": "Shadow Puppets",
         "releaseDate": "2003-12-17",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5645,7 +5645,7 @@
         "issueNumber": "52",
         "title": "Cat Fight",
         "releaseDate": "2004-01-14",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5655,7 +5655,7 @@
         "issueNumber": "53",
         "title": "Daughters",
         "releaseDate": "2004-02-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5665,7 +5665,7 @@
         "issueNumber": "54",
         "title": "Hollywood: Part 1",
         "releaseDate": "2004-03-10",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5675,7 +5675,7 @@
         "issueNumber": "55",
         "title": "Hollywood: Part 2",
         "releaseDate": "2004-03-17",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5685,7 +5685,7 @@
         "issueNumber": "56",
         "title": "Hollywood: Part 3",
         "releaseDate": "2004-04-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5695,7 +5695,7 @@
         "issueNumber": "57",
         "title": "Hollywood: Part 4",
         "releaseDate": "2004-04-21",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5705,7 +5705,7 @@
         "issueNumber": "58",
         "title": "Hollywood: Part 5",
         "releaseDate": "2004-05-05",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5715,7 +5715,7 @@
         "issueNumber": "59",
         "title": "Hollywood: Part 6",
         "releaseDate": "2004-05-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5725,7 +5725,7 @@
         "issueNumber": "60",
         "title": "Carnage: Part 1",
         "releaseDate": "2004-06-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5735,7 +5735,7 @@
         "issueNumber": "61",
         "title": "Carnage: Part 2",
         "releaseDate": "2004-07-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5745,7 +5745,7 @@
         "issueNumber": "62",
         "title": "Carnage: Part 3",
         "releaseDate": "2004-07-08",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5755,7 +5755,7 @@
         "issueNumber": "63",
         "title": "Carnage: Part 4",
         "releaseDate": "2004-08-04",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5765,7 +5765,7 @@
         "issueNumber": "64",
         "title": "Carnage: Part 5",
         "releaseDate": "2004-08-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5775,7 +5775,7 @@
         "issueNumber": "65",
         "title": "Carnage: Part 6",
         "releaseDate": "2004-09-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5785,7 +5785,7 @@
         "issueNumber": "66",
         "title": "Superstars: Part 1",
         "releaseDate": "2004-10-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5795,7 +5795,7 @@
         "issueNumber": "67",
         "title": "Superstars: Part 2",
         "releaseDate": "2004-10-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5805,7 +5805,7 @@
         "issueNumber": "68",
         "title": "Superstars: Part 3",
         "releaseDate": "2004-11-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5815,7 +5815,7 @@
         "issueNumber": "69",
         "title": "Superstars: Part 4",
         "releaseDate": "2004-11-17",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5825,7 +5825,7 @@
         "issueNumber": "70",
         "title": "Superstars: Part 5",
         "releaseDate": "2004-12-01",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5835,7 +5835,7 @@
         "issueNumber": "71",
         "title": "Superstars: Part 6",
         "releaseDate": "2005-01-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5845,7 +5845,7 @@
         "issueNumber": "72",
         "title": "Hobgoblin: Part 1",
         "releaseDate": "2005-02-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5855,7 +5855,7 @@
         "issueNumber": "73",
         "title": "Hobgoblin: Part 2",
         "releaseDate": "2005-03-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5865,7 +5865,7 @@
         "issueNumber": "74",
         "title": "Hobgoblin: Part 3",
         "releaseDate": "2005-03-16",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5875,7 +5875,7 @@
         "issueNumber": "75",
         "title": "Hobgoblin: Part 4",
         "releaseDate": "2005-04-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5885,7 +5885,7 @@
         "issueNumber": "76",
         "title": "Hobgoblin: Part 5",
         "releaseDate": "2005-04-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5895,7 +5895,7 @@
         "issueNumber": "77",
         "title": "Hobgoblin: Part 6",
         "releaseDate": "2005-05-11",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5905,7 +5905,7 @@
         "issueNumber": "78",
         "title": "Hobgoblin: Part 7",
         "releaseDate": "2005-06-08",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5915,7 +5915,7 @@
         "issueNumber": "79",
         "title": "Warriors: Part 1",
         "releaseDate": "2005-07-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5925,7 +5925,7 @@
         "issueNumber": "80",
         "title": "Warriors: Part 2",
         "releaseDate": "2005-07-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5935,7 +5935,7 @@
         "issueNumber": "81",
         "title": "Warriors: Part 3",
         "releaseDate": "2005-08-03",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5945,7 +5945,7 @@
         "issueNumber": "82",
         "title": "Warriors: Part 4",
         "releaseDate": "2005-09-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5955,7 +5955,7 @@
         "issueNumber": "83",
         "title": "Warriors: Part 5",
         "releaseDate": "2005-09-28",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5965,7 +5965,7 @@
         "issueNumber": "84",
         "title": "Warriors: Part 6",
         "releaseDate": "2005-10-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5975,7 +5975,7 @@
         "issueNumber": "85",
         "title": "Warriors: Part 7",
         "releaseDate": "2005-11-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5985,7 +5985,7 @@
         "issueNumber": "86",
         "title": "Silver Sable: Part 1",
         "releaseDate": "2005-11-16",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -5995,7 +5995,7 @@
         "issueNumber": "87",
         "title": "Silver Sable: Part 2",
         "releaseDate": "2005-12-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6005,7 +6005,7 @@
         "issueNumber": "88",
         "title": "Silver Sable: Part 3",
         "releaseDate": "2006-01-11",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6015,7 +6015,7 @@
         "issueNumber": "89",
         "title": "Silver Sable: Part 4",
         "releaseDate": "2006-01-25",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6025,7 +6025,7 @@
         "issueNumber": "90",
         "title": "Silver Sable: Part 5",
         "releaseDate": "2006-02-22",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6035,7 +6035,7 @@
         "issueNumber": "91",
         "title": "Deadpool: Part 1",
         "releaseDate": "2006-03-15",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6045,7 +6045,7 @@
         "issueNumber": "92",
         "title": "Deadpool: Part 2",
         "releaseDate": "2006-03-29",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6055,7 +6055,7 @@
         "issueNumber": "93",
         "title": "Deadpool: Part 3",
         "releaseDate": "2006-04-12",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6065,7 +6065,7 @@
         "issueNumber": "94",
         "title": "Morbius: Part 1",
         "releaseDate": "2006-05-10",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6075,7 +6075,7 @@
         "issueNumber": "95",
         "title": "Morbius: Part 2",
         "releaseDate": "2006-05-31",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6085,7 +6085,7 @@
         "issueNumber": "96",
         "title": "Morbius: Part 3",
         "releaseDate": "2006-06-28",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6095,7 +6095,7 @@
         "issueNumber": "97",
         "title": "Clone Saga: Part 1",
         "releaseDate": "2006-07-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6105,7 +6105,7 @@
         "issueNumber": "98",
         "title": "Clone Saga: Part 2",
         "releaseDate": "2006-08-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6115,7 +6115,7 @@
         "issueNumber": "99",
         "title": "Clone Saga: Part 3",
         "releaseDate": "2006-08-23",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6125,7 +6125,7 @@
         "issueNumber": "100",
         "title": "Clone Saga: Part 4",
         "releaseDate": "2006-09-27",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6135,7 +6135,7 @@
         "issueNumber": "101",
         "title": "Clone Saga: Part 5",
         "releaseDate": "2006-10-25",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6145,7 +6145,7 @@
         "issueNumber": "102",
         "title": "Clone Saga: Part 6",
         "releaseDate": "2006-11-22",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6155,7 +6155,7 @@
         "issueNumber": "103",
         "title": "Clone Saga: Part 7",
         "releaseDate": "2006-12-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6165,7 +6165,7 @@
         "issueNumber": "104",
         "title": "Clone Saga: Part 8",
         "releaseDate": "2007-01-17",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6175,7 +6175,7 @@
         "issueNumber": "105",
         "title": "Clone Saga: Epilogue",
         "releaseDate": "2007-02-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6185,7 +6185,7 @@
         "issueNumber": "106",
         "title": "Ultimate Knights: Part 1",
         "releaseDate": "2007-03-14",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6195,7 +6195,7 @@
         "issueNumber": "107",
         "title": "Ultimate Knights: Part 2",
         "releaseDate": "2007-03-28",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6205,7 +6205,7 @@
         "issueNumber": "108",
         "title": "Ultimate Knights: Part 3",
         "releaseDate": "2007-04-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6215,7 +6215,7 @@
         "issueNumber": "109",
         "title": "Ultimate Knights: Part 4",
         "releaseDate": "2007-05-16",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6225,7 +6225,7 @@
         "issueNumber": "110",
         "title": "Ultimate Knights: Part 5",
         "releaseDate": "2007-06-20",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6235,7 +6235,7 @@
         "issueNumber": "111",
         "title": "The Talk",
         "releaseDate": "2007-07-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6245,7 +6245,7 @@
         "issueNumber": "112",
         "title": "Death of a Goblin: Part 1",
         "releaseDate": "2007-08-15",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6255,7 +6255,7 @@
         "issueNumber": "113",
         "title": "Death of a Goblin: Part 2",
         "releaseDate": "2007-09-12",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6265,7 +6265,7 @@
         "issueNumber": "114",
         "title": "Death of a Goblin: Part 3",
         "releaseDate": "2007-09-26",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6275,7 +6275,7 @@
         "issueNumber": "115",
         "title": "Death of a Goblin: Part 4",
         "releaseDate": "2007-10-31",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6285,7 +6285,7 @@
         "issueNumber": "116",
         "title": "Death of a Goblin: Part 5",
         "releaseDate": "2007-11-29",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6295,7 +6295,7 @@
         "issueNumber": "117",
         "title": "Death of a Goblin: Part 6",
         "releaseDate": "2007-12-28",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6305,7 +6305,7 @@
         "issueNumber": "118",
         "title": "Spider-Man and His Amazing Friends: Part 1",
         "releaseDate": "2008-01-30",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6315,7 +6315,7 @@
         "issueNumber": "119",
         "title": "Spider-Man and His Amazing Friends: Part 2",
         "releaseDate": "2008-02-27",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6325,7 +6325,7 @@
         "issueNumber": "120",
         "title": "Spider-Man and His Amazing Friends: Part 3",
         "releaseDate": "2008-03-26",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6335,7 +6335,7 @@
         "issueNumber": "121",
         "title": "Omega Red",
         "releaseDate": "2008-04-30",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6345,7 +6345,7 @@
         "issueNumber": "122",
         "title": "The Worst Day in Peter Parker's Life",
         "releaseDate": "2008-05-29",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6355,7 +6355,7 @@
         "issueNumber": "123",
         "title": "War of the Symbiotes: Part 1",
         "releaseDate": "2008-06-25",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6365,7 +6365,7 @@
         "issueNumber": "124",
         "title": "War of the Symbiotes: Part 2",
         "releaseDate": "2008-07-30",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6375,7 +6375,7 @@
         "issueNumber": "125",
         "title": "War of the Symbiotes: Part 3",
         "releaseDate": "2008-08-27",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6385,7 +6385,7 @@
         "issueNumber": "126",
         "title": "War of the Symbiotes: Part 4",
         "releaseDate": "2008-09-24",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6395,7 +6395,7 @@
         "issueNumber": "127",
         "title": "War of the Symbiotes: Part 5",
         "releaseDate": "2008-10-29",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6405,7 +6405,7 @@
         "issueNumber": "128",
         "title": "War of the Symbiotes: Part 6",
         "releaseDate": "2008-11-26",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6415,7 +6415,7 @@
         "issueNumber": "129",
         "title": "Ultimatum: Part 1",
         "releaseDate": "2008-12-24",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6425,7 +6425,7 @@
         "issueNumber": "130",
         "title": "Ultimatum: Part 2",
         "releaseDate": "2009-01-28",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6435,7 +6435,7 @@
         "issueNumber": "131",
         "title": "Ultimatum: Part 3",
         "releaseDate": "2009-02-25",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6445,7 +6445,7 @@
         "issueNumber": "132",
         "title": "Ultimatum: Part 4",
         "releaseDate": "2009-05-13",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6455,7 +6455,7 @@
         "issueNumber": "133",
         "title": "Ultimatum: Part 5",
         "releaseDate": "2009-06-24",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6465,7 +6465,7 @@
         "issueNumber": "1",
         "title": "The New World According to Peter Parker: Part 1",
         "releaseDate": "2009-09-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6475,7 +6475,7 @@
         "issueNumber": "2",
         "title": "The New World According to Peter Parker: Part 2",
         "releaseDate": "2009-09-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6485,7 +6485,7 @@
         "issueNumber": "3",
         "title": "The New World According to Peter Parker: Part 3",
         "releaseDate": "2009-10-07",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6495,7 +6495,7 @@
         "issueNumber": "4",
         "title": "The New World According to Peter Parker: Part 4",
         "releaseDate": "2009-08-12",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6505,7 +6505,7 @@
         "issueNumber": "5",
         "title": "The New World According to Peter Parker: Part 5",
         "releaseDate": "2009-12-02",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6515,7 +6515,7 @@
         "issueNumber": "6",
         "title": "The New World According to Peter Parker: Part 6",
         "releaseDate": "2010-01-06",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6525,7 +6525,7 @@
         "issueNumber": "7",
         "title": "Chameleons: Part 1",
         "releaseDate": "2010-02-10",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6535,7 +6535,7 @@
         "issueNumber": "8",
         "title": "Chameleons: Part 2",
         "releaseDate": "2010-03-10",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6545,7 +6545,7 @@
         "issueNumber": "9",
         "title": "Tainted Love: Part 1",
         "releaseDate": "2010-04-21",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6555,7 +6555,7 @@
         "issueNumber": "10",
         "title": "Tainted Love: Part 2",
         "releaseDate": "2010-05-12",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6565,7 +6565,7 @@
         "issueNumber": "11",
         "title": "Tainted Love: Part 3",
         "releaseDate": "2010-06-09",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6575,7 +6575,7 @@
         "issueNumber": "12",
         "title": "Tainted Love: Part 4",
         "releaseDate": "2010-07-14",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6585,7 +6585,7 @@
         "issueNumber": "13",
         "title": "Tainted Love: Part 5",
         "releaseDate": "2010-08-11",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6595,7 +6595,7 @@
         "issueNumber": "14",
         "title": "Tainted Love: Part 6",
         "releaseDate": "2010-09-08",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6605,7 +6605,7 @@
         "issueNumber": "15",
         "title": "Heartbreak City",
         "releaseDate": "2010-10-27",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6615,7 +6615,7 @@
         "issueNumber": "150",
         "title": "Superhero Training: Part 1",
         "releaseDate": "2010-11-24",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6625,7 +6625,7 @@
         "issueNumber": "151",
         "title": "Superhero Training: Part 2",
         "releaseDate": "2010-12-22",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6635,7 +6635,7 @@
         "issueNumber": "152",
         "title": "Superhero Training: Part 3",
         "releaseDate": "2011-01-19",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6645,7 +6645,7 @@
         "issueNumber": "153",
         "title": "Death of Spider-Man Prelude: Part 1",
         "releaseDate": "2011-01-26",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6655,7 +6655,7 @@
         "issueNumber": "154",
         "title": "Death of Spider-Man Prelude: Part 2",
         "releaseDate": "2011-02-23",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6665,7 +6665,7 @@
         "issueNumber": "155",
         "title": "Death of Spider-Man Prelude: Part 3",
         "releaseDate": "2011-03-09",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6675,7 +6675,7 @@
         "issueNumber": "156",
         "title": "Death of Spider-Man: Part 1",
         "releaseDate": "2011-03-23",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6685,7 +6685,7 @@
         "issueNumber": "157",
         "title": "Death of Spider-Man: Part 2",
         "releaseDate": "2011-04-13",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6695,7 +6695,7 @@
         "issueNumber": "158",
         "title": "Death of Spider-Man: Part 3",
         "releaseDate": "2011-05-18",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6705,7 +6705,7 @@
         "issueNumber": "159",
         "title": "Death of Spider-Man: Part 4",
         "releaseDate": "2011-06-08",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6715,7 +6715,7 @@
         "issueNumber": "160",
         "title": "Death of Spider-Man: Part 5",
         "releaseDate": "2011-06-22",
-        "universe": "ultimate marvel",
+        "universe": "Earth-1610",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6725,7 +6725,7 @@
         "issueNumber": "1",
         "title": "Married With Children: Part 1",
         "releaseDate": "2024-01-10",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6735,7 +6735,7 @@
         "issueNumber": "2",
         "title": "Married With Children: Part 2",
         "releaseDate": "2024-02-21",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6745,7 +6745,7 @@
         "issueNumber": "3",
         "title": "Married With Children: Part 3",
         "releaseDate": "2024-03-27",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6755,7 +6755,7 @@
         "issueNumber": "4",
         "title": "Married With Children: Part 4",
         "releaseDate": "2024-01-10",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6765,7 +6765,7 @@
         "issueNumber": "5",
         "title": "Married With Children: Part 5",
         "releaseDate": "2024-05-29",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6775,7 +6775,7 @@
         "issueNumber": "6",
         "title": "Married With Children: Part 6",
         "releaseDate": "2024-06-19",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6785,7 +6785,7 @@
         "issueNumber": "7",
         "title": "The Paper: Part 1",
         "releaseDate": "2024-07-31",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6795,7 +6795,7 @@
         "issueNumber": "8",
         "title": "The Paper: Part 2",
         "releaseDate": "2024-08-21",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6805,7 +6805,7 @@
         "issueNumber": "9",
         "title": "The Paper: Part 3",
         "releaseDate": "2024-09-25",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6815,7 +6815,7 @@
         "issueNumber": "10",
         "title": "The Paper: Part 4",
         "releaseDate": "2024-10-16",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6825,7 +6825,7 @@
         "issueNumber": "11",
         "title": "The Paper: Part 5",
         "releaseDate": "2024-11-20",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6835,7 +6835,7 @@
         "issueNumber": "12",
         "title": "The Paper: Part 6",
         "releaseDate": "2024-12-18",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6845,7 +6845,7 @@
         "issueNumber": "13",
         "title": "Family Business: Part 1",
         "releaseDate": "2025-01-22",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6855,7 +6855,7 @@
         "issueNumber": "14",
         "title": "Family Business: Part 2",
         "releaseDate": "2025-02-26",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6865,7 +6865,7 @@
         "issueNumber": "15",
         "title": "Family Business: Part 3",
         "releaseDate": "2025-03-26",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6875,7 +6875,7 @@
         "issueNumber": "16",
         "title": "Family Business: Part 4",
         "releaseDate": "2025-04-30",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6885,7 +6885,7 @@
         "issueNumber": "17",
         "title": "Family Business: Part 5",
         "releaseDate": "2025-05-28",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6895,7 +6895,7 @@
         "issueNumber": "18",
         "title": "Family Business: Part 6",
         "releaseDate": "2025-06-25",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6905,7 +6905,7 @@
         "issueNumber": "19",
         "title": "One Last Day: Part 1",
         "releaseDate": "2025-07-30",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6915,7 +6915,7 @@
         "issueNumber": "20",
         "title": "One Last Day: Part 2",
         "releaseDate": "2025-08-27",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6925,7 +6925,7 @@
         "issueNumber": "21",
         "title": "One Last Day: Part 3",
         "releaseDate": "2025-09-24",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6935,7 +6935,7 @@
         "issueNumber": "22",
         "title": "One Last Day: Part 4",
         "releaseDate": "2025-10-22",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6945,7 +6945,7 @@
         "issueNumber": "23",
         "title": "One Last Day: Part 5",
         "releaseDate": "2025-12-10",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
@@ -6955,7 +6955,7 @@
         "issueNumber": "24",
         "title": "One Last Day: Part 6",
         "releaseDate": "2026-02-18",
-        "universe": "ultimate universe",
+        "universe": "Earth-6160",
         "isMajorCrossover": false,
         "isKeyIssue": true
     }

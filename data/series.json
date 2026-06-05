@@ -1,23 +1,262 @@
 [
-    { "id": "amf",              "title": "Amazing Fantasy",                          "publisherId": "marvel" },
-    { "id": "asm",              "title": "The Amazing Spider-Man",                   "publisherId": "marvel" },
-    { "id": "asm-vol2",         "title": "The Amazing Spider-Man (Vol. 2)",          "publisherId": "marvel" },
-    { "id": "asm-vol3",         "title": "The Amazing Spider-Man (Vol. 3)",          "publisherId": "marvel" },
-    { "id": "asm-vol4",         "title": "The Amazing Spider-Man (Vol. 4)",          "publisherId": "marvel" },
-    { "id": "asm-vol5",         "title": "The Amazing Spider-Man (Vol. 5)",          "publisherId": "marvel" },
-    { "id": "spectacular-sm",   "title": "Peter Parker, the Spectacular Spider-Man", "publisherId": "marvel" },
-    { "id": "spectacular-sm-vol2", "title": "Spectacular Spider-Man",                "publisherId": "marvel" },
-    { "id": "web-of-sm",        "title": "Web of Spider-Man",                        "publisherId": "marvel" },
-    { "id": "sm-1990",          "title": "Spider-Man",                               "publisherId": "marvel" },
-    { "id": "sup-sm",           "title": "Superior Spider-Man",                      "publisherId": "marvel" },
-    { "id": "spider-man-blue",  "title": "Spider-Man: Blue",                         "publisherId": "marvel" },
-    { "id": "untold-tales-sm",  "title": "Untold Tales of Spider-Man",               "publisherId": "marvel" },
-    { "id": "usm",              "title": "Ultimate Spider-Man (2000)",               "publisherId": "marvel" },
-    { "id": "usm-v2",           "title": "Ultimate Spider-Man (2000) Vol. 2",               "publisherId": "marvel" },
-    { "id": "usm-2024",         "title": "Ultimate Spider-Man (2024)",               "publisherId": "marvel" },
-    { "id": "sm-vs-wolverine",  "title": "Spider-Man vs. Wolverine",                 "publisherId": "marvel" },
-    { "id": "marvel-team-up",   "title": "Marvel Team-Up",                           "publisherId": "marvel" },
-    { "id": "batman-year-one",  "title": "Batman: Year One",                         "publisherId": "dc" },
-    { "id": "invincible-series","title": "Invincible",                               "publisherId": "image" },
-    { "id": "hellboy-series",   "title": "Hellboy",                                  "publisherId": "darkhorse" }
-] 
+    {
+        "id": "amf",
+        "title": "Amazing Fantasy",
+        "publisherId": "marvel",
+        "startYear": 1962,
+        "endYear": 1962,
+        "issueCount": 15,
+        "universe": "Earth-616",
+        "description": "The anthology series that introduced Spider-Man in issue #15 (1962), written by Stan Lee and drawn by Steve Ditko."
+    },
+    {
+        "id": "asm",
+        "title": "The Amazing Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 1963,
+        "endYear": 1998,
+        "issueCount": 441,
+        "universe": "Earth-616",
+        "description": "The original Amazing Spider-Man ongoing series running from 1963 to 1998 across 441 issues, spanning Stan Lee through Tom DeFalco."
+    },
+    {
+        "id": "asm-vol2",
+        "title": "The Amazing Spider-Man (Vol. 2)",
+        "publisherId": "marvel",
+        "startYear": 1999,
+        "endYear": 2013,
+        "issueCount": 700,
+        "universe": "Earth-616",
+        "description": "The relaunched Amazing Spider-Man volume covering the Howard Mackie, JMS, and Dan Slott eras through issue #700."
+    },
+    {
+        "id": "asm-vol3",
+        "title": "The Amazing Spider-Man (Vol. 3)",
+        "publisherId": "marvel",
+        "startYear": 2014,
+        "endYear": 2015,
+        "issueCount": 20,
+        "universe": "Earth-616",
+        "description": "A short volume bridging the Superior Spider-Man era back to Peter Parker, written by Dan Slott."
+    },
+    {
+        "id": "asm-vol4",
+        "title": "The Amazing Spider-Man (Vol. 4)",
+        "publisherId": "marvel",
+        "startYear": 2015,
+        "endYear": 2018,
+        "issueCount": 32,
+        "universe": "Earth-616",
+        "description": "Dan Slott's final Amazing Spider-Man volume, culminating in the landmark #800 and Go Down Swinging."
+    },
+    {
+        "id": "asm-vol5",
+        "title": "The Amazing Spider-Man (Vol. 5)",
+        "publisherId": "marvel",
+        "startYear": 2018,
+        "endYear": 2022,
+        "issueCount": 93,
+        "universe": "Earth-616",
+        "description": "Nick Spencer's run restoring Peter Parker's classic status quo, featuring Sins Rising, Last Remains, and Beyond."
+    },
+    {
+        "id": "spectacular-sm",
+        "title": "Peter Parker, the Spectacular Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 1976,
+        "endYear": 1998,
+        "issueCount": 263,
+        "universe": "Earth-616",
+        "description": "The long-running companion to Amazing Spider-Man featuring Kraven's Last Hunt and many classic supporting stories."
+    },
+    {
+        "id": "spectacular-sm-vol2",
+        "title": "Spectacular Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 2003,
+        "endYear": 2005,
+        "issueCount": 27,
+        "universe": "Earth-616",
+        "description": "A short-lived revival of the Spectacular Spider-Man title in the early 2000s."
+    },
+    {
+        "id": "web-of-sm",
+        "title": "Web of Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 1985,
+        "endYear": 1995,
+        "issueCount": 129,
+        "universe": "Earth-616",
+        "description": "A companion Spider-Man series running from 1985 to 1995, featuring many crossover tie-in issues."
+    },
+    {
+        "id": "sm-1990",
+        "title": "Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 1990,
+        "endYear": 1998,
+        "issueCount": 98,
+        "universe": "Earth-616",
+        "description": "Todd McFarlane's self-titled Spider-Man series launched in 1990, later continuing with other creative teams."
+    },
+    {
+        "id": "sup-sm",
+        "title": "Superior Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 2013,
+        "endYear": 2014,
+        "issueCount": 33,
+        "universe": "Earth-616",
+        "description": "Dan Slott's bold experiment with Otto Octavius as the Superior Spider-Man, replacing Peter Parker for 33 issues."
+    },
+    {
+        "id": "untold-tales-sm",
+        "title": "Untold Tales of Spider-Man",
+        "publisherId": "marvel",
+        "startYear": 1995,
+        "endYear": 1997,
+        "issueCount": 25,
+        "universe": "Earth-616",
+        "description": "Kurt Busiek's series telling untold stories set during Spider-Man's early career, filling in gaps from the Lee/Ditko era."
+    },
+    {
+        "id": "marvel-team-up",
+        "title": "Marvel Team-Up",
+        "publisherId": "marvel",
+        "startYear": 1972,
+        "endYear": 1985,
+        "issueCount": 150,
+        "universe": "Earth-616",
+        "description": "Spider-Man teams up with a different Marvel hero each issue across this long-running anthology series."
+    },
+    {
+        "id": "sm-vs-wolverine",
+        "title": "Spider-Man vs. Wolverine",
+        "publisherId": "marvel",
+        "startYear": 1987,
+        "endYear": 1990,
+        "issueCount": 2,
+        "universe": "Earth-616",
+        "description": "A two-issue prestige format series pitting Spider-Man against Wolverine in a Cold War thriller."
+    },
+    {
+        "id": "batman-year-one",
+        "title": "Batman: Year One",
+        "publisherId": "dc",
+        "startYear": 1987,
+        "endYear": 1987,
+        "issueCount": 4,
+        "universe": "Prime Earth",
+        "description": "Frank Miller and David Mazzucchelli's definitive Batman origin story, originally published in Batman #404-407."
+    },
+    {
+        "id": "invincible-series",
+        "title": "Invincible",
+        "publisherId": "image",
+        "startYear": 2003,
+        "endYear": 2018,
+        "issueCount": 144,
+        "universe": "main",
+        "description": "Robert Kirkman and Ryan Ottley's superhero epic following Mark Grayson, son of the world's greatest hero."
+    },
+    {
+        "id": "hellboy-series",
+        "title": "Hellboy",
+        "publisherId": "darkhorse",
+        "startYear": 1994,
+        "endYear": 2019,
+        "issueCount": 60,
+        "universe": "main",
+        "description": "Mike Mignola's iconic Dark Horse series following Hellboy, a demon raised by the BPRD to fight supernatural threats."
+    },
+    {
+        "id": "usm",
+        "title": "Ultimate Spider-Man (2000)",
+        "publisherId": "marvel",
+        "startYear": 2000,
+        "endYear": 2011,
+        "issueCount": 160,
+        "universe": "Earth-1610",
+        "description": "Brian Michael Bendis and Mark Bagley's landmark Ultimate Spider-Man series modernizing Peter Parker's origin and running 160 issues."
+    },
+    {
+        "id": "usm-2024",
+        "title": "Ultimate Spider-Man (2024)",
+        "publisherId": "marvel",
+        "startYear": 2024,
+        "endYear": 2026,
+        "issueCount": 24,
+        "universe": "Earth-6160",
+        "description": "Jonathan Hickman's revival of Ultimate Spider-Man featuring a married 35-year-old Peter Parker in a new Ultimate Universe."
+    },
+    {
+        "id": "batman-vol1",
+        "title": "Batman",
+        "publisherId": "dc",
+        "startYear": 1940,
+        "endYear": 2011,
+        "issueCount": 713,
+        "universe": "Prime Earth",
+        "description": "The original Batman ongoing series running from 1940 to 2011, spanning the Golden Age through modern era across 713 issues."
+    },
+    {
+        "id": "batman-vol2",
+        "title": "Batman (New 52)",
+        "publisherId": "dc",
+        "startYear": 2011,
+        "endYear": 2016,
+        "issueCount": 52,
+        "universe": "New 52",
+        "description": "Scott Snyder and Greg Capullo's acclaimed New 52 Batman run featuring Court of Owls, Death of the Family, Zero Year, and Endgame."
+    },
+    {
+        "id": "batman-vol3",
+        "title": "Batman (Rebirth)",
+        "publisherId": "dc",
+        "startYear": 2016,
+        "endYear": null,
+        "issueCount": null,
+        "universe": "Prime Earth",
+        "description": "The ongoing DC Rebirth Batman series beginning with Tom King's run, continuing through James Tynion IV and Chip Zdarsky."
+    },
+    {
+        "id": "detective-comics",
+        "title": "Detective Comics",
+        "publisherId": "dc",
+        "startYear": 1937,
+        "endYear": null,
+        "issueCount": null,
+        "universe": "Prime Earth",
+        "description": "Batman's home series since Detective Comics #27 (1939). The longest-running superhero comic in history."
+    },
+    {
+        "id": "batman-ldotk",
+        "title": "Batman: Legends of the Dark Knight",
+        "publisherId": "dc",
+        "startYear": 1989,
+        "endYear": 2007,
+        "issueCount": 214,
+        "universe": "Prime Earth",
+        "description": "Anthology series featuring self-contained Batman stories set across different periods of his career."
+    },
+    {
+        "id": "batman-shadow",
+        "title": "Batman: Shadow of the Bat",
+        "publisherId": "dc",
+        "startYear": 1992,
+        "endYear": 2000,
+        "issueCount": 94,
+        "universe": "Prime Earth",
+        "description": "An ongoing Batman series that played a key role in the Knightfall and No Man's Land crossovers."
+    },
+    {
+        "id": "batman-eternal",
+        "title": "Batman Eternal",
+        "publisherId": "dc",
+        "startYear": 2014,
+        "endYear": 2015,
+        "issueCount": 52,
+        "universe": "New 52",
+        "description": "Weekly Batman series featuring a massive conspiracy threatening Gotham, with Gordon framed for murder."
+    }
+]
