@@ -310,6 +310,1066 @@
         "isKeyIssue": true
     },
     {
+        "id": "det2-1",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "1",
+        "title": "Faces of Death Part 1",
+        "releaseDate": "2011-11-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-2",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "2",
+        "title": "Faces of Death Part 2",
+        "releaseDate": "2011-12-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-3",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "3",
+        "title": "Faces of Death Part 3",
+        "releaseDate": "2012-01-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-4",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "4",
+        "title": "Faces of Death Part 4",
+        "releaseDate": "2012-02-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-5",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "5",
+        "title": "Faces of Death Part 5",
+        "releaseDate": "2012-03-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-6",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "6",
+        "title": "Faces of Death Part 6",
+        "releaseDate": "2012-04-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-7",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "7",
+        "title": "Faces of Death Epilogue",
+        "releaseDate": "2012-05-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-8",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "8",
+        "title": "Scare Tactics Part 1",
+        "releaseDate": "2012-06-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-9",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "9",
+        "title": "Scare Tactics Part 2",
+        "releaseDate": "2012-07-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-10",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "10",
+        "title": "Scare Tactics Part 3",
+        "releaseDate": "2012-08-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-11",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "11",
+        "title": "Scare Tactics Part 4",
+        "releaseDate": "2012-09-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-12",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "12",
+        "title": "Scare Tactics Epilogue",
+        "releaseDate": "2012-10-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-13",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "13",
+        "title": "Emperor Penguin Part 1",
+        "releaseDate": "2012-11-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-14",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "14",
+        "title": "Emperor Penguin Part 2",
+        "releaseDate": "2012-12-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-15",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "15",
+        "title": "Emperor Penguin Part 3",
+        "releaseDate": "2013-01-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-16",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "16",
+        "title": "Emperor Penguin Part 4",
+        "releaseDate": "2013-02-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-17",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "17",
+        "title": "Emperor Penguin Part 5",
+        "releaseDate": "2013-03-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-18",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "18",
+        "title": "Emperor Penguin Part 6",
+        "releaseDate": "2013-04-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-19",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "19",
+        "title": "Tec #19",
+        "releaseDate": "2013-05-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-20",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "20",
+        "title": "Icarus Part 1",
+        "releaseDate": "2013-06-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-21",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "21",
+        "title": "Icarus Part 2",
+        "releaseDate": "2013-07-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-22",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "22",
+        "title": "Icarus Part 3",
+        "releaseDate": "2013-08-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-23",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "23",
+        "title": "Icarus Part 4",
+        "releaseDate": "2013-09-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-24",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "24",
+        "title": "Icarus Epilogue",
+        "releaseDate": "2013-10-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-25",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "25",
+        "title": "Gothopia Part 1",
+        "releaseDate": "2014-01-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-26",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "26",
+        "title": "Gothopia Part 2",
+        "releaseDate": "2014-02-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-27",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "27",
+        "title": "Gothopia Part 3",
+        "releaseDate": "2014-03-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-28",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "28",
+        "title": "Layman's Last Issue",
+        "releaseDate": "2014-04-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-29",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "29",
+        "title": "Anarky Part 1",
+        "releaseDate": "2014-05-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-30",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "30",
+        "title": "Anarky Part 2",
+        "releaseDate": "2014-06-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-31",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "31",
+        "title": "Anarky Part 3",
+        "releaseDate": "2014-07-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-32",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "32",
+        "title": "Anarky Part 4",
+        "releaseDate": "2014-08-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-33",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "33",
+        "title": "Anarky Epilogue",
+        "releaseDate": "2014-09-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-34",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "34",
+        "title": "Blood of Heroes Part 1",
+        "releaseDate": "2014-10-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-35",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "35",
+        "title": "Blood of Heroes Part 2",
+        "releaseDate": "2014-11-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-36",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "36",
+        "title": "Blood of Heroes Part 3",
+        "releaseDate": "2014-12-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-37",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "37",
+        "title": "Blood of Heroes Part 4",
+        "releaseDate": "2015-01-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-38",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "38",
+        "title": "Anarky Returns",
+        "releaseDate": "2015-02-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-39",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "39",
+        "title": "Endgame Tie-In",
+        "releaseDate": "2015-03-01",
+        "universe": "New 52",
+        "isMajorCrossover": true,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-40",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "40",
+        "title": "Gordon at War Part 1",
+        "releaseDate": "2015-07-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-41",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "41",
+        "title": "Gordon at War Part 2",
+        "releaseDate": "2015-08-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-42",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "42",
+        "title": "Gordon at War Part 3",
+        "releaseDate": "2015-09-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-43",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "43",
+        "title": "Gordon at War Part 4",
+        "releaseDate": "2015-10-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-44",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "44",
+        "title": "Gordon at War Part 5",
+        "releaseDate": "2015-11-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-45",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "45",
+        "title": "Gordon at War Part 6",
+        "releaseDate": "2015-12-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-46",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "46",
+        "title": "Gordon at War Epilogue",
+        "releaseDate": "2016-01-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-47",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "47",
+        "title": "Interlude",
+        "releaseDate": "2016-02-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-48",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "48",
+        "title": "Rebirth Prelude Part 1",
+        "releaseDate": "2016-03-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-49",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "49",
+        "title": "Rebirth Prelude Part 2",
+        "releaseDate": "2016-04-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-50",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "50",
+        "title": "Convergence Tie-In",
+        "releaseDate": "2016-05-01",
+        "universe": "New 52",
+        "isMajorCrossover": true,
+        "isKeyIssue": false
+    },
+    {
+        "id": "det2-51",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "51",
+        "title": "Final Issues Part 1",
+        "releaseDate": "2016-06-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det2-52",
+        "seriesId": "detective-comics-vol2",
+        "issueNumber": "52",
+        "title": "Final Issues Part 2",
+        "releaseDate": "2016-07-01",
+        "universe": "New 52",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-934",
+        "seriesId": "detective-comics",
+        "issueNumber": "934",
+        "title": "Rise of the Batmen Part 1",
+        "releaseDate": "2016-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-935",
+        "seriesId": "detective-comics",
+        "issueNumber": "935",
+        "title": "Rise of the Batmen Part 2",
+        "releaseDate": "2016-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-936",
+        "seriesId": "detective-comics",
+        "issueNumber": "936",
+        "title": "Rise of the Batmen Part 3",
+        "releaseDate": "2016-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-937",
+        "seriesId": "detective-comics",
+        "issueNumber": "937",
+        "title": "Rise of the Batmen Part 4",
+        "releaseDate": "2016-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-938",
+        "seriesId": "detective-comics",
+        "issueNumber": "938",
+        "title": "Rise of the Batmen Part 5",
+        "releaseDate": "2016-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-939",
+        "seriesId": "detective-comics",
+        "issueNumber": "939",
+        "title": "Rise of the Batmen Part 6",
+        "releaseDate": "2016-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-940",
+        "seriesId": "detective-comics",
+        "issueNumber": "940",
+        "title": "Rise of the Batmen Part 7",
+        "releaseDate": "2016-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-943",
+        "seriesId": "detective-comics",
+        "issueNumber": "943",
+        "title": "The Victim Syndicate Part 1",
+        "releaseDate": "2016-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-944",
+        "seriesId": "detective-comics",
+        "issueNumber": "944",
+        "title": "The Victim Syndicate Part 2",
+        "releaseDate": "2017-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-945",
+        "seriesId": "detective-comics",
+        "issueNumber": "945",
+        "title": "The Victim Syndicate Part 3",
+        "releaseDate": "2017-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-946",
+        "seriesId": "detective-comics",
+        "issueNumber": "946",
+        "title": "The Victim Syndicate Part 4",
+        "releaseDate": "2017-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-947",
+        "seriesId": "detective-comics",
+        "issueNumber": "947",
+        "title": "The Victim Syndicate Part 5",
+        "releaseDate": "2017-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-950",
+        "seriesId": "detective-comics",
+        "issueNumber": "950",
+        "title": "League of Shadows Part 1",
+        "releaseDate": "2017-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-951",
+        "seriesId": "detective-comics",
+        "issueNumber": "951",
+        "title": "League of Shadows Part 2",
+        "releaseDate": "2017-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-952",
+        "seriesId": "detective-comics",
+        "issueNumber": "952",
+        "title": "League of Shadows Part 3",
+        "releaseDate": "2017-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-953",
+        "seriesId": "detective-comics",
+        "issueNumber": "953",
+        "title": "League of Shadows Part 4",
+        "releaseDate": "2017-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-954",
+        "seriesId": "detective-comics",
+        "issueNumber": "954",
+        "title": "League of Shadows Part 5",
+        "releaseDate": "2017-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-955",
+        "seriesId": "detective-comics",
+        "issueNumber": "955",
+        "title": "League of Shadows Part 6",
+        "releaseDate": "2017-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-956",
+        "seriesId": "detective-comics",
+        "issueNumber": "956",
+        "title": "League of Shadows Part 7",
+        "releaseDate": "2017-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-958",
+        "seriesId": "detective-comics",
+        "issueNumber": "958",
+        "title": "Deus Ex Machina Part 1",
+        "releaseDate": "2017-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-959",
+        "seriesId": "detective-comics",
+        "issueNumber": "959",
+        "title": "Deus Ex Machina Part 2",
+        "releaseDate": "2017-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-960",
+        "seriesId": "detective-comics",
+        "issueNumber": "960",
+        "title": "Deus Ex Machina Part 3",
+        "releaseDate": "2017-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-961",
+        "seriesId": "detective-comics",
+        "issueNumber": "961",
+        "title": "Deus Ex Machina Part 4",
+        "releaseDate": "2017-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-962",
+        "seriesId": "detective-comics",
+        "issueNumber": "962",
+        "title": "Deus Ex Machina Part 5",
+        "releaseDate": "2017-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-963",
+        "seriesId": "detective-comics",
+        "issueNumber": "963",
+        "title": "A Lonely Place of Living Part 1",
+        "releaseDate": "2017-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-964",
+        "seriesId": "detective-comics",
+        "issueNumber": "964",
+        "title": "A Lonely Place of Living Part 2",
+        "releaseDate": "2017-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-965",
+        "seriesId": "detective-comics",
+        "issueNumber": "965",
+        "title": "A Lonely Place of Living Part 3",
+        "releaseDate": "2017-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-966",
+        "seriesId": "detective-comics",
+        "issueNumber": "966",
+        "title": "A Lonely Place of Living Part 4",
+        "releaseDate": "2017-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-967",
+        "seriesId": "detective-comics",
+        "issueNumber": "967",
+        "title": "A Lonely Place of Living Part 5",
+        "releaseDate": "2017-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-968",
+        "seriesId": "detective-comics",
+        "issueNumber": "968",
+        "title": "A Lonely Place of Living Part 6",
+        "releaseDate": "2018-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-970",
+        "seriesId": "detective-comics",
+        "issueNumber": "970",
+        "title": "Fall of the Batmen Part 1",
+        "releaseDate": "2018-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-971",
+        "seriesId": "detective-comics",
+        "issueNumber": "971",
+        "title": "Fall of the Batmen Part 2",
+        "releaseDate": "2018-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-972",
+        "seriesId": "detective-comics",
+        "issueNumber": "972",
+        "title": "Fall of the Batmen Part 3",
+        "releaseDate": "2018-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-973",
+        "seriesId": "detective-comics",
+        "issueNumber": "973",
+        "title": "Fall of the Batmen Part 4",
+        "releaseDate": "2018-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-974",
+        "seriesId": "detective-comics",
+        "issueNumber": "974",
+        "title": "Fall of the Batmen Part 5",
+        "releaseDate": "2018-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-975",
+        "seriesId": "detective-comics",
+        "issueNumber": "975",
+        "title": "Fall of the Batmen Part 6",
+        "releaseDate": "2018-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-976",
+        "seriesId": "detective-comics",
+        "issueNumber": "976",
+        "title": "Batmen Eternal Part 1",
+        "releaseDate": "2018-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-977",
+        "seriesId": "detective-comics",
+        "issueNumber": "977",
+        "title": "Batmen Eternal Part 2",
+        "releaseDate": "2018-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-978",
+        "seriesId": "detective-comics",
+        "issueNumber": "978",
+        "title": "Batmen Eternal Part 3",
+        "releaseDate": "2018-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-979",
+        "seriesId": "detective-comics",
+        "issueNumber": "979",
+        "title": "Batmen Eternal Part 4",
+        "releaseDate": "2018-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-980",
+        "seriesId": "detective-comics",
+        "issueNumber": "980",
+        "title": "Batmen Eternal Part 5",
+        "releaseDate": "2018-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-981",
+        "seriesId": "detective-comics",
+        "issueNumber": "981",
+        "title": "Batmen Eternal Part 6",
+        "releaseDate": "2018-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-983",
+        "seriesId": "detective-comics",
+        "issueNumber": "983",
+        "title": "On the Outside Part 1",
+        "releaseDate": "2018-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-984",
+        "seriesId": "detective-comics",
+        "issueNumber": "984",
+        "title": "On the Outside Part 2",
+        "releaseDate": "2018-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-985",
+        "seriesId": "detective-comics",
+        "issueNumber": "985",
+        "title": "On the Outside Part 3",
+        "releaseDate": "2018-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-986",
+        "seriesId": "detective-comics",
+        "issueNumber": "986",
+        "title": "On the Outside Part 4",
+        "releaseDate": "2018-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-987",
+        "seriesId": "detective-comics",
+        "issueNumber": "987",
+        "title": "On the Outside Part 5",
+        "releaseDate": "2018-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-994",
+        "seriesId": "detective-comics",
+        "issueNumber": "994",
+        "title": "Deface the Face Part 1",
+        "releaseDate": "2019-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-995",
+        "seriesId": "detective-comics",
+        "issueNumber": "995",
+        "title": "Deface the Face Part 2",
+        "releaseDate": "2019-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-996",
+        "seriesId": "detective-comics",
+        "issueNumber": "996",
+        "title": "Deface the Face Part 3",
+        "releaseDate": "2019-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-997",
+        "seriesId": "detective-comics",
+        "issueNumber": "997",
+        "title": "Deface the Face Part 4",
+        "releaseDate": "2019-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-998",
+        "seriesId": "detective-comics",
+        "issueNumber": "998",
+        "title": "Deface the Face Part 5",
+        "releaseDate": "2019-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-999",
+        "seriesId": "detective-comics",
+        "issueNumber": "999",
+        "title": "Deface the Face Part 6",
+        "releaseDate": "2019-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "det-reb-1000",
+        "seriesId": "detective-comics",
+        "issueNumber": "1000",
+        "title": "Detective Comics #1000",
+        "releaseDate": "2019-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
         "id": "bat1-1",
         "seriesId": "batman-vol1",
         "issueNumber": "1",
@@ -2738,5 +3798,625 @@
         "universe": "Prime Earth",
         "isMajorCrossover": false,
         "isKeyIssue": true
+    },
+    {
+        "id": "cowl-1",
+        "seriesId": "battle-for-cowl",
+        "issueNumber": "1",
+        "title": "Battle for the Cowl Part 1",
+        "releaseDate": "2009-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "cowl-2",
+        "seriesId": "battle-for-cowl",
+        "issueNumber": "2",
+        "title": "Battle for the Cowl Part 2",
+        "releaseDate": "2009-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "cowl-3",
+        "seriesId": "battle-for-cowl",
+        "issueNumber": "3",
+        "title": "Battle for the Cowl Part 3",
+        "releaseDate": "2009-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "fc-bat-682",
+        "seriesId": "final-crisis-bat",
+        "issueNumber": "682",
+        "title": "Batman in Final Crisis Part 1",
+        "releaseDate": "2008-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "fc-bat-683",
+        "seriesId": "final-crisis-bat",
+        "issueNumber": "683",
+        "title": "Batman in Final Crisis Part 2",
+        "releaseDate": "2009-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": true,
+        "isKeyIssue": true
+    },
+    {
+        "id": "fc-bat-700",
+        "seriesId": "batman-vol1",
+        "issueNumber": "700",
+        "title": "Time and the Batman",
+        "releaseDate": "2010-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "fc-bat-701",
+        "seriesId": "batman-vol1",
+        "issueNumber": "701",
+        "title": "R.I.P. The Missing Chapter Part 1",
+        "releaseDate": "2010-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "fc-bat-702",
+        "seriesId": "batman-vol1",
+        "issueNumber": "702",
+        "title": "R.I.P. The Missing Chapter Part 2",
+        "releaseDate": "2010-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-1",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "1",
+        "title": "Return of Bruce Wayne Part 1: Shadow on Stone",
+        "releaseDate": "2010-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-2",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "2",
+        "title": "Return of Bruce Wayne Part 2: Plague of Frogs",
+        "releaseDate": "2010-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-3",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "3",
+        "title": "Return of Bruce Wayne Part 3: The Bones of Bristol Bay",
+        "releaseDate": "2010-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-4",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "4",
+        "title": "Return of Bruce Wayne Part 4: Dark Night, Dark Rider",
+        "releaseDate": "2010-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-5",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "5",
+        "title": "Return of Bruce Wayne Part 5: Masquerade",
+        "releaseDate": "2010-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "robw-6",
+        "seriesId": "return-bruce-wayne",
+        "issueNumber": "6",
+        "title": "Return of Bruce Wayne Part 6: The All-Over",
+        "releaseDate": "2010-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-1",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "1",
+        "title": "Batman Reborn Part 1: Domino Effect",
+        "releaseDate": "2009-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-2",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "2",
+        "title": "Batman Reborn Part 2: Circus of Strange",
+        "releaseDate": "2009-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-3",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "3",
+        "title": "Batman Reborn Part 3: Mommy Made of Nails",
+        "releaseDate": "2009-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-4",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "4",
+        "title": "Revenge of the Red Hood Part 1",
+        "releaseDate": "2009-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-5",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "5",
+        "title": "Revenge of the Red Hood Part 2",
+        "releaseDate": "2009-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-6",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "6",
+        "title": "Revenge of the Red Hood Part 3",
+        "releaseDate": "2010-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-7",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "7",
+        "title": "Blackest Knight Part 1",
+        "releaseDate": "2010-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-8",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "8",
+        "title": "Blackest Knight Part 2",
+        "releaseDate": "2010-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-9",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "9",
+        "title": "Blackest Knight Part 3",
+        "releaseDate": "2010-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-10",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "10",
+        "title": "Batman vs. Robin Part 1",
+        "releaseDate": "2010-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-11",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "11",
+        "title": "Batman vs. Robin Part 2",
+        "releaseDate": "2010-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-12",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "12",
+        "title": "Batman vs. Robin Part 3",
+        "releaseDate": "2010-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-13",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "13",
+        "title": "Batman and Robin Must Die Part 1",
+        "releaseDate": "2010-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-14",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "14",
+        "title": "Batman and Robin Must Die Part 2",
+        "releaseDate": "2010-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-15",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "15",
+        "title": "Batman and Robin Must Die Part 3",
+        "releaseDate": "2010-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-16",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "16",
+        "title": "Batman and Robin Must Die Part 4",
+        "releaseDate": "2010-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-17",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "17",
+        "title": "Batman and Damian Part 1",
+        "releaseDate": "2011-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-18",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "18",
+        "title": "Batman and Damian Part 2",
+        "releaseDate": "2011-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-19",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "19",
+        "title": "Batman and Damian Part 3",
+        "releaseDate": "2011-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-20",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "20",
+        "title": "Batman and Damian Part 4",
+        "releaseDate": "2011-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-21",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "21",
+        "title": "Batman and Damian Part 5",
+        "releaseDate": "2011-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-22",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "22",
+        "title": "Batman and Damian Part 6",
+        "releaseDate": "2011-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-23",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "23",
+        "title": "Batman and Damian Part 7",
+        "releaseDate": "2011-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-24",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "24",
+        "title": "Batman and Damian Part 8",
+        "releaseDate": "2011-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-25",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "25",
+        "title": "Batman and Damian Part 9",
+        "releaseDate": "2011-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bandr-26",
+        "seriesId": "batman-and-robin",
+        "issueNumber": "26",
+        "title": "Batman and Damian Part 10",
+        "releaseDate": "2011-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-1",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "1",
+        "title": "Mr. Unknown",
+        "releaseDate": "2010-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-2",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "2",
+        "title": "Masters of the Crimson Chrysalis",
+        "releaseDate": "2011-01-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-3",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "3",
+        "title": "Scorpiana",
+        "releaseDate": "2011-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-4",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "4",
+        "title": "Nightrunner",
+        "releaseDate": "2011-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-5",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "5",
+        "title": "Asylum of the Mists",
+        "releaseDate": "2011-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-6",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "6",
+        "title": "Nyctophobia",
+        "releaseDate": "2011-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-7",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "7",
+        "title": "Commissioner Gordon and the Batman",
+        "releaseDate": "2011-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc1-8",
+        "seriesId": "batman-inc-vol1",
+        "issueNumber": "8",
+        "title": "Steaming into Gotham",
+        "releaseDate": "2011-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "binc2-0",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "0",
+        "title": "Kill Box",
+        "releaseDate": "2012-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-1",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "1",
+        "title": "Demon Star",
+        "releaseDate": "2012-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-2",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "2",
+        "title": "The Neon Knight",
+        "releaseDate": "2012-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-3",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "3",
+        "title": "Touchdown",
+        "releaseDate": "2012-09-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-4",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "4",
+        "title": "Brand Building",
+        "releaseDate": "2012-10-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-5",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "5",
+        "title": "Asylum",
+        "releaseDate": "2012-11-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-6",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "6",
+        "title": "Leviathan Strikes Again",
+        "releaseDate": "2012-12-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-7",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "7",
+        "title": "Nightmares in Numberland",
+        "releaseDate": "2013-02-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-8",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "8",
+        "title": "The Eye of the Adversary",
+        "releaseDate": "2013-03-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-9",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "9",
+        "title": "Gotham's Most Wanted Part 1",
+        "releaseDate": "2013-04-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-10",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "10",
+        "title": "Gotham's Most Wanted Part 2",
+        "releaseDate": "2013-05-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-11",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "11",
+        "title": "Gotham's Most Wanted Part 3",
+        "releaseDate": "2013-06-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-12",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "12",
+        "title": "Gotham's Most Wanted Part 4",
+        "releaseDate": "2013-07-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
+    },
+    {
+        "id": "binc2-13",
+        "seriesId": "batman-inc-vol2",
+        "issueNumber": "13",
+        "title": "Gotham's Most Wanted Part 5",
+        "releaseDate": "2013-08-01",
+        "universe": "Prime Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": "Prime Earth"
     }
 ]

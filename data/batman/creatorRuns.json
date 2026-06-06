@@ -1,0 +1,401 @@
+[
+    {
+        "creatorId": "bill-finger",
+        "seriesId": "batman-vol1",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "writer"
+    },
+    {
+        "creatorId": "bob-kane",
+        "seriesId": "batman-vol1",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jerry-robinson",
+        "seriesId": "batman-vol1",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "inker"
+    },
+    {
+        "creatorId": "dennis-oneil-bat",
+        "seriesId": "batman-vol1",
+        "fromIssue": "232",
+        "toIssue": "244",
+        "role": "writer"
+    },
+    {
+        "creatorId": "dennis-oneil-bat",
+        "seriesId": "detective-comics",
+        "fromIssue": "395",
+        "toIssue": "460",
+        "role": "writer"
+    },
+    {
+        "creatorId": "neal-adams",
+        "seriesId": "batman-vol1",
+        "fromIssue": "232",
+        "toIssue": "244",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "neal-adams",
+        "seriesId": "detective-comics",
+        "fromIssue": "395",
+        "toIssue": "460",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "frank-miller",
+        "seriesId": "batman-vol1",
+        "fromIssue": "404",
+        "toIssue": "407",
+        "role": "writer"
+    },
+    {
+        "creatorId": "david-mazzucchelli",
+        "seriesId": "batman-vol1",
+        "fromIssue": "404",
+        "toIssue": "407",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "alan-grant",
+        "seriesId": "batman-vol1",
+        "fromIssue": "430",
+        "toIssue": "485",
+        "role": "writer"
+    },
+    {
+        "creatorId": "alan-grant",
+        "seriesId": "batman-shadow",
+        "fromIssue": "1",
+        "toIssue": "40",
+        "role": "writer"
+    },
+    {
+        "creatorId": "norm-breyfogle",
+        "seriesId": "batman-vol1",
+        "fromIssue": "430",
+        "toIssue": "466",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "norm-breyfogle",
+        "seriesId": "batman-shadow",
+        "fromIssue": "1",
+        "toIssue": "20",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "chuck-dixon",
+        "seriesId": "batman-vol1",
+        "fromIssue": "484",
+        "toIssue": "500",
+        "role": "writer"
+    },
+    {
+        "creatorId": "chuck-dixon",
+        "seriesId": "detective-comics",
+        "fromIssue": "644",
+        "toIssue": "682",
+        "role": "writer"
+    },
+    {
+        "creatorId": "graham-nolan",
+        "seriesId": "batman-vol1",
+        "fromIssue": "484",
+        "toIssue": "515",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "graham-nolan",
+        "seriesId": "detective-comics",
+        "fromIssue": "659",
+        "toIssue": "682",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "doug-moench",
+        "seriesId": "batman-vol1",
+        "fromIssue": "501",
+        "toIssue": "560",
+        "role": "writer"
+    },
+    {
+        "creatorId": "kelley-jones",
+        "seriesId": "batman-vol1",
+        "fromIssue": "515",
+        "toIssue": "552",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jeph-loeb",
+        "seriesId": "batman-vol1",
+        "fromIssue": "608",
+        "toIssue": "619",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jim-lee",
+        "seriesId": "batman-vol1",
+        "fromIssue": "608",
+        "toIssue": "619",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "batman-vol1",
+        "fromIssue": "655",
+        "toIssue": "713",
+        "role": "writer"
+    },
+    {
+        "creatorId": "andy-kubert",
+        "seriesId": "batman-vol1",
+        "fromIssue": "655",
+        "toIssue": "670",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "scott-snyder",
+        "seriesId": "batman-vol2",
+        "fromIssue": "1",
+        "toIssue": "52",
+        "role": "writer"
+    },
+    {
+        "creatorId": "greg-capullo",
+        "seriesId": "batman-vol2",
+        "fromIssue": "1",
+        "toIssue": "52",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "scott-snyder",
+        "seriesId": "detective-comics",
+        "fromIssue": "871",
+        "toIssue": "881",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jock",
+        "seriesId": "detective-comics",
+        "fromIssue": "871",
+        "toIssue": "881",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "tom-king",
+        "seriesId": "batman-vol3",
+        "fromIssue": "1",
+        "toIssue": "85",
+        "role": "writer"
+    },
+    {
+        "creatorId": "david-finch",
+        "seriesId": "batman-vol3",
+        "fromIssue": "1",
+        "toIssue": "12",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "mikel-janin",
+        "seriesId": "batman-vol3",
+        "fromIssue": "13",
+        "toIssue": "50",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "james-tynion",
+        "seriesId": "batman-vol3",
+        "fromIssue": "86",
+        "toIssue": "110",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jorge-jimenez",
+        "seriesId": "batman-vol3",
+        "fromIssue": "86",
+        "toIssue": "110",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "chip-zdarsky",
+        "seriesId": "batman-vol3",
+        "fromIssue": "111",
+        "toIssue": "162",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jorge-fornes",
+        "seriesId": "batman-vol3",
+        "fromIssue": "111",
+        "toIssue": "135",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jorge-jimenez",
+        "seriesId": "batman-vol3",
+        "fromIssue": "136",
+        "toIssue": "162",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "tony-daniel",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "1",
+        "toIssue": "12",
+        "role": "writer"
+    },
+    {
+        "creatorId": "tony-daniel",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "1",
+        "toIssue": "12",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "john-layman",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "13",
+        "toIssue": "28",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jason-fabok",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "13",
+        "toIssue": "28",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "francis-manapul",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "29",
+        "toIssue": "40",
+        "role": "writer"
+    },
+    {
+        "creatorId": "francis-manapul",
+        "seriesId": "detective-comics-vol2",
+        "fromIssue": "29",
+        "toIssue": "40",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "james-tynion",
+        "seriesId": "detective-comics",
+        "fromIssue": "934",
+        "toIssue": "981",
+        "role": "writer"
+    },
+    {
+        "creatorId": "eddy-barrows",
+        "seriesId": "detective-comics",
+        "fromIssue": "934",
+        "toIssue": "960",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "alvaro-martinez",
+        "seriesId": "detective-comics",
+        "fromIssue": "934",
+        "toIssue": "981",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "peter-tomasi",
+        "seriesId": "detective-comics",
+        "fromIssue": "994",
+        "toIssue": "1033",
+        "role": "writer"
+    },
+    {
+        "creatorId": "doug-mahnke",
+        "seriesId": "detective-comics",
+        "fromIssue": "994",
+        "toIssue": "1033",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "battle-for-cowl",
+        "fromIssue": "1",
+        "toIssue": "3",
+        "role": "writer"
+    },
+    {
+        "creatorId": "tony-daniel",
+        "seriesId": "battle-for-cowl",
+        "fromIssue": "1",
+        "toIssue": "3",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "batman-and-robin",
+        "fromIssue": "1",
+        "toIssue": "16",
+        "role": "writer"
+    },
+    {
+        "creatorId": "frank-quitely",
+        "seriesId": "batman-and-robin",
+        "fromIssue": "1",
+        "toIssue": "6",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "andy-kubert",
+        "seriesId": "batman-and-robin",
+        "fromIssue": "7",
+        "toIssue": "9",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "return-bruce-wayne",
+        "fromIssue": "1",
+        "toIssue": "6",
+        "role": "writer"
+    },
+    {
+        "creatorId": "yanick-paquette",
+        "seriesId": "return-bruce-wayne",
+        "fromIssue": "1",
+        "toIssue": "2",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "batman-inc-vol1",
+        "fromIssue": "1",
+        "toIssue": "8",
+        "role": "writer"
+    },
+    {
+        "creatorId": "yanick-paquette",
+        "seriesId": "batman-inc-vol1",
+        "fromIssue": "1",
+        "toIssue": "4",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "grant-morrison",
+        "seriesId": "batman-inc-vol2",
+        "fromIssue": "0",
+        "toIssue": "13",
+        "role": "writer"
+    },
+    {
+        "creatorId": "chris-burnham",
+        "seriesId": "batman-inc-vol2",
+        "fromIssue": "0",
+        "toIssue": "13",
+        "role": "penciler"
+    }
+]

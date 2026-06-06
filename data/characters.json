@@ -614,6 +614,7 @@
     {
         "id": "superior-octavius",
         "name": "Superior Spider-Man",
+        "alterEgoOf": "doc-ock",
         "description": "Doctor Octopus in Peter Parker's body, operating as a more aggressive and ruthless Spider-Man while Peter's ghost fights for control.",
         "publisherId": "marvel"
     },
@@ -1139,6 +1140,8 @@
         "description": "William Baker, transformed by AIM experimentation. Briefly attacks the Parker family before being freed by Spider-Man and becoming an ally.",
         "publisherId": "marvel"
     },
+
+
     {
         "id": "captain-america",
         "name": "Captain America",
@@ -1259,6 +1262,8 @@
         "description": "Kevin Plunder, a lord of the jungle who rules over the Savage Land",
         "publisherId": "marvel"
     },
+    
+
     {
         "id": "batman",
         "name": "Batman",
@@ -1266,9 +1271,295 @@
         "publisherId": "dc"
     },
     {
-        "id": "robin",
-        "name": "Robin",
-        "description": "Dick Grayson, the Boy Wonder and protégé of Batman",
+        "id": "alfred",
+        "name": "Alfred Pennyworth",
+        "description": "Batman's faithful butler, surrogate father, and indispensable support. The heart of the Wayne household and Batman's most trusted confidant.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "robin-dick",
+        "name": "Dick Grayson / Robin",
+        "description": "The first Robin, a circus acrobat whose parents were murdered. Eventually outgrows the role to become Nightwing, and later briefly becomes Batman himself.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "nightwing",
+        "name": "Nightwing / Dick Grayson",
+        "alterEgoOf": "robin-dick",
+        "description": "Dick Grayson's evolution beyond Robin — Nightwing is Blüdhaven's protector and one of DC's most beloved heroes in his own right.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-dick",
+        "name": "Batman / Dick Grayson",
+        "alterEgoOf": "nightwing",
+        "description": "Dick Grayson's tenure as Batman during Grant Morrison's run while Bruce Wayne was lost in time. Partnered with Damian Wayne as Robin.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "robin-jason",
+        "name": "Jason Todd / Robin",
+        "description": "The second Robin, whose death at the Joker's hands in A Death in the Family defined Batman for a generation. Returns as the anti-hero Red Hood.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "red-hood-jason",
+        "name": "Red Hood / Jason Todd",
+        "alterEgoOf": "robin-jason",
+        "description": "Jason Todd reborn after his resurrection via the Lazarus Pit. Operates as a violent anti-hero who kills his enemies, fundamentally at odds with Batman's code.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "robin-tim",
+        "name": "Tim Drake / Robin",
+        "description": "The third Robin, who deduced Batman's identity on his own. The most detective-minded Robin, later becoming Red Robin and then Drake.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "red-robin",
+        "name": "Red Robin / Tim Drake",
+        "alterEgoOf": "robin-tim",
+        "description": "Tim Drake's identity after graduating from Robin. One of the most skilled detectives in the Batman family.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "robin-damian",
+        "name": "Damian Wayne / Robin",
+        "description": "Bruce Wayne's son with Talia al Ghul, the fifth Robin. Raised by the League of Assassins before joining his father, brash and deadly.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batgirl",
+        "name": "Batgirl",
+        "description": "Commissioner Gordon's daughter who becomes Batgirl, later paralyzed by the Joker and reborn as Oracle — the information hub of the DC hero community.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "oracle",
+        "name": "Oracle",
+        "alterEgoOf": "batgirl",
+        "description": "Barbara Gordon after being paralyzed by the Joker in The Killing Joke. Reinvents herself as Oracle, the information hub of the DC hero community.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "spoiler",
+        "name": "Spoiler",
+        "description": "Stephanie Brown, daughter of the Cluemaster who became Spoiler, then Robin briefly, then Batgirl. A key member of Tynion's Gotham Knights.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batgirl-steph",
+        "name": "Batgirl / Stephanie Brown",
+        "alterEgoOf": "spoiler",
+        "description": "Stephanie Brown's tenure as Batgirl after Barbara Gordon passed on the mantle. Balances college life with crime-fighting in Gotham.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batgirl-cass",
+        "name": "Batgirl / Cassandra Cain",
+        "alterEgoOf": "orphan",
+        "description": "Cassandra Cain's identity as Batgirl before taking on the Orphan mantle. One of the most skilled fighters in the Batman family.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "orphan",
+        "name": "Orphan",
+        "description": "Cassandra Cain, the daughter of Lady Shiva, raised to be the perfect killer. Becomes one of Batman's most lethal and loyal allies as Orphan.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "lucius-fox",
+        "name": "Lucius Fox",
+        "description": "CEO of Wayne Enterprises who provides Batman with his technology and equipment, sometimes knowingly.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batwoman",
+        "name": "Batwoman / Kate Kane",
+        "description": "Bruce Wayne's cousin who becomes Batwoman. Co-leads the Gotham Knights with Batman in James Tynion's Detective Comics Rebirth run.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "azrael",
+        "name": "Azrael / Jean-Paul Valley",
+        "description": "A brainwashed assassin trained by the Order of St. Dumas who temporarily replaces Bruce Wayne as Batman during Knightquest, becoming increasingly violent and unstable.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "azrael-batman",
+        "name": "Batman / Azrael",
+        "description": "Jean-Paul Valley's violent tenure as Batman during Knightquest. Created an increasingly armored and brutal Batman suit before being defeated by the returning Bruce Wayne.",
+        "publisherId": "dc",
+        "alterEgoOf": "azrael"
+    },
+    
+    {
+        "id": "gordon",
+        "name": "Commissioner Gordon",
+        "description": "Gotham's most honest cop and Batman's greatest ally in law enforcement. Their relationship is the cornerstone of the Bat-mythology.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-gordon",
+        "name": "Batman / Jim Gordon",
+        "description": "Jim Gordon's stint as Batman during the Superheavy arc after Bruce Wayne is believed dead following Endgame. Operated in a mechanized Batman suit.",
+        "publisherId": "dc",
+        "alterEgoOf": "gordon"
+    },
+    {
+        "id": "catwoman",
+        "name": "Catwoman",
+        "description": "Gotham's greatest thief and Batman's most enduring romantic interest. Morally complex, she walks the line between villain and hero throughout Batman's history.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "joker",
+        "name": "The Joker",
+        "description": "Batman's greatest nemesis. The Clown Prince of Crime is chaos incarnate — no definitive origin, no rules, and an obsession with Batman that borders on love.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "two-face",
+        "name": "Two-Face",
+        "description": "Gotham's DA turned villain after acid scars half his face. Driven by duality and chance, he was once Batman's greatest ally.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "riddler",
+        "name": "The Riddler",
+        "description": "A criminal obsessed with puzzles and proving his superiority. Has oscillated between villain and reluctant ally across different eras.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "penguin",
+        "name": "The Penguin",
+        "description": "Gotham's premier crime lord, hiding behind a veneer of refinement. Controls criminal enterprises from the Iceberg Lounge.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "bane",
+        "name": "Bane",
+        "description": "The man who broke the Bat. A genius-level strategist who enhances his physical power with the drug Venom. Orchestrated the Knightfall saga.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "ra-al-ghul",
+        "name": "Ra's al Ghul",
+        "description": "The Demon's Head. Centuries-old eco-terrorist who seeks to purge the world and sees Batman as his perfect heir. Father of Talia.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "talia-al-ghul",
+        "name": "Talia al Ghul",
+        "description": "Ra's al Ghul's daughter and Batman's great love, mother of Damian Wayne. Torn between her father's mission and her feelings for Bruce.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "hush",
+        "name": "Hush / Thomas Elliot",
+        "description": "Bruce Wayne's childhood friend who murdered his own parents for their inheritance, driven by jealousy into becoming Batman's enemy.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "poison-ivy",
+        "name": "Poison Ivy / Pamela Isley",
+        "description": "An eco-terrorist with control over plants and immunity to toxins. One of Gotham's most dangerous villains and occasional anti-hero.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "scarecrow",
+        "name": "Scarecrow / Jonathan Crane",
+        "description": "Master of fear who weaponizes his fear toxin against Gotham. His attacks are psychological rather than physical.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "mr-freeze",
+        "name": "Mr. Freeze / Victor Fries",
+        "description": "A cryogenics expert whose wife Nora is kept in cryogenic suspension. One of Batman's most tragic villains.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "killer-croc",
+        "name": "Killer Croc / Waylon Jones",
+        "description": "Afflicted with a genetic disorder that gives him reptilian appearance and strength, Croc operates in Gotham's sewers.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "harley-quinn",
+        "name": "Harley Quinn / Harleen Quinzel",
+        "description": "The Joker's former psychiatrist turned devoted sidekick. Has evolved from villain to anti-hero with her own loyal fanbase.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "hugo-strange",
+        "name": "Hugo Strange",
+        "description": "One of Batman's oldest foes, a criminal psychologist obsessed with discovering and becoming Batman.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "black-mask",
+        "name": "Black Mask / Roman Sionis",
+        "description": "Gotham crime boss who wore a mask fused to his face. Ruthlessly violent and obsessed with power.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "court-of-owls",
+        "name": "Court of Owls",
+        "description": "A secret society controlling Gotham for centuries through their undead assassins the Talons. Introduced by Scott Snyder as Batman's ultimate hidden enemy.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "talons",
+        "name": "The Talons",
+        "description": "The undead assassins of the Court of Owls, reanimated by electrum. The Court has been controlling Gotham's history from the shadows.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "clayface",
+        "name": "Clayface / Basil Karlo",
+        "description": "A shape-shifting villain who seeks redemption as a member of Batman's Gotham Knights in Tynion's Detective Comics run.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "professor-pyg",
+        "name": "Professor Pyg",
+        "description": "Lazlo Valentin, a deranged former Spyral agent who uses surgical mutilation to create Dollotrons. Introduced in Batman and Robin #1 as Dick Grayson's first villain as Batman.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "doctor-hurt",
+        "name": "Doctor Hurt / Simon Hurt",
+        "description": "The main villain of Batman RIP, a centuries-old member of the Black Glove who claims to be Thomas Wayne. Returns in Batman and Robin as the ultimate enemy of the Batman legacy.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "lincoln-march",
+        "name": "Lincoln March / Owlman",
+        "description": "A Gotham mayoral candidate and member of the Court of Owls who claims to be Bruce Wayne's brother Thomas Wayne Jr. Becomes the Owlman in the Court of Owls arc.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "james-gordon-jr",
+        "name": "James Gordon Jr.",
+        "description": "Commissioner Gordon's psychopathic son who returns to Gotham in Scott Snyder's Black Mirror arc, the main antagonist manipulating events behind the scenes.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "lady-shiva",
+        "name": "Lady Shiva",
+        "description": "The world's greatest martial artist who trains Bruce Wayne to reclaim the Batman mantle in KnightsEnd. A morally complex figure who tests Batman's limits.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "heretic",
+        "name": "The Heretic",
+        "description": "A clone of Damian Wayne grown to adulthood by Talia al Ghul and serving as Leviathan's chief enforcer. Kills Damian Wayne in Batman Incorporated.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "leviathan",
+        "name": "Leviathan",
+        "description": "Talia al Ghul's global criminal organization that serves as the main antagonist of Batman Incorporated, opposing Bruce Wayne's global Batman franchise.",
         "publisherId": "dc"
     },
     {

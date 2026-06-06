@@ -3,11 +3,11 @@
         "id": "amf",
         "title": "Amazing Fantasy",
         "publisherId": "marvel",
-        "startYear": 1962,
+        "startYear": 1961,
         "endYear": 1962,
         "issueCount": 15,
         "universe": "Earth-616",
-        "description": "The anthology series that introduced Spider-Man in issue #15 (1962), written by Stan Lee and drawn by Steve Ditko."
+        "description": "The anthology series created in the early 1960s that introduced Spider-Man in issue #15 (1962), written by Stan Lee and drawn by Steve Ditko. Cover of AF #15 by Jack Kirby."
     },
     {
         "id": "asm",
@@ -57,7 +57,7 @@
         "endYear": 2022,
         "issueCount": 93,
         "universe": "Earth-616",
-        "description": "Nick Spencer's run restoring Peter Parker's classic status quo, featuring Sins Rising, Last Remains, and Beyond."
+        "description": "Nick Spencer's run restoring Peter Parker's classic status quo, featuring Sins Rising, Last Remains, and Beyond. (Head canon is that is the end of the whole Spider-Man series, we don't talk about anything past the Nick Spencer Run.)"
     },
     {
         "id": "spectacular-sm",
@@ -67,7 +67,7 @@
         "endYear": 1998,
         "issueCount": 263,
         "universe": "Earth-616",
-        "description": "The long-running companion to Amazing Spider-Man featuring Kraven's Last Hunt and many classic supporting stories."
+        "description": "The long-running companion to Amazing Spider-Man featuring Kraven's Last Hunt and many classic supporting stories. Acts as a sort of connective tissue to the ongoing Amazing Spider-Man series."
     },
     {
         "id": "spectacular-sm-vol2",
@@ -77,7 +77,7 @@
         "endYear": 2005,
         "issueCount": 27,
         "universe": "Earth-616",
-        "description": "A short-lived revival of the Spectacular Spider-Man title in the early 2000s."
+        "description": "A short-lived revival of the Peter Parker, the Spectacular Spider-Man title, no retitled as Spectacular Spider-Man. Was released in the early 2000s."
     },
     {
         "id": "web-of-sm",
@@ -87,7 +87,7 @@
         "endYear": 1995,
         "issueCount": 129,
         "universe": "Earth-616",
-        "description": "A companion Spider-Man series running from 1985 to 1995, featuring many crossover tie-in issues."
+        "description": "Another companion Spider-Man series running from 1985 to 1995, featuring many crossover tie-in issues."
     },
     {
         "id": "sm-1990",
@@ -97,7 +97,7 @@
         "endYear": 1998,
         "issueCount": 98,
         "universe": "Earth-616",
-        "description": "Todd McFarlane's self-titled Spider-Man series launched in 1990, later continuing with other creative teams."
+        "description": "Todd McFarlane's self-titled Spider-Man series, with all of it's 90s glory. Eventually the title was continued with other creative teams."
     },
     {
         "id": "sup-sm",
@@ -107,17 +107,7 @@
         "endYear": 2014,
         "issueCount": 33,
         "universe": "Earth-616",
-        "description": "Dan Slott's bold experiment with Otto Octavius as the Superior Spider-Man, replacing Peter Parker for 33 issues."
-    },
-    {
-        "id": "untold-tales-sm",
-        "title": "Untold Tales of Spider-Man",
-        "publisherId": "marvel",
-        "startYear": 1995,
-        "endYear": 1997,
-        "issueCount": 25,
-        "universe": "Earth-616",
-        "description": "Kurt Busiek's series telling untold stories set during Spider-Man's early career, filling in gaps from the Lee/Ditko era."
+        "description": "Dan Slott's bold status quo shift with Otto Octavius as the Superior Spider-Man, replacing Peter Parker for tight experimental 33 issue run."
     },
     {
         "id": "marvel-team-up",
@@ -127,7 +117,7 @@
         "endYear": 1985,
         "issueCount": 150,
         "universe": "Earth-616",
-        "description": "Spider-Man teams up with a different Marvel hero each issue across this long-running anthology series."
+        "description": "A Spider-Man teams up with a different Marvel hero each issue across this long-running anthology series."
     },
     {
         "id": "sm-vs-wolverine",
@@ -137,17 +127,47 @@
         "endYear": 1990,
         "issueCount": 2,
         "universe": "Earth-616",
-        "description": "A two-issue prestige format series pitting Spider-Man against Wolverine in a Cold War thriller."
+        "description": "A single issue one shot comic pitting Spider-Man against Wolverine in a Cold War thriller."
     },
     {
-        "id": "batman-year-one",
-        "title": "Batman: Year One",
-        "publisherId": "dc",
-        "startYear": 1987,
-        "endYear": 1987,
+        "id": "sm-2099",
+        "title": "Spider-Man 2099",
+        "publisherId": "marvel",
+        "startYear": 1992,
+        "endYear": 1998,
+        "issueCount": 46,
+        "universe": "Earth-928",
+        "description": "Set in the dystopian city of Nueva York in the year 2099, the series follows Miguel O'Hara as the new Spider-Man. Read this in all of its 90s glory."
+    },
+    {
+        "id": "spider-man-blue",
+        "title": "Spider-Man: Blue",
+        "publisherId": "marvel",
+        "startYear": 2002,
+        "endYear": 2003,
         "issueCount": 4,
-        "universe": "Prime Earth",
-        "description": "Frank Miller and David Mazzucchelli's definitive Batman origin story, originally published in Batman #404-407."
+        "universe": "Earth-616",
+        "description": "Jeph Loeb and Tim Sale's love letter to the early days of Spider-Man, focusing on Peter Parker's relationship with Gwen Stacy. A beautifully illustrated and emotionally resonant mini-series that captures the essence of Spider-Man"
+    },
+    {
+        "id": "usm",
+        "title": "Ultimate Spider-Man (2000)",
+        "publisherId": "marvel",
+        "startYear": 2000,
+        "endYear": 2011,
+        "issueCount": 160,
+        "universe": "Earth-1610",
+        "description": "Brian Michael Bendis' iconic Ultimate Spider-Man series that reimagines Peter Parker's origin for the 21st century. A landmark run that helped launch the Ultimate Universe and redefines the character for a new generation."
+    },
+    {
+        "id": "usm-2024",
+        "title": "Ultimate Spider-Man (2024)",
+        "publisherId": "marvel",
+        "startYear": 2024,
+        "endYear": 2026,
+        "issueCount": 24,
+        "universe": "Earth-6160",
+        "description": "Jonathan Hickman's revival of Ultimate Spider-Man, which is set in an entirely new Ultimate Universe. We follow an older Peter Parker who is a both a husband to Mary Jane Watson and a father to their children Richard and May. A bold new take on the character that explores the challenges of balancing family life with his newly acquired superhero responsibilities."
     },
     {
         "id": "invincible-series",
@@ -157,7 +177,7 @@
         "endYear": 2018,
         "issueCount": 144,
         "universe": "main",
-        "description": "Robert Kirkman and Ryan Ottley's superhero epic following Mark Grayson, son of the world's greatest hero."
+        "description": "Robert Kirkman's superhero epic following Mark Grayson, son of the world's greatest hero."
     },
     {
         "id": "hellboy-series",
@@ -170,26 +190,6 @@
         "description": "Mike Mignola's iconic Dark Horse series following Hellboy, a demon raised by the BPRD to fight supernatural threats."
     },
     {
-        "id": "usm",
-        "title": "Ultimate Spider-Man (2000)",
-        "publisherId": "marvel",
-        "startYear": 2000,
-        "endYear": 2011,
-        "issueCount": 160,
-        "universe": "Earth-1610",
-        "description": "Brian Michael Bendis and Mark Bagley's landmark Ultimate Spider-Man series modernizing Peter Parker's origin and running 160 issues."
-    },
-    {
-        "id": "usm-2024",
-        "title": "Ultimate Spider-Man (2024)",
-        "publisherId": "marvel",
-        "startYear": 2024,
-        "endYear": 2026,
-        "issueCount": 24,
-        "universe": "Earth-6160",
-        "description": "Jonathan Hickman's revival of Ultimate Spider-Man featuring a married 35-year-old Peter Parker in a new Ultimate Universe."
-    },
-    {
         "id": "batman-vol1",
         "title": "Batman",
         "publisherId": "dc",
@@ -197,7 +197,7 @@
         "endYear": 2011,
         "issueCount": 713,
         "universe": "Prime Earth",
-        "description": "The original Batman ongoing series running from 1940 to 2011, spanning the Golden Age through modern era across 713 issues."
+        "description": "The original Batman ongoing series running from 1940 to 2011, spanning the Golden Age through modern era (Before the New 52 relaunch)."
     },
     {
         "id": "batman-vol2",
@@ -207,7 +207,7 @@
         "endYear": 2016,
         "issueCount": 52,
         "universe": "New 52",
-        "description": "Scott Snyder and Greg Capullo's acclaimed New 52 Batman run featuring Court of Owls, Death of the Family, Zero Year, and Endgame."
+        "description": "Scott Snyder and Greg Capullo's critically acclaimed New 52 Batman run, which follows a rebooted Batman and his Bat-Family as they face off against new and old threats in Gotham City."
     },
     {
         "id": "batman-vol3",
@@ -217,7 +217,7 @@
         "endYear": null,
         "issueCount": null,
         "universe": "Prime Earth",
-        "description": "The ongoing DC Rebirth Batman series beginning with Tom King's run, continuing through James Tynion IV and Chip Zdarsky."
+        "description": "The DC Rebirth Batman series which serves as both a continuation of the New 52 and a relaunch, beginning with Tom King's run through James Tynion IV and Chip Zdarsky."
     },
     {
         "id": "detective-comics",
@@ -228,6 +228,16 @@
         "issueCount": null,
         "universe": "Prime Earth",
         "description": "Batman's home series since Detective Comics #27 (1939). The longest-running superhero comic in history."
+    },
+    {
+        "id": "detective-comics-vol2",
+        "title": "Detective Comics (New 52)",
+        "publisherId": "dc",
+        "startYear": 2011,
+        "endYear": 2016,
+        "issueCount": 52,
+        "universe": "New 52",
+        "description": "The New 52 relaunch of Detective Comics running from 2011-2016 across 52 issues. Featured creative teams including Tony S. Daniel, John Layman, and Francis Manapul."
     },
     {
         "id": "batman-ldotk",
@@ -257,6 +267,26 @@
         "endYear": 2015,
         "issueCount": 52,
         "universe": "New 52",
-        "description": "Weekly Batman series featuring a massive conspiracy threatening Gotham, with Gordon framed for murder."
+        "description": "Weekly Batman series that run concurrently to the New 52 Batman series. This limited series features a massive conspiracy threatening Gotham that involves the entire Bat-Family."
+    },
+    {
+        "id": "batman-year-one",
+        "title": "Batman: Year One",
+        "publisherId": "dc",
+        "startYear": 1987,
+        "endYear": 1987,
+        "issueCount": 4,
+        "universe": "Prime Earth",
+        "description": "Frank Miller and David Mazzucchelli's definitive Batman origin story, originally published in Batman #404-407."
+    },
+    {
+        "id": "dark-knight-returns",
+        "title": "Batman: The Dark Knight Returns",
+        "publisherId": "dc",
+        "startYear": 1986,
+        "endYear": 1986,
+        "issueCount": 4,
+        "universe": "Earth 31",
+        "description": "Frank Miller and David Mazzucchelli's definitive Batman origin story, originally published in Batman #404-407."
     }
 ]

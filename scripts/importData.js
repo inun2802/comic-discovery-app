@@ -104,12 +104,17 @@ async function main() {
   for (const character of characters) {
     await prisma.character.upsert({
       where: { publisherId_name: { publisherId: character.publisherId, name: character.name } },
-      update: { description: character.description ?? null, updatedAt: now },
+      update: { 
+        description: character.description ?? null, 
+        alterEgoOf: character.alterEgoOf ?? null,
+        updatedAt: now 
+      },
       create: {
         id: character.id,
         name: character.name,
         description: character.description ?? null,
         publisherId: character.publisherId,
+        alterEgoOf: character.alterEgoOf ?? null,
         updatedAt: now,
       },
     });

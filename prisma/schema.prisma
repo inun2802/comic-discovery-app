@@ -44,6 +44,7 @@ model IssueCreator {
 model Character {
   id          String            @id @default(cuid())
   name        String
+  alterEgoOf  String?
   description String?
   publisherId String
   createdAt   DateTime          @default(now())
@@ -84,7 +85,7 @@ model Issue {
   title             String?
   releaseDate       DateTime?
   creatorLinks  IssueCreator[]
-  universe          String?          // "Earth-616", "Earth-1610", "Earth-6160", "Prime Earth", "New 52", "Absolute Universe"
+  universe          String?          // "Earth-616", "Earth-1610", "Earth-6160", "Earth-928", "Prime Earth", "New 52", "Absolute Universe", "Earth 33"
   isFirstAppearance Boolean          @default(false)
   isMajorCrossover  Boolean          @default(false)
   isKeyIssue        Boolean          @default(false)
