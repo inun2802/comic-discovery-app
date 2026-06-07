@@ -200,6 +200,36 @@
         "description": "The original Batman ongoing series running from 1940 to 2011, spanning the Golden Age through modern era (Before the New 52 relaunch)."
     },
     {
+        "id": "final-crisis-bat",
+        "title": "Final Crisis (Batman issues)",
+        "publisherId": "dc",
+        "startYear": 2008,
+        "endYear": 2009,
+        "issueCount": 4,
+        "universe": "Prime Earth",
+        "description": "Grant Morrison's DC event — Batman confronts Darkseid and is struck by the Omega Beams, apparently killed but actually sent back in time. Includes Batman #682-683."
+    },
+    {
+        "id": "battle-for-cowl",
+        "title": "Batman: Battle for the Cowl",
+        "publisherId": "dc",
+        "startYear": 2009,
+        "endYear": 2009,
+        "issueCount": 3,
+        "universe": "Prime Earth",
+        "description": "Tony Daniel's 3-issue miniseries where the Bat-family fights over who becomes the new Batman after Bruce Wayne's death in Final Crisis. Dick Grayson ultimately takes the mantle."
+    },
+    {
+        "id": "return-bruce-wayne",
+        "title": "The Return of Bruce Wayne",
+        "publisherId": "dc",
+        "startYear": 2010,
+        "endYear": 2010,
+        "issueCount": 6,
+        "universe": "Prime Earth",
+        "description": "Grant Morrison's 6-issue miniseries following Bruce Wayne unstuck in time — traveling from prehistoric Gotham through Puritan, pirate, western, and noir eras before returning to the present."
+    },
+    {
         "id": "batman-vol2",
         "title": "Batman (New 52)",
         "publisherId": "dc",
@@ -288,5 +318,46 @@
         "issueCount": 4,
         "universe": "Earth 31",
         "description": "Frank Miller and David Mazzucchelli's definitive Batman origin story, originally published in Batman #404-407."
+    },
+    
+    {
+        "id": "batman-and-robin",
+        "title": "Batman and Robin (2009)",
+        "publisherId": "dc",
+        "startYear": 2009,
+        "endYear": 2011,
+        "issueCount": 26,
+        "universe": "Prime Earth",
+        "description": "Grant Morrison and Frank Quitely's series following Dick Grayson as Batman and Damian Wayne as Robin. Features Professor Pyg, the Red Hood, and the return of Doctor Hurt."
+    },
+    {
+        "id": "batman-inc-vol1",
+        "title": "Batman Incorporated (Vol 1)",
+        "publisherId": "dc",
+        "startYear": 2010,
+        "endYear": 2011,
+        "issueCount": 8,
+        "universe": "Prime Earth",
+        "description": "Grant Morrison's series where Bruce Wayne goes public as Batman's financier and establishes a global franchise of Batmen to fight the Leviathan organization led by Talia al Ghul."
+    },
+    {
+        "id": "batman-inc-vol2",
+        "title": "Batman Incorporated (Vol 2)",
+        "publisherId": "dc",
+        "startYear": 2012,
+        "endYear": 2013,
+        "issueCount": 13,
+        "universe": "Prime Earth",
+        "description": "Morrison's New 52 conclusion to his Batman saga — Talia al Ghul's Leviathan wages all-out war on Batman Incorporated, culminating in Damian Wayne's death."
+    },
+    {
+        "id": "killing-joke",
+        "title": "Batman: The Killing Joke",
+        "publisherId": "dc",
+        "startYear": 1988,
+        "endYear": 1988,
+        "issueCount": 1,
+        "universe": "New Earth",
+        "description": "Alan Moore and Brian Bolland's prestige one-shot. The Joker shoots and paralyzes Barbara Gordon, then tortures Commissioner Gordon to prove anyone can be driven insane by one bad day. The pivotal issue for Barbara's transition from Batgirl to Oracle."
     }
 ]

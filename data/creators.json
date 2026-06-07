@@ -334,5 +334,275 @@
         "name": "Marcos Martin",
         "nationality": "Spanish",
         "birthYear": 1976
+    },
+    {
+        "id": "bill-finger",
+        "name": "Bill Finger",
+        "nationality": "American",
+        "birthYear": 1914
+    },
+    {
+        "id": "bob-kane",
+        "name": "Bob Kane",
+        "nationality": "American",
+        "birthYear": 1915
+    },
+    {
+        "id": "jerry-robinson",
+        "name": "Jerry Robinson",
+        "nationality": "American",
+        "birthYear": 1922
+    },
+    {
+        "id": "dennis-oneil-bat",
+        "name": "Dennis O'Neil",
+        "nationality": "American",
+        "birthYear": 1939
+    },
+    {
+        "id": "neal-adams",
+        "name": "Neal Adams",
+        "nationality": "American",
+        "birthYear": 1941
+    },
+    {
+        "id": "frank-miller",
+        "name": "Frank Miller",
+        "nationality": "American",
+        "birthYear": 1957
+    },
+    {
+        "id": "david-mazzucchelli",
+        "name": "David Mazzucchelli",
+        "nationality": "American",
+        "birthYear": 1960
+    },
+    {
+        "id": "alan-grant",
+        "name": "Alan Grant",
+        "nationality": "Scottish",
+        "birthYear": 1949
+    },
+    {
+        "id": "norm-breyfogle",
+        "name": "Norm Breyfogle",
+        "nationality": "American",
+        "birthYear": 1960
+    },
+    {
+        "id": "chuck-dixon",
+        "name": "Chuck Dixon",
+        "nationality": "American",
+        "birthYear": 1954
+    },
+    {
+        "id": "graham-nolan",
+        "name": "Graham Nolan",
+        "nationality": "American",
+        "birthYear": 1962
+    },
+    {
+        "id": "doug-moench",
+        "name": "Doug Moench",
+        "nationality": "American",
+        "birthYear": 1948
+    },
+    {
+        "id": "kelley-jones",
+        "name": "Kelley Jones",
+        "nationality": "American",
+        "birthYear": 1962
+    },
+    {
+        "id": "jeph-loeb",
+        "name": "Jeph Loeb",
+        "nationality": "American",
+        "birthYear": 1958
+    },
+    {
+        "id": "jim-lee",
+        "name": "Jim Lee",
+        "nationality": "American",
+        "birthYear": 1964
+    },
+    {
+        "id": "grant-morrison",
+        "name": "Grant Morrison",
+        "nationality": "Scottish",
+        "birthYear": 1960
+    },
+    {
+        "id": "andy-kubert",
+        "name": "Andy Kubert",
+        "nationality": "American",
+        "birthYear": 1962
+    },
+    {
+        "id": "scott-snyder",
+        "name": "Scott Snyder",
+        "nationality": "American",
+        "birthYear": 1976
+    },
+    {
+        "id": "greg-capullo",
+        "name": "Greg Capullo",
+        "nationality": "American",
+        "birthYear": 1962
+    },
+    {
+        "id": "tom-king",
+        "name": "Tom King",
+        "nationality": "American",
+        "birthYear": 1978
+    },
+    {
+        "id": "david-finch",
+        "name": "David Finch",
+        "nationality": "Canadian",
+        "birthYear": 1972
+    },
+    {
+        "id": "mikel-janin",
+        "name": "Mikel Janin",
+        "nationality": "Spanish",
+        "birthYear": 1977
+    },
+    {
+        "id": "james-tynion",
+        "name": "James Tynion IV",
+        "nationality": "American",
+        "birthYear": 1987
+    },
+    {
+        "id": "jorge-jimenez",
+        "name": "Jorge Jimenez",
+        "nationality": "Spanish",
+        "birthYear": 1986
+    },
+    {
+        "id": "chip-zdarsky",
+        "name": "Chip Zdarsky",
+        "nationality": "Canadian",
+        "birthYear": 1975
+    },
+    {
+        "id": "jorge-fornes",
+        "name": "Jorge Forn\u00e9s",
+        "nationality": "Spanish",
+        "birthYear": 1979
+    },
+    {
+        "id": "tony-daniel",
+        "name": "Tony S. Daniel",
+        "nationality": "American",
+        "birthYear": 1977
+    },
+    {
+        "id": "jason-fabok",
+        "name": "Jason Fabok",
+        "nationality": "Canadian",
+        "birthYear": 1985
+    },
+    {
+        "id": "john-layman",
+        "name": "John Layman",
+        "nationality": "American",
+        "birthYear": 1967
+    },
+    {
+        "id": "francis-manapul",
+        "name": "Francis Manapul",
+        "nationality": "Canadian",
+        "birthYear": 1979
+    },
+    {
+        "id": "eddy-barrows",
+        "name": "Eddy Barrows",
+        "nationality": "Brazilian",
+        "birthYear": 1981
+    },
+    {
+        "id": "alvaro-martinez",
+        "name": "\u00c1lvaro Mart\u00ednez",
+        "nationality": "Spanish",
+        "birthYear": 1981
+    },
+    {
+        "id": "peter-tomasi",
+        "name": "Peter Tomasi",
+        "nationality": "American",
+        "birthYear": 1970
+    },
+    {
+        "id": "doug-mahnke",
+        "name": "Doug Mahnke",
+        "nationality": "American",
+        "birthYear": 1963
+    },
+    {
+        "id": "frank-quitely",
+        "name": "Frank Quitely",
+        "nationality": "Scottish",
+        "birthYear": 1968
+    },
+    {
+        "id": "chris-burnham",
+        "name": "Chris Burnham",
+        "nationality": "American",
+        "birthYear": 1978
+    },
+    {
+        "id": "yanick-paquette",
+        "name": "Yanick Paquette",
+        "nationality": "Canadian",
+        "birthYear": 1972
+    },
+    {
+        "id": "bob-gale",
+        "name": "Bob Gale",
+        "nationality": "American",
+        "birthYear": 1951
+    },
+    {
+        "id": "devin-grayson",
+        "name": "Devin Grayson",
+        "nationality": "American",
+        "birthYear": 1970
+    },
+    {
+        "id": "larry-hama",
+        "name": "Larry Hama",
+        "nationality": "American",
+        "birthYear": 1949
+    },
+    {
+        "id": "alan-moore",
+        "name": "Alan Moore",
+        "nationality": "British",
+        "birthYear": 1953
+    },
+    {
+        "id": "brian-bolland",
+        "name": "Brian Bolland",
+        "nationality": "British",
+        "birthYear": 1951
+    },
+    { 
+        "id": "jock", 
+        "name": "Jock", 
+        "nationality": "British", 
+        "birthYear": 1972 
+    },
+    {
+        "id": "alan-moore",
+        "name": "Alan Moore",
+        "nationality": "British",
+        "birthYear": 1953
+    },
+    {
+        "id": "brian-bolland",
+        "name": "Brian Bolland",
+        "nationality": "British",
+        "birthYear": 1951
     }
 ]

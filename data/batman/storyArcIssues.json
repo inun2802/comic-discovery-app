@@ -1,0 +1,1717 @@
+[
+    {
+        "storyArcId": "batman-first-app",
+        "issueId": "dc-27",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-origin",
+        "issueId": "dc-33",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-year-one-arc",
+        "issueId": "bat1-404",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-year-one-arc",
+        "issueId": "bat1-405",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-year-one-arc",
+        "issueId": "bat1-406",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-year-one-arc",
+        "issueId": "bat1-407",
+        "order": 4
+    },
+    {
+        "storyArcId": "a-death-in-family",
+        "issueId": "bat1-426",
+        "order": 1
+    },
+    {
+        "storyArcId": "a-death-in-family",
+        "issueId": "bat1-427",
+        "order": 2
+    },
+    {
+        "storyArcId": "a-death-in-family",
+        "issueId": "bat1-428",
+        "order": 3
+    },
+    {
+        "storyArcId": "a-death-in-family",
+        "issueId": "bat1-429",
+        "order": 4
+    },
+    {
+        "storyArcId": "lonely-place-dying",
+        "issueId": "bat1-440",
+        "order": 1
+    },
+    {
+        "storyArcId": "lonely-place-dying",
+        "issueId": "bat1-441",
+        "order": 2
+    },
+    {
+        "storyArcId": "lonely-place-dying",
+        "issueId": "bat1-442",
+        "order": 3
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-491",
+        "order": 1
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "dc-659",
+        "order": 2
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-492",
+        "order": 3
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "dc-660",
+        "order": 4
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-493",
+        "order": 5
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-494",
+        "order": 6
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-495",
+        "order": 7
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-496",
+        "order": 8
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-497",
+        "order": 9
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-498",
+        "order": 10
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-499",
+        "order": 11
+    },
+    {
+        "storyArcId": "knightfall-arc",
+        "issueId": "bat1-500",
+        "order": 12
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-509",
+        "order": 1
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "dc-676",
+        "order": 2
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-510",
+        "order": 3
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "dc-677",
+        "order": 4
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-511",
+        "order": 5
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-512",
+        "order": 6
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "dc-681",
+        "order": 7
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-513",
+        "order": 8
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-514",
+        "order": 9
+    },
+    {
+        "storyArcId": "knightsend-arc",
+        "issueId": "bat1-515",
+        "order": 10
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-608",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-609",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-610",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-611",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-612",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-613",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-614",
+        "order": 7
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-615",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-616",
+        "order": 9
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-617",
+        "order": 10
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-618",
+        "order": 11
+    },
+    {
+        "storyArcId": "batman-hush",
+        "issueId": "bat1-619",
+        "order": 12
+    },
+    {
+        "storyArcId": "batman-morrison-son",
+        "issueId": "bat1-655",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-morrison-son",
+        "issueId": "bat1-656",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-morrison-son",
+        "issueId": "bat1-657",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-morrison-son",
+        "issueId": "bat1-658",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-676",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-677",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-678",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-679",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-680",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-rip",
+        "issueId": "bat1-681",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-871",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-872",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-873",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-874",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-875",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-876",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-877",
+        "order": 7
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-880",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-black-mirror",
+        "issueId": "dc-881",
+        "order": 9
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-7",
+        "order": 7
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-8",
+        "order": 8
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-9",
+        "order": 9
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-10",
+        "order": 10
+    },
+    {
+        "storyArcId": "court-of-owls-arc",
+        "issueId": "bat2-11",
+        "order": 11
+    },
+    {
+        "storyArcId": "night-of-owls",
+        "issueId": "bat2-8",
+        "order": 1
+    },
+    {
+        "storyArcId": "night-of-owls",
+        "issueId": "bat2-9",
+        "order": 2
+    },
+    {
+        "storyArcId": "death-of-family",
+        "issueId": "bat2-13",
+        "order": 1
+    },
+    {
+        "storyArcId": "death-of-family",
+        "issueId": "bat2-14",
+        "order": 2
+    },
+    {
+        "storyArcId": "death-of-family",
+        "issueId": "bat2-15",
+        "order": 3
+    },
+    {
+        "storyArcId": "death-of-family",
+        "issueId": "bat2-16",
+        "order": 4
+    },
+    {
+        "storyArcId": "death-of-family",
+        "issueId": "bat2-17",
+        "order": 5
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-21",
+        "order": 1
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-22",
+        "order": 2
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-23",
+        "order": 3
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-24",
+        "order": 4
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-25",
+        "order": 5
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-26",
+        "order": 6
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-27",
+        "order": 7
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-28",
+        "order": 8
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-29",
+        "order": 9
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-30",
+        "order": 10
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-31",
+        "order": 11
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-32",
+        "order": 12
+    },
+    {
+        "storyArcId": "zero-year",
+        "issueId": "bat2-33",
+        "order": 13
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-35",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-36",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-37",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-38",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-39",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-endgame",
+        "issueId": "bat2-40",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-41",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-42",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-43",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-44",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-45",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-46",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-47",
+        "order": 7
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-48",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-49",
+        "order": 9
+    },
+    {
+        "storyArcId": "batman-superheavy",
+        "issueId": "bat2-50",
+        "order": 10
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "i-am-gotham",
+        "issueId": "bat3-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-7",
+        "order": 1
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-8",
+        "order": 2
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-9",
+        "order": 3
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-10",
+        "order": 4
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-11",
+        "order": 5
+    },
+    {
+        "storyArcId": "i-am-suicide",
+        "issueId": "bat3-12",
+        "order": 6
+    },
+    {
+        "storyArcId": "i-am-bane",
+        "issueId": "bat3-13",
+        "order": 1
+    },
+    {
+        "storyArcId": "i-am-bane",
+        "issueId": "bat3-14",
+        "order": 2
+    },
+    {
+        "storyArcId": "i-am-bane",
+        "issueId": "bat3-15",
+        "order": 3
+    },
+    {
+        "storyArcId": "i-am-bane",
+        "issueId": "bat3-16",
+        "order": 4
+    },
+    {
+        "storyArcId": "i-am-bane",
+        "issueId": "bat3-17",
+        "order": 5
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-18",
+        "order": 1
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-19",
+        "order": 2
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-20",
+        "order": 3
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-22",
+        "order": 4
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-23",
+        "order": 5
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-24",
+        "order": 6
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-25",
+        "order": 7
+    },
+    {
+        "storyArcId": "war-jokes-riddles",
+        "issueId": "bat3-26",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-33",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-34",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-35",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-36",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-37",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-38",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-39",
+        "order": 7
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-40",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-41",
+        "order": 9
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-42",
+        "order": 10
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-43",
+        "order": 11
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-44",
+        "order": 12
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-45",
+        "order": 13
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-46",
+        "order": 14
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-47",
+        "order": 15
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-48",
+        "order": 16
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-49",
+        "order": 17
+    },
+    {
+        "storyArcId": "batman-wedding",
+        "issueId": "bat3-50",
+        "order": 18
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-72",
+        "order": 1
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-73",
+        "order": 2
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-74",
+        "order": 3
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-75",
+        "order": 4
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-76",
+        "order": 5
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-77",
+        "order": 6
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-78",
+        "order": 7
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-79",
+        "order": 8
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-80",
+        "order": 9
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-81",
+        "order": 10
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-82",
+        "order": 11
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-83",
+        "order": 12
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-84",
+        "order": 13
+    },
+    {
+        "storyArcId": "city-of-bane",
+        "issueId": "bat3-85",
+        "order": 14
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-95",
+        "order": 1
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-96",
+        "order": 2
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-97",
+        "order": 3
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-98",
+        "order": 4
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-99",
+        "order": 5
+    },
+    {
+        "storyArcId": "joker-war",
+        "issueId": "bat3-100",
+        "order": 6
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-105",
+        "order": 1
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-106",
+        "order": 2
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-107",
+        "order": 3
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-108",
+        "order": 4
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-109",
+        "order": 5
+    },
+    {
+        "storyArcId": "fear-state",
+        "issueId": "bat3-110",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-125",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-130",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-126",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-127",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-128",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-failsafe",
+        "issueId": "bat3-129",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-faces-death",
+        "issueId": "det2-7",
+        "order": 7
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-13",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-14",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-15",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-16",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-17",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-emperor-penguin",
+        "issueId": "det2-18",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-icarus",
+        "issueId": "det2-20",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-icarus",
+        "issueId": "det2-21",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-icarus",
+        "issueId": "det2-22",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-icarus",
+        "issueId": "det2-23",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-icarus",
+        "issueId": "det2-24",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-934",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-935",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-936",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-937",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-938",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-939",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-rise-batmen",
+        "issueId": "det-reb-940",
+        "order": 7
+    },
+    {
+        "storyArcId": "det-victim-syndicate",
+        "issueId": "det-reb-943",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-victim-syndicate",
+        "issueId": "det-reb-944",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-victim-syndicate",
+        "issueId": "det-reb-945",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-victim-syndicate",
+        "issueId": "det-reb-946",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-victim-syndicate",
+        "issueId": "det-reb-947",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-950",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-951",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-952",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-953",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-954",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-955",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-league-shadows",
+        "issueId": "det-reb-956",
+        "order": 7
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-963",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-964",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-965",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-966",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-967",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-lonely-living",
+        "issueId": "det-reb-968",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-970",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-971",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-972",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-973",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-974",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-fall-batmen",
+        "issueId": "det-reb-975",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-976",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-977",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-978",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-979",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-980",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-batmen-eternal2",
+        "issueId": "det-reb-981",
+        "order": 6
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-994",
+        "order": 1
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-995",
+        "order": 2
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-996",
+        "order": 3
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-997",
+        "order": 4
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-998",
+        "order": 5
+    },
+    {
+        "storyArcId": "det-deface-face",
+        "issueId": "det-reb-999",
+        "order": 6
+    },
+    {
+        "storyArcId": "battle-for-cowl-arc",
+        "issueId": "cowl-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "battle-for-cowl-arc",
+        "issueId": "cowl-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "battle-for-cowl-arc",
+        "issueId": "cowl-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-reborn",
+        "issueId": "bandr-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-reborn",
+        "issueId": "bandr-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-reborn",
+        "issueId": "bandr-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "revenge-red-hood",
+        "issueId": "bandr-4",
+        "order": 1
+    },
+    {
+        "storyArcId": "revenge-red-hood",
+        "issueId": "bandr-5",
+        "order": 2
+    },
+    {
+        "storyArcId": "revenge-red-hood",
+        "issueId": "bandr-6",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-robin-must-die",
+        "issueId": "bandr-13",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-robin-must-die",
+        "issueId": "bandr-14",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-robin-must-die",
+        "issueId": "bandr-15",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-robin-must-die",
+        "issueId": "bandr-16",
+        "order": 4
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-1",
+        "order": 1
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-2",
+        "order": 2
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-3",
+        "order": 3
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-4",
+        "order": 4
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-5",
+        "order": 5
+    },
+    {
+        "storyArcId": "return-bruce-wayne-arc",
+        "issueId": "robw-6",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-0",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-1",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-2",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-3",
+        "order": 4
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-4",
+        "order": 5
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-5",
+        "order": 6
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-6",
+        "order": 7
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-7",
+        "order": 8
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-8",
+        "order": 9
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-9",
+        "order": 10
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-10",
+        "order": 11
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-11",
+        "order": 12
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-12",
+        "order": 13
+    },
+    {
+        "storyArcId": "batman-inc-leviathan",
+        "issueId": "binc2-13",
+        "order": 14
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-19",
+        "order": 1
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-501",
+        "order": 2
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-667",
+        "order": 3
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-20",
+        "order": 4
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-502",
+        "order": 5
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-668",
+        "order": 6
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-503",
+        "order": 7
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-669",
+        "order": 8
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-504",
+        "order": 9
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-670",
+        "order": 10
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-24",
+        "order": 11
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-505",
+        "order": 12
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-671",
+        "order": 13
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-25",
+        "order": 14
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-506",
+        "order": 15
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-672",
+        "order": 16
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-26",
+        "order": 17
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-507",
+        "order": 18
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-673",
+        "order": 19
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-27",
+        "order": 20
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "bat1-508",
+        "order": 21
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-674",
+        "order": 22
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "sotb-28",
+        "order": 23
+    },
+    {
+        "storyArcId": "knightquest-arc",
+        "issueId": "dc-675",
+        "order": 24
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-563",
+        "order": 1
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-83",
+        "order": 2
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-730",
+        "order": 3
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-564",
+        "order": 4
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-84",
+        "order": 5
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-731",
+        "order": 6
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-565",
+        "order": 7
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-85",
+        "order": 8
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-732",
+        "order": 9
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-566",
+        "order": 10
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-86",
+        "order": 11
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-733",
+        "order": 12
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-87",
+        "order": 13
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-567",
+        "order": 14
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-734",
+        "order": 15
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-88",
+        "order": 16
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-568",
+        "order": 17
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-735",
+        "order": 18
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-569",
+        "order": 19
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-89",
+        "order": 20
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-736",
+        "order": 21
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-570",
+        "order": 22
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-90",
+        "order": 23
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-737",
+        "order": 24
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-571",
+        "order": 25
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-91",
+        "order": 26
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-738",
+        "order": 27
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-572",
+        "order": 28
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-92",
+        "order": 29
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-739",
+        "order": 30
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-573",
+        "order": 31
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-93",
+        "order": 32
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-740",
+        "order": 33
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "bat1-574",
+        "order": 34
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "sotb-94",
+        "order": 35
+    },
+    {
+        "storyArcId": "no-mans-land",
+        "issueId": "dc-741",
+        "order": 36
+    },
+    {
+        "storyArcId": "the-killing-joke",
+        "issueId": "killing-joke-1",
+        "order": 1
+    }
+]
