@@ -594,15 +594,21 @@
         "birthYear": 1972 
     },
     {
-        "id": "alan-moore",
-        "name": "Alan Moore",
-        "nationality": "British",
-        "birthYear": 1953
+        "id": "marv-wolfman",
+        "name": "Marv Wolfman",
+        "nationality": "American",
+        "birthYear": 1946
     },
     {
-        "id": "brian-bolland",
-        "name": "Brian Bolland",
-        "nationality": "British",
-        "birthYear": 1951
+        "id": "jim-aparo",
+        "name": "Jim Aparo",
+        "nationality": "American",
+        "birthYear": 1932
+    },
+    {
+        "id": "alan-grant-bat",
+        "name": "Alan Grant",
+        "nationality": "Scottish",
+        "birthYear": 1949
     }
 ]

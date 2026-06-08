@@ -397,5 +397,103 @@
         "fromIssue": "0",
         "toIssue": "13",
         "role": "penciler"
+    },
+    {
+        "creatorId": "chuck-dixon",
+        "seriesId": "batman-vol1",
+        "fromIssue": "501",
+        "toIssue": "508",
+        "role": "writer"
+    },
+    {
+        "creatorId": "chuck-dixon",
+        "seriesId": "detective-comics",
+        "fromIssue": "667",
+        "toIssue": "675",
+        "role": "writer"
+    },
+    {
+        "creatorId": "alan-grant",
+        "seriesId": "batman-shadow",
+        "fromIssue": "19",
+        "toIssue": "28",
+        "role": "writer"
+    },
+    {
+        "creatorId": "graham-nolan",
+        "seriesId": "batman-vol1",
+        "fromIssue": "501",
+        "toIssue": "508",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "graham-nolan",
+        "seriesId": "detective-comics",
+        "fromIssue": "667",
+        "toIssue": "675",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "bob-gale",
+        "seriesId": "batman-vol1",
+        "fromIssue": "563",
+        "toIssue": "574",
+        "role": "writer"
+    },
+    {
+        "creatorId": "devin-grayson",
+        "seriesId": "detective-comics",
+        "fromIssue": "730",
+        "toIssue": "741",
+        "role": "writer"
+    },
+    {
+        "creatorId": "alan-grant",
+        "seriesId": "batman-shadow",
+        "fromIssue": "83",
+        "toIssue": "94",
+        "role": "writer"
+    },
+    {
+        "creatorId": "larry-hama",
+        "seriesId": "batman-shadow",
+        "fromIssue": "83",
+        "toIssue": "94",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "alan-moore",
+        "seriesId": "killing-joke",
+        "fromIssue": "1",
+        "toIssue": "1",
+        "role": "writer"
+    },
+    {
+        "creatorId": "brian-bolland",
+        "seriesId": "killing-joke",
+        "fromIssue": "1",
+        "toIssue": "1",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "marv-wolfman",
+        "seriesId": "batman-vol1",
+        "fromIssue": "436",
+        "toIssue": "439",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jim-aparo",
+        "seriesId": "batman-vol1",
+        "fromIssue": "436",
+        "toIssue": "442",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "jim-aparo",
+        "seriesId": "batman-vol1",
+        "fromIssue": "408",
+        "toIssue": "416",
+        "role": "penciler"
     }
 ]

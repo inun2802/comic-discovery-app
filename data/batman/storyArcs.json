@@ -11,10 +11,16 @@
         "description": "Detective Comics #33 establishes Batman's origin: young Bruce Wayne witnesses his parents' murder and vows vengeance, training his body and mind to become the Batman.",
         "publisherId": "dc"
     },
+        {
+        "id": "batman-letting-go",
+        "title": "Letting Go",
+        "description": "Bruce Wayne confronts Dick Grayson and effectively fires him as Robin after years of growing distance and resentment. The definitive break between Batman and his first partner, setting Dick on the path to becoming Nightwing.",
+        "publisherId": "dc"
+    },
     {
-        "id": "batman-year-one-arc",
-        "title": "Batman: Year One",
-        "description": "Frank Miller and David Mazzucchelli's reimagining of Batman's first year \u2014 gritty, realistic, and definitively modern. Batman #404-407 (1987).",
+        "id": "batman-year-three",
+        "title": "Batman: Year Three",
+        "description": "Jim Aparo and Marv Wolfman's retelling of Dick Grayson's origin as Robin — the murder of his parents by Tony Zucco, Bruce taking him in, and the events that shaped their partnership. Bridges directly into A Lonely Place of Dying.",
         "publisherId": "dc"
     },
     {

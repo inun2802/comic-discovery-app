@@ -1563,6 +1563,12 @@
         "publisherId": "dc"
     },
     {
+        "id": "tony-zucco",
+        "name": "Tony Zucco",
+        "description": "The mob boss who murdered Dick Grayson's parents John and Mary by sabotaging their trapeze act at Haly's Circus, setting in motion Dick's path to becoming Robin.",
+        "publisherId": "dc"
+    },
+    {
         "id": "invincible",
         "name": "Invincible",
         "description": "Mark Grayson, a teenager whose father comes from the Planet Viltrum",

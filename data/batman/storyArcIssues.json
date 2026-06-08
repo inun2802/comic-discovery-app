@@ -1713,5 +1713,30 @@
         "storyArcId": "the-killing-joke",
         "issueId": "killing-joke-1",
         "order": 1
+    },
+    {
+        "storyArcId": "batman-letting-go",
+        "issueId": "bat1-416",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-year-three",
+        "issueId": "bat1-436",
+        "order": 1
+    },
+    {
+        "storyArcId": "batman-year-three",
+        "issueId": "bat1-437",
+        "order": 2
+    },
+    {
+        "storyArcId": "batman-year-three",
+        "issueId": "bat1-438",
+        "order": 3
+    },
+    {
+        "storyArcId": "batman-year-three",
+        "issueId": "bat1-439",
+        "order": 4
     }
 ]

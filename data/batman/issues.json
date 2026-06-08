@@ -500,6 +500,16 @@
         "isKeyIssue": true
     },
     {
+        "id": "bat1-416",
+        "seriesId": "batman-vol1",
+        "issueNumber": "416",
+        "title": "Letting Go",
+        "releaseDate": "1988-02-01",
+        "universe": "New Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
         "id": "bat1-417",
         "seriesId": "batman-vol1",
         "issueNumber": "417",
@@ -576,6 +586,46 @@
         "title": "A Death in the Family Part 4",
         "releaseDate": "1989-03-01",
         "universe": "Earth-616",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bat1-436",
+        "seriesId": "batman-vol1",
+        "issueNumber": "436",
+        "title": "Batman: Year Three Part 1 — Different Skins",
+        "releaseDate": "1989-08-01",
+        "universe": "New Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bat1-437",
+        "seriesId": "batman-vol1",
+        "issueNumber": "437",
+        "title": "Batman: Year Three Part 2 — Roots",
+        "releaseDate": "1989-09-01",
+        "universe": "New Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bat1-438",
+        "seriesId": "batman-vol1",
+        "issueNumber": "438",
+        "title": "Batman: Year Three Part 3 — Wings",
+        "releaseDate": "1989-10-01",
+        "universe": "New Earth",
+        "isMajorCrossover": false,
+        "isKeyIssue": true
+    },
+    {
+        "id": "bat1-439",
+        "seriesId": "batman-vol1",
+        "issueNumber": "439",
+        "title": "Batman: Year Three Part 4 — Masque",
+        "releaseDate": "1989-11-01",
+        "universe": "New Earth",
         "isMajorCrossover": false,
         "isKeyIssue": true
     },
