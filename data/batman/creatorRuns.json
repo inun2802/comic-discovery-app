@@ -495,5 +495,40 @@
         "fromIssue": "408",
         "toIssue": "416",
         "role": "penciler"
+    },
+    {
+        "creatorId": "doug-moench",
+        "seriesId": "batman-vol1",
+        "fromIssue": "366",
+        "toIssue": "368",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jim-starlin",
+        "seriesId": "batman-vol1",
+        "fromIssue": "422",
+        "toIssue": "425",
+        "role": "writer"
+    },
+    {
+        "creatorId": "jim-aparo",
+        "seriesId": "batman-vol1",
+        "fromIssue": "422",
+        "toIssue": "425",
+        "role": "penciler"
+    },
+    {
+        "creatorId": "judd-winick",
+        "seriesId": "batman-vol1",
+        "fromIssue": "635",
+        "toIssue": "641",
+        "role": "writer"
+    },
+    {
+        "creatorId": "doug-mahnke",
+        "seriesId": "batman-vol1",
+        "fromIssue": "635",
+        "toIssue": "641",
+        "role": "penciler"
     }
 ]

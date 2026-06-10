@@ -11,16 +11,40 @@
         "description": "Detective Comics #33 establishes Batman's origin: young Bruce Wayne witnesses his parents' murder and vows vengeance, training his body and mind to become the Batman.",
         "publisherId": "dc"
     },
-        {
+    {
+        "id": "batman-year-one-arc",
+        "title": "Batman: Year One",
+        "description": "Frank Miller and David Mazzucchelli's reimagining of Batman's first year \u2014 gritty, realistic, and definitively modern. Batman #404-407 (1987).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-year-three",
+        "title": "Batman: Year Three",
+        "description": "Jim Aparo and Marv Wolfman's retelling of Dick Grayson's origin as Robin \u2014 the murder of his parents by Tony Zucco, Bruce taking him in, and the events that shaped their partnership. Bridges directly into A Lonely Place of Dying.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "jason-becomes-robin",
+        "title": "Jason Todd Becomes Robin",
+        "description": "Jason Todd's first adventures in the Robin costume alongside Batman, establishing the new Dynamic Duo after Dick Grayson's departure. Batman #366-368.",
+        "publisherId": "dc"
+    },
+    {
         "id": "batman-letting-go",
         "title": "Letting Go",
         "description": "Bruce Wayne confronts Dick Grayson and effectively fires him as Robin after years of growing distance and resentment. The definitive break between Batman and his first partner, setting Dick on the path to becoming Nightwing.",
         "publisherId": "dc"
     },
     {
-        "id": "batman-year-three",
-        "title": "Batman: Year Three",
-        "description": "Jim Aparo and Marv Wolfman's retelling of Dick Grayson's origin as Robin — the murder of his parents by Tony Zucco, Bruce taking him in, and the events that shaped their partnership. Bridges directly into A Lonely Place of Dying.",
+        "id": "the-killing-joke",
+        "title": "The Killing Joke",
+        "description": "Alan Moore and Brian Bolland's landmark one-shot \u2014 the Joker shoots Barbara Gordon through the spine, paralyzing her, then abducts and tortures Commissioner Gordon to prove that one bad day can drive anyone insane. Barbara's paralysis becomes the catalyst for her reinvention as Oracle.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "jason-reckless",
+        "title": "A Death in the Family Prelude",
+        "description": "The issues leading directly into A Death in the Family showing Jason becoming increasingly reckless, angry, and difficult to control \u2014 setting up his tragic death. Batman #422-425.",
         "publisherId": "dc"
     },
     {
@@ -33,6 +57,12 @@
         "id": "lonely-place-dying",
         "title": "A Lonely Place of Dying",
         "description": "Tim Drake deduces Batman's identity and forces himself into Bruce's life as the new Robin. Introduces the third and most celebrated Robin.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "tim-becomes-robin",
+        "title": "Tim Drake Becomes Robin",
+        "description": "Tim Drake officially dons the Robin costume for the first time — Batman #457-458. Having deduced Batman's identity and proven himself, Tim earns the right to be Robin and begins his training under Bruce.",
         "publisherId": "dc"
     },
     {
@@ -66,9 +96,15 @@
         "publisherId": "dc"
     },
     {
-        "id": "batman-rip",
-        "title": "Batman R.I.P.",
-        "description": "Grant Morrison's culmination of his Batman run \u2014 Dr. Hurt and the Black Glove attempt to destroy Batman psychologically and physically. Batman #676-681 (2008).",
+        "id": "under-the-red-hood",
+        "title": "Under the Hood",
+        "description": "A mysterious new Red Hood emerges in Gotham \u2014 a brutal vigilante who kills criminals and knows Batman's secrets. Batman #635-641. The definitive Jason Todd return story culminating in his unmasking in #638.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "war-games",
+        "title": "War Games",
+        "description": "A gang war engulfs Gotham. Stephanie Brown briefly becomes Robin before being captured and killed by Black Mask. Tim's tenure as Robin effectively ends here. Batman #631-633.",
         "publisherId": "dc"
     },
     {
@@ -78,159 +114,9 @@
         "publisherId": "dc"
     },
     {
-        "id": "batman-black-mirror",
-        "title": "The Black Mirror",
-        "description": "Scott Snyder's pre-New 52 Detective Comics run with Dick Grayson as Batman facing Commissioner Gordon's son James Jr. as a psychopath. Detective Comics #871-881 (2011).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "court-of-owls-arc",
-        "title": "The Court of Owls",
-        "description": "Scott Snyder and Greg Capullo's landmark New 52 debut \u2014 Batman discovers a centuries-old secret society controlling Gotham and their undead assassins the Talons. Batman (Vol 2) #1-11 (2011-2012).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "night-of-owls",
-        "title": "Night of the Owls",
-        "description": "The Court of Owls unleashes their Talons across Gotham in a coordinated strike against Batman and his allies. Batman (Vol 2) #8-9 crossover (2012).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "death-of-family",
-        "title": "Death of the Family",
-        "description": "The Joker returns with his face cut off, targeting every member of the Bat-family to prove they make Batman weak. Batman (Vol 2) #13-17 (2012-2013).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "zero-year",
-        "title": "Zero Year",
-        "description": "Snyder and Capullo's New 52 reimagining of Batman's origin \u2014 a 12-part epic that rewrites Bruce's early years and first encounters with the Riddler and Red Hood Gang. Batman (Vol 2) #21-33 (2013-2014).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "batman-endgame",
-        "title": "Endgame",
-        "description": "The Joker returns with a biological weapon claiming to be ancient and immortal. Batman and Joker apparently kill each other beneath Gotham. Batman (Vol 2) #35-40 (2014-2015).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "batman-superheavy",
-        "title": "Superheavy",
-        "description": "With Bruce Wayne amnesiac and happy, Jim Gordon dons a Batman suit to protect Gotham. A bold status quo change exploring what Batman means without Bruce Wayne. Batman (Vol 2) #41-50 (2015-2016).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "i-am-gotham",
-        "title": "I Am Gotham",
-        "description": "Tom King's debut arc introduces Gotham and Gotham Girl \u2014 two new heroes with Superman-level powers whose idealism clashes with Batman's darker methods. Batman (Vol 3) #1-6 (2016).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "i-am-suicide",
-        "title": "I Am Suicide",
-        "description": "Batman assembles a Suicide Squad-style team to infiltrate Santa Prisca and steal from Bane. King's spy-thriller approach to Batman mythology. Batman (Vol 3) #7-12 (2016-2017).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "i-am-bane",
-        "title": "I Am Bane",
-        "description": "Bane comes to Gotham to reclaim Psycho-Pirate, leading to one of the most brutal Batman vs. Bane fights in comics history. Batman (Vol 3) #13-17 (2017).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "war-jokes-riddles",
-        "title": "The War of Jokes and Riddles",
-        "description": "Set in Year Two of Batman's career, the Joker and Riddler go to war over the right to kill Batman, dragging all of Gotham into their conflict. Batman (Vol 3) #25-32 (2017).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "batman-wedding",
-        "title": "The Wedding",
-        "description": "Tom King's culmination of the Bruce/Selina romance \u2014 Batman proposes to Catwoman. The wedding issue (#50) becomes one of the era's most discussed comics. Batman (Vol 3) #33-50 (2018).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "city-of-bane",
-        "title": "City of Bane",
-        "description": "Bane takes over Gotham City, installing Thomas Wayne as Batman and breaking the Bat-family. Tom King's epic conclusion to his 85-issue run. Batman (Vol 3) #72-85 (2019-2020).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "joker-war",
-        "title": "The Joker War",
-        "description": "The Joker acquires Wayne Enterprises' resources and weaponizes Gotham against Batman. James Tynion IV's debut arc. Batman (Vol 3) #95-100 (2020).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "fear-state",
-        "title": "Fear State",
-        "description": "The Scarecrow orchestrates a citywide fear toxin attack as the anti-tech Magistrate program takes over Gotham. Batman (Vol 3) #105-110 (2021).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "batman-failsafe",
-        "title": "Failsafe",
-        "description": "Chip Zdarsky's debut arc \u2014 an unstoppable robot built by Batman himself to stop him if he ever kills targets the Dark Knight. Batman (Vol 3) #125-130 (2023).",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-faces-death",
-        "title": "Faces of Death",
-        "description": "Tony S. Daniel's New 52 Detective Comics debut \u2014 Batman hunts the Gotham Ripper while the Joker and Dollmaker lurk in the shadows. Det Comics Vol 2 #1-7.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-emperor-penguin",
-        "title": "Emperor Penguin",
-        "description": "John Layman's debut arc \u2014 the Penguin's lieutenant Ogilvy stages a coup and becomes Emperor Penguin while the real Penguin is imprisoned. Det Comics Vol 2 #13-18.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-icarus",
-        "title": "Icarus",
-        "description": "Batman investigates a deadly new drug called Icarus flooding Gotham's streets in John Layman's second major arc. Det Comics Vol 2 #20-24.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-rise-batmen",
-        "title": "Rise of the Batmen",
-        "description": "James Tynion IV's Rebirth debut \u2014 Batman and Batwoman assemble a team of Gotham vigilantes to fight the Colony, a paramilitary group using Batman's technology. Det Comics #934-940.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-victim-syndicate",
-        "title": "The Victim Syndicate",
-        "description": "A group of people scarred by Batman's war on crime blame the Dark Knight for their suffering and target his allies. Det Comics #943-947.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-league-shadows",
-        "title": "League of Shadows",
-        "description": "Ra's al Ghul's splinter faction the League of Shadows targets Gotham for destruction, forcing Batman and Batwoman to confront their differences. Det Comics #950-956.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-lonely-living",
-        "title": "A Lonely Place of Living",
-        "description": "Tim Drake is rescued from a time trap by a future version of himself gone wrong \u2014 a pivotal story for the Red Robin character. Det Comics #963-968.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-fall-batmen",
-        "title": "Fall of the Batmen",
-        "description": "The Belfry team fractures as secrets surface \u2014 Clayface's loyalty is tested and the team faces its most personal crisis yet. Det Comics #970-975.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-batmen-eternal2",
-        "title": "Batmen Eternal",
-        "description": "Tynion's finale \u2014 the Gotham Knights face dissolution as Batman questions the entire experiment of training young heroes. Det Comics #976-981.",
-        "publisherId": "dc"
-    },
-    {
-        "id": "det-deface-face",
-        "title": "Deface the Face",
-        "description": "Peter Tomasi's debut arc on Detective Comics \u2014 Batman investigates a series of murders targeting Gotham's disfigured villains. Det Comics #994-999.",
+        "id": "batman-rip",
+        "title": "Batman R.I.P.",
+        "description": "Grant Morrison's culmination of his Batman run \u2014 Dr. Hurt and the Black Glove attempt to destroy Batman psychologically and physically. Batman #676-681 (2008).",
         "publisherId": "dc"
     },
     {
@@ -270,9 +156,159 @@
         "publisherId": "dc"
     },
     {
-        "id": "the-killing-joke",
-        "title": "The Killing Joke",
-        "description": "Alan Moore and Brian Bolland's landmark one-shot — the Joker shoots Barbara Gordon through the spine, paralyzing her, then abducts and tortures Commissioner Gordon to prove that one bad day can drive anyone insane. Barbara's paralysis becomes the catalyst for her reinvention as Oracle.",
+        "id": "batman-black-mirror",
+        "title": "The Black Mirror",
+        "description": "Scott Snyder's pre-New 52 Detective Comics run with Dick Grayson as Batman facing Commissioner Gordon's son James Jr. as a psychopath. Detective Comics #871-881 (2011).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-faces-death",
+        "title": "Faces of Death",
+        "description": "Tony S. Daniel's New 52 Detective Comics debut \u2014 Batman hunts the Gotham Ripper while the Joker and Dollmaker lurk in the shadows. Det Comics Vol 2 #1-7.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "court-of-owls-arc",
+        "title": "The Court of Owls",
+        "description": "Scott Snyder and Greg Capullo's landmark New 52 debut \u2014 Batman discovers a centuries-old secret society controlling Gotham and their undead assassins the Talons. Batman (Vol 2) #1-11 (2011-2012).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "night-of-owls",
+        "title": "Night of the Owls",
+        "description": "The Court of Owls unleashes their Talons across Gotham in a coordinated strike against Batman and his allies. Batman (Vol 2) #8-9 crossover (2012).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-emperor-penguin",
+        "title": "Emperor Penguin",
+        "description": "John Layman's debut arc \u2014 the Penguin's lieutenant Ogilvy stages a coup and becomes Emperor Penguin while the real Penguin is imprisoned. Det Comics Vol 2 #13-18.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "death-of-family",
+        "title": "Death of the Family",
+        "description": "The Joker returns with his face cut off, targeting every member of the Bat-family to prove they make Batman weak. Batman (Vol 2) #13-17 (2012-2013).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-icarus",
+        "title": "Icarus",
+        "description": "Batman investigates a deadly new drug called Icarus flooding Gotham's streets in John Layman's second major arc. Det Comics Vol 2 #20-24.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "zero-year",
+        "title": "Zero Year",
+        "description": "Snyder and Capullo's New 52 reimagining of Batman's origin \u2014 a 12-part epic that rewrites Bruce's early years and first encounters with the Riddler and Red Hood Gang. Batman (Vol 2) #21-33 (2013-2014).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-endgame",
+        "title": "Endgame",
+        "description": "The Joker returns with a biological weapon claiming to be ancient and immortal. Batman and Joker apparently kill each other beneath Gotham. Batman (Vol 2) #35-40 (2014-2015).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-superheavy",
+        "title": "Superheavy",
+        "description": "With Bruce Wayne amnesiac and happy, Jim Gordon dons a Batman suit to protect Gotham. A bold status quo change exploring what Batman means without Bruce Wayne. Batman (Vol 2) #41-50 (2015-2016).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-rise-batmen",
+        "title": "Rise of the Batmen",
+        "description": "James Tynion IV's Rebirth debut \u2014 Batman and Batwoman assemble a team of Gotham vigilantes to fight the Colony, a paramilitary group using Batman's technology. Det Comics #934-940.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "i-am-gotham",
+        "title": "I Am Gotham",
+        "description": "Tom King's debut arc introduces Gotham and Gotham Girl \u2014 two new heroes with Superman-level powers whose idealism clashes with Batman's darker methods. Batman (Vol 3) #1-6 (2016).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "i-am-suicide",
+        "title": "I Am Suicide",
+        "description": "Batman assembles a Suicide Squad-style team to infiltrate Santa Prisca and steal from Bane. King's spy-thriller approach to Batman mythology. Batman (Vol 3) #7-12 (2016-2017).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "i-am-bane",
+        "title": "I Am Bane",
+        "description": "Bane comes to Gotham to reclaim Psycho-Pirate, leading to one of the most brutal Batman vs. Bane fights in comics history. Batman (Vol 3) #13-17 (2017).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "war-jokes-riddles",
+        "title": "The War of Jokes and Riddles",
+        "description": "Set in Year Two of Batman's career, the Joker and Riddler go to war over the right to kill Batman, dragging all of Gotham into their conflict. Batman (Vol 3) #25-32 (2017).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-victim-syndicate",
+        "title": "The Victim Syndicate",
+        "description": "A group of people scarred by Batman's war on crime blame the Dark Knight for their suffering and target his allies. Det Comics #943-947.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-league-shadows",
+        "title": "League of Shadows",
+        "description": "Ra's al Ghul's splinter faction the League of Shadows targets Gotham for destruction, forcing Batman and Batwoman to confront their differences. Det Comics #950-956.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-lonely-living",
+        "title": "A Lonely Place of Living",
+        "description": "Tim Drake is rescued from a time trap by a future version of himself gone wrong \u2014 a pivotal story for the Red Robin character. Det Comics #963-968.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-wedding",
+        "title": "The Wedding",
+        "description": "Tom King's culmination of the Bruce/Selina romance \u2014 Batman proposes to Catwoman. The wedding issue (#50) becomes one of the era's most discussed comics. Batman (Vol 3) #33-50 (2018).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-fall-batmen",
+        "title": "Fall of the Batmen",
+        "description": "The Belfry team fractures as secrets surface \u2014 Clayface's loyalty is tested and the team faces its most personal crisis yet. Det Comics #970-975.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-batmen-eternal2",
+        "title": "Batmen Eternal",
+        "description": "Tynion's finale \u2014 the Gotham Knights face dissolution as Batman questions the entire experiment of training young heroes. Det Comics #976-981.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "city-of-bane",
+        "title": "City of Bane",
+        "description": "Bane takes over Gotham City, installing Thomas Wayne as Batman and breaking the Bat-family. Tom King's epic conclusion to his 85-issue run. Batman (Vol 3) #72-85 (2019-2020).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "joker-war",
+        "title": "The Joker War",
+        "description": "The Joker acquires Wayne Enterprises' resources and weaponizes Gotham against Batman. James Tynion IV's debut arc. Batman (Vol 3) #95-100 (2020).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "fear-state",
+        "title": "Fear State",
+        "description": "The Scarecrow orchestrates a citywide fear toxin attack as the anti-tech Magistrate program takes over Gotham. Batman (Vol 3) #105-110 (2021).",
+        "publisherId": "dc"
+    },
+    {
+        "id": "det-deface-face",
+        "title": "Deface the Face",
+        "description": "Peter Tomasi's debut arc on Detective Comics \u2014 Batman investigates a series of murders targeting Gotham's disfigured villains. Det Comics #994-999.",
+        "publisherId": "dc"
+    },
+    {
+        "id": "batman-failsafe",
+        "title": "Failsafe",
+        "description": "Chip Zdarsky's debut arc \u2014 an unstoppable robot built by Batman himself to stop him if he ever kills targets the Dark Knight. Batman (Vol 3) #125-130 (2023).",
         "publisherId": "dc"
     }
 ]

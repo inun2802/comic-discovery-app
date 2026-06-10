@@ -610,5 +610,17 @@
         "name": "Alan Grant",
         "nationality": "Scottish",
         "birthYear": 1949
+    },
+    {
+        "id": "judd-winick",
+        "name": "Judd Winick",
+        "nationality": "American",
+        "birthYear": 1970
+    },
+    {
+        "id": "jim-starlin",
+        "name": "Jim Starlin",
+        "nationality": "American",
+        "birthYear": 1949
     }
 ]
