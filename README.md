@@ -9,6 +9,7 @@ The first version of this project includes:
 - Provide curated "jumping-off points" for characters
 - Show different depictions/iterations of a character by era (ie. writer/penciler/inker)
 - Present connected story arcs and crossovers when possible
+- Provide an overall streamlined easy guide to reading characters
 - Highlight alternate universes (Ultimate, Absolute, What If, Elseworlds)
 
 # Planned Tech Stack 
